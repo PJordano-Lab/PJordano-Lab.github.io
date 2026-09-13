@@ -1,101 +1,182 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
-# Getting Started
+## Assets: what is local, what is still remote
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Edit site-wide configuration in `_config.yml` and double check that the `url` is the one that you just selected in the previous step and that `repository` reflects the correct path for your repository.
-1. Add your site content, upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+Final state after mirroring (verified against the rendered `public/` on every build):
 
-See more info at https://academicpages.github.io/
+| | count |
+|---|---|
+| PDF/supplement files in `static/pdfs/` | 189 |
+| Image files in `static/images/` | 697 |
+| PDF links in rendered HTML | 187 — all resolve to a local file |
+| Image references in rendered HTML | 469 — all resolve to a local file |
 
-### Additional Tutorials
+### How the PDFs were obtained
 
-Additional tutorials for working with the Academic Pages template can be found at the following sites:
-- https://jayrobwilliams.com/posts/2020/06/academic-website/
+1. **48** downloaded from `pjordanolab.ebd.csic.es` (live).
+2. **~140** could **not** be downloaded: `ebd10.ebd.csic.es` returns `502 Bad Gateway`
+   for every request, including its own root, over both http and https — the legacy host
+   is unreachable, it is not rejecting the crawler.
+3. Those were recovered from the local archive `/Users/pedro/Documents/Sites/ebd10_new/pdfs`
+   (275 PDFs, read-only grant): matched by exact filename, then by a normalisation that folds
+   case, unicode hyphen variants and punctuation, then by conservative close-match.
+4. The old server's abbreviated names (`HJGT98_AmNat.pdf`, `JordSchu_2000EcolMonogr.pdf`,
+   `Conservacao_06.pdf`, …) were resolved by token search on surname + year and **each candidate
+   was checked against that entry's own verbatim citation before acceptance** — resemblance of
+   filename alone was not accepted. Candidates sharing a surname and year but belonging to a
+   different paper or journal were rejected.
+5. Filenames are whitespace-normalised (`_` for spaces) on copy. One link was case-corrected
+   (`Prunus_Lab_Protocols` → `Prunus_Lab_protocols`) so it survives a case-sensitive web server.
 
-## Running locally
+### Links deliberately left pointing at the old host (21)
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+All on `ebd10.ebd.csic.es`, which is down, and **none of these files are in the local archive** —
+press cuttings, two radio recordings, and old HTML abstract/course pages. They were not rewritten,
+because pointing them at local files that do not exist would be worse than an honest external link.
+If you find these files, drop them in `static/pdfs/` and rewrite the links.
 
-1. Clone the repository and made updates as detailed above.
+- `http://ebd10.ebd.csic.es/ebd10/Media_files/RNM.pdf`
+- `http://ebd10.ebd.csic.es/ebd10/Media_files/http-%3A%3Awww.andaluciainvestiga.com%3Aespanol%3Anoticias%3A2%3A8890.asp.pdf`
+- `http://ebd10.ebd.csic.es/evol/cursobioevo.html`
+- `http://ebd10.ebd.csic.es/evol/tecmol.html`
+- `http://ebd10.ebd.csic.es/media_press/20abril06arquitectura_biodiversidad.pdf`
+- `http://ebd10.ebd.csic.es/media_press/CSIC_PNAS_Modul.pdf`
+- `http://ebd10.ebd.csic.es/media_press/EBD_Expo_IEG_Poster_screen.pdf`
+- `http://ebd10.ebd.csic.es/media_press/EBD_Expo_Semillas_screen.pdf`
+- `http://ebd10.ebd.csic.es/media_press/Eds_Choice_Science_2011_1201.pdf`
+- `http://ebd10.ebd.csic.es/media_press/Frugivoros_y_semillas_Imagenes_FECYT2004.pdf`
+- `http://ebd10.ebd.csic.es/media_press/PUBLICO-07.pdf`
+- `http://ebd10.ebd.csic.es/media_press/Pannell_2007_CurrBiol.pdf`
+- `http://ebd10.ebd.csic.es/media_press/Pedro@Fund_juan_March_04May2006.mp3`
+- `http://ebd10.ebd.csic.es/media_press/REE_Pedro%20Jordano_Dispersion%20de%20semillas.mp3`
+- `http://ebd10.ebd.csic.es/media_press/RedLife132.pdf`
+- `http://ebd10.ebd.csic.es/media_press/S1a_PT.jpg`
+- `http://ebd10.ebd.csic.es/media_press/Science-Magazine.pdf`
+- `http://ebd10.ebd.csic.es/mywork/abstr/bascompte_etal_2006_Science.html`
+- `http://ebd10.ebd.csic.es/mywork/abstr/diff_contrib_abs.html`
+- `http://ebd10.ebd.csic.es/sci/seminarios.html`
+- `http://ieg.ebd.csic.es/KimberlyHolbrook/Holbrook.htm`
 
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distributions and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try running `sudo apt install ruby-dev ruby-bundler nodejs` again.
+### Not imported from the old site
 
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+`/markdown/` (CV) and `/outreach/` exist in the local archive but were never part of the
+imported page set. `ieg.ebd.csic.es/KimberlyHolbrook/Holbrook.htm` is a third-party page and
+is correctly left external.
 
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
+### Three PDF links removed
 
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stopping and restarting Jekyll.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
+`Garcia_etal_2009_MolEcol_Reply_Prunus`, `JEcolGeogr2000` and
+`Mello_etal_2011_Oecologia_BatBird_networks_modularity` are absent from both the live host and
+the archive. Their dead PDF icons were removed; the citations themselves are untouched.
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+### Other fixes in this pass
 
-## Using Docker
+- Old-site typo `https://http://…` normalised.
+- Gallery lightbox anchors (`…/pageN-…-full.html`) unwrapped: images keep their picture but no
+  longer link to the dead server. Gallery pagination paths collapse onto `/gallery/`.
+- Absolute links to the old domain converted to site-relative paths.
+- Favicon taken from the old site archive; all five PaperMod icon params point at it.
+- `.Language.LanguageCode` / `.Language.LanguageDirection` replaced with `.Locale` / `.Direction`
+  in the vendored theme templates — the build is now warning-free on Hugo 0.166.0.
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
+## Image paths: editor preview vs. built site
 
-You can build and execute the container by running the following command in the repository:
+**Symptom.** In VSCode's markdown preview, `![…](/images/foo.png)` showed a broken-image icon.
 
-```bash
-chmod -R 777 .
-docker compose up
-```
+**Cause, not a site bug.** Hugo serves `static/` at the site root, so `/images/foo.png` is the
+correct URL in the built site. VSCode's preview instead resolves a leading `/` against the
+workspace folder, where no `images/` directory exists. A root-level symlink was tried and
+rejected: it only works when the workspace root happens to be this exact folder.
 
-You should now be able to access the website from `localhost:4000`.
+**Fix.** Image paths in `content/**/*.md` are now **relative to the markdown file**:
 
-### Using the DevContainer in VS Code
+    ![Stacks Image 2322](../static/images/projects__files__stacks-image-15421d5.png)
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+and `layouts/_default/_markup/render-image.html` rewrites them at build time back to
+`/images/<file>`. `../` for `content/*.md`, `../../` for `content/papers/*.md`.
 
-# Maintenance
+The hook passes site-absolute `/images/…` destinations through unchanged, so **both styles work** —
+new content can use either. It applies the same rewrite to `static/pdfs/` destinations.
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+Verified on the last build: 469 image sources in the rendered HTML, all resolving to a file in
+`static/images/`, no relative path leaking into the output; and all 186 content files' relative
+paths resolve on disk as the editor reads them.
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii), and additional maintainers would be welcome.
+**Front matter is unaffected** — `cover.image` values stay site-absolute (`/images/…`), because
+those are consumed by templates, not by the markdown renderer.
 
-## Bugfixes and enhancements
+## Centering (and floating) images from markdown
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of the template to your fork as well.
+Add an alignment fragment to the image URL:
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize, although [rebasing](https://git-scm.com/docs/git-rebase) the changes from this template will work along with manually [cherry picking](https://git-scm.com/docs/git-cherry-pick) the relevant commits. If you are not comfortable with the Git command line, you can save your various `.yml` configuration files and Markdown files, delete the repository, and fork it again. 
+    ![Stacks Image 2322](../static/images/projects__files__stacks-image-15421d5.png#center)
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+Supported fragments: `#center` (block, horizontally centred, own line), `#left` and `#right`
+(floated, text wraps, capped at 45% width and dropping to full-width block under 600px).
+No fragment = unchanged inline behaviour.
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+`layouts/_default/_markup/render-image.html` consumes the fragment and emits a class —
+`<img src="/images/…" alt="…" class="img-center" loading="lazy">` — so the fragment never
+reaches the `src`. Styles: `assets/css/extended/img-align.css`, which PaperMod concatenates
+after its own CSS (`resources.Match "css/extended/*.css"` in `head.html`).
+
+Note on why a class rather than the theme's convention: upstream PaperMod styles
+`.post-content img[src*="#center"]`, which relies on keeping `#center` inside the `src`.
+This site uses the example site's copy of `assets/css/common/post-single.css`, which shadows the
+theme file and does **not** carry that rule, so the fragment alone would have no effect here.
+The site's own image rule sets only `border-radius`, so there is no conflict with `img-align.css`.
+
+To center **every** image instead, add `.post-content img { display: block; margin: 1.2em auto; }`
+to `img-align.css` and drop the fragments.
+
+## Centering every image in a page
+
+Add one line to the page's front matter:
+
+    ---
+    title: "Projects"
+    centerImages: true
+    ---
+
+Every image in that page's body is then centered, with no per-image `#center` fragment
+(`projects.md` uses this). Set `params.centerImages: true` in `hugo.yml` to apply it site-wide.
+
+Implementation: `layouts/partials/extend_head.html` emits a scoped `<style>` when the page or
+site sets the flag. Two details worth knowing if you touch it:
+
+- The rule is scoped to `.post-content`, so it cannot affect the profile portrait, paper-card
+  thumbnails, social icons or the logo.
+- `#left` / `#right` floats still win inside a centered page, so a deliberately floated image
+  keeps its float.
+- This site's `layouts/partials/head.html` shadows the theme's, so PaperMod's own
+  `extend_head.html` call never ran. It is re-established at the end of the site partial —
+  that hook is now available for any future per-page head additions.
+
+## Global type scale
+
+Reading text is a bit smaller site-wide. All pages, one place to tune:
+`assets/css/extended/typography.css`.
+
+| variable | was | now | drives |
+|---|---|---|---|
+| `--content-size` | 1.125rem (18px) | 1rem (16px) | body text (`.post-content`) |
+| `--meta-size` | 1.0625rem (17px) | 0.95rem | dates, meta lines, term lists |
+| `--entry-size` | 1rem | 0.95rem | paper-card titles/summaries, profile blurb |
+| `--line-height` | 1.5 | 1.55 | opened slightly to offset the smaller type |
+
+Phones (≤768px) step down proportionally to 0.95/0.9/0.9rem. This is necessary, not decorative:
+`assets/css/core/zmedia.css` re-declares the same variables inside its own 768px breakpoint, and
+without a matching override there the phone value (1rem) would sit above the new desktop value.
+
+**Why variables rather than per-element rules.** The example site routes every text size through
+these four variables (declared in `assets/css/core/theme-vars.css`), so `.post-content` and the
+card templates need no edits — and `extended/*.css` is concatenated *after* the core files, so the
+override wins without `!important`. Verified on the compiled stylesheet: the new top-level
+declaration follows both the core value and `zmedia.css`'s breakpoint block, and the phone
+override is last.
+
+Headings, the post title and nav are deliberately untouched, so the type hierarchy is now a
+little more pronounced. To shrink those too, reduce the `rem` values in
+`assets/css/common/post-single.css` (`.post-title`, `.post-content h1…h6`) — or, to scale
+*everything* including spacing, set `html { font-size: 93.75%; }` (15px) in `typography.css`
+and revert the variables.
