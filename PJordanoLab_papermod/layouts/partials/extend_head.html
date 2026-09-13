@@ -1,0 +1,26 @@
+{{- /* Per-page head additions.
+
+   centerImages: true  in a page's front matter centers every image in that
+   page's body — no per-image #center fragment needed. Set it site-wide with
+   params.centerImages in hugo.yml instead.
+
+   The rule is scoped to .post-content so it cannot touch the profile portrait,
+   card thumbnails, social icons or the logo.                            */ -}}
+{{- if or .Params.centerImages .Site.Params.centerImages -}}
+<style>
+    .post-content img {
+        display: block;
+        margin: 1.2em auto;
+        max-width: 100%;
+        height: auto;
+    }
+    /* Images the author floated deliberately keep their float. */
+    .post-content img.img-left,
+    .post-content img.img-right {
+        display: inline;
+        margin: 0.3em 0 0.8em;
+    }
+    .post-content img.img-left  { float: left;  margin-right: 1.2em; }
+    .post-content img.img-right { float: right; margin-left: 1.2em; }
+</style>
+{{- end -}}

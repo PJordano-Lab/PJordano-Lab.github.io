@@ -104,4 +104,9 @@
 {{- /* Allow mathematical typesetting */ -}}
 {{ if or .Page.Params.math .Site.Params.math }}
 {{- partial "math.html" .}}
-{{ end }} 
+{{ end }}
+
+{{- /* Per-page head additions. This site's head.html shadows the theme's, so the
+       theme's own extend_head.html call (themes/PaperMod/layouts/partials/head.html)
+       never runs — it is re-established here. */ -}}
+{{- partial "extend_head.html" . -}}
