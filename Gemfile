@@ -1,18 +1,19 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+
+gem "jekyll", "4.3.4"
+gem "webrick"
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
 
 group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-  gem "csv"
-  gem "logger"
-  gem "base64"
-  gem "bigdecimal"
-  gem "webrick"
+  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-gist"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-redirect-from"
+  gem "jemoji"
 end
 
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+gem "faraday-retry"
