@@ -3,7 +3,7 @@ title: "Media"
 author: Pedro Jordano
 description: "Press coverage, outreach and media about the lab's research."
 hideMeta: true
-centerImages: true
+centerImages: false
 ---
 
 

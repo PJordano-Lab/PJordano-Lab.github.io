@@ -33,10 +33,11 @@ params:
         hiddenInSingle: true
     profileMode:
         enabled: true
-        title: "Jordano Lab"
-        subtitle: "Our research focuses on biological diversity from both ecological and evolutionary perspectives. We study how ecological interactions &mdash; mutualisms such as those between plants and their seed dispersers and pollinators &mdash; shape complex ecological systems and act as the wireframe of biodiversity. Our tools combine field ecology, molecular genetics, and theoretical ecology. <br><br> Estacion Biologica de Donana, CSIC, Sevilla, Spain."
-        imageUrl: "/images/index_files__stacks-image-c75def1.jpg"
-        imageTitle: "Jordano Lab"
+        title: "Pedro Jordano Lab"
+        subtitle: "Our research focuses on biological diversity from both ecological and evolutionary perspectives. We study how ecological interactions &mdash; mutualisms such as those between plants and their seed dispersers and pollinators &mdash; shape complex ecological systems and act as the wireframe of biodiversity. Our tools combine field ecology, molecular genetics, and theoretical ecology."
+      # imageUrl: "/images/index_files__stacks-image-c75def1.jpg"
+        imageUrl: "/images/banners/banner1.jpg"
+        imageTitle: "PJordano Lab"
         buttons:
             - name: Papers
               url: papers

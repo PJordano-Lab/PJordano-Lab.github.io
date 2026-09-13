@@ -16,6 +16,8 @@ A major goal is the study of mutualistic networks between plants and their polli
 
 A second goal of our research line deals with the networks of connectivity and gene flow in fragmented landscapes. We employ molecular genetics techniques and network theory applied to metapopulations of several study species in Mediterranean, Macaronesian, and tropical areas. This approach allows us to quantify the role of pollinators and seed dispersers in the long-distance dispersal events and their effects on the genetic structure of plant populations. This gets us closer to understanding how global environmental change would affect plant communities in terms of dispersal and adaptation.
 
+---------------------
+
 ### Molecular ecology of seed and pollen dissemination by animals
 
 ![Stacks Image 2322](../static/images/projects__files__stacks-image-15421d5.png)
@@ -40,6 +42,9 @@ Together with Arndt Hampe and Rémy Petit we are investigating how seed dispersa
 
 New projects directed by Alfredo Valido investigate the consequences of dispersal processes- especially seed dispersal- for endemic Canary Island plant species. In the Canary Islands, many fleshy-fruited plants depend on lizards for their successful dispersal and recruitment. We are now working in a project directed by Alfredo Valido to analyze the movement ecology of Canarian endemic *Gallotia* lizards and its consequences for plant dispersal and recruitment. We study the reproductive ecology of orijama plants *Neochamaelea pulverulenta*, an endemic Rutaceae in the islands, whose seeds are exclusively dispersed by the lizards. We combine studies of fine- and medium-scale genetic structure with data and models of foraging movements of the lizards, monitoring with radio-tracking methods. So far the results are superb, and we now have detailed data on movement patterns of *Gallotia galloti* in Teno Bajo (Tenerife)- our main study site- and *G. stehlini* (in the photo) in Barranco de Veneguera (Gran Canaria). We have also seeds samples from two 1.2 ha plots in the two sites as well as leaf samples from >2000 plants to assess seed dispersal patterns with genetic methods, similar to those that we’ve been using with *Prunus mahaleb* and *Frangula alnus*. We are interested in assessing the potential effects of previous extinctions of other giant lizard species (e.g., *G. goliath*) that were very good dispersers of orijama. These were up to 1.3 m long and able to disperse even the largest fruits and seeds of orijama, which now remain undispersed on the plants; only the smaller fruits and seeds remain dispersed by the extant smaller lizards.
 
+---------------------
+
+
 ### Fruit consumption and seed dispersal by animals
 
 ![Stacks Image 2324](../static/images/projects__files__stacks-image-e771418.png)
@@ -49,6 +54,8 @@ This is Pedro's primary research line, started in 1979, which, over the time, ha
 Pedro's research has focused on both studies at the community level (starting with his PhD) and specific analyses of particular species. Among the plants his favorite species have been *Rubus ulmifolius*, *Pistacia* *lentiscus*, *Olea europaea*, and *Prunus mahaleb*. Among the frugivores, he focused on the Sylvia warblers and thrushes, *Turdus* species.   
 
 Since 2000 we’ve been collaborating closely with Mauro Galetti’s group in Rio Claro, Brazil. This research is funded by CSIC and CNPq and it covers an exchange plan between our labs. We are interested in all aspects of frugivory and seed dispersal. Since 2000 we are organizing the Latin American Frugivory and Seed Dispersal Field Course in Parque Estadual Ilha de Cardoso.
+
+---------------------
 
 ### Complex networks of plant-animal interactions
 
@@ -68,6 +75,8 @@ Our most recent project deals with the analysis of multiple interaction types th
 
 A recent project deals with the analysis of individual-based interaction networks. We aim to understand how different individuals within populations "organize" the diversity of ecological interactions with mutualists and antagonists, resulting in variable fitness effects. One major consequence of modern climate change is that many plant and animal species world-wide are displacing their geographic ranges in response to shifts of the climate to which they are adapted. However, we lack robust empirical data on how gene flow patterns are altered by drivers of global change and constrain evolutionary responses to them. We compare the diversified interaction patterns of juniper trees in Doñana, in areas of mature stands and areas of advance front during recent expansion due to habitat changes. We approach this with novel techniques for the analysis of multilayer networks, exploring at the individual tree level and with both mutualists (seed dispersers) and antagonists (pulp consumers, seed predators, herbivores) animal partners.
 
+---------------------
+
 ###  Seed dispersal by extinct megafauna
 ![Stacks Image 2364](../static/images/projects__files__stacks-image-30f8cca.jpg)
 
@@ -78,6 +87,8 @@ Suppose that a particular difference in, say, fruit diameter or pulp lipid conte
 
 Our previous work on this topic has concentrated on analyses for the whole Angiosperm clade. Recently we are collaborating with Mauro Galetti and Marco Pizo, involving comparative analyses restricted to the tropical families Palmae and Myrtaceae. Together with Paulo R. Guimarães Jr., Mauro and Mathias Pires we are also analyzing the comparative ecology of the so-called [anachronic seed dispersal systems](/gallery/ "Megafauna fruits"), i.e., plant species with extremely large fruits supposedly dispersed by an extinct megafauna and having present-day interactions with surrogate frugivorous animals. The dataset, and additional information, for this study is available [here](/datasets/ "Datasets").
 
+---------------------
+
 ### The evolution of fruit traits
 
 ![Stacks Image 2339](../static/images/projects__files__stacks-image-e5ed7a5.png)
@@ -85,6 +96,8 @@ Our previous work on this topic has concentrated on analyses for the whole Angio
 Fruits are complex structures with a high integration of characteristics: morphology, nutrient content of the pulp, and fruit color influence how frugivorous animals detect, handle, ingest, and digest the fruits. This has immediate consequences for the plants in terms of fitness variation and has deep influences in fruit traits evolution. Together with Alfredo Valido and [H. Martin Schaefer](http://www.biologie.uni-freiburg.de/data/bio1/schaefer/index.html) we are investigating how fruit traits covary and define fruit displays: i.e., sets of correlated fruit traits that mediate in the interaction with mutualistic frugivores. We have a bilateral agreement between [CSIC](http://www.csic.es/) and the [Deutscher Academischer Austausch Dienst](http://www.daad.de/en/index.html) that funds this collaboration.  
 
 In addition, we collaborate with Mauro Galetti’s [Laboratório de Biologia da Conservação](http://www.rc.unesp.br/ib/ecologia/fenologia/index.html) in Brazil to study fruit characteristics of Mata Atlantica and Pantanal fruit species. This research is funded by [CSIC](http://www.csic.es/) and [CNPq](http://www.cnpq.br/) and it covers an exchange plan between our labs. The collaboration betwee our labs has also benefited from [CYTED](http://www.cyted.org/) funding.
+
+---------------------
 
 ### Ecological and demographic consequences of seed dispersal by frugivorous animals
 
@@ -95,6 +108,8 @@ The activity of frugivorous animals that disperse seeds has delayed consequences
 The figure illustrates an structural equation model fitted to the sequential probabilities of recruitment of *Phillyrea latifolia* in Mediterranean montane scrubland, SE Spain. The path model depicts the multiple and delayed influences, both direct and indirect, of frugivore-mediated seed-rain on later stages of recruitment.  
 
 Together with Arndt Hampe, Paco Rodríguez, Juan-Luis García Castaño and Eugene W. Schupp, we are using this explicitly demographic approach to understand the multiple influences of frugivore activity on plant demography.
+
+---------------------
 
 ### Spatial patterns and plant-animal interactions       
 
@@ -109,6 +124,8 @@ With Miguel Jácome we are starting to explore further this complexity by studyi
 ![Stacks Image 2366](../static/images/projects__files__stacks-image-6c15a50.png)     
 
 Spatial patterns in dispersed seeds and established seedlings are direct outcomes of frugivore activity and the concatenated series of demographic stages after dispersal. In collaboration with Cris García, We’ve been exploring the spatial consequences of seed dispersal by animals in *Prunus mahaleb*. High aggregation of the seed shadows occurs both in terms of the number of seeds dispersed and the genetic composition and structure of the seed rain. Together with Arndt Hampe, Eugene W. Schupp and Juan Luis García Castaño we have been addressing the patterns of spatial and temporal variation in the seed rain and seedling recruitment.
+
+---------------------
 
 ### Pollination biology     
 
