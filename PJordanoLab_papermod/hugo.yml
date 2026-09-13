@@ -1,6 +1,6 @@
 baseURL: "http://pjordanolab.ebd.csic.es/"
 locale: en-us
-title: "Jordano Lab"
+title: "Pedro Jordano Lab"
 theme: "PaperMod"
 enableGitInfo: false
 enableRobotsTXT: true
