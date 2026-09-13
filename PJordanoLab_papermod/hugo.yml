@@ -1,0 +1,111 @@
+baseURL: "http://pjordanolab.ebd.csic.es/"
+locale: en-us
+title: "Jordano Lab"
+theme: "PaperMod"
+enableGitInfo: false
+enableRobotsTXT: true
+pagination:
+    pagerSize: 200
+taxonomies: {}
+disableKinds: ["taxonomy", "term", "rss"]
+
+params:
+    author: "Pedro Jordano"
+    description: "Jordano Lab, Estacion Biologica de Donana (CSIC): ecology and evolution of plant-animal interactions, frugivory, seed dispersal, and mutualistic networks."
+    DateFormat: "2006"
+    assets:
+        favicon: "/favicon.ico"
+        favicon16x16: "/favicon.ico"
+        favicon32x32: "/favicon.ico"
+        apple_touch_icon: "/favicon.ico"
+        safari_pinned_tab: "/favicon.ico"
+    mainSections: ["papers"]
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowReadingTime: false
+    ShowShareButtons: false
+    ShowCodeCopyButtons: false
+    ShowToc: false
+    disableSpecial1stPost: true
+    hideFooter: false
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    profileMode:
+        enabled: true
+        title: "Jordano Lab"
+        subtitle: "Our research focuses on biological diversity from both ecological and evolutionary perspectives. We study how ecological interactions &mdash; mutualisms such as those between plants and their seed dispersers and pollinators &mdash; shape complex ecological systems and act as the wireframe of biodiversity. Our tools combine field ecology, molecular genetics, and theoretical ecology. <br><br> Estacion Biologica de Donana, CSIC, Sevilla, Spain."
+        imageUrl: "/images/index_files__stacks-image-c75def1.jpg"
+        imageTitle: "Jordano Lab"
+        buttons:
+            - name: Papers
+              url: papers
+            - name: People
+              url: people
+            - name: Projects
+              url: projects
+            - name: Datasets
+              url: datasets
+            - name: Resources
+              url: resources
+            - name: Teaching
+              url: teaching
+            - name: Gallery
+              url: gallery
+            - name: Media
+              url: media
+            - name: Pedro Jordano
+              url: pedro
+    socialIcons:
+        - name: "google scholar"
+          url: "https://scholar.google.es/citations?user=TrKYqaEAAAAJ&hl=en"
+        - name: "github"
+          url: "https://github.com/PJordano-Lab"
+        - name: "twitter"
+          url: "https://twitter.com/pedro_jordano"
+
+menu:
+    main:
+        - identifier: papers
+          name: Papers
+          url: /papers/
+          weight: 10
+        - identifier: people
+          name: People
+          url: /people/
+          weight: 20
+        - identifier: projects
+          name: Projects
+          url: /projects/
+          weight: 30
+        - identifier: datasets
+          name: Datasets
+          url: /datasets/
+          weight: 40
+        - identifier: resources
+          name: Resources
+          url: /resources/
+          weight: 50
+        - identifier: teaching
+          name: Teaching
+          url: /teaching/
+          weight: 60
+        - identifier: gallery
+          name: Gallery
+          url: /gallery/
+          weight: 70
+        - identifier: media
+          name: Media
+          url: /media/
+          weight: 80
+        - identifier: pedro
+          name: Pedro
+          url: /pedro/
+          weight: 90
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        noClasses: false

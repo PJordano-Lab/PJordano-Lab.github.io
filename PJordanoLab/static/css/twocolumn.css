@@ -1,0 +1,47 @@
+/* Two-column layout for the imported catalogue pages
+   (papers, papers-copy, projects, resources, datasets).
+   Left column: photos and figures. Right column: text, at a smaller size. */
+
+/* The theme constrains <main> to var(--w) = 744px, too narrow for two columns. */
+.tc-page { --w: 1120px; }
+html:has(.tc-page) { --w: 1120px; }
+
+.tc-row {
+  display: grid;
+  grid-template-columns: minmax(0, 34%) minmax(0, 1fr);
+  gap: 1.25rem 1.75rem;
+  align-items: start;
+  margin: 0 0 2rem 0;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgb(0 0 0 / 7%);
+}
+.dark .tc-row, html.dark .tc-row { border-bottom-color: rgb(255 255 255 / 10%); }
+
+/* Left column — figures, stacked */
+.tc-figs { display: flex; flex-direction: column; gap: 0.75rem; }
+.tc-figs p { margin: 0 !important; }
+.tc-figs img {
+  margin: 0 !important;
+  max-width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
+
+/* Right column — text, smaller than the theme's body size */
+.tc-txt { font-size: 0.8125rem; line-height: 1.55; }
+.tc-txt p, .tc-txt li { font-size: inherit; line-height: inherit; margin: 0 0 0.6rem 0 !important; }
+.tc-txt p:last-child { margin-bottom: 0 !important; }
+.tc-txt h2, .tc-txt h3 { font-size: 0.95rem; margin: 0 0 0.4rem 0 !important; }
+/* Inline bullet icons carried over from the old site should not scale up */
+.tc-txt img { display: inline; margin: 0 0.2rem 0 0 !important; vertical-align: middle; max-height: 0.9rem; width: auto; }
+
+/* Figure-only rows keep the left column width rather than stretching */
+.tc-row:not(:has(.tc-txt)) .tc-figs { max-width: 34%; }
+
+/* Full-width prose between rows stays at the smaller size for consistency */
+.tc-page > section > p, .tc-page > section > ul { font-size: 0.875rem; line-height: 1.6; }
+
+@media (max-width: 720px) {
+  .tc-row { grid-template-columns: 1fr; gap: 0.75rem; }
+  .tc-row:not(:has(.tc-txt)) .tc-figs { max-width: 100%; }
+}

@@ -1,0 +1,7 @@
+{{- define "main" -}}
+{{/* Site-level override: hugo-paper's list.html renders only a post list, which
+     would leave the imported home page blank. Render the page content instead. */}}
+<article>
+  <section>{{- .Content -}}</section>
+</article>
+{{- end -}}
