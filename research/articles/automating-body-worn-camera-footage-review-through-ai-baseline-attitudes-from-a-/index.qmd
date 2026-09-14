@@ -1,0 +1,21 @@
+---
+title: "Automating body-worn camera footage review through AI: baseline attitudes from a multisite randomized control trial"
+authors: "Seth Watts, Michael D. White, Aili Malm"
+date: '2024-01-01'
+pub-journal: "Policing A Journal of Policy and Practice"
+doi: 10.1093/police/paae107
+citation-url: https://doi.org/10.1093/police/paae107
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Policing A Journal of Policy and Practice
+
+**Citations:** 14
+
+## Links
+
+[DOI Link](https://doi.org/10.1093/police/paae107) | [OpenAlex](https://openalex.org/W4403556701)

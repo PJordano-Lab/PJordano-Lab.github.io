@@ -1,0 +1,28 @@
+---
+layout: page
+title: Tempe Opioid Recovery Project
+description: A police-social service-researcher collaboration studying how law enforcement responds to opioid overdoses.
+importance: 2
+category: research
+---
+
+**Location:** Tempe, Arizona
+
+Police are often the first on scene at opioid overdoses, but "arrest or leave" isn't much of a strategy. The Tempe Opioid Recovery Project (ORP) was built around a different idea: what if police, social services, and researchers actually worked together?
+
+Partnering with the Tempe Police Department, we've studied overdose response from multiple angles — officer attitudes toward people who use drugs, what body-worn camera footage tells us about what actually happens at overdose scenes, whether Narcan-trained officers are using it, and how proximity to services shapes outcomes for people experiencing homelessness. The through-line is figuring out what a more effective, humane police response to the opioid crisis looks like in practice.
+
+## Team
+
+- **Michael D. White** · Arizona State University
+- **Dina Perrone** · California State University, Long Beach
+- **Seth Watts** · Texas State University
+- **Aili Malm** · California State University, Long Beach
+
+## Publications
+
+- [Moving Beyond Narcan: A Police, Social Service, and Researcher Collaborative Response to the Opioid Crisis](https://doi.org/10.1007/s12103-021-09625-w) · *American Journal of Criminal Justice* · 2021 · White, Perrone, Watts et al.
+- [Narcan Cops: Officer Perceptions of Opioid Use and Willingness to Carry Naloxone](https://doi.org/10.1016/j.jcrimjus.2020.101778) · *Journal of Criminal Justice* · 2021 · White, Perrone, Malm et al.
+- [Leveraging Body-Worn Camera Footage to Better Understand Opioid Overdoses and the Impact of Police-Administered Naloxone](https://doi.org/10.2105/ajph.2022.306918) · *American Journal of Public Health* · 2022 · White, Watts, Orosco et al.
+- [Understanding Police Involvement at Opioid Overdose Incidents Through Body-Worn Camera Footage](https://doi.org/10.22215/apb.v1i2.5019) · *Applied Police Briefings* · 2024 · Watts, White, Orosco et al.
+- [Who is Fatigued? Officer Attitudes Towards People Who Use Opioids, Naloxone, and Overdose Response](https://doi.org/10.1016/j.jcrimjus.2024.102308) · *Journal of Criminal Justice* · 2024 · Watts, White, Perrone et al.

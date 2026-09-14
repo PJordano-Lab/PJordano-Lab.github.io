@@ -1,0 +1,21 @@
+---
+title: 'Beyond force and injuries: Examining alternative (and important) outcomes for police De-escalation training'
+author: Michael D. White, Carlena Orosco, Seth Watts
+date: '2023-11-01'
+subtitle: Journal of Criminal Justice
+doi: 10.1016/j.jcrimjus.2023.102129
+citation-url: https://doi.org/10.1016/j.jcrimjus.2023.102129
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Criminal Justice
+
+**Citations:** 9
+
+## Links
+
+[DOI Link](https://doi.org/10.1016/j.jcrimjus.2023.102129) | [OpenAlex](https://openalex.org/W4388334768)

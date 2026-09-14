@@ -1,0 +1,79 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!cv/**"
+  pre-render:
+    - Rscript cv/cv_render.R
+    # - Rscript call-scholar-stats.R
+    - Rscript call-python.R
+  resources:
+    - cv/cv.pdf
+    - CNAME
+    - .nojekyll
+  output-dir: docs
+
+website:
+  title: "Seth Watts, PhD"
+  navbar:
+    background: light
+    foreground: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Publications
+
+      - text: Projects
+        menu:
+          - text: Truleo
+            href: projects/truleo.qmd
+          - text: Tempe Opioid Recovery Project
+            href: projects/orp.qmd
+            
+      - href: cv/cv.pdf
+        text: CV
+    tools:
+      - icon: github
+        href: https://github.com/sBwatts
+        target: _blank
+      - icon: twitter-x
+        href: https://x.com/SethBWatts
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sethwatts1/
+        target: _blank
+
+  page-footer:
+    center: "Seth Watts &copy; <script>document.write(new Date().getFullYear())</script>"
+    right:
+      - icon: github
+        href: https://github.com/sBwatts
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sethwatts1/
+        target: _blank
+      - icon: envelope
+        href: mailto:sbwatts@txstate.edu
+
+  site-url: https://www.sethbwatts.com/
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    include-in-header:
+      - "files/includes/_fonts.html"
+      - "files/includes/_dark-mode-toggle.html"
+
+editor: visual

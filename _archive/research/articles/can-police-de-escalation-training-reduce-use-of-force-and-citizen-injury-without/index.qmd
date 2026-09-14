@@ -1,0 +1,21 @@
+---
+title: Can police de-escalation training reduce use of force and citizen injury without compromising officer safety?
+author: Michael D. White, Carlena Orosco, Seth Watts
+date: '2023-08-11'
+subtitle: Journal of Experimental Criminology
+doi: 10.1007/s11292-023-09584-8
+citation-url: https://doi.org/10.1007/s11292-023-09584-8
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Experimental Criminology
+
+**Citations:** 13
+
+## Links
+
+[DOI Link](https://doi.org/10.1007/s11292-023-09584-8) | [OpenAlex](https://openalex.org/W4385765306)

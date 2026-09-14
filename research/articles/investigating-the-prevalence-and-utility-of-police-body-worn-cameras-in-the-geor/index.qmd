@@ -1,0 +1,21 @@
+---
+title: "Investigating the prevalence and utility of police body-worn cameras in the George Floyd protests"
+authors: "Janne E. Gaub, Michael D. White, Aili Malm et al."
+date: '2022-05-11'
+pub-journal: "Policing An International Journal"
+doi: 10.1108/pijpsm-10-2021-0151
+citation-url: https://doi.org/10.1108/pijpsm-10-2021-0151
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Policing An International Journal
+
+**Citations:** 5
+
+## Links
+
+[DOI Link](https://doi.org/10.1108/pijpsm-10-2021-0151) | [OpenAlex](https://openalex.org/W4280623538)

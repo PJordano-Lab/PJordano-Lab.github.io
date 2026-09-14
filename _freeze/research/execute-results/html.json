@@ -1,0 +1,15 @@
+{
+  "hash": "5ce3575429fe8ce119f1af07cb881c6f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Publications\"\npagetitle: \"Publications — Pedro Jordano\"\ntitle-block-banner: \"#1a1c20\"\ntoc: true\ntoc-title: \"Contents\"\n\nlisting:\n  - id: articles\n    contents: \"research/articles/*/index.qmd\"\n    sort: \"date desc\"\n    type: table\n    page-size: 100\n    sort-ui: true\n    filter-ui: true\n    fields: [date, title, pub-journal, authors]\n\n  - id: working-papers\n    contents: \"research/working-papers/*/index.qmd\"\n    sort: \"date desc\"\n    type: table\n    page-size: 100\n    sort-ui: false\n    filter-ui: false\n    fields: [date, title, authors]\n\ndate-format: \"YYYY\"\n---\n\n::: {.cell}\n\n:::\n\n\n\n\n## Published Articles {#published-articles}\n\n::: {#articles}\n:::\n\n## Working Papers {#working-papers}\n\n<div>\n\n</div>",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

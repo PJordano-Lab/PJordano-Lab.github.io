@@ -1,0 +1,37 @@
+---
+layout: page
+title: Truleo
+description: A multi-site randomized controlled trial examining whether AI-driven body-worn camera review changes how officers do their jobs and how they perceive it.
+importance: 1
+category: research
+---
+
+**Agencies:** Apache Junction PD, Casa Grande PD, and Arizona DPS
+
+Body-worn cameras are everywhere in policing now, but almost nobody watches the footage. Truleo is an AI tool that automatically analyzes BWC video and gives officers feedback on things like de-escalation, professionalism, and communication — without a supervisor having to sit through hours of video.
+
+We're running a randomized controlled trial across multiple agencies to figure out whether this kind of automated feedback actually moves the needle on officer behavior, and what it takes to get officers to buy in. That means tracking officer attitudes over time, digging into implementation data, and measuring outcomes before and after the technology goes live.
+
+There's a lot of optimism — and skepticism — around AI in policing right now. This project is one of the first rigorous evaluations of whether these tools work in practice.
+
+## Team
+
+- **Michael D. White** · Arizona State University
+- **Seth Watts** · Texas State University
+- **Aili Malm** · California State University, Long Beach
+
+## Key questions
+
+- Do officers who receive AI-generated feedback change their behavior?
+- What drives acceptance (or resistance) to automated BWC review?
+- What does the AI actually capture — and what does it miss?
+- How does the feedback delivery mechanism affect officer buy-in?
+
+## Publications
+
+- [An Evaluation of Truleo's AI-based Body-Worn Camera Analytics](https://doi.org/10.21428/cb6ab371.45f5258f) · *CrimRxiv* · 2025 · White, Watts, Malm
+- [Officer Acceptance and Use of AI-Driven Body-Worn Camera Footage Review](https://doi.org/10.1007/s12103-025-09857-0) · *American Journal of Criminal Justice* · 2025 · White, Watts, Malm et al.
+- [Does Automated Feedback Impact the Acceptability of AI-Generated Police BWC Review?](https://doi.org/10.1007/s11292-025-09711-7) · *Journal of Experimental Criminology* · 2025 · Watts, del Pozo, White et al.
+- [Automating BWC Footage Review through AI: Preliminary Findings from a Multi-Site RCT](https://doi.org/10.21428/cb6ab371.dd9645dd) · *CrimRxiv* · 2024 · Watts, White, Malm
+- [Automating BWC Footage Review through AI: Baseline Attitudes](https://doi.org/10.1093/police/paae107) · *Policing: A Journal of Policy and Practice* · 2024 · Watts, White, Malm
+- [AI in Policing: Capturing Police Performance in Routine, Rare, and Novel Events](https://doi.org/10.21428/cb6ab371.c691ef98) · *CrimRxiv* · 2026 · Watts, White, Malm

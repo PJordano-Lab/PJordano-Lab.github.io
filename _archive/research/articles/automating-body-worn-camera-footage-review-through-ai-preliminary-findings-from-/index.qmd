@@ -1,0 +1,29 @@
+---
+title: 'Automating Body-Worn Camera Footage Review through AI: Preliminary Findings from a Multi-Site Randomized Control Trial'
+author: Seth Watts, Michael D. White, Aili Malm
+date: '2024-08-14'
+subtitle: CrimRxiv
+doi: 10.21428/cb6ab371.dd9645dd
+citation-url: https://doi.org/10.21428/cb6ab371.dd9645dd
+format:
+  html:
+    toc: true
+---
+
+
+::: {.callout-warning}
+## 🔬 Preprint
+This is a preprint that has not undergone peer review. Findings should be interpreted with caution.
+:::
+
+## Publication Details
+
+**Published in:** CrimRxiv
+
+**Citations:** 2
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.21428/cb6ab371.dd9645dd) | [PDF](https://www.crimrxiv.com/pub/8xm0r2jv/download/pdf) | [OpenAlex](https://openalex.org/W4401587180)

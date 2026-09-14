@@ -1,0 +1,27 @@
+---
+title: 'A Comparative Review of De-escalation Training: What Works and Why'
+author: Seth Watts, Carlena Orosco, Michael D. White
+date: '2026-02-16'
+subtitle: CrimRxiv
+doi: 10.21428/cb6ab371.d88be0db
+citation-url: https://doi.org/10.21428/cb6ab371.d88be0db
+format:
+  html:
+    toc: true
+---
+
+
+::: {.callout-warning}
+## 🔬 Preprint
+This is a preprint that has not undergone peer review. Findings should be interpreted with caution.
+:::
+
+## Publication Details
+
+**Published in:** CrimRxiv
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.21428/cb6ab371.d88be0db) | [PDF](https://www.crimrxiv.com/pub/69g05cuu/download/pdf) | [OpenAlex](https://openalex.org/W7129007292)

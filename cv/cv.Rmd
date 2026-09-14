@@ -1,0 +1,234 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "CV"
+author: Pedro Jordano
+
+jobtitle: "Research Professor, Estación Biológica de Doñana, CSIC, and Assoc. Professor, Univ. Sevilla"
+address: "Estación Biológica de Doñana, CSIC. Sevilla, Spain."
+fontawesome: yes
+email: jordano@ebd.csic.es
+github: pedroj
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+#phone: "+## #########"
+web: pjordanolab.github.io
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: R Markdown, academic CV, template
+
+header-includes:
+  - \PassOptionsToPackage{dvipsnames}{xcolor}
+  # - \definecolor{txst}{HTML}{501214}
+  
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+# linkcolor: txst
+# urlcolor: txst
+---
+
+```{r install-scholar, include=FALSE}
+if (!requireNamespace("scholar", quietly = TRUE)) install.packages("scholar")
+```
+
+```{r scholar-stats, include=FALSE}
+library(scholar)
+scholar_id <- "TrKYqaEAAAAJ"
+profile <- tryCatch(
+  get_profile(scholar_id),
+  error = function(e) NULL
+)
+gs_cites  <- if (!is.null(profile)) profile$total_cites else "N/A"
+gs_hindex <- if (!is.null(profile)) profile$h_index     else "N/A"
+gs_i10    <- if (!is.null(profile)) profile$i10_index   else "N/A"
+```
+
+#### Personal Data 
+Name: PEDRO DIEGO JORDANO BARBUDO    
+NIF: 30432736X    
+NRP: 3043273657-A6150    
+Born in Córdoba, Spain; July 23, 1957. Married, two sons.    
+
+#### Contact Information
+Estación Biológica de Doñana, EBD-CSIC  
+Isla de La Cartuja   
+Avda. Americo Vespucio S/N   
+E-41092 Sevilla, Spain   
+Phone: +34 95 4466700 ext 1467   
+email: jordano@ebd.csic.es   
+web: [P Jordano Lab] (http://pjordanolab.ebd.csic.es)    
+Twitter: @pedro_jordano http://twitter.com/@pedro_jordano  
+GitHub:  http://github.com/pedroj/    
+         http://github.com/PJordano-Lab/
+
+### Education      
+*MSc* Biological Sciences   
+Center: Fac. Ciencias, Universidad de Córdoba, Spain    
+Date: September 25, 1979; Excellence Award; Qualifications: 3.83 (top, 4.00).   
+
+*PhD* Biology
+Center: Fac. Biología, Universidad de Sevilla, Spain   
+Date: October 14, 1984. Excellence Award.
+
+### Present affiliation
+- Research Professor, Estación Biológica de Doñana, Spanish Council for Scientiﬁc Research (CSIC), Dept. Evolutionary Ecology. Sevilla, Spain. Starting 1987 as Assoc. researcher; 1993-2002, Researcher; 2003-present as Research Professor.
+- Associate Professor, University of Sevilla (Spain). Department of Plant Biology and Ecology. 2019-present.
+
+### Appointments
+2004-present. Professor of Research, CSIC.    
+2001-2004. Director of the Dept. of Evolutionary Biology, Estación Biológica de Doñana, CSIC.      
+1997-2002. Scientific coordinator, Molecular Ecology Laboratory, Estación Biol. Doñana.     
+1996-2004. Scientific Researcher, CSIC.    
+1987-1995. Associate Researcher, CSIC.
+
+2018-2023. Presdient and Chair of the Environmental Sciences and Technologies program, National Research Agency (AEI), Ministry of Science, and Innovation, Spain.     
+2012-2016. Chair, Starting Grants panel LS8 at the European Research Council (Brussels) (vice-chair 2008-2011).     
+2008-2013. Chair, Spanish panel for the National Research Plan, program of Biodiversity, Ecology and Global Change, Ministry of Economy and Innovation, Spain.     
+2003-2008. Spanish Ministry of Science and Technology, National Research Panel officer, Biodiversity, Ecology and Global Change Program.     
+2004-2008. Spanish Ministry of Education and Science, representative in Eurocores EuroDiversity Program, European Science Foundation. 
+
+
+### Research interests 
+His research focuses on the study of biological diversity (biodiversity) from both ecological and evolutionary perspectives. He is interested in how ecological interactions shape complex ecological systems. He is a field ecologist fascinated by natural history and evolution, using an interdisciplinary approach that bridges different fields (field ecology, genetics, modeling) to study complex biological systems. The main theme encapsulating his research is the coevolutionary process within complex ecological interactions networks in high-diversity systems: 1) dispersal processes, gene flow and demographic effects of interactions with animal pollinators and frugivores in plant populations; 2) coevolution in complex networks of mutualistic interactions; and 3) basic natural history and evolutionary ecology of ecological interactions.    
+
+His scientific achievements include incorporating complex network analysis in the study of patterns, functions, and consequences of plant-animal mutualisms within ecosystems, a research line starting in 1987 as an expansiomn of his PhD project. This has unveiled the highly diversified and low-specificity character of these interactions and represented a pathbreaking approach to the study of coevolution in mega-diversity systems such as tropical forests. In addition he has developed molecular tools to track and measure seed dispersal distances by frugivorous animals, and the identity of the frugivore species dispersing seeds. The approach is based on using maternally-derived tissue (i.e., endocarp) attached to the seed to characterize the maternal (source tree) genotype with microsatellite markers, and DNA-barcoding dispersed seeds to identify frugivore species (from DNA remains of the animal on the seed surface). This has represented a major conceptual and methodological advance in the study of dispersal systems, and a key innovation with far-reaching consequences in future developments that link population genetics, metapopulation ecology, and dispersal ecology.    
+
+Reviews of his work: **Science** [Thompson, J.N. 2006. *Science*, 312:372; Shea, K. 2007. *Science*, 315:1231; Sudgen, A.W. 2011. *Science* 333: 1201], **Nature** [Renner, S. 2007. *Nature*, 448:877; May, R.M. et al. 2008. *Nature*, 451:893], and **Current Biology** [Pannell, JR. 2007. *Current Biology*, 17: R360].      
+
+### *Research lines* 
+• Coevolution of plant-animal interactions   
+• Complex networks of ecological interactions   
+• Molecular ecology of pollination and seed dispersal by animals    
+• Natural history and conservation biology of plant-animal mutualisms   
+
+### Track Record   
+ORCID id code:  [0000-0003-2142-9116](https://orcid.org/0000-0003-2142-9116)    
+Researcher ID:  [A-5162-2008](http://www.researcherid.com/rid/A-5162-2008)    
+Google Scholar: [GScholar-P Jordano](https://scholar.google.es/citations?user=TrKYqaEAAAAJ)	     
+Research Gate:  [ResGate-P Jordano](https://www.researchgate.net/profile/Pedro_Jordano)       
+ImpactStory:    [0000-0003-2142-9116](https://profiles.impactstory.org/u/0000-0003-2142-9116)   
+DigitalCSIC:    [rp06561](https://digital.csic.es/cris/rp/rp06561)    
+Scopus Author:  [6701660089](https://www.scopus.com/authid/detail.uri?authorId=6701660089)
+
+# Publications
+
+[Google Scholar Profile](https://scholar.google.com/citations?user=TrKYqaEAAAAJ&hl=en&oi=ao): total citations = `r gs_cites`, h-index = `r gs_hindex`, i10-index = `r gs_i10`
+
+
+### Track Record Summary
+
+1. Books: 4
+2. Scientific papers: 364 / ISI/WoS: 296
+3. Book chapters: 28
+4. Master Thesis supervised: 12.
+5. PhD Thesis supervised: 22 / Ongoing: 1. External supervisor: 6.
+6. Post-doctoral fellows supervised: 21 (4 Marie Curie UE fellowships, 3 Ramón y Cajal tenure track positions).    
+
+Three of my supervised PhD theses obtained the Excellence Award, Univ. Sevilla (2), Univ. La Laguna (1), Spain. One supervised PhD thesis awarded with the best Doctoral Thesis in Brazil, 2007; another one, received the Relevant PhD Thesis Award from the Spanish CSIC to highlight the best thesis project in 2025 (Area of Natural Resoureces). 
+
+### Citation Record Summary 
+#### *Last Updated:* 01/04/2026 09:02 GMT     
+
+ **Google Scholar**  
+ *Number of documents:* 378     
+ [Google Scholar Profile](https://scholar.google.com/citations?user=TrKYqaEAAAAJ&hl=en&oi=ao): total citations = `r gs_cites`, h-index = `r gs_hindex`, i10-index = `r gs_i10` 
+# *Citations*: *All*: 48406      *Since 2021*: 19054    
+#              *h-index*: 98  *i10-index*: 198        
+
+ **ISI Web of Science**              
+ WOS Highly Cited Award Recipient, 2015-2020                       
+ *Total Articles:*            296
+ *Indexed WOS*                230
+ *Times Cited:*               27099    
+ *Avg. Citations/Article:*    118     
+ *h-index:*                   80    
+    
+    
+### Publications. Main papers
+Papers marked with asterisks are included as "Research Front" or Hot-topic papers in ISI Essential Science Indicators. Four additional papers in Faculty1000 marked as 'Must Read' and 'Exceptional'. All these papers had equal contribution to authorship. For a full list of publications, please visit: *http://pjordanolab.ebd.csic.es/Papers.html*. Included in SCI (Web of Science) list "Most influential Scientific Minds", years 2015 to 2020.
+
+- Jordano, P. 2026. The ecological interactome: understanding Biodiversity through patterns of interactions. Annual Review of Ecology, Evolution, and Systematics 57:51–76. [doi: 10.1146/annurev-ecolsys-102824-110132](https://doi.org/10.1146/annurev-ecolsys-102824-110132)
+
+- Quintero, E., Arroyo-Correa, B., Isla, J., Rodríguez-Sánchez, F., and **Jordano, P.** 2025. Downscaling mutualistic networks from species to individuals reveals consistent interaction niches and roles within plant populations. Proceedings of the National Academy of Sciences, 122(7), e2402342122. (https://doi.org/10.1073/pnas.2402342122)
+  
+- **Jordano, P.** 2017. What is long‐distance dispersal? And a taxonomy of dispersal events. *Journal of Ecology* 105: 75-84. [doi: 10.1111/1365-2745.12690](http://www.onlinelibrary.wiley.com/doi/10.1111/1365-2745.12690/abstract)
+
+- Jordano, P. 2016. Sampling networks of ecological interactions. Functional Ecology, 30: 1883–1893. [doi: 10.1111/1365-2435.12763](http://onlinelibrary.wiley.com/doi/10.1111/1365-2435.12763/epdf)
+
+- **Jordano, P.** 2014. *Fruits and frugivory*. In: Gallagher, R.S. (ed.). Seeds: the ecology of regeneration in plant communities 3rd ed. pp.: 125-166. CAB International, Wallingford, UK. ISBN-13: 978 1 78064 183 6 
+
+- Bascompte, J., and **P. Jordano**. 2014. Mutualistic networks. Monographs on Population Biology, no. 53. Princeton University Press. Princeton, USA. [ISBN: 9780691131269](http://press.princeton.edu/titles/10161.html) 
+
+- \* Galetti, M., R. Guevara, M.C. Côrtes, R. Fadini, S. Von Matter, A.B. Leite, F. Labecca, T. Ribeiro, C.S. Carvalho, R.G. Collevatti, M.M. Pires, P.R. Guimarães, P.H. Brancalion, M.C. Ribeiro, **P. Jordano**. 2013. Functional extinction of birds drives rapid evolutionary changes in seed size. *Science* 340: 1086-1090. [doi: 10.1126/science.1233774](http://science.sciencemag.org/content/340/6136/1086)
+
+- Schupp, E.W., **P. Jordano**, J.M. Gómez. 2010. Seed dispersal effectiveness revisited: a conceptual review. *New Phytologist* 188: 333-353. [doi: 10.1111/j.1469-8137.2010.03402.x](https://doi.org/10.1111/j.1469-8137.2010.03402.x)
+
+- \* **Jordano, P.**, García, C., Godoy, J.A., and García-Castaño, J.L. 2007. Differential contribution of frugivores to complex seed dispersal patterns. *Proceedings National Academy of Sciences USA*, 104: 3278-3282. [doi: 10.1073/pnas.0606793104](https://doi.org/10.1073/pnas.0606793104)
+
+- Bascompte, J., and **P. Jordano**. 2007. Plant-animal mutualistic networks: the architecture of biodiversity. *Annual Review of Ecology, Evolution, and Systematics*, 37: 567-593. [doi: 10.1146/annurev.ecolsys.38.091206.095818](https://doi.org/10.1146/annurev.ecolsys.38.091206.095818)
+
+- \*\* Bascompte, J., **P. Jordano**, and J.M. Olesen. 2006. Asymmetric coevolutionary networks facilitate biodiversity maintenance. *Science* 312: 431-433. [doi: 10.1126/science.1123412](http://science.sciencemag.org/content/312/5772/431.full)
+
+- **Jordano, P.**, J. Bascompte and J.M. Olesen. 2003. Invariant properties in coevolutionary networks of plant-animal interactions. *Ecology Letters* 6: 69-81. [doi: 10.1046/j.1461-0248.2003.00403.x](https://doi.org/10.1046/j.1461-0248.2003.00403.x)
+
+- \*\* Bascompte, J., **Jordano, P.**, Melián, C.J., and J.M. Olesen. 2003. The nested assembly of plant-animal mutualistic networks. *Proceedings National Academy of Sciences USA* 100: 9383-9387. [doi: 10.1073/pnas.1633576100](https://doi.org/10.1073/pnas.1633576100)
+
+### Research Projects
+*Project Title*, *Funding source*, *Amount*, *Period*, *Role of PI*.   
+- The biodiversity of ecological interactions: from individual-based interaction motifs to multilayer networks. Natl. Agency, Spain (MINCINN). PID2022-136812NB-I00. 327 Keur. 2023-2027. PI.
+- Multiplex networks of plant-animal interactions. Natl. Agency, Spain (MINCINN). CGL2017-82847-P. 220Keur. 2018-2021. PI.    
+- LifeWatch-ERIC, eLabs-BIOINTERACT. Ministry of Science and Innovation, Spain. 983Keur. 2021-2023. PI.
+- Moving with the flood: spatial ecology, movement strategies and connectivity of the pin-tailed sandgrouse population in Doñana National Park in relation to marshland dynamics, land use change and agriculture intensification (GANGAMOVE). PN-2020-2646/2020. Organismo Autónomo Parques Nacionales, Minist. Transición Ecológica y el Reto Demográfico (Spain). 90Keur. 2021-2023. PI.
+- Biodiversity's Interactome: the functional framework of species interactions. BiodivINTERACTOME. PY18-HO-4814. 50Keur. 2021-2022. PI.
+- Defaunation and plant-animal interactions in the Atlantic rainforest. FAPESP, Brazil.          180Keur. 2015-2019. Collaborator.     
+- Genetic variability and long-distance dispersal, tree species. Regional Govt. Natl. Agency      450Keur. 2010-2017. PI.         
+- Plant-animal interactions and gene flow. Natl. Agency, Spain (MINCINN). 240Keur. 2013-2017. PI.             
+
+### Fellowships and Awards         
+
+2018 *National Research Award "Alejandro Malaspina"* in the area of Environmental Sciences and Technologies. Spanish Ministry of Science, Innovation, and Universities.
+
+2018 Premio Ecosistemas-Luis Balaguer. Spanish Ecological Society. 
+
+2016 British Ecological Society, Marsh Award (best book in Ecology) for *Mutualistic networks* (Princeton Univ. Press), 2014, co-authored with J. Bascompte.
+
+2014 *Rey Jaime I Award*, Environmental Conservation, in its XXVII edition. 2014. This is the most prestigious scientific award in Spain, with an international jury including 18 Nobel laureates. Awarded by the Generalitat de Valencia.
+
+2008 *Mercer Award*, Ecological Society of America; for a paper co-authored with J. Bascompte and J.M. Olesen ("Asymmetric coevolutionary networks facilitate biodiversity maintenance". 2006, *Science* 312: 431-433).
+
+### _Others_
+- 2021- Member of the Royal Academy of Sciences (Spain); corresponding member since 2018.    
+- 2022- Member of Academia Europaea. 
+- 2019 *Hijo Adoptivo (Forster son)* of Triana (Sevilla). Civil recognition received from the Sevilla City Hall and Triana District.   
+- 2009 - present. Honorary professor. University of Sevilla, Spain.    
+- 2022- International Society of Zoological Sciences (ISZS).  
+- 2022- Member of the Royal Academy of Sciences, Sevilla.   
+- 2010- Member of the Spanish Society of Evolutionary Biology (SESBE).     
+
+### Teaching
+Supervised 21 Post-doctoral fellowships, 22 PhD theses (plus 3 external supervisions), and 9 Master theses.
+2018-present. Associate professor, Dept. Biología Vegetal y Ecología, Universidad de Sevilla. Sevilla, Spain.
+2008-2016. Director, Master Course "Biodiversity and Conservation Biology". Universidad Pablo de Olavide-CSIC. Sevilla, Spain.      
+2000-present. Co-organizer, Latin-American Field Course on Frugivory and Seed Dispersal, Univ. Campinas (UNICAMP) and Univ. Estadual S Paulo (UNESP, Rio Claro). Participating students form 9 Latin-American countries.    
+2012-2015. Prog. Ciência Sem Fronteiras. Foreign professor Programa de post-graduação em Ecologia, UNESP-USP (Rio Claro, Brazil). Visiting faculty to Univ. Campinas (Brazil), collaboration with the Programa de post-graduação at Dept. Zoology (2004, 2005).     
+Several years between 1992-present. Visiting Faculty, Univ. Puerto Rico, UNAM (Mexico), Umeå Univ., Stockholm Univ. (Sweden), Univ. California Sta Cruz, Stanford Univ., Yale Univ.: Special Topics courses for graduate students.
+
+### Software development
+- **Jordano, P.** and & Rodríguez-Sánchez, F. 2025. The effect.lndscp R package: Effectiveness landscapes. Doi: 10.5281/zenodo.376763 Mar 11, 2017 [Manual]. https://github.com/pedroj/effectiveness_pckg.
+- **Jordano, P.**. 2018. The FRUBASE package. Sep 21, 2018 [Manual]. https://github.com/pedroj/FRUBASE.      
+- **Jordano, P.** 2017. ggbipart: An R package for plotting bipartite networks. [Manual]. https://github.com/pedroj/bipartite_plots.
+      
+### Other Scientific Activities (Summary)   
+- 1997-2005. Vice chair for the Natural Resources Area Committee, CSIC, Spain.     
+- 2008-2022. Executive secretary of the jury for the BBVA *Frontiers of Knowledge* awards.    
+- Member of the Advisory Board, National Agency for Academic Evaluation (ANECA). (2013-2017).      
+- 2009-present. Honorary Professor, University of Sevilla.    
+- 2005-2010. Representing the Spanish Ministry of Science in the European Network EraNet-BIODIVERSA and in the EuroCores EuroDiversity initiative of the European Science Foundation.     
+
+Member of the editorial boards for: *Annual Reviews of Ecology, Evolution, and Systematics*; *PLoS Biology*; *Perspectives in Plant Ecology, Evolution, and Systematics*; *Journal of Evolutionary Biology*; *Movement Ecology*; and former member of the advisory board of *Ecography* and *Oikos*. 
+
+--------
+

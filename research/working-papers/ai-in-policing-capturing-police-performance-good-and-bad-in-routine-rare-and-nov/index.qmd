@@ -1,0 +1,28 @@
+---
+title: "AI in Policing: Capturing Police Performance (Good and Bad) in Routine, Rare, and Novel Events"
+authors: "Seth Watts, Michael D. White, Aili Malm"
+date: '2026-01-19'
+pub-journal: "CrimRxiv"
+doi: 10.21428/cb6ab371.c691ef98
+citation-url: https://doi.org/10.21428/cb6ab371.c691ef98
+format:
+  html:
+    toc: true
+---
+
+::: {.callout-warning}
+## Preprint
+This is a preprint and has not undergone peer review. Interpret findings with caution.
+:::
+
+## Publication Details
+
+**Published in:** CrimRxiv
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.21428/cb6ab371.c691ef98) | [PDF](https://www.crimrxiv.com/pub/k4k0rpp1/download/pdf) | [OpenAlex](https://openalex.org/W7124744856)

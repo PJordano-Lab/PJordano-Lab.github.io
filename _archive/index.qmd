@@ -1,0 +1,64 @@
+---
+title: ""
+pagetitle: "Pedro Jordano"
+page-layout: full
+
+listing:
+  - id: articles
+    contents:
+      - research/articles
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+    page-size: 3
+    fields: [date, title, subtitle, author]
+    max-description-length: 75
+    sort:
+      - "date desc"
+      - "title asc"
+---
+
+:::::: hero-section
+:::: hero-bio-col
+```{=html}
+<p class="hero-affiliation">Research Professor, Estación Biológica de Doñana, CSIC, and Assoc. Professor, Univ. Sevilla</p>
+<h1 class="hero-name">Pedro Jordano</h1>
+<p class="hero-bio">My research focuses on the study of biological diversity (biodiversity) from both ecological and evolutionary perspectives. I am interested in how ecological interactions, e.g. mutualisms, shape complex ecological systems. Interactions, such as those among plants and their seed dispersers and pollinators, are the wireframe of biodiversity, yet we are far from understanding how they evolve and coevolve. My main research tools to address this fascinating theme include field ecology, molecular genetics, and theoretical ecology.</p>
+```
+
+::: research-chips
+[Policing]{.chip} [Technology & AI]{.chip} [Body-Worn Cameras]{.chip}
+[De-escalation]{.chip} [Public Health]{.chip} [Program Evaluation]{.chip}
+:::
+
+```{=html}
+<div class="hero-cta">
+  <a href="research.html" class="btn-primary-custom">
+    <i class="bi bi-journal-text"></i> Publications
+  </a>
+  <a href="cv/cv.pdf" class="btn-outline-custom" target="_blank">
+    <i class="bi bi-file-earmark-person"></i> Download CV
+  </a>
+  <a href="mailto:jordano@ebd.csic.es" class="btn-outline-custom">
+    <i class="bi bi-envelope"></i> Contact
+  </a>
+</div>
+```
+::::
+
+::: hero-photo
+<img src="headshot.jpeg" alt="Seth Watts" class="hero-headshot"/>
+:::
+::::::
+
+<hr class="section-divider">
+
+::: section-heading-row
+## Recent Work {.section-heading}
+
+[All publications →](research.qmd){.section-link}
+:::
+
+::: {#articles}
+:::

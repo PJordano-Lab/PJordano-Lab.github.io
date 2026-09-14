@@ -1,0 +1,6 @@
+---
+---
+<div style="margin-bottom: 0.75em;">
+  {% if entry.url %}<a href="{{ entry.url }}">{{ entry.title }}</a>{% else %}{{ entry.title }}{% endif %}<br>
+  <small>{{ entry.author | truncate: 60 }} ({{ entry.year }}){% if entry.journal %} — <em>{{ entry.journal }}</em>{% elsif entry.note %} — {{ entry.note }}{% endif %}</small>
+</div>

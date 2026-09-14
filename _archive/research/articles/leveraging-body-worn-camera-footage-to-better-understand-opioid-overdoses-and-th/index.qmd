@@ -1,0 +1,23 @@
+---
+title: Leveraging Body-Worn Camera Footage to Better Understand Opioid Overdoses and the Impact of Police-Administered Naloxone
+author: Michael D. White, Seth Watts, Carlena Orosco et al.
+date: '2022-07-21'
+subtitle: American Journal of Public Health
+doi: 10.2105/ajph.2022.306918
+citation-url: https://doi.org/10.2105/ajph.2022.306918
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** American Journal of Public Health
+
+**Citations:** 25
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.2105/ajph.2022.306918) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/9382158) | [OpenAlex](https://openalex.org/W4286322155)

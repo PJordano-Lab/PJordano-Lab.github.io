@@ -1,0 +1,38 @@
+{
+  "index.qmd": {
+    "index.html": "b5f2bc9f"
+  },
+  "research.qmd": {
+    "research.html": "e60aae6e"
+  },
+  "research/articles/ai-bodyworn-cameras-and-a-potential-civilizing-effect-for-officers-evidence-from/index.qmd": {
+    "index.html": "100e67de"
+  },
+  "research/articles/automating-body-worn-camera-footage-review-through-ai-baseline-attitudes-from-a-/index.qmd": {
+    "index.html": "eb13bab2"
+  },
+  "research/articles/does-automated-feedback-impact-the-acceptability-of-ai-generated-police-body-wor/index.qmd": {
+    "index.html": "99dd24b5"
+  },
+  "research/articles/does-proximity-to-service-providers-impact-punitivity-in-stop-outcomes-for-indiv/index.qmd": {
+    "index.html": "16e34579"
+  },
+  "research/articles/investigating-the-prevalence-and-utility-of-police-body-worn-cameras-in-the-geor/index.qmd": {
+    "index.html": "a5418ae3"
+  },
+  "research/articles/officer-acceptance-and-use-of-ai-driven-body-worn-camera-footage-review/index.qmd": {
+    "index.html": "cfd213ab"
+  },
+  "research/working-papers/a-comparative-review-of-de-escalation-training-what-works-and-why/index.qmd": {
+    "index.html": "f8772f6b"
+  },
+  "research/working-papers/ai-in-policing-capturing-police-performance-good-and-bad-in-routine-rare-and-nov/index.qmd": {
+    "index.html": "a7d41f38"
+  },
+  "research/working-papers/an-evaluation-of-truleos-ai-based-body-worn-camera-analytics/index.qmd": {
+    "index.html": "d1bd3916"
+  },
+  "research/working-papers/officer-perceptions-of-ai-based-performance-evaluation-a-latent-class-analysis-o/index.qmd": {
+    "index.html": "0dda2c37"
+  }
+}

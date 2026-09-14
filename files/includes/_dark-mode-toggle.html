@@ -1,0 +1,80 @@
+<!-- Dark Mode Toggle -->
+<style>
+  .theme-toggle {
+    background: rgba(0, 0, 0, 0.06);
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 2rem;
+    padding: 0.35rem 0.75rem;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+    color: #1e293b;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  .theme-toggle:hover {
+    background: rgba(0, 0, 0, 0.12);
+    border-color: rgba(0, 0, 0, 0.25);
+  }
+
+  .theme-toggle i {
+    font-size: 0.85rem;
+  }
+</style>
+
+<script>
+  (function() {
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('theme', theme);
+      if (theme === 'dark') {
+        document.body.classList.remove('quarto-light');
+        document.body.classList.add('quarto-dark');
+      } else {
+        document.body.classList.remove('quarto-dark');
+        document.body.classList.add('quarto-light');
+      }
+      var btn = document.getElementById('theme-toggle-btn');
+      if (btn) {
+        btn.innerHTML = theme === 'dark'
+          ? '<i class="bi bi-sun-fill"></i> Light'
+          : '<i class="bi bi-moon-stars-fill"></i> Dark';
+        btn.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+      }
+    }
+
+    var saved = localStorage.getItem('theme') || 'dark';
+    applyTheme(saved);
+
+    window.toggleTheme = function() {
+      var current = document.documentElement.getAttribute('data-theme') || 'light';
+      applyTheme(current === 'dark' ? 'light' : 'dark');
+    };
+
+    function addToggleButton() {
+      var navbarTools = document.querySelector('.quarto-navbar-tools');
+      if (!navbarTools || document.getElementById('theme-toggle-btn')) return;
+      var btn = document.createElement('button');
+      btn.id = 'theme-toggle-btn';
+      btn.className = 'theme-toggle';
+      btn.onclick = toggleTheme;
+      var current = document.documentElement.getAttribute('data-theme') || 'light';
+      btn.innerHTML = current === 'dark'
+        ? '<i class="bi bi-sun-fill"></i> Light'
+        : '<i class="bi bi-moon-stars-fill"></i> Dark';
+      btn.setAttribute('aria-label', current === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+      navbarTools.appendChild(btn);
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', addToggleButton);
+    } else {
+      addToggleButton();
+    }
+  })();
+</script>

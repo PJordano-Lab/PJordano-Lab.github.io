@@ -1,0 +1,59 @@
+---
+title: ""
+pagetitle: "Research projects at PJordano Lab"
+page-layout: full
+---
+
+::: page-hero-slim
+<p class="hero-affiliation">
+
+Sevilla , Spain
+
+</p>
+
+# Highlighted Projects
+
+<p>Changing the world, doing science...</p>
+:::
+
+## Main themes and objectives
+
+The Integrative Ecology Group at EBD was created in 2001 with the ultimate goal
+of exploring the component of biodiversity explained by the interactions among
+species. These interactions of mutual dependency shape complex networks acting
+as the architecture of biodiversity. One important characteristic of this
+research line is its interdisciplinary component, based on the integration of
+several approaches, mainly evolutionary ecology, population genetics, and
+theoretical ecology.\
+\
+Our research explores to what extent ecological interactions shape the diversity
+of life within complex ecological systems. Our approach is synthetic and
+interdisciplinary, combining field work with the statistical analyses of large
+data sets and the development of mathematical models and simulations. Our
+central goal is to understand the functional role of ecological interactions in
+processes affecting biodiversity. This approach allows a systemic description of
+several ecological problems such as coevolution within diverse communities and
+the risk of collapse in the face of global change.\
+\
+A major goal is the study of mutualistic networks between plants and their
+pollinators and seed dispersers. This approach allows us to understand how
+coevolution works within complex communities determining the variety of vital
+life histories, biogeographical patterns, and genetic structure within species.
+Similarly, our work on mutualistic networks provides a conceptual framework to
+understand how these networks and the services they provide would respond to
+global environmental change.\
+\
+A second goal of our research line deals with the networks of connectivity and
+gene flow in fragmented landscapes. We employ molecular genetics techniques and
+network theory applied to metapopulations of several study species in
+Mediterranean, Macaronesian, and tropical areas. This approach allows us to
+quantify the role of pollinators and seed dispersers in the long-distance
+dispersal events and their effects on the genetic structure of plant
+populations. This gets us closer to understanding how global environmental
+change would affect plant communities in terms of dispersal and adaptation.
+
+## Team
+
+## Publications
+
+-

@@ -1,0 +1,21 @@
+---
+title: "Does proximity to service providers impact punitivity in stop outcomes for individuals experiencing homelessness?"
+authors: "Katharine L. Brown, Seth Watts, Patricia R. Turner et al."
+date: '2024-07-11'
+pub-journal: "Journal of Crime and Justice"
+doi: 10.1080/0735648x.2024.2375371
+citation-url: https://doi.org/10.1080/0735648x.2024.2375371
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Crime and Justice
+
+**Citations:** 1
+
+## Links
+
+[DOI Link](https://doi.org/10.1080/0735648x.2024.2375371) | [OpenAlex](https://openalex.org/W4400551519)

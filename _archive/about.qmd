@@ -1,0 +1,144 @@
+---
+title: ""
+pagetitle: "About — Pedro Jordano"
+page-layout: full
+---
+
+```{=html}
+<div class="page-hero-slim">
+  <p class="hero-affiliation" style="margin-bottom:0.5rem;">About</p>
+  <h1 style="font-size:2.75rem;font-weight:800;letter-spacing:-0.04em;margin:0 0 0.5rem;">Pedro Jordano, PhD</h1>
+  <p style="color:var(--color-text-2);margin:0;">Research Professor, Estación Biológica de Doñana, CSIC, and Assoc. Professor, Univ. Sevilla</p>
+</div>
+```
+
+::::: about-grid
+::: about-main
+## Research
+
+My research focuses on the study of biological diversity (biodiversity) from
+both ecological and evolutionary perspectives. I am interested in how ecological
+interactions shape complex ecological systems. I am a field ecologist fascinated
+by natural history and evolution, using an interdisciplinary approach that
+bridges different fields (field ecology, genetics, modeling) to study complex
+biological systems. The main theme encapsulating this research is the
+coevolutionary process within complex ecological interactions networks in
+high-diversity systems: 1) dispersal processes, gene flow and demographic
+effects of interactions with animal pollinators and frugivores in plant
+populations; 2) coevolution in complex networks of mutualistic interactions; and
+3) basic natural history and evolutionary ecology of ecological interactions.
+
+My scientific achievements include incorporating complex network analysis in the
+study of patterns, functions, and consequences of plant-animal mutualisms within
+ecosystems, a research line starting in 1987 as an expansion of my PhD project.
+This has unveiled the highly diversified and low-specificity character of these
+interactions and represented a pathbreaking approach to the study of coevolution
+in mega-diversity systems such as tropical forests.
+
+In addition we have developed molecular tools to track and measure seed
+dispersal distances by frugivorous animals, and the identity of the frugivore
+species dispersing seeds. The approach is based on using maternally-derived
+tissue (i.e., endocarp) attached to the seed to characterize the maternal
+(source tree) genotype with microsatellite markers, and DNA-barcoding dispersed
+seeds to identify frugivore species (from DNA remains of the animal on the seed
+surface). This has represented a major conceptual and methodological advance in
+the study of dispersal systems, and a key innovation with far-reaching
+consequences in future developments that link population genetics,
+metapopulation ecology, and dispersal ecology.
+
+Reviews of our work: **Science** \[Thompson, J.N. 2006. *Science*, 312:372;
+Shea, K. 2007. *Science*, 315:1231; Sudgen, A.W. 2011. *Science* 333: 1201\],
+**Nature** \[Renner, S. 2007. *Nature*, 448:877; May, R.M. et al. 2008.
+*Nature*, 451:893\], and **Current Biology** \[Pannell, JR. 2007. *Current
+Biology*, 17: R360\].
+
+--------------------------------------------------------------------------------
+
+## Education
+
+```{=html}
+<div class="edu-item">
+  <p class="edu-degree">PhD, Biology</p>
+  <p class="edu-institution">Universidad de Sevilla</p>
+  <p class="edu-year">1984</p>
+</div>
+<div class="edu-item">
+  <p class="edu-degree">MS, Biology</p>
+  <p class="edu-institution">Universidad de Córdoba</p>
+  <p class="edu-year">2021</p>
+</div>
+```
+
+--------------------------------------------------------------------------------
+
+## Academic Positions
+
+-   Research Professor, Estación Biológica de Doñana, Spanish Council for
+    Scientiﬁc Research (CSIC), Dept. Evolutionary Ecology. Sevilla, Spain.
+    Starting 1987 as Assoc. researcher; 1993-2002, Researcher; 2003-present as
+    Research Professor.
+
+-   Associate Professor, University of Sevilla (Spain). Department of Plant
+    Biology and Ecology. 2019-present.\
+:::
+
+::: about-sidebar
+```{=html}
+<div class="contact-card">
+  <h4>Contact &amp; Links</h4>
+
+  <div class="contact-item">
+    <i class="bi bi-envelope-fill"></i>
+    <div><a href="mailto:jordano@ebd.csic.es">jordano@ebd.csic.es</a></div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-mortarboard-fill"></i>
+    <div><a href="https://scholar.google.com/citations?user=TrKYqaEAAAAJ&hl=en" target="_blank">Google Scholar</a></div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-github"></i>
+    <div><a href="https://github.com/pedroj" target="_blank">github.com/sBwatts</a></div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-linkedin"></i>
+    <div><a href="https://www.linkedin.com/in/pedro-jordano-2a0961a9/" target="_blank">LinkedIn</a></div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-twitter-x"></i>
+    <div><a href="https://x.com/pedro_jordano" target="_blank">@pedro_jordano</a></div>
+      
+  <div class="contact-item">
+    <i class="bi bi-twitter-x"></i>
+    <div><a href="https://bsky.app/profile/pedro-jordano.bsky.social" target="_blank">@pedro-jordano.bsky.social</a></div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-person-badge-fill"></i>
+    <div style="font-size:0.875rem;">ORCID: <a href="https://orcid.org/0000-0003-2142-9116" target="_blank">0000-0003-2142-9116</a></div>
+  </div>
+
+  <hr style="margin:1.25rem 0;border-color:var(--color-border);">
+
+  <div class="contact-item">
+    <i class="bi bi-geo-alt-fill"></i>
+    <div style="font-size:0.875rem;color:var(--color-text-2);">
+      Estación Biológica de Doñana, CSIC<br>
+      Avda. Americo Vespucio, 26<br>
+      E-41092, Sevilla, Spain
+    </div>
+  </div>
+
+  <hr style="margin:1.25rem 0;border-color:var(--color-border);">
+
+  <a href="cv/cv.pdf" class="btn-primary-custom" target="_blank"
+     style="width:100%;justify-content:center;font-size:0.85rem;display:inline-flex;">
+    <i class="bi bi-file-earmark-person"></i>&nbsp; Download CV
+  </a>
+</div>
+```
+:::
+:::::

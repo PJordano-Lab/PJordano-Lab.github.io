@@ -1,0 +1,58 @@
+---
+title: "Publications"
+pagetitle: "Publications — Pedro Jordano"
+title-block-banner: "#1a1c20"
+toc: true
+toc-title: "Contents"
+
+listing:
+  - id: articles
+    contents: "research/articles/*/index.qmd"
+    sort: "date desc"
+    type: table
+    page-size: 100
+    sort-ui: true
+    filter-ui: true
+    fields: [date, title, pub-journal, authors]
+
+  - id: working-papers
+    contents: "research/working-papers/*/index.qmd"
+    sort: "date desc"
+    type: table
+    page-size: 100
+    sort-ui: false
+    filter-ui: false
+    fields: [date, title, authors]
+
+date-format: "YYYY"
+---
+
+```{r load-stats}
+#| echo: false
+#| message: false
+#| warning: false
+
+stats <- tryCatch(
+  yaml::read_yaml("data/scholar_stats.yml"),
+  error = function(e) list(
+    citations_all = "—",
+    h_index_all   = "—",
+    i10_index_all = "—"
+  )
+)
+
+pubs_n <- tryCatch({
+  nrow(read.csv("data/publications.csv"))
+}, error = function(e) "—")
+```
+
+## Published Articles {#published-articles}
+
+::: {#articles}
+:::
+
+## Working Papers {#working-papers}
+
+<div>
+
+</div>

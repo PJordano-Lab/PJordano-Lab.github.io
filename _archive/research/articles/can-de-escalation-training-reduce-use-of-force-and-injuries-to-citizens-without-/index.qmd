@@ -1,0 +1,21 @@
+---
+title: Can De-escalation Training Reduce Use of Force and Injuries to Citizens Without Risking Officer Safety?
+author: Carlena Orosco, Michael D. White, Seth Watts
+date: '2025-01-06'
+subtitle: Applied police briefings
+doi: 10.22215/apb.v1i3.4996
+citation-url: https://doi.org/10.22215/apb.v1i3.4996
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Applied police briefings
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.22215/apb.v1i3.4996) | [PDF](https://doi.org/10.22215/apb.v1i3.4996) | [OpenAlex](https://openalex.org/W4406202142)

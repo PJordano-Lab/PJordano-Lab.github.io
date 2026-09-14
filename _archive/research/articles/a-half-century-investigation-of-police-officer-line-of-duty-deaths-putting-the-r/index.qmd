@@ -1,0 +1,22 @@
+---
+title: 'A half-century investigation of police officer line-of-duty deaths: putting the recent spike in long-term context'
+author: Michael D. White, Khadija Monk, Seth Watts
+date: '2023-11-16'
+subtitle: Police Practice and Research
+doi: 10.1080/15614263.2023.2267728
+citation-url: https://doi.org/10.1080/15614263.2023.2267728
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Police Practice and Research
+
+**Citations:** 2
+
+## Links
+
+[DOI Link](https://doi.org/10.1080/15614263.2023.2267728) \|
+[OpenAlex](https://openalex.org/W4388734916)

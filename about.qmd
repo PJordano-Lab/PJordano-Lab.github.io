@@ -1,0 +1,116 @@
+---
+title: "Seth Watts, PhD"
+pagetitle: "About — Seth Watts"
+title-block-banner: "#1a1c20"
+---
+
+::: {.grid .about-grid}
+
+::: {.g-col-12 .g-col-md-8 .about-main}
+
+## Research
+
+My work centers on policing, technological innovation, and public health — three domains that increasingly converge as law enforcement agencies adopt new tools and face growing demands for behavioral change.
+
+I study how emerging technologies reshape day-to-day police practice. A significant portion of my research examines **body-worn cameras**: how automated AI-assisted review changes supervisor behavior, officer accountability, and officer acceptance of monitoring systems.
+
+A second thread of my research addresses **de-escalation training** — what it is, what works, and why. This line of work has direct policy relevance as departments face pressure to reduce use-of-force incidents and improve officer-community relationships.
+
+My public health work examines **police responses to opioid overdoses and co-response models**, focusing on how structural arrangements between law enforcement and public health agencies shape outcomes for individuals in crisis.
+
+------------------------------------------------------------------------
+
+## Education
+
+```{=html}
+<div class="edu-item">
+  <p class="edu-degree">PhD, Criminology &amp; Criminal Justice</p>
+  <p class="edu-institution">Arizona State University</p>
+  <p class="edu-year">2024</p>
+</div>
+<div class="edu-item">
+  <p class="edu-degree">MS, Criminology &amp; Criminal Justice</p>
+  <p class="edu-institution">Arizona State University</p>
+  <p class="edu-year">2021</p>
+</div>
+<div class="edu-item">
+  <p class="edu-degree">BA, Psychology</p>
+  <p class="edu-institution">Bowling Green State University</p>
+  <p class="edu-year">2019</p>
+</div>
+```
+
+------------------------------------------------------------------------
+
+## Academic Positions
+
+**Assistant Professor**, School of Criminal Justice and Criminology
+Texas State University · 2025 – present
+
+**Research Affiliate**, Texas Crime & Justice Center
+Texas State University · 2025 – present
+
+**Postdoctoral Researcher**, Center for Violence Prevention & Community Safety
+Arizona State University · 2024 – 2025
+
+:::
+
+::: {.g-col-12 .g-col-md-4 .about-sidebar}
+
+```{=html}
+<div class="contact-card">
+  <h4>Contact &amp; Links</h4>
+
+  <div class="contact-item">
+    <i class="bi bi-envelope-fill"></i>
+    <div><a href="mailto:sbwatts@txstate.edu">sbwatts@txstate.edu</a></div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-mortarboard-fill"></i>
+    <div><a href="https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en" target="_blank">Google Scholar</a></div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-github"></i>
+    <div><a href="https://github.com/sBwatts" target="_blank">github.com/sBwatts</a></div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-linkedin"></i>
+    <div><a href="https://www.linkedin.com/in/sethwatts1/" target="_blank">LinkedIn</a></div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-twitter-x"></i>
+    <div><a href="https://x.com/SethBWatts" target="_blank">@SethBWatts</a></div>
+  </div>
+
+  <div class="contact-item">
+    <i class="bi bi-person-badge-fill"></i>
+    <div style="font-size:0.875rem;">ORCID: <a href="https://orcid.org/0000-0002-5108-9055" target="_blank">0000-0002-5108-9055</a></div>
+  </div>
+
+  <hr style="margin:1.25rem 0;border-color:var(--color-border);">
+
+  <div class="contact-item">
+    <i class="bi bi-geo-alt-fill"></i>
+    <div style="font-size:0.875rem;color:var(--color-text-2);">
+      School of Criminal Justice &amp; Criminology<br>
+      Texas State University<br>
+      San Marcos, TX 78666
+    </div>
+  </div>
+
+  <hr style="margin:1.25rem 0;border-color:var(--color-border);">
+
+  <a href="cv/cv.pdf" class="btn-primary-custom" target="_blank"
+     style="width:100%;justify-content:center;font-size:0.85rem;display:inline-flex;">
+    <i class="bi bi-file-earmark-person"></i>&nbsp; Download CV
+  </a>
+</div>
+```
+
+:::
+
+:::
