@@ -55,6 +55,8 @@ params:
               url: gallery
             - name: Media
               url: media
+            - name: Archive
+              url: archive
             - name: Pedro Jordano
               url: pedro
     socialIcons:
