@@ -1,0 +1,23 @@
+---
+title: "A bird song detector for improving bird identification through deep learning: A case study from Doñana"
+authors: "Alba Márquez‐Rodríguez, Miguel A. Mohedano-Muñoz, Manuel J. Marín‐Jiménez et al."
+date: '2025-07-02'
+pub-journal: "Ecological Informatics"
+doi: 10.1016/j.ecoinf.2025.103254
+citation-url: https://doi.org/10.1016/j.ecoinf.2025.103254
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecological Informatics
+
+**Citations:** 9
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1016/j.ecoinf.2025.103254) | [PDF](https://doi.org/10.1016/j.ecoinf.2025.103254) | [OpenAlex](https://openalex.org/W4411957310)

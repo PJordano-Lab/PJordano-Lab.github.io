@@ -1,0 +1,28 @@
+---
+title: "Seed-dispersal networks in tropical forest fragments: area effects, remnant species, and interaction diversity"
+authors: "Carine Emer, Pedro Jordano, Marco Aurélio Pizo et al."
+date: '2019-07-14'
+pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+doi: 10.1101/701730
+citation-url: https://doi.org/10.1101/701730
+format:
+  html:
+    toc: true
+---
+
+::: {.callout-warning}
+## Preprint
+This is a preprint and has not undergone peer review. Interpret findings with caution.
+:::
+
+## Publication Details
+
+**Published in:** bioRxiv (Cold Spring Harbor Laboratory)
+
+**Citations:** 1
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1101/701730) | [PDF](https://www.biorxiv.org/content/biorxiv/early/2019/10/24/701730.full.pdf) | [OpenAlex](https://openalex.org/W3098796646)

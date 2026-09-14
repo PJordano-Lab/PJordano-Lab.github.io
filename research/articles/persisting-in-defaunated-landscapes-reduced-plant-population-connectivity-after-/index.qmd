@@ -1,0 +1,23 @@
+---
+title: "Persisting in defaunated landscapes: Reduced plant population connectivity after seed dispersal collapse"
+authors: "Néstor Pérez‐Méndez, Pedro Jordano, Alfredo Valido"
+date: '2017-08-12'
+pub-journal: "Journal of Ecology"
+doi: 10.1111/1365-2745.12848
+citation-url: https://doi.org/10.1111/1365-2745.12848
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Ecology
+
+**Citations:** 57
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2745.12848) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.12848) | [OpenAlex](https://openalex.org/W2744231854)

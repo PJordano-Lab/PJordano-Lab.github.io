@@ -52,7 +52,3 @@ pubs_n <- tryCatch({
 :::
 
 ## Working Papers {#working-papers}
-
-<div>
-
-</div>

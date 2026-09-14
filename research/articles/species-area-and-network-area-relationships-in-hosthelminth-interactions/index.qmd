@@ -1,0 +1,23 @@
+---
+title: "Species-area and network-area relationships in host–helminth interactions"
+authors: "Tad Dallas, Pedro Jordano"
+date: '2021-03-24'
+pub-journal: "Proceedings of the Royal Society B Biological Sciences"
+doi: 10.1098/rspb.2020.3143
+citation-url: https://doi.org/10.1098/rspb.2020.3143
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Proceedings of the Royal Society B Biological Sciences
+
+**Citations:** 16
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1098/rspb.2020.3143) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/8059662) | [OpenAlex](https://openalex.org/W3137520524)

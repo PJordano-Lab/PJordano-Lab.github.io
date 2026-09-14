@@ -1,0 +1,21 @@
+---
+title: 'Author response for "Animal‐mediated seed dispersal and the demo‐genetic configuration across plant colonization gradients"'
+authors: "Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al."
+date: '2024-01-22'
+pub-journal: ""
+doi: 10.1111/1365-2745.14280/v2/response1
+citation-url: https://doi.org/10.1111/1365-2745.14280/v2/response1
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** 
+
+**Citations:** 0
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2745.14280/v2/response1) | [OpenAlex](https://openalex.org/W4391953338)

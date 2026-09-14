@@ -1,0 +1,23 @@
+---
+title: "Isolation of 91 polymorphic microsatellite loci in the western Mediterranean endemic Carex helodes (Cyperaceae)"
+authors: "Juan Arroyo, Marcial Escudero, Pedro Jordano"
+date: '2016-01-01'
+pub-journal: "Applications in Plant Sciences"
+doi: 10.3732/apps.1500085
+citation-url: https://doi.org/10.3732/apps.1500085
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Applications in Plant Sciences
+
+**Citations:** 4
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.3732/apps.1500085) | [PDF](https://bsapubs.onlinelibrary.wiley.com/doi/pdfdirect/10.3732/apps.1500085) | [OpenAlex](https://openalex.org/W2277582621)

@@ -1,0 +1,21 @@
+---
+title: "Differences among ant species in plant protection are related to production of extrafloral nectar and degree of leaf herbivory"
+authors: "Roberth Fagundes, Wesley Dáttilo, Sérvio Pontes Ribeiro et al."
+date: '2017-05-09'
+pub-journal: "Biological Journal of the Linnean Society"
+doi: 10.1093/biolinnean/blx059
+citation-url: https://doi.org/10.1093/biolinnean/blx059
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Biological Journal of the Linnean Society
+
+**Citations:** 116
+
+## Links
+
+[DOI Link](https://doi.org/10.1093/biolinnean/blx059) | [OpenAlex](https://openalex.org/W2625191500)

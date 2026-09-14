@@ -1,0 +1,19 @@
+---
+title: "CAMACHO MARTÍNEZ, R.; ASENJO RUBIO, E. y CALDERÓN ROCA, B. (Málaga, 2011). Creación artística y mecenazgo en el desarrollo cultural del mediterráneo en la edad moderna"
+authors: "Pedro Jordano, María Ángeles"
+date: '2012-01-01'
+pub-journal: ""
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** 
+
+**Citations:** 0
+
+## Links
+
+[OpenAlex](https://openalex.org/W2978428507)

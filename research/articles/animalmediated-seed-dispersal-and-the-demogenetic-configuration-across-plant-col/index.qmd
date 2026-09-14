@@ -1,0 +1,21 @@
+---
+title: "Animal‐mediated seed dispersal and the demo‐genetic configuration across plant colonization gradients"
+authors: "Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al."
+date: '2024-02-19'
+pub-journal: "Journal of Ecology"
+doi: 10.1111/1365-2745.14280
+citation-url: https://doi.org/10.1111/1365-2745.14280
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Ecology
+
+**Citations:** 15
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2745.14280) | [OpenAlex](https://openalex.org/W4391941361)

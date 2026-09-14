@@ -1,0 +1,23 @@
+---
+title: "Ecol-Lett_Fuzessy-et-al-2021_Phylogenetic_congruence_between_Neotropical_primates_and_plants"
+authors: "LF Fuzessy, Fernando A. O. Silveira, Laurence Culot et al."
+date: '2021-10-19'
+pub-journal: "Zenodo (CERN European Organization for Nuclear Research)"
+doi: 10.5281/zenodo.5578594
+citation-url: https://doi.org/10.5281/zenodo.5578594
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Zenodo (CERN European Organization for Nuclear Research)
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.5281/zenodo.5578594) | [PDF](https://zenodo.org/record/5578594) | [OpenAlex](https://openalex.org/W4393765873)

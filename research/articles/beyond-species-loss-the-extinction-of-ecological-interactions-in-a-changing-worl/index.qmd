@@ -1,0 +1,23 @@
+---
+title: "Beyond species loss: the extinction of ecological interactions in a changing world"
+authors: "Alfonso Valiente‐Banuet, Marcelo A. Aizen, Julio M. Alcántara et al."
+date: '2014-11-28'
+pub-journal: "Functional Ecology"
+doi: 10.1111/1365-2435.12356
+citation-url: https://doi.org/10.1111/1365-2435.12356
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Functional Ecology
+
+**Citations:** 977
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2435.12356) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2435.12356) | [OpenAlex](https://openalex.org/W2155430569)

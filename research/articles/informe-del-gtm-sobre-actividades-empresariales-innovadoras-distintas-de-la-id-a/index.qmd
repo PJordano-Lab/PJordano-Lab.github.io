@@ -1,0 +1,23 @@
+---
+title: "Informe del GTM sobre actividades empresariales innovadoras distintas de la I+D: apuntes para una nueva política de innovación"
+authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
+date: '2021-05-02'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+doi: 10.20350/digitalcsic/13980
+citation-url: https://doi.org/10.20350/digitalcsic/13980
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.20350/digitalcsic/13980) | [PDF](https://doi.org/10.20350/digitalcsic/13980) | [OpenAlex](https://openalex.org/W3199012148)

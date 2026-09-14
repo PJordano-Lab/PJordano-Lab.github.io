@@ -1,13 +1,16 @@
-citations_all: '173'
-citations_since_2019: '173'
-h_index_all: '7'
-h_index_since_2019: '7'
-i10_index_all: '6'
-i10_index_since_2019: '6'
-name: Seth Watts
-affiliation: Assistant Professor, Texas State University
+citations_all: '48446'
+citations_since_2019: '19089'
+h_index_all: '98'
+h_index_since_2019: '68'
+i10_index_all: '198'
+i10_index_since_2019: '164'
+name: Pedro Jordano
+affiliation: Professor of Research Estación Biol. Doñana, CSIC and Univ. Sevilla ORCID:0000-0003-2142-9116
 interests:
-- policing
-- program evaluation
-profile_url: https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en
-last_updated: '2026-02-13 07:23:56'
+- Coevolution
+- Network science
+- Evolutionary ecology
+- Plant-animal interactions
+- Ecological networks
+profile_url: https://scholar.google.com/citations?user=TrKYqaEAAAAJ&hl=en
+last_updated: '2026-09-14 23:27:48'

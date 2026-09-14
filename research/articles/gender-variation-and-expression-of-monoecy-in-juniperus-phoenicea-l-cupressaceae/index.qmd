@@ -1,0 +1,23 @@
+---
+title: "Gender Variation and Expression of Monoecy in Juniperus phoenicea (L.) (Cupressaceae)"
+authors: "Pedro Jordano"
+date: '1991-12-01'
+pub-journal: "Botanical Gazette"
+doi: 10.1086/337909
+citation-url: https://doi.org/10.1086/337909
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Botanical Gazette
+
+**Citations:** 36
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1086/337909) | [PDF](http://hdl.handle.net/10261/42658) | [OpenAlex](https://openalex.org/W2072785330)

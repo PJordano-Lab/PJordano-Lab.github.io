@@ -1,0 +1,23 @@
+---
+title: "Mating patterns, pollen dispersal, and the ecological maternal neighbourhood in a Prunus mahaleb L. population"
+authors: "Cristina García, J. M. ARROY, José A. Godoy et al."
+date: '2005-04-12'
+pub-journal: "Molecular Ecology"
+doi: 10.1111/j.1365-294x.2005.02542.x
+citation-url: https://doi.org/10.1111/j.1365-294x.2005.02542.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Molecular Ecology
+
+**Citations:** 92
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1365-294x.2005.02542.x) | [PDF](http://hdl.handle.net/10261/40569) | [OpenAlex](https://openalex.org/W2161215580)

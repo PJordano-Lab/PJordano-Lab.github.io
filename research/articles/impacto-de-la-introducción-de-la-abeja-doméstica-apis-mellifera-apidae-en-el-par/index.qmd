@@ -1,0 +1,21 @@
+---
+title: "Impacto de la introducción de la abeja doméstica (Apis mellifera, Apidae) en el Parque Nacional del Teide (Tenerife, Islas Canarias)"
+authors: "A. Valido, M.C. Rodríguez-Rodríguez, Pedro Jordano"
+date: '2014-01-01'
+pub-journal: "DOAJ (DOAJ: Directory of Open Access Journals)"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DOAJ (DOAJ: Directory of Open Access Journals)
+
+**Citations:** 1
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](https://doaj.org/article/80e1abbb4b3b40c2850339e8ea97bcca) | [OpenAlex](https://openalex.org/W4311065816)

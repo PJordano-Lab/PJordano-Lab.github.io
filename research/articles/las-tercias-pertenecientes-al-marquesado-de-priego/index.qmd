@@ -1,0 +1,19 @@
+---
+title: "Las tercias pertenecientes al marquesado de Priego"
+authors: "Pedro Jordano, M. Ángeles"
+date: '2013-01-01'
+pub-journal: "Ambitos: revista de estudios de ciencias sociales y humanidades"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ambitos: revista de estudios de ciencias sociales y humanidades
+
+**Citations:** 0
+
+## Links
+
+[OpenAlex](https://openalex.org/W2153721144)

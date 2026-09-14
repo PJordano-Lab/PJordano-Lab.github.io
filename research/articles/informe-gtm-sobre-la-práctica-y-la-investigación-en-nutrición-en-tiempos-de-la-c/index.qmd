@@ -1,0 +1,23 @@
+---
+title: "Informe GTM sobre la Práctica y la Investigación en Nutrición en Tiempos de la COVID-19"
+authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
+date: '2020-10-28'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+doi: 10.20350/digitalcsic/13720
+citation-url: https://doi.org/10.20350/digitalcsic/13720
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 1
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.20350/digitalcsic/13720) | [PDF](http://hdl.handle.net/10261/227603) | [OpenAlex](https://openalex.org/W3133893307)

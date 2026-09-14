@@ -1,0 +1,23 @@
+---
+title: "Invariant properties in coevolutionary networks of plant–animal interactions"
+authors: "Pedro Jordano, Jordi Bascompte, Jens M. Olesen"
+date: '2002-12-13'
+pub-journal: "Ecology Letters"
+doi: 10.1046/j.1461-0248.2003.00403.x
+citation-url: https://doi.org/10.1046/j.1461-0248.2003.00403.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecology Letters
+
+**Citations:** 882
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1046/j.1461-0248.2003.00403.x) | [PDF](http://hdl.handle.net/10261/41710) | [OpenAlex](https://openalex.org/W2096871615)

@@ -1,0 +1,28 @@
+---
+title: "Global and regional ecological boundaries drive abrupt changes in avian frugivory interactions"
+authors: "Lucas Pereira Martins, Daniel B. Stouffer, Pedro G. Blendinger et al."
+date: '2021-09-20'
+pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+doi: 10.1101/2021.09.18.460873
+citation-url: https://doi.org/10.1101/2021.09.18.460873
+format:
+  html:
+    toc: true
+---
+
+::: {.callout-warning}
+## Preprint
+This is a preprint and has not undergone peer review. Interpret findings with caution.
+:::
+
+## Publication Details
+
+**Published in:** bioRxiv (Cold Spring Harbor Laboratory)
+
+**Citations:** 4
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1101/2021.09.18.460873) | [PDF](https://www.biorxiv.org/content/biorxiv/early/2021/09/20/2021.09.18.460873.full.pdf) | [OpenAlex](https://openalex.org/W3199341283)

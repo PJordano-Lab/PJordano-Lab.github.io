@@ -1,0 +1,23 @@
+---
+title: "Phylogenetic congruence between Neotropical primates and plants is driven by frugivory"
+authors: "Lisieux Fuzessy, Fernando A. O. Silveira, Laurence Culot et al."
+date: '2021-11-13'
+pub-journal: "Ecology Letters"
+doi: 10.1111/ele.13918
+citation-url: https://doi.org/10.1111/ele.13918
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecology Letters
+
+**Citations:** 30
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/ele.13918) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13918) | [OpenAlex](https://openalex.org/W3164401628)

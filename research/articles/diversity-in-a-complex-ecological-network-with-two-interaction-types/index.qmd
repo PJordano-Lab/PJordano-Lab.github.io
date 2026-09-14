@@ -1,0 +1,23 @@
+---
+title: "Diversity in a complex ecological network with two interaction types"
+authors: "Carlos J. Melián, Jordi Bascompte, Pedro Jordano et al."
+date: '2008-11-06'
+pub-journal: "Oikos"
+doi: 10.1111/j.1600-0706.2008.16751.x
+citation-url: https://doi.org/10.1111/j.1600-0706.2008.16751.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Oikos
+
+**Citations:** 239
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1600-0706.2008.16751.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1600-0706.2008.16751.x) | [OpenAlex](https://openalex.org/W2144199228)

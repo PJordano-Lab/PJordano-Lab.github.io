@@ -1,0 +1,23 @@
+---
+title: "Build-up mechanisms determining the topology of mutualistic networks"
+authors: "Paulo R. Guimarães, Glauco Machado, Marcus A. M. de Aguiar et al."
+date: '2007-08-20'
+pub-journal: "Journal of Theoretical Biology"
+doi: 10.1016/j.jtbi.2007.08.004
+citation-url: https://doi.org/10.1016/j.jtbi.2007.08.004
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Theoretical Biology
+
+**Citations:** 47
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1016/j.jtbi.2007.08.004) | [PDF](http://hdl.handle.net/10261/38512) | [OpenAlex](https://openalex.org/W1969063420)

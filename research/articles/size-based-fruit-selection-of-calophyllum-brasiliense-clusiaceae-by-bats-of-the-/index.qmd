@@ -1,0 +1,23 @@
+---
+title: "Size-based fruit selection of Calophyllum brasiliense (Clusiaceae) by bats of the genus Artibeus (Phyllostomidae) in a Restinga area, southeastern Brazil"
+authors: "Marco A. R. Mello, Natália Oliveira Leiner, Paulo R. Guimarães et al."
+date: '2005-06-01'
+pub-journal: "Acta Chiropterologica"
+doi: 10.3161/1733-5329(2005)7[179:sfsocb]2.0.co;2
+citation-url: https://doi.org/10.3161/1733-5329(2005)7[179:sfsocb]2.0.co;2
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Acta Chiropterologica
+
+**Citations:** 29
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.3161/1733-5329(2005)7[179:sfsocb]2.0.co;2) | [PDF](http://hdl.handle.net/10261/40568) | [OpenAlex](https://openalex.org/W2175201082)

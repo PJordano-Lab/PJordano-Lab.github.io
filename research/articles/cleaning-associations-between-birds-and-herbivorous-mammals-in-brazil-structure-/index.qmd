@@ -1,0 +1,23 @@
+---
+title: "Cleaning associations between birds and herbivorous mammals in Brazil: Structure and complexity"
+authors: "Cristina Sazima, Pedro Jordano, Paulo R. Guimarães et al."
+date: '2012-01-01'
+pub-journal: "The Auk"
+doi: 10.1525/auk.2011.11144
+citation-url: https://doi.org/10.1525/auk.2011.11144
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** The Auk
+
+**Citations:** 36
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1525/auk.2011.11144) | [PDF](https://academic.oup.com/auk/article-pdf/129/1/36/26880233/auk0036.pdf) | [OpenAlex](https://openalex.org/W2161729683)

@@ -1,0 +1,21 @@
+---
+title: "Redes complejas de interacciones planta-animal"
+authors: "Pedro Jordano, Diego Ezequiel Vázquez, Jordi Bascompte"
+date: '2009-01-01'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 11
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](http://hdl.handle.net/10261/40617) | [OpenAlex](https://openalex.org/W1623546747)

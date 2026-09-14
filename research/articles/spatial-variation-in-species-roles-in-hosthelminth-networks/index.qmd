@@ -1,0 +1,23 @@
+---
+title: "Spatial variation in species' roles in host–helminth networks"
+authors: "Tad Dallas, Pedro Jordano"
+date: '2021-09-20'
+pub-journal: "Philosophical Transactions of the Royal Society B Biological Sciences"
+doi: 10.1098/rstb.2020.0361
+citation-url: https://doi.org/10.1098/rstb.2020.0361
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Philosophical Transactions of the Royal Society B Biological Sciences
+
+**Citations:** 9
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1098/rstb.2020.0361) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2020.0361) | [OpenAlex](https://openalex.org/W3200047260)

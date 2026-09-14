@@ -1,0 +1,23 @@
+---
+title: "Coevolution in Multispecific Interactions among Free-Living Species"
+authors: "Pedro Jordano"
+date: '2009-12-28'
+pub-journal: "Evolution Education and Outreach"
+doi: 10.1007/s12052-009-0197-1
+citation-url: https://doi.org/10.1007/s12052-009-0197-1
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Evolution Education and Outreach
+
+**Citations:** 32
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1007/s12052-009-0197-1) | [PDF](https://evolution-outreach.biomedcentral.com/counter/pdf/10.1007/s12052-009-0197-1) | [OpenAlex](https://openalex.org/W2084952252)

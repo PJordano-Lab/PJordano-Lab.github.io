@@ -14,7 +14,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Seth Watts, PhD"
+  title: "Pedro Jordano Lab"
   navbar:
     background: light
     foreground: dark
@@ -37,28 +37,28 @@ website:
         text: CV
     tools:
       - icon: github
-        href: https://github.com/sBwatts
+        href: https://github.com/pedroj
         target: _blank
       - icon: twitter-x
-        href: https://x.com/SethBWatts
+        href: https://x.com/pedro_jordano
         target: _blank
       - icon: linkedin
-        href: https://www.linkedin.com/in/sethwatts1/
+        href: https://www.linkedin.com/in/pedro-jordano-2a0961a9/
         target: _blank
 
   page-footer:
-    center: "Seth Watts &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: "Pedro Jordano &copy; <script>document.write(new Date().getFullYear())</script>"
     right:
       - icon: github
-        href: https://github.com/sBwatts
+        href: https://github.com/pedroj
         target: _blank
       - icon: linkedin
         href: https://www.linkedin.com/in/sethwatts1/
         target: _blank
       - icon: envelope
-        href: mailto:sbwatts@txstate.edu
+        href: mailto:jordano@ebd.csic.es
 
-  site-url: https://www.sethbwatts.com/
+  site-url: https://pjordanolab.github.io/
 
 format:
   html:

@@ -1,0 +1,21 @@
+---
+title: "El ciclo anual de los Paseriformes frugívoros en el matorral mediterráneo del sur de España: importancia de su invernada y variaciones interanuales"
+authors: "Pedro Jordano"
+date: '1985-06-01'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 58
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](http://hdl.handle.net/10261/45077) | [OpenAlex](https://openalex.org/W973156700)

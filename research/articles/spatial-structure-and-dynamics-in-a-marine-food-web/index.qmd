@@ -1,0 +1,23 @@
+---
+title: "Spatial structure and dynamics in a marine food web"
+authors: "Carlos J. Melián, Jordi Bascompte, Pedro Jordano"
+date: '2005-04-07'
+pub-journal: ""
+doi: 10.1093/acprof:oso/9780198564836.003.0003
+citation-url: https://doi.org/10.1093/acprof:oso/9780198564836.003.0003
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** 
+
+**Citations:** 9
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1093/acprof:oso/9780198564836.003.0003) | [PDF](http://hdl.handle.net/10261/40607) | [OpenAlex](https://openalex.org/W126296694)

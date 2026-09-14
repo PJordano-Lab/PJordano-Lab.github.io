@@ -28,8 +28,9 @@ listing:
 ```
 
 ::: research-chips
-[Policing]{.chip} [Technology & AI]{.chip} [Body-Worn Cameras]{.chip}
-[De-escalation]{.chip} [Public Health]{.chip} [Program Evaluation]{.chip}
+Ecology Conservation Biology Complex networks Ecological interactions
+Biodiversity Tropical ecology Mutualisms Plant-animal interactions Dispersal and
+gene flow
 :::
 
 ```{=html}
@@ -37,8 +38,8 @@ listing:
   <a href="research.html" class="btn-primary-custom">
     <i class="bi bi-journal-text"></i> Publications
   </a>
-  <a href="cv/cv.pdf" class="btn-outline-custom" target="_blank">
-    <i class="bi bi-file-earmark-person"></i> Download CV
+  <a href="cv/cv_profile.pdf" class="btn-outline-custom" target="_blank">
+    <i class="bi bi-file-earmark-person"></i> Dwnld Profile
   </a>
   <a href="mailto:jordano@ebd.csic.es" class="btn-outline-custom">
     <i class="bi bi-envelope"></i> Contact
@@ -48,7 +49,7 @@ listing:
 ::::
 
 ::: hero-photo
-<img src="headshot.jpeg" alt="Seth Watts" class="hero-headshot"/>
+<img src="headshot.jpeg" alt="Seth Watts" class="hero-headshot" fig-alt="Pedro Jordano"/>
 :::
 ::::::
 

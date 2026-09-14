@@ -1,0 +1,21 @@
+---
+title: "Global geographic patterns in the colours and sizes of animal‐dispersed fruits"
+authors: "Miranda Sinnott‐Armstrong, Alexander E. Downie, Sarah Federman et al."
+date: '2018-10-11'
+pub-journal: "Global Ecology and Biogeography"
+doi: 10.1111/geb.12801
+citation-url: https://doi.org/10.1111/geb.12801
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Global Ecology and Biogeography
+
+**Citations:** 67
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/geb.12801) | [OpenAlex](https://openalex.org/W2898264394)

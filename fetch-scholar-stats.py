@@ -99,8 +99,9 @@ class GoogleScholarStats:
         output_file = Path(output_path)
         output_file.parent.mkdir(parents=True, exist_ok=True)
 
-        with open(output_file, 'w') as f:
-            yaml.dump(self.stats, f, default_flow_style=False, sort_keys=False)
+        with open(output_file, 'w', encoding='utf-8') as f:
+            yaml.dump(self.stats, f, default_flow_style=False, sort_keys=False,
+                      allow_unicode=True)
 
         print(f"✓ Saved Google Scholar stats to {output_file}")
         return output_file

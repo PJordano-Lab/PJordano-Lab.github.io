@@ -1,0 +1,23 @@
+---
+title: "Reorganization without disruption: How fire‐driven spatiotemporal changes in floral resource landscapes influence plant–bee interaction networks"
+authors: "Caio S. Ballarin, Elena Quintero, Jorge Isla et al."
+date: '2026-07-31'
+pub-journal: "Journal of Applied Ecology"
+doi: 10.1111/1365-2664.70519
+citation-url: https://doi.org/10.1111/1365-2664.70519
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Applied Ecology
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2664.70519) | [PDF](https://doi.org/10.1111/1365-2664.70519) | [OpenAlex](https://openalex.org/W7172032044)

@@ -1,0 +1,19 @@
+---
+title: "Spatial and Temporal Dynamics of Seed Rain and Seedling Emergence in Animal-Dispersed Species: Bridging Dispersal and Establishment"
+authors: "Eugene W. Schupp, Arndt Hampe, Juan Luis García‐Castaño et al."
+date: '2005-01-01'
+pub-journal: "Digital Commons - USU (Utah State University)"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Digital Commons - USU (Utah State University)
+
+**Citations:** 0
+
+## Links
+
+[OpenAlex](https://openalex.org/W153752343)

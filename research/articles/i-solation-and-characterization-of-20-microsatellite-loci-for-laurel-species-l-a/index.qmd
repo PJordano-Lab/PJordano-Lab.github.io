@@ -1,0 +1,19 @@
+---
+title: "I SOLATION AND CHARACTERIZATION OF 20 MICROSATELLITE LOCI FOR LAUREL SPECIES ( L AURUS , LAURACEAE) 1"
+authors: "Juan Arroyo, Cristina Rigueiro, Arndt Hampe et al."
+date: '2010-01-01'
+pub-journal: ""
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** 
+
+**Citations:** 0
+
+## Links
+
+[OpenAlex](https://openalex.org/W2185268743)

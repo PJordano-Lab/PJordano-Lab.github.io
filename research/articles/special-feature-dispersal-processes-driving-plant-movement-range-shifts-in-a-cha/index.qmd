@@ -1,0 +1,19 @@
+---
+title: "Special Feature: Dispersal processes driving plant movement: range shifts in a changing world."
+authors: "Carolina García, Etienne K. Klein, Pedro Jordano"
+date: '2017-01-01'
+pub-journal: ""
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** 
+
+**Citations:** 0
+
+## Links
+
+[OpenAlex](https://openalex.org/W3099870126)

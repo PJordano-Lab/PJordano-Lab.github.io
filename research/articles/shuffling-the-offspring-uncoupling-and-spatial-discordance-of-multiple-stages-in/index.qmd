@@ -1,0 +1,23 @@
+---
+title: "Shuffling the offspring: Uncoupling and spatial discordance of multiple stages in vertebrate seed dispersal"
+authors: "Pedro Jordano, Carlos M. Herrera"
+date: '1995-01-01'
+pub-journal: "Ecoscience"
+doi: 10.1080/11956860.1995.11682288
+citation-url: https://doi.org/10.1080/11956860.1995.11682288
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecoscience
+
+**Citations:** 235
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1080/11956860.1995.11682288) | [PDF](http://hdl.handle.net/10261/42308) | [OpenAlex](https://openalex.org/W150323889)

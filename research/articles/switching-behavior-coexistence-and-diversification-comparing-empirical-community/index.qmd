@@ -1,0 +1,23 @@
+---
+title: "Switching behavior, coexistence and diversification: comparing empirical community‐wide evidence with theoretical predictions"
+authors: "Jofre Carnicer, Peter A. Abrams, Pedro Jordano"
+date: '2008-04-28'
+pub-journal: "Ecology Letters"
+doi: 10.1111/j.1461-0248.2008.01195.x
+citation-url: https://doi.org/10.1111/j.1461-0248.2008.01195.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecology Letters
+
+**Citations:** 51
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1461-0248.2008.01195.x) | [PDF](http://hdl.handle.net/10261/38403) | [OpenAlex](https://openalex.org/W2139969991)

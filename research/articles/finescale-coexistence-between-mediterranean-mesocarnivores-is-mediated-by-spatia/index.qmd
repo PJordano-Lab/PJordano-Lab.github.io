@@ -1,0 +1,23 @@
+---
+title: "Fine‐scale coexistence between Mediterranean mesocarnivores is mediated by spatial, temporal, and trophic resource partitioning"
+authors: "Iago Ferreiro‐Arias, Jorge Isla, Pedro Jordano et al."
+date: '2021-11-01'
+pub-journal: "Ecology and Evolution"
+doi: 10.1002/ece3.8077
+citation-url: https://doi.org/10.1002/ece3.8077
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecology and Evolution
+
+**Citations:** 60
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1002/ece3.8077) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.8077) | [OpenAlex](https://openalex.org/W3213172641)

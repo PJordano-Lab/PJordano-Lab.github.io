@@ -1,0 +1,23 @@
+---
+title: "Extant fruit‐eating birds promote genetically diverse seed rain, but disperse to fewer sites in defaunated tropical forests"
+authors: "Carolina da Silva Carvalho, Cristina García, Marília Souza Lucas et al."
+date: '2020-10-29'
+pub-journal: "Journal of Ecology"
+doi: 10.1111/1365-2745.13534
+citation-url: https://doi.org/10.1111/1365-2745.13534
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Ecology
+
+**Citations:** 25
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2745.13534) | [PDF](http://hdl.handle.net/11449/205554) | [OpenAlex](https://openalex.org/W3096898643)

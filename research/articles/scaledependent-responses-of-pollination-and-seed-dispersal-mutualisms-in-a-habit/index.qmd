@@ -1,0 +1,23 @@
+---
+title: "Scale‐dependent responses of pollination and seed dispersal mutualisms in a habitat transformation scenario"
+authors: "Francisco E. Fontúrbel, Pedro Jordano, Rodrigo Medel"
+date: '2015-06-27'
+pub-journal: "Journal of Ecology"
+doi: 10.1111/1365-2745.12443
+citation-url: https://doi.org/10.1111/1365-2745.12443
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Ecology
+
+**Citations:** 49
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2745.12443) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.12443) | [OpenAlex](https://openalex.org/W2104863582)

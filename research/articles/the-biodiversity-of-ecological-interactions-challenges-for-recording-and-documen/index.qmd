@@ -1,0 +1,23 @@
+---
+title: "The Biodiversity of Ecological Interactions: Challenges for recording and documenting the Web of Life"
+authors: "Pedro Jordano"
+date: '2021-09-21'
+pub-journal: "Biodiversity Information Science and Standards"
+doi: 10.3897/biss.5.75564
+citation-url: https://doi.org/10.3897/biss.5.75564
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Biodiversity Information Science and Standards
+
+**Citations:** 24
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.3897/biss.5.75564) | [PDF](https://biss.pensoft.net/article/75564/download/pdf/) | [OpenAlex](https://openalex.org/W3201449494)

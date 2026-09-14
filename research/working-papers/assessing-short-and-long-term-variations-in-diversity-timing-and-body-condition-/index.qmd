@@ -1,0 +1,28 @@
+---
+title: "Assessing short- and long-term variations in diversity, timing, and body condition of migratory frugivorous birds"
+authors: "María Campo‐Celada, Irene Mendoza, Ana Benítez‐López et al."
+date: '2020-10-27'
+pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+doi: 10.1101/2020.10.27.356709
+citation-url: https://doi.org/10.1101/2020.10.27.356709
+format:
+  html:
+    toc: true
+---
+
+::: {.callout-warning}
+## Preprint
+This is a preprint and has not undergone peer review. Interpret findings with caution.
+:::
+
+## Publication Details
+
+**Published in:** bioRxiv (Cold Spring Harbor Laboratory)
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1101/2020.10.27.356709) | [PDF](https://www.biorxiv.org/content/biorxiv/early/2020/10/27/2020.10.27.356709.full.pdf) | [OpenAlex](https://openalex.org/W3095798247)

@@ -1,0 +1,23 @@
+---
+title: "Plant-animal mutualism effectiveness in native and transformed habitats: Assessing the coupled outcomes of pollination and seed dispersal"
+authors: "Francisco E. Fontúrbel, Pedro Jordano, Rodrigo Medel"
+date: '2017-09-18'
+pub-journal: "Perspectives in Plant Ecology Evolution and Systematics"
+doi: 10.1016/j.ppees.2017.09.003
+citation-url: https://doi.org/10.1016/j.ppees.2017.09.003
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Perspectives in Plant Ecology Evolution and Systematics
+
+**Citations:** 31
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1016/j.ppees.2017.09.003) | [PDF](http://repositorio.uchile.cl/handle/2250/148534) | [OpenAlex](https://openalex.org/W2755919136)

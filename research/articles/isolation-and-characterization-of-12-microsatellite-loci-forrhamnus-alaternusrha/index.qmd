@@ -1,0 +1,23 @@
+---
+title: "Isolation and characterization of 12 microsatellite loci forRhamnus alaternus(Rhamnaceae)"
+authors: "Juan Arroyo, Rocío Rodríguez‐Arcos, Cristina Rigueiro et al."
+date: '2009-03-20'
+pub-journal: "Molecular Ecology Resources"
+doi: 10.1111/j.1755-0998.2009.02657.x
+citation-url: https://doi.org/10.1111/j.1755-0998.2009.02657.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Molecular Ecology Resources
+
+**Citations:** 4
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1755-0998.2009.02657.x) | [PDF](http://hdl.handle.net/10261/38386) | [OpenAlex](https://openalex.org/W2018815662)

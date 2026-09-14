@@ -1,0 +1,21 @@
+---
+title: "Ligando Frugivoria e Dispersão de Sementes à Biologia da Conservação"
+authors: "Pedro Jordano, Mauro Galetti, Pizo et al."
+date: '2006-01-01'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 64
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](http://hdl.handle.net/10261/40575) | [OpenAlex](https://openalex.org/W152010290)

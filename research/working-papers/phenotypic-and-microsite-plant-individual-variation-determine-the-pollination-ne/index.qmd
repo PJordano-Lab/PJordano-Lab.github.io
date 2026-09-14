@@ -1,0 +1,28 @@
+---
+title: "Phenotypic and microsite plant individual variation determine the pollination network structure and its functional consequences"
+authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano"
+date: '2020-03-05'
+pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+doi: 10.1101/2020.03.03.974899
+citation-url: https://doi.org/10.1101/2020.03.03.974899
+format:
+  html:
+    toc: true
+---
+
+::: {.callout-warning}
+## Preprint
+This is a preprint and has not undergone peer review. Interpret findings with caution.
+:::
+
+## Publication Details
+
+**Published in:** bioRxiv (Cold Spring Harbor Laboratory)
+
+**Citations:** 1
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1101/2020.03.03.974899) | [PDF](https://www.biorxiv.org/content/biorxiv/early/2020/03/05/2020.03.03.974899.full.pdf) | [OpenAlex](https://openalex.org/W3010110029)

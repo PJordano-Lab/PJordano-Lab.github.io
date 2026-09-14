@@ -1,0 +1,23 @@
+---
+title: "Appendix C. Dissimilarity dendrograms for plant species for Networks 1990 and 2000."
+authors: "Cecilia Díaz‐Castelazo, Paulo R. Guimarães, Pedro Jordano et al."
+date: '2016-01-01'
+pub-journal: "Figshare"
+doi: 10.6084/m9.figshare.3544472
+citation-url: https://doi.org/10.6084/m9.figshare.3544472
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Figshare
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.6084/m9.figshare.3544472) | [PDF](https://doi.org/10.6084/m9.figshare.3544472) | [OpenAlex](https://openalex.org/W4394498099)

@@ -1,0 +1,23 @@
+---
+title: "Spatial variation of post-dispersal seed removal by rodents in highland microhabitats of Spain and Switzerland"
+authors: "Juan Luis García‐Castaño, Johannes Kollmann, Pedro Jordano"
+date: '2006-09-01'
+pub-journal: "Seed Science Research"
+doi: 10.1079/ssr2006245
+citation-url: https://doi.org/10.1079/ssr2006245
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Seed Science Research
+
+**Citations:** 28
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1079/ssr2006245) | [PDF](https://curis.ku.dk/ws/files/10761741/Garcia-Castano_et_al._2006__pre-print_.pdf) | [OpenAlex](https://openalex.org/W2163313664)

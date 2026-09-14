@@ -1,0 +1,23 @@
+---
+title: "Optimising daily sampling of plant–bee interaction networks"
+authors: "Caio S. Ballarin, Jorge Isla, Blanca Arroyo‐Correa et al."
+date: '2026-07-15'
+pub-journal: "Journal of Animal Ecology"
+doi: 10.1111/1365-2656.70309
+citation-url: https://doi.org/10.1111/1365-2656.70309
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Animal Ecology
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2656.70309) | [PDF](https://doi.org/10.1111/1365-2656.70309) | [OpenAlex](https://openalex.org/W7168349102)

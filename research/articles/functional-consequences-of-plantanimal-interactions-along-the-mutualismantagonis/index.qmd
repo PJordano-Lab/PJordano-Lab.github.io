@@ -1,0 +1,23 @@
+---
+title: "Functional consequences of plant‐animal interactions along the mutualism‐antagonism gradient"
+authors: "María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido"
+date: '2017-01-30'
+pub-journal: "Ecology"
+doi: 10.1002/ecy.1756
+citation-url: https://doi.org/10.1002/ecy.1756
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecology
+
+**Citations:** 54
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1002/ecy.1756) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.1756) | [OpenAlex](https://openalex.org/W2581996291)

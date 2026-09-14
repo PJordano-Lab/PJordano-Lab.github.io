@@ -1,0 +1,23 @@
+---
+title: "Defaunation precipitates the extinction of evolutionarily distinct interactions in the Anthropocene"
+authors: "Carine Emer, Mauro Galetti, Marco Aurélio Pizo et al."
+date: '2019-06-01'
+pub-journal: "Science Advances"
+doi: 10.1126/sciadv.aav6699
+citation-url: https://doi.org/10.1126/sciadv.aav6699
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Science Advances
+
+**Citations:** 65
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1126/sciadv.aav6699) | [PDF](https://advances.sciencemag.org/content/advances/5/6/eaav6699.full.pdf) | [OpenAlex](https://openalex.org/W2952917773)

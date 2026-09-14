@@ -1,0 +1,21 @@
+---
+title: "Patterns and drivers of tree fecundity in Pedunculate oak (Quercus robur) refugial populations at the species’ southern range margin"
+authors: "Eva Moracho, Pedro Jordano, Arndt Hampe"
+date: '2017-01-01'
+pub-journal: "HAL (Le Centre pour la Communication Scientifique Directe)"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** HAL (Le Centre pour la Communication Scientifique Directe)
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](https://hal.inrae.fr/hal-02737294) | [OpenAlex](https://openalex.org/W4206886002)

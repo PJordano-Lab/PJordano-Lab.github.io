@@ -1,0 +1,21 @@
+---
+title: 'Response to Comment on "Asymmetric Coevolutionary Networks Facilitate Biodiversity Maintenance"'
+authors: "Jordi Bascompte, Pedro Jordano, Jens M. Olesen"
+date: '2006-09-28'
+pub-journal: "Science"
+doi: 10.1126/science.1129628
+citation-url: https://doi.org/10.1126/science.1129628
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Science
+
+**Citations:** 23
+
+## Links
+
+[DOI Link](https://doi.org/10.1126/science.1129628) | [OpenAlex](https://openalex.org/W2115760600)

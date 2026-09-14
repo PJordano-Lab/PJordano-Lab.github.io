@@ -1,0 +1,23 @@
+---
+title: "Data from: The biodiversity of plant-frugivore interactions: types, functions, and consequences"
+authors: "Pedro Jordano"
+date: '2026-04-10'
+pub-journal: "Zenodo (CERN European Organization for Nuclear Research)"
+doi: 10.5281/zenodo.19482637
+citation-url: https://doi.org/10.5281/zenodo.19482637
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Zenodo (CERN European Organization for Nuclear Research)
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.5281/zenodo.19482637) | [PDF](https://doi.org/10.5281/zenodo.19482637) | [OpenAlex](https://openalex.org/W7152961901)

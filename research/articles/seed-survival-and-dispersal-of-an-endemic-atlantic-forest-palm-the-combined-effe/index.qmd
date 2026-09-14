@@ -1,0 +1,23 @@
+---
+title: "Seed survival and dispersal of an endemic Atlantic forest palm: the combined effects of defaunation and forest fragmentation"
+authors: "Mauro Galetti, Camila I. Donatti, Alexandra S. Pires et al."
+date: '2006-05-01'
+pub-journal: "Botanical Journal of the Linnean Society"
+doi: 10.1111/j.1095-8339.2006.00529.x
+citation-url: https://doi.org/10.1111/j.1095-8339.2006.00529.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Botanical Journal of the Linnean Society
+
+**Citations:** 266
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1095-8339.2006.00529.x) | [PDF](https://academic.oup.com/botlinnean/article-pdf/151/1/141/17031911/j.1095-8339.2006.00529.x.pdf) | [OpenAlex](https://openalex.org/W2117876669)

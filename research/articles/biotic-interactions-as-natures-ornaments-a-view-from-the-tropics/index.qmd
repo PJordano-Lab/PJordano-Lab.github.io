@@ -1,0 +1,23 @@
+---
+title: "Biotic Interactions as Nature's Ornaments: A View from the Tropics"
+authors: "Pedro Jordano"
+date: '2014-06-10'
+pub-journal: "BioScience"
+doi: 10.1093/biosci/biu081
+citation-url: https://doi.org/10.1093/biosci/biu081
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** BioScience
+
+**Citations:** 1
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1093/biosci/biu081) | [PDF](https://academic.oup.com/bioscience/article-pdf/64/7/630/8718787/biu081.pdf) | [OpenAlex](https://openalex.org/W2118433593)

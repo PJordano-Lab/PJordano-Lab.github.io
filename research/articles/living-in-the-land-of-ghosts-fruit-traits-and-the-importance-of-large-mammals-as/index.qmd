@@ -1,0 +1,23 @@
+---
+title: "Living in the land of ghosts: fruit traits and the importance of large mammals as seed dispersers in the Pantanal, Brazil."
+authors: "Camila I. Donatti, Mauro Galetti, Marco Aurélio Pizo et al."
+date: '2007-01-01'
+pub-journal: "CABI eBooks"
+doi: 10.1079/9781845931650.0104
+citation-url: https://doi.org/10.1079/9781845931650.0104
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** CABI eBooks
+
+**Citations:** 62
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1079/9781845931650.0104) | [PDF](http://hdl.handle.net/11449/227373) | [OpenAlex](https://openalex.org/W1485096388)

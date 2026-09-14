@@ -1,0 +1,23 @@
+---
+title: "Unravelling seed dispersal through fragmented landscapes: Frugivore species operate unevenly as mobile links"
+authors: "Juan P. González‐Varo, Carolina da Silva Carvalho, Juan Arroyo et al."
+date: '2017-05-14'
+pub-journal: "Molecular Ecology"
+doi: 10.1111/mec.14181
+citation-url: https://doi.org/10.1111/mec.14181
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Molecular Ecology
+
+**Citations:** 139
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/mec.14181) | [PDF](http://hdl.handle.net/10498/34836) | [OpenAlex](https://openalex.org/W2613192855)

@@ -1,0 +1,23 @@
+---
+title: "Birds see the true colours of fruits to live off the fat of the land"
+authors: "H. Martin Schaefer, Alfredo Valido, Pedro Jordano"
+date: '2014-01-08'
+pub-journal: "Proceedings of the Royal Society B Biological Sciences"
+doi: 10.1098/rspb.2013.2516
+citation-url: https://doi.org/10.1098/rspb.2013.2516
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Proceedings of the Royal Society B Biological Sciences
+
+**Citations:** 93
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1098/rspb.2013.2516) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/3896014) | [OpenAlex](https://openalex.org/W2110312377)

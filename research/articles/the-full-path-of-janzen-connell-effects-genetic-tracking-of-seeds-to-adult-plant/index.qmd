@@ -1,0 +1,23 @@
+---
+title: "The full path of Janzen-Connell effects: genetic tracking of seeds to adult plant recruitment"
+authors: "Eugene W. Schupp, Pedro Jordano"
+date: '2011-09-26'
+pub-journal: "Molecular Ecology"
+doi: 10.1111/j.1365-294x.2011.05202.x
+citation-url: https://doi.org/10.1111/j.1365-294x.2011.05202.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Molecular Ecology
+
+**Citations:** 27
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1365-294x.2011.05202.x) | [PDF](http://hdl.handle.net/10261/42693) | [OpenAlex](https://openalex.org/W2157438799)

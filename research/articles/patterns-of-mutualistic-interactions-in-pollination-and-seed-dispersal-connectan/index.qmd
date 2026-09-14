@@ -1,0 +1,23 @@
+---
+title: "Patterns of Mutualistic Interactions in Pollination and Seed Dispersal: Connectance, Dependence Asymmetries, and Coevolution"
+authors: "Pedro Jordano"
+date: '1987-05-01'
+pub-journal: "The American Naturalist"
+doi: 10.1086/284665
+citation-url: https://doi.org/10.1086/284665
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** The American Naturalist
+
+**Citations:** 829
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1086/284665) | [PDF](http://hdl.handle.net/10261/42668) | [OpenAlex](https://openalex.org/W2036159265)

@@ -1,0 +1,21 @@
+---
+title: "Curso Latino Americano de Frugivoria e Dispersão de Sementes"
+authors: "Pedro Jordano, Mauro Galetti"
+date: '2010-09-23'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](http://hdl.handle.net/10261/36390) | [OpenAlex](https://openalex.org/W1582813124)

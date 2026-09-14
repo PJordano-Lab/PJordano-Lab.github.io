@@ -1,0 +1,23 @@
+---
+title: "Frugivore‐Mediated Selection on Fruit and Seed Size: Birds and St. Lucie's Cherry, Prunus Mahaleb"
+authors: "Pedro Jordano"
+date: '1995-12-01'
+pub-journal: "Ecology"
+doi: 10.2307/2265833
+citation-url: https://doi.org/10.2307/2265833
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecology
+
+**Citations:** 177
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.2307/2265833) | [PDF](http://hdl.handle.net/10261/42642) | [OpenAlex](https://openalex.org/W2002734223)

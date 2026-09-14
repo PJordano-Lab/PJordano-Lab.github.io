@@ -1,0 +1,28 @@
+---
+title: "A Machine Learning Application to Camera-Traps: Robust Species Interactions Datasets for Analysis of Mutualistic Networks"
+authors: "Pablo Villalva, Pedro Jordano"
+date: '2025-03-07'
+pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+doi: 10.1101/2025.03.01.640990
+citation-url: https://doi.org/10.1101/2025.03.01.640990
+format:
+  html:
+    toc: true
+---
+
+::: {.callout-warning}
+## Preprint
+This is a preprint and has not undergone peer review. Interpret findings with caution.
+:::
+
+## Publication Details
+
+**Published in:** bioRxiv (Cold Spring Harbor Laboratory)
+
+**Citations:** 3
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1101/2025.03.01.640990) | [PDF](https://doi.org/10.1101/2025.03.01.640990) | [OpenAlex](https://openalex.org/W4408224672)

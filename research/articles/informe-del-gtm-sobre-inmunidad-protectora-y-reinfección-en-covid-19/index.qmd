@@ -1,0 +1,23 @@
+---
+title: "Informe del GTM sobre Inmunidad protectora y reinfección en COVID-19"
+authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
+date: '2020-12-07'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+doi: 10.20350/digitalcsic/13724
+citation-url: https://doi.org/10.20350/digitalcsic/13724
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.20350/digitalcsic/13724) | [PDF](http://hdl.handle.net/10261/227608) | [OpenAlex](https://openalex.org/W3126341616)

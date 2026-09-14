@@ -1,3 +1,4 @@
+import os
 import requests
 import csv
 import re
@@ -10,40 +11,100 @@ try:
 except ImportError:
     yaml = None
 
+# OpenAlex hard-caps per-page at 200; anything larger is a 400 Bad Request.
+MAX_PER_PAGE = 200
+
+# Contact address for the OpenAlex "polite pool" (faster, more reliable queue).
+# Override with the OPENALEX_MAILTO environment variable.
+DEFAULT_MAILTO = "jordano@ebd.csic.es"
+
 
 class OpenAlexArticleSync:
-    def __init__(self, bibtex_path="_bibliography/papers.bib"):
+    def __init__(self, bibtex_path="_bibliography/papers.bib", mailto=None, api_key=None):
         self.base_url = "https://api.openalex.org"
         self.bibtex_path = Path(bibtex_path)
         self.bibtex_path.parent.mkdir(parents=True, exist_ok=True)
+        self.mailto = mailto or os.environ.get("OPENALEX_MAILTO") or DEFAULT_MAILTO
+        # Optional: only needed if you have an OpenAlex premium/API key.
+        self.api_key = api_key or os.environ.get("OPENALEX_API_KEY") or None
+
+    def _base_params(self):
+        params = {}
+        if self.mailto:
+            params['mailto'] = self.mailto
+        if self.api_key:
+            params['api_key'] = self.api_key
+        return params
+
+    def _fetch_all(self, filters, limit=None, max_retries=3):
+        """Fetch works matching `filters`, paging with a cursor.
+
+        OpenAlex returns at most 200 records per request, so anything larger
+        (or unbounded) has to be walked with `cursor`. `limit` is the maximum
+        number of works to return overall; None means "everything".
+        """
+        url = f"{self.base_url}/works"
+        works = []
+        cursor = '*'
+
+        while cursor:
+            remaining = MAX_PER_PAGE if limit is None else min(MAX_PER_PAGE, limit - len(works))
+            if remaining <= 0:
+                break
+
+            params = self._base_params()
+            params.update({
+                'filter': ','.join(filters),
+                'per-page': remaining,
+                'sort': 'publication_date:desc',
+                'cursor': cursor,
+            })
+
+            for attempt in range(max_retries):
+                response = requests.get(url, params=params, timeout=60)
+                if response.status_code in (429, 500, 502, 503, 504) and attempt < max_retries - 1:
+                    wait = 2 ** attempt
+                    print(f"  OpenAlex returned {response.status_code}; retrying in {wait}s...")
+                    time.sleep(wait)
+                    continue
+                break
+
+            if not response.ok:
+                # Surface the API's own explanation instead of a bare HTTPError.
+                try:
+                    detail = response.json().get('message', response.text[:300])
+                except ValueError:
+                    detail = response.text[:300]
+                raise requests.exceptions.HTTPError(
+                    f"{response.status_code} from OpenAlex: {detail}\nURL: {response.url}",
+                    response=response,
+                )
+
+            data = response.json()
+            batch = data.get('results', [])
+            works.extend(batch)
+
+            meta = data.get('meta', {})
+            cursor = meta.get('next_cursor')
+            total = meta.get('count')
+            if total is not None:
+                print(f"  Retrieved {len(works)}/{total} works")
+            if not batch:
+                break
+
+        return works
 
     def fetch_author_works(self, author_name=None, orcid=None, limit=50):
         """Fetch works by author from OpenAlex"""
         if orcid:
-            url = f"{self.base_url}/works"
-            params = {
-                'filter': f'author.orcid:{orcid}',
-                'per-page': limit,
-                'sort': 'publication_date:desc',
-                'mailto': 'sbwatts@txstate.edu'
-            }
+            filters = [f'author.orcid:{orcid}']
         elif author_name:
-            url = f"{self.base_url}/works"
-            params = {
-                'filter': f'author.search:{author_name}',
-                'per-page': limit,
-                'sort': 'publication_date:desc',
-                'mailto': 'sbwatts@txstate.edu'
-            }
+            filters = [f'author.search:{author_name}']
         else:
             raise ValueError("Must provide either author_name or orcid")
 
-        print(f"Fetching works from OpenAlex...")
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-
-        data = response.json()
-        works = data.get('results', [])
+        print("Fetching works from OpenAlex...")
+        works = self._fetch_all(filters, limit=limit)
 
         print(f"Found {len(works)} works")
         return self._parse_works(works)
@@ -51,18 +112,45 @@ class OpenAlexArticleSync:
     def fetch_by_doi(self, doi):
         """Fetch a specific work by DOI"""
         url = f"{self.base_url}/works/doi:{doi}"
-        response = requests.get(url, params={'mailto': 'sbwatts@txstate.edu'})
+        response = requests.get(url, params=self._base_params(), timeout=60)
         response.raise_for_status()
 
         work = response.json()
         return self._parse_works([work])[0]
 
+    def _load_exclusions(self, path="_exclude_works.yml"):
+        """OpenAlex work IDs (e.g. W2148371894) to drop, if the file exists.
+
+        OpenAlex occasionally attaches another author's records to an ORCID;
+        listing the offending IDs here keeps them off the site.
+        """
+        p = Path(path)
+        if not p.exists():
+            return set()
+        text = p.read_text(encoding="utf-8")
+        if yaml is not None:
+            try:
+                data = yaml.safe_load(text) or {}
+                return {str(i).strip().split('/')[-1]
+                        for i in (data.get('exclude') or [])}
+            except Exception as exc:
+                print(f"  Could not parse {path} as YAML ({exc}); falling back to ID scan")
+        # PyYAML not installed: pick the bare OpenAlex IDs out of the file.
+        return set(re.findall(r'\bW\d+\b', text))
+
     def _parse_works(self, works):
         """Parse OpenAlex works into article format, preferring published versions"""
+        excluded = self._load_exclusions()
+        if excluded:
+            before = len(works)
+            works = [w for w in works
+                     if (w.get('id') or '').split('/')[-1] not in excluded]
+            print(f"Excluded {before - len(works)} work(s) listed in _exclude_works.yml")
+
         works_by_title = {}
 
         for work in works:
-            title = work.get('title', 'Untitled')
+            title = work.get('title') or 'Untitled'
             normalized_title = re.sub(r'[^\w\s]', '', title.lower()).strip()
 
             if normalized_title not in works_by_title:
@@ -108,7 +196,9 @@ class OpenAlexArticleSync:
                 pub_year = work.get('publication_year')
                 pub_date = f"{pub_year}-01-01" if pub_year else datetime.now().strftime('%Y-%m-%d')
 
-            title = work.get('title', 'Untitled')
+            # OpenAlex can return explicit nulls for these fields.
+            title = work.get('title') or 'Untitled'
+            doi_url = work.get('doi') or ''
 
             cited_by_count = work.get('cited_by_count', 0)
             if cited_by_count is None:
@@ -134,8 +224,8 @@ class OpenAlexArticleSync:
                 'author_count': len(all_authors),
                 'date': pub_date,
                 'year': int(pub_date[:4]) if pub_date else None,
-                'doi': work.get('doi', '').replace('https://doi.org/', ''),
-                'doi_url': work.get('doi', ''),
+                'doi': doi_url.replace('https://doi.org/', ''),
+                'doi_url': doi_url,
                 'open_access': work.get('open_access', {}).get('is_oa', False),
                 'pdf_url': work.get('open_access', {}).get('oa_url', '') or '',
                 'cited_by_count': cited_by_count,
@@ -488,19 +578,9 @@ class FilteredOpenAlexSync(OpenAlexArticleSync):
             for t in exclude_types:
                 filters.append(f'type:!{t}')
 
-        url = f"{self.base_url}/works"
-        params = {
-            'filter': ','.join(filters),
-            'per-page': limit,
-            'sort': 'publication_date:desc',
-            'mailto': 'sbwatts@txstate.edu'
-        }
-
         print(f"Fetching works with filters: {filters}")
-        response = requests.get(url, params=params)
-        response.raise_for_status()
+        works = self._fetch_all(filters, limit=limit)
 
-        works = response.json().get('results', [])
         print(f"Found {len(works)} works")
         return self._parse_works(works)
 

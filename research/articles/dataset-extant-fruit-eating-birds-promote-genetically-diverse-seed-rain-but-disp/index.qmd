@@ -1,0 +1,23 @@
+---
+title: "Dataset: Extant fruit-eating birds promote genetically diverse seed rain, but disperse to fewer sites in defaunated tropical forests"
+authors: "Carolina da Silva Carvalho, Cristina García, Marília Souza Lucas et al."
+date: '2020-01-01'
+pub-journal: "Figshare"
+doi: 10.6084/m9.figshare.13129913
+citation-url: https://doi.org/10.6084/m9.figshare.13129913
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Figshare
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.6084/m9.figshare.13129913) | [PDF](https://doi.org/10.6084/m9.figshare.13129913) | [OpenAlex](https://openalex.org/W4394110351)

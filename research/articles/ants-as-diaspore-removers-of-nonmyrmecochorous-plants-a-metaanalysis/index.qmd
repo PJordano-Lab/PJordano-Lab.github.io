@@ -1,0 +1,21 @@
+---
+title: "Ants as diaspore removers of non‐myrmecochorous plants: a meta‐analysis"
+authors: "Diego V. Anjos, Laura C. Leal, Pedro Jordano et al."
+date: '2020-03-23'
+pub-journal: "Oikos"
+doi: 10.1111/oik.06940
+citation-url: https://doi.org/10.1111/oik.06940
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Oikos
+
+**Citations:** 45
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/oik.06940) | [OpenAlex](https://openalex.org/W3013105633)

@@ -1,0 +1,23 @@
+---
+title: "Past tree range dynamics in the Iberian Peninsula inferred through phylogeography and palaeodistribution modelling: A review"
+authors: "Francisco Rodríguez‐Sánchez, Arndt Hampe, Pedro Jordano et al."
+date: '2010-04-17'
+pub-journal: "Review of Palaeobotany and Palynology"
+doi: 10.1016/j.revpalbo.2010.03.008
+citation-url: https://doi.org/10.1016/j.revpalbo.2010.03.008
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Review of Palaeobotany and Palynology
+
+**Citations:** 116
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1016/j.revpalbo.2010.03.008) | [PDF](http://hdl.handle.net/10261/36389) | [OpenAlex](https://openalex.org/W2093191251)

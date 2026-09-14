@@ -1,0 +1,23 @@
+---
+title: "Bridging the gap between individual specialization and species persistence in mutualistic communities"
+authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano et al."
+date: '2025-08-01'
+pub-journal: "Ecological Monographs"
+doi: 10.1002/ecm.70031
+citation-url: https://doi.org/10.1002/ecm.70031
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecological Monographs
+
+**Citations:** 2
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1002/ecm.70031) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecm.70031) | [OpenAlex](https://openalex.org/W4414733271)

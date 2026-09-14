@@ -1,0 +1,19 @@
+---
+title: "Ecología y genes"
+authors: "Pedro Jordano"
+date: '2009-02-02'
+pub-journal: "Revista Ecosistemas"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Revista Ecosistemas
+
+**Citations:** 0
+
+## Links
+
+[OpenAlex](https://openalex.org/W3134572316)

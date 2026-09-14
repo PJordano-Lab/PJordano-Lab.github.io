@@ -1,0 +1,23 @@
+---
+title: "Large herbivores regulate the spatial recruitment of a hyperdominant Neotropical palm"
+authors: "Javier Valverde, Carolina da Silva Carvalho, Pedro Jordano et al."
+date: '2020-10-25'
+pub-journal: "Biotropica"
+doi: 10.1111/btp.12873
+citation-url: https://doi.org/10.1111/btp.12873
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Biotropica
+
+**Citations:** 8
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/btp.12873) | [PDF](https://doi.org/10.1111/btp.12873]) | [OpenAlex](https://openalex.org/W3095694032)

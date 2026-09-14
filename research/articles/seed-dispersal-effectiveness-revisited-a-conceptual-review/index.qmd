@@ -1,0 +1,23 @@
+---
+title: "Seed dispersal effectiveness revisited: a conceptual review"
+authors: "Eugene W. Schupp, Pedro Jordano, José M. Gómez"
+date: '2010-07-28'
+pub-journal: "New Phytologist"
+doi: 10.1111/j.1469-8137.2010.03402.x
+citation-url: https://doi.org/10.1111/j.1469-8137.2010.03402.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** New Phytologist
+
+**Citations:** 1142
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1469-8137.2010.03402.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8137.2010.03402.x) | [OpenAlex](https://openalex.org/W2157332851)

@@ -1,0 +1,23 @@
+---
+title: "Appendix B. Dissimilarity dendrograms for ant species in Networks 1990 and 2000."
+authors: "Cecilia Díaz‐Castelazo, Paulo R. Guimarães, Pedro Jordano et al."
+date: '2016-01-01'
+pub-journal: "Figshare"
+doi: 10.6084/m9.figshare.3544475
+citation-url: https://doi.org/10.6084/m9.figshare.3544475
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Figshare
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.6084/m9.figshare.3544475) | [PDF](https://doi.org/10.6084/m9.figshare.3544475) | [OpenAlex](https://openalex.org/W4394229500)

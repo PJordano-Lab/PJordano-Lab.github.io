@@ -1,0 +1,23 @@
+---
+title: "TempPart Data"
+authors: "Iago Ferreiro Arias, Ana Benítez López, Pedro Jordano et al."
+date: '2021-01-01'
+pub-journal: "Figshare"
+doi: 10.6084/m9.figshare.14376473
+citation-url: https://doi.org/10.6084/m9.figshare.14376473
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Figshare
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.6084/m9.figshare.14376473) | [PDF](https://doi.org/10.6084/m9.figshare.14376473) | [OpenAlex](https://openalex.org/W4394538475)

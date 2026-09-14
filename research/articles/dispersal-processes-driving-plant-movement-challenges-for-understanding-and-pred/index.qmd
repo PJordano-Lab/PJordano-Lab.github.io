@@ -1,0 +1,23 @@
+---
+title: "Dispersal processes driving plant movement: challenges for understanding and predicting range shifts in a changing world"
+authors: "Cristina García, Etienne K. Klein, Pedro Jordano"
+date: '2016-12-16'
+pub-journal: "Journal of Ecology"
+doi: 10.1111/1365-2745.12705
+citation-url: https://doi.org/10.1111/1365-2745.12705
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Ecology
+
+**Citations:** 37
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2745.12705) | [PDF](http://hdl.handle.net/10261/155689) | [OpenAlex](https://openalex.org/W2560886384)

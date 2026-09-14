@@ -1,0 +1,21 @@
+---
+title: "An Introduction to Complex Networks"
+authors: "Jordi Bascompte, Pedro Jordano"
+date: '2013-12-08'
+pub-journal: "Princeton University Press eBooks"
+doi: 10.23943/princeton/9780691131269.003.0002
+citation-url: https://doi.org/10.23943/princeton/9780691131269.003.0002
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Princeton University Press eBooks
+
+**Citations:** 2
+
+## Links
+
+[DOI Link](https://doi.org/10.23943/princeton/9780691131269.003.0002) | [OpenAlex](https://openalex.org/W4255944264)

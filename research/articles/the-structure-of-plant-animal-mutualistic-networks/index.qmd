@@ -1,0 +1,23 @@
+---
+title: "The Structure of Plant-Animal Mutualistic Networks"
+authors: "Jordi Bascompte, Pedro Jordano"
+date: '2013-12-08'
+pub-journal: "Princeton University Press eBooks"
+doi: 10.23943/princeton/9780691131269.003.0003
+citation-url: https://doi.org/10.23943/princeton/9780691131269.003.0003
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Princeton University Press eBooks
+
+**Citations:** 70
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.23943/princeton/9780691131269.003.0003) | [PDF](http://hdl.handle.net/10261/40599) | [OpenAlex](https://openalex.org/W2101651676)

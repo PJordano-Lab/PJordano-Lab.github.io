@@ -1,0 +1,21 @@
+---
+title: "Frontmatter"
+authors: "Jordi Bascompte, Pedro Jordano"
+date: '2013-12-31'
+pub-journal: "Princeton University Press eBooks"
+doi: 10.1515/9781400848720-fm
+citation-url: https://doi.org/10.1515/9781400848720-fm
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Princeton University Press eBooks
+
+**Citations:** 0
+
+## Links
+
+[DOI Link](https://doi.org/10.1515/9781400848720-fm) | [OpenAlex](https://openalex.org/W4247827327)

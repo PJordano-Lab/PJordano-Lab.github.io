@@ -1,0 +1,23 @@
+---
+title: "Community‐based processes behind species richness gradients: contrasting abundance–extinction dynamics and sampling effects in areas of low and high productivity"
+authors: "Jofre Carnicer, Lluís Brotons, Daniel Sol et al."
+date: '2007-05-15'
+pub-journal: "Global Ecology and Biogeography"
+doi: 10.1111/j.1466-8238.2007.00324.x
+citation-url: https://doi.org/10.1111/j.1466-8238.2007.00324.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Global Ecology and Biogeography
+
+**Citations:** 32
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1466-8238.2007.00324.x) | [PDF](http://hdl.handle.net/10261/38464) | [OpenAlex](https://openalex.org/W2120026193)

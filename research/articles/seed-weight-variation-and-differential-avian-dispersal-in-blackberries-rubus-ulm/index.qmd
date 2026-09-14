@@ -1,0 +1,23 @@
+---
+title: "Seed Weight Variation and Differential Avian Dispersal in Blackberries Rubus ulmifolius"
+authors: "Pedro Jordano"
+date: '1984-07-01'
+pub-journal: "Oikos"
+doi: 10.2307/3544762
+citation-url: https://doi.org/10.2307/3544762
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Oikos
+
+**Citations:** 78
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.2307/3544762) | [PDF](http://hdl.handle.net/10261/45055) | [OpenAlex](https://openalex.org/W1966920241)

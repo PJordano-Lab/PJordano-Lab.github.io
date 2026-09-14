@@ -1,0 +1,23 @@
+---
+title: "Informe del GTM sobre la fatiga pandémica"
+authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
+date: '2021-03-22'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+doi: 10.20350/digitalcsic/13891
+citation-url: https://doi.org/10.20350/digitalcsic/13891
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.20350/digitalcsic/13891) | [PDF](http://hdl.handle.net/10261/242465) | [OpenAlex](https://openalex.org/W3168377366)

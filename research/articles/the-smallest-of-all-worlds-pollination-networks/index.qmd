@@ -1,0 +1,23 @@
+---
+title: "The smallest of all worlds: Pollination networks"
+authors: "Jens M. Olesen, Jordi Bascompte, Yoko Luise Dupont et al."
+date: '2005-11-08'
+pub-journal: "Journal of Theoretical Biology"
+doi: 10.1016/j.jtbi.2005.09.014
+citation-url: https://doi.org/10.1016/j.jtbi.2005.09.014
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Theoretical Biology
+
+**Citations:** 166
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1016/j.jtbi.2005.09.014) | [PDF](http://hdl.handle.net/10261/40459) | [OpenAlex](https://openalex.org/W2023799137)

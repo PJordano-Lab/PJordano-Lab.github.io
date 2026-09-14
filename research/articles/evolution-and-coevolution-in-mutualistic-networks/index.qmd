@@ -1,0 +1,23 @@
+---
+title: "Evolution and coevolution in mutualistic networks"
+authors: "Paulo R. Guimarães, Pedro Jordano, John N. Thompson"
+date: '2011-07-12'
+pub-journal: "Ecology Letters"
+doi: 10.1111/j.1461-0248.2011.01649.x
+citation-url: https://doi.org/10.1111/j.1461-0248.2011.01649.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecology Letters
+
+**Citations:** 361
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1461-0248.2011.01649.x) | [PDF](http://hdl.handle.net/10261/40441) | [OpenAlex](https://openalex.org/W2111661781)

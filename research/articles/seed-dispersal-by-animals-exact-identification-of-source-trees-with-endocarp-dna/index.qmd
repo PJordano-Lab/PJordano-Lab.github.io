@@ -1,0 +1,23 @@
+---
+title: "Seed dispersal by animals: exact identification of source trees with endocarp DNA microsatellites"
+authors: "José A. Godoy, Pedro Jordano"
+date: '2001-09-01'
+pub-journal: "Molecular Ecology"
+doi: 10.1046/j.0962-1083.2001.01342.x
+citation-url: https://doi.org/10.1046/j.0962-1083.2001.01342.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Molecular Ecology
+
+**Citations:** 292
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1046/j.0962-1083.2001.01342.x) | [PDF](http://hdl.handle.net/10261/42605) | [OpenAlex](https://openalex.org/W2115943550)

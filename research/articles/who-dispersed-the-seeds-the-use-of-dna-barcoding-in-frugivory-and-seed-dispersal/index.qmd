@@ -1,0 +1,23 @@
+---
+title: "Who dispersed the seeds? The use of DNA barcoding in frugivory and seed dispersal studies"
+authors: "Juan P. González‐Varo, Juan Arroyo, Pedro Jordano"
+date: '2014-06-07'
+pub-journal: "Methods in Ecology and Evolution"
+doi: 10.1111/2041-210x.12212
+citation-url: https://doi.org/10.1111/2041-210x.12212
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Methods in Ecology and Evolution
+
+**Citations:** 103
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/2041-210x.12212) | [PDF](http://hdl.handle.net/10261/101758) | [OpenAlex](https://openalex.org/W2081196823)

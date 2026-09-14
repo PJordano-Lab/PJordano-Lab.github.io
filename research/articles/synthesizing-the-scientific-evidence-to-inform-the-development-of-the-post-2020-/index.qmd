@@ -1,0 +1,21 @@
+---
+title: "Synthesizing the scientific evidence to inform the development of the post-2020 Global Framework on Biodiversity"
+authors: "Sandra Dı́az, Fabrice DeClerck, Susanna Dobrota et al."
+date: '2020-05-08'
+pub-journal: "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)
+
+**Citations:** 4
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](http://rid.unrn.edu.ar/handle/20.500.12049/5718) | [OpenAlex](https://openalex.org/W3083837953)

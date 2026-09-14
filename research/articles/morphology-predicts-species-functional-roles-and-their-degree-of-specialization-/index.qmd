@@ -1,0 +1,23 @@
+---
+title: "Morphology predicts species' functional roles and their degree of specialization in plant–frugivore interactions"
+authors: "D. Matthias Dehling, Pedro Jordano, H. Martin Schaefer et al."
+date: '2016-01-27'
+pub-journal: "Proceedings of the Royal Society B Biological Sciences"
+doi: 10.1098/rspb.2015.2444
+citation-url: https://doi.org/10.1098/rspb.2015.2444
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Proceedings of the Royal Society B Biological Sciences
+
+**Citations:** 288
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1098/rspb.2015.2444) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2015.2444) | [OpenAlex](https://openalex.org/W2305695185)

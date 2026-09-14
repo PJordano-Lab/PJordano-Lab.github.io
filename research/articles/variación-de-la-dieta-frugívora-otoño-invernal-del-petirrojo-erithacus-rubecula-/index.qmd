@@ -1,0 +1,21 @@
+---
+title: "Variación de la dieta frugívora otoño-invernal del Petirrojo (Erithacus rubecula): efectos sobre la condición corporal"
+authors: "Pedro Jordano"
+date: '1989-12-01'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 7
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](http://hdl.handle.net/10261/42689) | [OpenAlex](https://openalex.org/W969903211)

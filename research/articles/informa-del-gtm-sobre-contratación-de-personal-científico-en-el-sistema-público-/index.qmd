@@ -1,0 +1,23 @@
+---
+title: "Informa del GTM sobre Contratación de personal científico en el Sistema Público de Investigación"
+authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
+date: '2021-02-01'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+doi: 10.20350/digitalcsic/13752
+citation-url: https://doi.org/10.20350/digitalcsic/13752
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.20350/digitalcsic/13752) | [PDF](http://hdl.handle.net/10261/229976) | [OpenAlex](https://openalex.org/W3192721977)

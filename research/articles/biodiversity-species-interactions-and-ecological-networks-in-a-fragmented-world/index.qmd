@@ -1,0 +1,23 @@
+---
+title: "Biodiversity, Species Interactions and Ecological Networks in a Fragmented World"
+authors: "Melanie Hagen, W. Daniel Kissling, Claus Rasmussen et al."
+date: '2012-01-01'
+pub-journal: "Advances in ecological research/Advances in Ecological Research"
+doi: 10.1016/b978-0-12-396992-7.00002-2
+citation-url: https://doi.org/10.1016/b978-0-12-396992-7.00002-2
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Advances in ecological research/Advances in Ecological Research
+
+**Citations:** 455
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1016/b978-0-12-396992-7.00002-2) | [PDF](http://hdl.handle.net/10261/64172) | [OpenAlex](https://openalex.org/W1680689898)

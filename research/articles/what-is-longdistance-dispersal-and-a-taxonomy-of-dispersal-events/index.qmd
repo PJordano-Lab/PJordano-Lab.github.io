@@ -1,0 +1,23 @@
+---
+title: "What is long‐distance dispersal? And a taxonomy of dispersal events"
+authors: "Pedro Jordano"
+date: '2016-12-16'
+pub-journal: "Journal of Ecology"
+doi: 10.1111/1365-2745.12690
+citation-url: https://doi.org/10.1111/1365-2745.12690
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Ecology
+
+**Citations:** 208
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2745.12690) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.12690) | [OpenAlex](https://openalex.org/W2566443198)

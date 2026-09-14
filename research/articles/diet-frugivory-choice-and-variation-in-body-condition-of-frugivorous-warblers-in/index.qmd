@@ -1,0 +1,21 @@
+---
+title: "Diet. Frugivory choice and variation in body condition of frugivorous warblers in mediterranea schrubland"
+authors: "Pedro Jordano"
+date: '1988-01-01'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 1
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](http://hdl.handle.net/10261/42662) | [OpenAlex](https://openalex.org/W1017876521)

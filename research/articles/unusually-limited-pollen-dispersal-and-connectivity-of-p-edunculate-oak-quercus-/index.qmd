@@ -1,0 +1,21 @@
+---
+title: "Unusually limited pollen dispersal and connectivity of P edunculate oak (Quercus robur) refugial populations at the species' southern range margin"
+authors: "Eva Moracho, Gerardo Moreno, Pedro Jordano et al."
+date: '2016-05-05'
+pub-journal: "Molecular Ecology"
+doi: 10.1111/mec.13692
+citation-url: https://doi.org/10.1111/mec.13692
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Molecular Ecology
+
+**Citations:** 50
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/mec.13692) | [OpenAlex](https://openalex.org/W2396469239)

@@ -1,0 +1,23 @@
+---
+title: "Informe del GTM sobre cambios en el Sistema de Ciencia, Tecnología e Innovación (SCTI)"
+authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
+date: '2020-06-16'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+doi: 10.20350/digitalcsic/13726
+citation-url: https://doi.org/10.20350/digitalcsic/13726
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 1
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.20350/digitalcsic/13726) | [PDF](http://hdl.handle.net/10261/227564) | [OpenAlex](https://openalex.org/W3126478908)

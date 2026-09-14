@@ -1,0 +1,21 @@
+---
+title: "Geographical ecology and variation of plant-seed disperser interactions: southern Spanish junipers and frugivorous thrushes"
+authors: "Pedro Jordano"
+date: '1993-06-01'
+pub-journal: "Vegetatio"
+doi: 10.1007/bf00052213
+citation-url: https://doi.org/10.1007/bf00052213
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Vegetatio
+
+**Citations:** 99
+
+## Links
+
+[DOI Link](https://doi.org/10.1007/bf00052213) | [OpenAlex](https://openalex.org/W4295196793)

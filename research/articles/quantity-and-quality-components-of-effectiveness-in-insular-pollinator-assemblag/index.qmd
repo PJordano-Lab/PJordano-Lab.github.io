@@ -1,0 +1,21 @@
+---
+title: "Quantity and quality components of effectiveness in insular pollinator assemblages"
+authors: "María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido"
+date: '2013-02-12'
+pub-journal: "Oecologia"
+doi: 10.1007/s00442-013-2606-y
+citation-url: https://doi.org/10.1007/s00442-013-2606-y
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Oecologia
+
+**Citations:** 51
+
+## Links
+
+[DOI Link](https://doi.org/10.1007/s00442-013-2606-y) | [OpenAlex](https://openalex.org/W2078897382)

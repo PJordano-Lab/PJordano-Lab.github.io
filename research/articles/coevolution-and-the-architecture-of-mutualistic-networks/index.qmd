@@ -1,0 +1,23 @@
+---
+title: "COEVOLUTION AND THE ARCHITECTURE OF MUTUALISTIC NETWORKS"
+authors: "Scott L. Nuismer, Pedro Jordano, Jordi Bascompte"
+date: '2012-09-18'
+pub-journal: "Evolution"
+doi: 10.1111/j.1558-5646.2012.01801.x
+citation-url: https://doi.org/10.1111/j.1558-5646.2012.01801.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Evolution
+
+**Citations:** 157
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1558-5646.2012.01801.x) | [PDF](https://digital.csic.es/bitstream/10261/74146/1/j.1558-5646.2012.01801.x.pdf) | [OpenAlex](https://openalex.org/W2168577353)

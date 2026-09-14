@@ -1,0 +1,19 @@
+---
+title: "Interacciones entre plantas y polinizadores en el Parqur Nacional del Teide: consecuencias ecológicas de la introducción masiva de la abeja doméstica, Apis melifera (Apidae)"
+authors: "Alfredo Valido, María C. Rodríguez‐Rodríguez, Pedro Jordano"
+date: '2011-01-01'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 4
+
+## Links
+
+[OpenAlex](https://openalex.org/W1024877374)

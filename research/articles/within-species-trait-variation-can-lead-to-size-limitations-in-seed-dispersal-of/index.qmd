@@ -1,0 +1,23 @@
+---
+title: "Within-Species Trait Variation Can Lead to Size Limitations in Seed Dispersal of Small-Fruited Plants"
+authors: "Finn Rehling, Bogdan Jaroszewicz, Leonie Victoria Braasch et al."
+date: '2021-08-16'
+pub-journal: "Frontiers in Ecology and Evolution"
+doi: 10.3389/fevo.2021.698885
+citation-url: https://doi.org/10.3389/fevo.2021.698885
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Frontiers in Ecology and Evolution
+
+**Citations:** 17
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.3389/fevo.2021.698885) | [PDF](https://www.frontiersin.org/articles/10.3389/fevo.2021.698885/pdf) | [OpenAlex](https://openalex.org/W3196220087)

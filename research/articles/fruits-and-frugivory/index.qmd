@@ -1,0 +1,23 @@
+---
+title: "Fruits and frugivory."
+authors: "Pedro Jordano"
+date: '2000-01-01'
+pub-journal: "CABI Publishing eBooks"
+doi: 10.1079/9780851994321.0125
+citation-url: https://doi.org/10.1079/9780851994321.0125
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** CABI Publishing eBooks
+
+**Citations:** 850
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1079/9780851994321.0125) | [PDF](http://hdl.handle.net/10261/42695) | [OpenAlex](https://openalex.org/W1548825349)

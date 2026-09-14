@@ -1,0 +1,23 @@
+---
+title: "Variation in seed dispersal effectiveness: the redundancy of consequences in diversified tropical frugivore assemblages"
+authors: "Débora Cristina Rother, Marco Aurélio Pizo, Pedro Jordano"
+date: '2015-09-08'
+pub-journal: "Oikos"
+doi: 10.1111/oik.02629
+citation-url: https://doi.org/10.1111/oik.02629
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Oikos
+
+**Citations:** 101
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/oik.02629) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/oik.02629) | [OpenAlex](https://openalex.org/W2121148529)

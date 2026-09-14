@@ -1,0 +1,23 @@
+---
+title: "Appendix E. Values and significance of the statistic K for the variables under study."
+authors: "Jofre Carnicer, Pedro Jordano, Carlos J. Melián"
+date: '2016-01-01'
+pub-journal: "Figshare"
+doi: 10.6084/m9.figshare.3531518
+citation-url: https://doi.org/10.6084/m9.figshare.3531518
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Figshare
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.6084/m9.figshare.3531518) | [PDF](https://doi.org/10.6084/m9.figshare.3531518) | [OpenAlex](https://openalex.org/W4394105793)

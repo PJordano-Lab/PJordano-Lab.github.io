@@ -1,0 +1,23 @@
+---
+title: "Reciprocity and interaction effectiveness in generalised mutualisms among free‐living species"
+authors: "Elena Quintero, Francisco Rodríguez‐Sánchez, Pedro Jordano"
+date: '2022-11-30'
+pub-journal: "Ecology Letters"
+doi: 10.1111/ele.14141
+citation-url: https://doi.org/10.1111/ele.14141
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecology Letters
+
+**Citations:** 18
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/ele.14141) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14141) | [OpenAlex](https://openalex.org/W4310572889)

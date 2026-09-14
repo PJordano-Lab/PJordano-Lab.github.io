@@ -1,0 +1,23 @@
+---
+title: "Spatial and Temporal Variation in the Avian-Frugivore Assemblage of Prunus mahaleb: Patterns and Consequences"
+authors: "Pedro Jordano"
+date: '1994-12-01'
+pub-journal: "Oikos"
+doi: 10.2307/3545836
+citation-url: https://doi.org/10.2307/3545836
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Oikos
+
+**Citations:** 139
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.2307/3545836) | [PDF](http://hdl.handle.net/10261/42647) | [OpenAlex](https://openalex.org/W1985914011)

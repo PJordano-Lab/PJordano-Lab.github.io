@@ -1,0 +1,21 @@
+---
+title: "Relaciones interespecificas y coexistencia entre el Águila Real (Aquila chrysaetos) y el Águila Perdicera (Hieraaetus fasciatus) en sierra Morena central"
+authors: "Pedro Jordano"
+date: '1981-12-01'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 20
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](http://hdl.handle.net/10261/45073) | [OpenAlex](https://openalex.org/W1135670422)

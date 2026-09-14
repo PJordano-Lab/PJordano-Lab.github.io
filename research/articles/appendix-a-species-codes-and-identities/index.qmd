@@ -1,0 +1,23 @@
+---
+title: "Appendix A. Species codes and identities."
+authors: "Cecilia Díaz‐Castelazo, Paulo R. Guimarães, Pedro Jordano et al."
+date: '2016-01-01'
+pub-journal: "Figshare"
+doi: 10.6084/m9.figshare.3544478
+citation-url: https://doi.org/10.6084/m9.figshare.3544478
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Figshare
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.6084/m9.figshare.3544478) | [PDF](https://doi.org/10.6084/m9.figshare.3544478) | [OpenAlex](https://openalex.org/W4394087933)

@@ -1,0 +1,23 @@
+---
+title: "Maximizing biodiversity conservation and carbon stocking in restored tropical forests"
+authors: "Pedro H. S. Brancalion, Carolina Bello, Robin L. Chazdon et al."
+date: '2018-04-16'
+pub-journal: "Conservation Letters"
+doi: 10.1111/conl.12454
+citation-url: https://doi.org/10.1111/conl.12454
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Conservation Letters
+
+**Citations:** 93
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/conl.12454) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/conl.12454) | [OpenAlex](https://openalex.org/W2800445892)

@@ -1,0 +1,23 @@
+---
+title: "GEOGRAPHIC PATTERNS IN PLANT–POLLINATOR MUTUALISTIC NETWORKS"
+authors: "Jens M. Olesen, Pedro Jordano"
+date: '2002-09-01'
+pub-journal: "Ecology"
+doi: 10.1890/0012-9658(2002)083[2416:gpippm]2.0.co;2
+citation-url: https://doi.org/10.1890/0012-9658(2002)083[2416:gpippm]2.0.co;2
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Ecology
+
+**Citations:** 508
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1890/0012-9658(2002)083[2416:gpippm]2.0.co;2) | [PDF](http://hdl.handle.net/10261/42356) | [OpenAlex](https://openalex.org/W2165779374)

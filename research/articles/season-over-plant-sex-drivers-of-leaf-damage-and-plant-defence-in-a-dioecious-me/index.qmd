@@ -1,0 +1,23 @@
+---
+title: "Season over plant sex: drivers of leaf damage and plant defence in a dioecious Mediterranean shrub"
+authors: "Elena Valdés‐Correcher, Gemma Calvo, Cristina Rigueiro et al."
+date: '2025-09-15'
+pub-journal: "Plant Biology"
+doi: 10.1111/plb.70115
+citation-url: https://doi.org/10.1111/plb.70115
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Plant Biology
+
+**Citations:** 1
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/plb.70115) | [PDF](https://doi.org/10.1111/plb.70115) | [OpenAlex](https://openalex.org/W4414257511)

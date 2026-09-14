@@ -1,0 +1,23 @@
+---
+title: "Spatio‐temporal dynamics and local hotspots of initial recruitment in vertebrate‐dispersed trees"
+authors: "Arndt Hampe, Juan Luis García‐Castaño, Eugene W. Schupp et al."
+date: '2008-06-10'
+pub-journal: "Journal of Ecology"
+doi: 10.1111/j.1365-2745.2008.01364.x
+citation-url: https://doi.org/10.1111/j.1365-2745.2008.01364.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Ecology
+
+**Citations:** 58
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1365-2745.2008.01364.x) | [PDF](http://hdl.handle.net/10261/38407) | [OpenAlex](https://openalex.org/W2165908687)

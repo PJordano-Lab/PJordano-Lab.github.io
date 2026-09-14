@@ -1,0 +1,23 @@
+---
+title: "Informe del GTM: Entender y combatir la desinformación sobre ciencia y salud"
+authors: "Ramón Salaverría, José M. Ordovás, Mariano Estéban et al."
+date: '2021-02-20'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+doi: 10.20350/digitalcsic/13853
+citation-url: https://doi.org/10.20350/digitalcsic/13853
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 2
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.20350/digitalcsic/13853) | [PDF](http://hdl.handle.net/10261/239480) | [OpenAlex](https://openalex.org/W3184861538)

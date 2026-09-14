@@ -1,0 +1,23 @@
+---
+title: "Long‐term expansion of juniper populations in managed landscapes: patterns in space and time"
+authors: "Cristina García, Eva Moracho, Ricardo Dı́az-Delgado et al."
+date: '2014-08-20'
+pub-journal: "Journal of Ecology"
+doi: 10.1111/1365-2745.12297
+citation-url: https://doi.org/10.1111/1365-2745.12297
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Ecology
+
+**Citations:** 31
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2745.12297) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.12297) | [OpenAlex](https://openalex.org/W1993519544)

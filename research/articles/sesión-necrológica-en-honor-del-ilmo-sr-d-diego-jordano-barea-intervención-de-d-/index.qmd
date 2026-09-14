@@ -1,0 +1,19 @@
+---
+title: "Sesión necrológica en honor del Ilmo. Sr. D. Diego Jordano Barea: Intervención de D. Pedro Jordano Barbudo"
+authors: "Pedro Jordano"
+date: '2002-01-01'
+pub-journal: "Boletín de la Real Academia de Córdoba de Ciencias, Bellas Letras y Nobles Artes"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Boletín de la Real Academia de Córdoba de Ciencias, Bellas Letras y Nobles Artes
+
+**Citations:** 0
+
+## Links
+
+[OpenAlex](https://openalex.org/W3165254375)

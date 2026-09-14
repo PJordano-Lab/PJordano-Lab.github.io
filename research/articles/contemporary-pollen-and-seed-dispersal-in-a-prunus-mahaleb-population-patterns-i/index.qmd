@@ -1,0 +1,23 @@
+---
+title: "Contemporary pollen and seed dispersal in a Prunus mahaleb population: patterns in distance and direction"
+authors: "Cristina García, Pedro Jordano, José A. Godoy"
+date: '2007-04-13'
+pub-journal: "Molecular Ecology"
+doi: 10.1111/j.1365-294x.2006.03126.x
+citation-url: https://doi.org/10.1111/j.1365-294x.2006.03126.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Molecular Ecology
+
+**Citations:** 133
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1365-294x.2006.03126.x) | [PDF](http://hdl.handle.net/10261/38508) | [OpenAlex](https://openalex.org/W2126988744)

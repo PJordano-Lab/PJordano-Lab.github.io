@@ -1,0 +1,23 @@
+---
+title: "Informe del GTM sobre Aspectos medioambientales de la COVID-19. Parte I"
+authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
+date: '2021-06-28'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+doi: 10.20350/digitalcsic/13981
+citation-url: https://doi.org/10.20350/digitalcsic/13981
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.20350/digitalcsic/13981) | [PDF](https://doi.org/10.20350/digitalcsic/13981) | [OpenAlex](https://openalex.org/W3200352294)

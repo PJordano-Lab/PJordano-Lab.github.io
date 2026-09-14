@@ -1,0 +1,21 @@
+---
+title: "Redes mutualistas de especies"
+authors: "Jordi Bascompte, Pedro Jordano"
+date: '2008-09-01'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 18
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](http://hdl.handle.net/10261/38401) | [OpenAlex](https://openalex.org/W1489764016)

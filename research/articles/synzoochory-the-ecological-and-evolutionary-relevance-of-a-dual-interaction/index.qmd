@@ -1,0 +1,21 @@
+---
+title: "Synzoochory: the ecological and evolutionary relevance of a dual interaction"
+authors: "José M. Gómez, Eugene W. Schupp, Pedro Jordano"
+date: '2018-11-22'
+pub-journal: "Biological reviews/Biological reviews of the Cambridge Philosophical Society"
+doi: 10.1111/brv.12481
+citation-url: https://doi.org/10.1111/brv.12481
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Biological reviews/Biological reviews of the Cambridge Philosophical Society
+
+**Citations:** 213
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/brv.12481) | [OpenAlex](https://openalex.org/W2901785918)

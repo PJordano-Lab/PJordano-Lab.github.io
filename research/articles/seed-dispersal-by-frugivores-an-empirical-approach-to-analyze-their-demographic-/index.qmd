@@ -1,0 +1,19 @@
+---
+title: "Seed dispersal by frugivores: An empirical approach to analyze their demographic consequences"
+authors: "Héctor Hugo Ulloa Godínez, Pedro Jordano"
+date: '2007-01-01'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 3
+
+## Links
+
+[OpenAlex](https://openalex.org/W299787290)

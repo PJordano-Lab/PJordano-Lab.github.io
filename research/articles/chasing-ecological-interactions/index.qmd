@@ -1,0 +1,23 @@
+---
+title: "Chasing Ecological Interactions"
+authors: "Pedro Jordano"
+date: '2016-09-15'
+pub-journal: "PLoS Biology"
+doi: 10.1371/journal.pbio.1002559
+citation-url: https://doi.org/10.1371/journal.pbio.1002559
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** PLoS Biology
+
+**Citations:** 163
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1371/journal.pbio.1002559) | [PDF](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1002559&type=printable) | [OpenAlex](https://openalex.org/W2520782046)

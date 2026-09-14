@@ -1,0 +1,23 @@
+---
+title: "Indirect effects shape species fitness in coevolved mutualistic networks"
+authors: "Leandro G. Cosmo, Ana Paula A. Assis, Marcus A. M. de Aguiar et al."
+date: '2023-07-19'
+pub-journal: "Nature"
+doi: 10.1038/s41586-023-06319-7
+citation-url: https://doi.org/10.1038/s41586-023-06319-7
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Nature
+
+**Citations:** 35
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1038/s41586-023-06319-7) | [PDF](https://digital.csic.es/bitstream/10261/341663/3/Indirect-Cosmo_et_al-2023-Nature.pdf) | [OpenAlex](https://openalex.org/W4384820407)

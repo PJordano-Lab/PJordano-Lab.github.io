@@ -1,0 +1,23 @@
+---
+title: "Spatial occupancy patterns of the nursery pollinator Derelomus chamaeropsis at its host plant, Chamaerops humilis (Arecaceae)"
+authors: "Miguel Moreno, Miguel E. Jácome‐Flores, Pedro Jordano et al."
+date: '2025-03-30'
+pub-journal: "Journal of Pollination Ecology"
+doi: 10.26786/1920-7603(2025)829
+citation-url: https://doi.org/10.26786/1920-7603(2025)829
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Pollination Ecology
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.26786/1920-7603(2025)829) | [PDF](https://doi.org/10.26786/1920-7603(2025)829) | [OpenAlex](https://openalex.org/W4408972022)

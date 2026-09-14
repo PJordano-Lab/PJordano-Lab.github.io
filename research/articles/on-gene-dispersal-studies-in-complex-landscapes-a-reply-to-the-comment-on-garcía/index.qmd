@@ -1,0 +1,23 @@
+---
+title: "On gene dispersal studies in complex landscapes: a reply to the comment on García et al. (2005, 2007)"
+authors: "Cristina García, José A. Godoy, Pedro Jordano"
+date: '2009-10-16'
+pub-journal: "Molecular Ecology"
+doi: 10.1111/j.1365-294x.2009.04393.x
+citation-url: https://doi.org/10.1111/j.1365-294x.2009.04393.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Molecular Ecology
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/j.1365-294x.2009.04393.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-294X.2009.04393.x) | [OpenAlex](https://openalex.org/W2110170987)

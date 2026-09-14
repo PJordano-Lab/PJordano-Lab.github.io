@@ -1,0 +1,23 @@
+---
+title: "The turnover of plant–frugivore interactions along plant range expansion: consequences for natural colonization processes"
+authors: "Jorge Isla, Miguel E. Jácome‐Flores, Juan Arroyo et al."
+date: '2023-05-24'
+pub-journal: "Proceedings of the Royal Society B Biological Sciences"
+doi: 10.1098/rspb.2022.2547
+citation-url: https://doi.org/10.1098/rspb.2022.2547
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Proceedings of the Royal Society B Biological Sciences
+
+**Citations:** 8
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1098/rspb.2022.2547) | [PDF](https://doi.org/10.1098/rspb.2022.2547) | [OpenAlex](https://openalex.org/W4377940559)

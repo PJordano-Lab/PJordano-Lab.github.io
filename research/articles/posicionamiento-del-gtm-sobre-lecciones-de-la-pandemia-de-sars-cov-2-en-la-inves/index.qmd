@@ -1,0 +1,23 @@
+---
+title: "Posicionamiento del GTM sobre Lecciones de la pandemia de SARS-CoV-2 en la investigación en Biomedicina: Una reflexión de las actuaciones realizadas para construir una nueva aproximación de futuro"
+authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
+date: '2021-01-12'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+doi: 10.20350/digitalcsic/13751
+citation-url: https://doi.org/10.20350/digitalcsic/13751
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.20350/digitalcsic/13751) | [PDF](http://hdl.handle.net/10261/229807) | [OpenAlex](https://openalex.org/W3153558835)

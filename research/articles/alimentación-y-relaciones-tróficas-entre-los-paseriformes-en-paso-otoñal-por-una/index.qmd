@@ -1,0 +1,19 @@
+---
+title: "Alimentación y relaciones tróficas entre los paseriformes en paso otoñal por una localidad de Andalucía central"
+authors: "Pedro Jordano, Diego de San Pedro"
+date: '1981-01-01'
+pub-journal: ""
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** 
+
+**Citations:** 19
+
+## Links
+
+[OpenAlex](https://openalex.org/W2768695288)

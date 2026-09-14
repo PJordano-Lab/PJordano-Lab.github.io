@@ -1,0 +1,28 @@
+---
+title: "Seed co-occurrence caused by shared frugivores leaves a long-lasting signal in the spatial co-occurrence among plants."
+authors: "Antonio J. Perea, Elena Quintero, Jorge Isla et al."
+date: '2025-07-15'
+pub-journal: ""
+doi: 10.22541/au.175259887.75717703/v1
+citation-url: https://doi.org/10.22541/au.175259887.75717703/v1
+format:
+  html:
+    toc: true
+---
+
+::: {.callout-warning}
+## Preprint
+This is a preprint and has not undergone peer review. Interpret findings with caution.
+:::
+
+## Publication Details
+
+**Published in:** 
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.22541/au.175259887.75717703/v1) | [PDF](https://www.authorea.com/doi/pdf/10.22541/au.175259887.75717703) | [OpenAlex](https://openalex.org/W4412431028)

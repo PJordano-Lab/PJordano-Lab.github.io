@@ -1,0 +1,23 @@
+---
+title: "Annual Variability in Seed Production by Woody Plants and the Masting Concept: Reassessment of Principles and Relationship to Pollination and Seed Dispersal"
+authors: "Carlos M. Herrera, Pedro Jordano, Javier Guitián et al."
+date: '1998-10-01'
+pub-journal: "The American Naturalist"
+doi: 10.1086/286191
+citation-url: https://doi.org/10.1086/286191
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** The American Naturalist
+
+**Citations:** 441
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1086/286191) | [PDF](https://digital.csic.es/bitstream/10261/42160/1/286191.pdf) | [OpenAlex](https://openalex.org/W2157735227)

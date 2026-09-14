@@ -1,0 +1,23 @@
+---
+title: "In remembrance of Victor Rico Gray (1951‐2021): An astonishing tropical ecologist"
+authors: "Wesley Dáttilo, Juan Carlos Serio‐Silva, John N. Thompson et al."
+date: '2021-06-26'
+pub-journal: "Biotropica"
+doi: 10.1111/btp.12987
+citation-url: https://doi.org/10.1111/btp.12987
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Biotropica
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/btp.12987) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/btp.12987) | [OpenAlex](https://openalex.org/W3177381569)

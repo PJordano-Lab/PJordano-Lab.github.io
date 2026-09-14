@@ -1,0 +1,23 @@
+---
+title: "Missing and forbidden links in mutualistic networks"
+authors: "Jens M. Olesen, Jordi Bascompte, Yoko Luise Dupont et al."
+date: '2010-09-15'
+pub-journal: "Proceedings of the Royal Society B Biological Sciences"
+doi: 10.1098/rspb.2010.1371
+citation-url: https://doi.org/10.1098/rspb.2010.1371
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Proceedings of the Royal Society B Biological Sciences
+
+**Citations:** 375
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1098/rspb.2010.1371) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/3030842) | [OpenAlex](https://openalex.org/W2166939357)

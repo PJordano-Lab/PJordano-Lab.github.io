@@ -1,0 +1,23 @@
+---
+title: "Limited potential for bird migration to disperse plants to cooler latitudes"
+authors: "Juan P. González‐Varo, Beatriz Rumeu, Jörg Albrecht et al."
+date: '2021-06-23'
+pub-journal: "Nature"
+doi: 10.1038/s41586-021-03665-2
+citation-url: https://doi.org/10.1038/s41586-021-03665-2
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Nature
+
+**Citations:** 95
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1038/s41586-021-03665-2) | [PDF](https://rodin.uca.es/bitstream/10498/34858/1/Gonzalez-Varo%20et%20al.%202021%20Nature.pdf) | [OpenAlex](https://openalex.org/W3175504106)

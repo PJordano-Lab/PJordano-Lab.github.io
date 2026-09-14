@@ -1,0 +1,23 @@
+---
+title: "Mutualistic networks emerge from the interplay of abundance, behaviour and spatial constraints"
+authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano et al."
+date: '2026-08-04'
+pub-journal: "Journal of Animal Ecology"
+doi: 10.1111/1365-2656.70324
+citation-url: https://doi.org/10.1111/1365-2656.70324
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Journal of Animal Ecology
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/1365-2656.70324) | [PDF](https://repositorio.comillas.edu/bitstreams/7308141c-cd06-4469-b723-5ccab91c3aab/download) | [OpenAlex](https://openalex.org/W7172501010)

@@ -8,7 +8,6 @@ project:
     - "!datasets/**"
     - "!resources/**"
     - "!projects/**"
-    - "!about.qmd"
   # pre-render scripts: run locally as needed, not in CI
   # pre-render:
   #   - Rscript cv/cv_render.R
@@ -31,16 +30,24 @@ website:
     left:
       - href: index.qmd
         text: Home
-      # - href: about.qmd
-      #   text: About
       - href: research.qmd
         text: Publications
       - href: projects.qmd
         text: Projects
       - href: people.qmd
         text: People
-      - href: resources.qmd
-        text: Resources
+      - text: Resources
+        menu:
+          - href: resources.qmd
+            text: Resources
+          - href: datasets.qmd
+            text: Datasets
+          - href: teaching.qmd
+            text: Teaching
+          - href: gallery.qmd
+            text: Gallery
+          - href: media.qmd
+            text: Media
 
       # - text: Projects
       #   menu:
@@ -69,7 +76,7 @@ website:
         href: https://github.com/pedroj
         target: _blank
       - icon: linkedin
-        href: https://www.linkedin.com/in/sethwatts1/
+        href: https://www.linkedin.com/in/pedro-jordano-2a0961a9/
         target: _blank
       - icon: envelope
         href: mailto:jordano@ebd.csic.es

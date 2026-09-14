@@ -1,0 +1,21 @@
+---
+title: 'Pedro Jordano: "Desconocemos aún los virus que pueden saltar a los humanos. Son cajas de Pandora por abrirse"'
+authors: "Pedro Jordano, Raúl Rejón"
+date: '2020-04-24'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[PDF](http://hdl.handle.net/10261/209715) | [OpenAlex](https://openalex.org/W3027173748)

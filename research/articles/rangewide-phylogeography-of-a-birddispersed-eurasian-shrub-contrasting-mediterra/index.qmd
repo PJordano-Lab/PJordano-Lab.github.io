@@ -1,0 +1,23 @@
+---
+title: "Rangewide phylogeography of a bird‐dispersed Eurasian shrub: contrasting Mediterranean and temperate glacial refugia"
+authors: "Arndt Hampe, Juan Arroyo, Pedro Jordano et al."
+date: '2003-10-28'
+pub-journal: "Molecular Ecology"
+doi: 10.1046/j.1365-294x.2003.02006.x
+citation-url: https://doi.org/10.1046/j.1365-294x.2003.02006.x
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Molecular Ecology
+
+**Citations:** 184
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1046/j.1365-294x.2003.02006.x) | [PDF](http://hdl.handle.net/10261/42355) | [OpenAlex](https://openalex.org/W2096296309)

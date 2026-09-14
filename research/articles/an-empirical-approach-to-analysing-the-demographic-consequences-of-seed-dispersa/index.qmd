@@ -1,0 +1,23 @@
+---
+title: "An empirical approach to analysing the demographic consequences of seed dispersal by frugivores."
+authors: "Héctor Godínez–Álvarez, Pedro Jordano"
+date: '2007-01-01'
+pub-journal: "CABI eBooks"
+doi: 10.1079/9781845931650.0391
+citation-url: https://doi.org/10.1079/9781845931650.0391
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** CABI eBooks
+
+**Citations:** 34
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1079/9781845931650.0391) | [PDF](http://hdl.handle.net/10261/38516) | [OpenAlex](https://openalex.org/W1577901424)

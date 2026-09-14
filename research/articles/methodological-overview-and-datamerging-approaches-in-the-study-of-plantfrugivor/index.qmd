@@ -1,0 +1,23 @@
+---
+title: "Methodological overview and data‐merging approaches in the study of plant–frugivore interactions"
+authors: "Elena Quintero, Jorge Isla, Pedro Jordano"
+date: '2021-07-05'
+pub-journal: "Oikos"
+doi: 10.1111/oik.08379
+citation-url: https://doi.org/10.1111/oik.08379
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** Oikos
+
+**Citations:** 81
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.1111/oik.08379) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/oik.08379) | [OpenAlex](https://openalex.org/W3184170053)

@@ -1,0 +1,23 @@
+---
+title: "Informe del GTM sobre terapéutica actual frente al SARS-CoV-2 / COVID-19"
+authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
+date: '2021-04-09'
+pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+doi: 10.20350/digitalcsic/13892
+citation-url: https://doi.org/10.20350/digitalcsic/13892
+format:
+  html:
+    toc: true
+---
+
+## Publication Details
+
+**Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
+
+**Citations:** 0
+
+**Open Access:** Yes
+
+## Links
+
+[DOI Link](https://doi.org/10.20350/digitalcsic/13892) | [PDF](https://doi.org/10.20350/digitalcsic/13892) | [OpenAlex](https://openalex.org/W3172402234)
