@@ -64,6 +64,7 @@ params:
           url: "https://github.com/PJordano-Lab"
         - name: "twitter"
           url: "https://twitter.com/pedro_jordano"
+    MainSections: ["projects","teaching","papers","datasets"]
 
 menu:
     main:
@@ -103,7 +104,9 @@ menu:
           name: Pedro
           url: /pedro/
           weight: 90
-
+          - name: Archive  
+            url: archive/  
+            weight: 7
 markup:
     goldmark:
         renderer:
