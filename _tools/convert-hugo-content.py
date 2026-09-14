@@ -92,6 +92,9 @@ def main():
         fm += ['title-block-banner: "#1a1c20"', "---", ""]
 
         out = ROOT / f"{out_name}.qmd"
+        if out.exists() and "hand-edited: true" in out.read_text(encoding="utf-8"):
+            print(f"skip (hand-edited): {out.relative_to(ROOT)}")
+            continue
         out.write_text("\n".join(fm) + "\n" + body.strip() + "\n", encoding="utf-8")
         print(f"wrote {out.relative_to(ROOT)}")
 

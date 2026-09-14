@@ -3,344 +3,564 @@ title: "People"
 author: Pedro Jordano
 description: "Members and alumni of the Jordano Lab at Estacion Biologica de Donana, CSIC."
 title-block-banner: "#1a1c20"
+hand-edited: true   # layout reworked by hand; _tools/convert-hugo-content.py skips this file
 ---
 
---------------------------------------------------------------------------------
+![](static/images/people__files__stacks-image-00f351f-800x268.jpg)
 
-![Stacks Image
-1499](static/images/people__files__stacks-image-00f351f-800x268.jpg)
+## Pedro Jordano
 
--   Pedro Jordano
+:::: person-row
+![](static/images/people__files__stacks-image-4e25f50-118x152.jpg){fig-alt="Pedro Jordano"}
 
-    [![Stacks Image
-    2134](static/images/people__files__stacks-image-4e25f50-118x152.jpg)](pedro.html "Pedro")
+::: person-text
+[**Pedro Jordano**](pedro.html)
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png)[**Pedro
-    Jordano**Coevolution of species interactions.](pedro.html "Pedro")
+Coevolution of species interactions.
+:::
+::::
 
--   Post-docs
+## Post-docs
 
-    ![Stacks Image
-    7392](static/images/people__files__stacks-image-f3555ee-82x94.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-f3555ee-82x94.jpg){fig-alt="Jorge Isla"}
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Jorge Isla**\
-    Seed dispersal by animal frugivores and range expansion in plants: a
-    multilayer network approach.
+::: person-text
+**Jorge Isla**
 
-    ![Stacks Image 1747](static/images/people__files__stacks-image-aed7ed7.png)
+\
+Seed dispersal by animal frugivores and range expansion in plants: a multilayer
+network approach.
+:::
+::::
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Dave**At the
-    Spaceship USSC Discovery One, to Jupiter.
+:::: person-row
+![](static/images/people__files__stacks-image-aed7ed7.png){fig-alt="Dave"}
 
--   Former Post-docs
+::: person-text
+**Dave**
 
-    ![Stacks Image
-    3047](static/images/people__files__stacks-image-6e5f945-84x96.png)
+At the Spaceship USSC Discovery One, to Jupiter.
+:::
+::::
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Eva
-    Moracho**\
-    Cataloguing the Web of Life, a LifeWatch project.
+## Former Post-docs
 
-    ![Stacks Image
-    7382](static/images/people__files__stacks-image-05ed6fd-108x108.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-6e5f945-84x96.png){fig-alt="Eva Moracho"}
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Irene
-    Mendoza**](https://www.researchgate.net/profile/Irene_Mendoza2)Phenological
-    responses of species interactions to climate change.
+::: person-text
+**Eva Moracho**
 
-    ![Stacks Image
-    7258](static/images/people__files__stacks-image-42041e4-106x126.jpg)
+\
+Cataloguing the Web of Life, a LifeWatch project.
+:::
+::::
 
-    ![bullet_pp_2_1](static/images/people__files__bullet_pp_2_1.png) [**Lissieux
-    Fuzessy**](https://www.researchgate.net/profile/Lisieux_Fuzessy)Ecology of
-    seed dispersal mutualisms by primates.
+:::: person-row
+![](static/images/people__files__stacks-image-05ed6fd-108x108.jpg){fig-alt="Irene Mendoza"}
 
-    ![Stacks Image
-    7238](static/images/people__files__stacks-image-f6bf036-94x94.png)
+::: person-text
+[**Irene Mendoza**](https://www.researchgate.net/profile/Irene_Mendoza2)
 
-    ![bullet_pp_2_1](static/images/people__files__bullet_pp_2_1.png) [**Miguel
-    Jácome**](https://www.researchgate.net/profile/Miguel_Jacome-Flores)Context-dependency
-    and multiplexed plant-animal interaction networks.
+Phenological responses of species interactions to climate change.
+:::
+::::
 
-    ![Stacks Image
-    7288](static/images/people__files__stacks-image-d0e1bd0-124x124.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-42041e4-106x126.jpg){fig-alt="Lissieux Fuzessy"}
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Ana
-    Benítez**](https://www.ru.nl/environmentalscience/staff/individual-staff/benitez-lopez/)Species
-    distribution models, spatial ecology, species-habitat relationships,
-    movement ecology, habitat selection and niche partitioning in co-occurring
-    species..
+::: person-text
+[**Lissieux Fuzessy**](https://www.researchgate.net/profile/Lisieux_Fuzessy)
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Elena
-    Valdés-Correcher**](people.html)Plant-animal interactions: herbivory. Plant
-    chemical ecology.
+Ecology of seed dispersal mutualisms by primates.
+:::
+::::
 
-    ![Stacks Image
-    1701](static/images/people__files__stacks-image-7421241-76x90.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-f6bf036-94x94.png){fig-alt="Miguel Jácome"}
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Francisco
-    Rodríguez Sánchez**](https://frodriguezsanchez.net)[**MAYBE
-    Lab**](https://computationalecology.github.io)Climate change and the
-    population and community ecology of forests.\
-    Quantitative ecology and data analysis.
+::: person-text
+[**Miguel Jácome**](https://www.researchgate.net/profile/Miguel_Jacome-Flores)
 
-    ![Stacks Image 1678](static/images/people__files__stacks-image-a2a9350.png)
+Context-dependency and multiplexed plant-animal interaction networks.
+:::
+::::
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Alfredo
-    Valido**](https://scholar.google.es/citations?user=vMemrEEAAAAJ&hl=en)Plant-animal
-    interactions on islands.
+:::: person-row
+![](static/images/people__files__stacks-image-d0e1bd0-124x124.jpg){fig-alt="Ana Benítez"}
 
-    ![Stacks Image
-    7233](static/images/people__files__stacks-image-6694901-76x138.jpg)
+::: person-text
+[**Ana
+Benítez**](https://www.ru.nl/environmentalscience/staff/individual-staff/benitez-lopez/)
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Carine
-    Emer**](https://www.researchgate.net/profile/Carine_Emer)Defaunation and
-    plant-animal interaction networks.
+Species distribution models, spatial ecology, species-habitat relationships,
+movement ecology, habitat selection and niche partitioning in co-occurring
+species..
+:::
+::::
 
-    ![Stacks Image
-    1724](static/images/people__files__stacks-image-211b94e-128x96.jpg)
+:::: {.person-row .nophoto}
+::: person-text
+[**Elena Valdés-Correcher**](people.html)
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Juan Pe
-    González-Varo**](https://sites.google.com/site/juanpeweb/)Effects of
-    anthropogenic landscape changes on biodiversity.
+Plant-animal interactions: herbivory. Plant chemical ecology.
+:::
+::::
 
-    ![Stacks Image
-    2307](static/images/people__files__stacks-image-31c617c-144x96.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-7421241-76x90.jpg){fig-alt="Francisco Rodríguez Sánchez"}
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Marcial
-    Escudero**](https://sites.google.com/site/amesclir/)\
-    Evolution and diversification of flowering plants with special emphasis in
-    genus *Carex* (Cyperaceae).
+::: person-text
+[**Francisco Rodríguez Sánchez**](https://frodriguezsanchez.net) [**MAYBE
+Lab**](https://computationalecology.github.io)
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Pablo
-    Villalva**Field technician.
+Climate change and the population and community ecology of forests.\
+Quantitative ecology and data analysis.
+:::
+::::
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Pablo
-    Homet**Lab and field technician.
+:::: person-row
+![](static/images/people__files__stacks-image-a2a9350.png){fig-alt="Alfredo Valido"}
 
-    ![Stacks Image 2330](static/images/people__files__stacks-image-f74e557.png)
+::: person-text
+[**Alfredo
+Valido**](https://scholar.google.es/citations?user=vMemrEEAAAAJ&hl=en)
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Arndt
-    Hampe**Seed dispersal, phylogeography, global change.
+Plant-animal interactions on islands.
+:::
+::::
 
-    ![Stacks Image 1821](static/images/people__files__stacks-image-979ecd7.png)
+:::: person-row
+![](static/images/people__files__stacks-image-6694901-76x138.jpg){fig-alt="Carine Emer"}
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Kimberly
-    Holbrook**](http://ieg.ebd.csic.es/KimberlyHolbrook/Holbrook.htm)Seed
-    dispersal and gene flow mediated by large frugivores in tropical habitats.
+::: person-text
+[**Carine Emer**](https://www.researchgate.net/profile/Carine_Emer)
 
-    ![Stacks Image
-    1775](static/images/people__files__stacks-image-0925a9b-102x88.jpg)
+Defaunation and plant-animal interaction networks.
+:::
+::::
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Jerôme
-    Duminil**](http://ebe.ulb.ac.be/ebe/Duminil.html)Population genetics of
-    forest trees.
+:::: person-row
+![](static/images/people__files__stacks-image-211b94e-128x96.jpg){fig-alt="Juan Pe González-Varo"}
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Fabrice
-    Sagnard**](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCkQFjABahUKEwjDx4eRjpLGAhVEPxQKHXDKAD8&url=http%3A%2F%2F65.54.113.26%2FAuthor%2F24217766%2Ffabrice-sagnard&ei=F_x-VYPgL8T-UPCUg_gD&usg=AFQjCNEyVYtNjwPAaIVd6We7q9dZhm1JEA&bvm=bv.95515949,d.d24)Spatial
-    patterns and genetics of forest trees.
+::: person-text
+[**Juan Pe González-Varo**](https://sites.google.com/site/juanpeweb/)
 
--   Technicians
+Effects of anthropogenic landscape changes on biodiversity.
+:::
+::::
 
-    ![Stacks Image 1872](static/images/people__files__stacks-image-c1238aa.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-31c617c-144x96.jpg){fig-alt="Marcial Escudero"}
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **JuanMi
-    Arroyo**Lab technician.
+::: person-text
+[**Marcial Escudero**](https://sites.google.com/site/amesclir/)
 
-    ![Stacks Image 1849](static/images/people__files__stacks-image-8165154.jpg)
+\
+Evolution and diversification of flowering plants with special emphasis in genus
+*Carex* (Cyperaceae).
+:::
+::::
 
-    ![bullet_pp_2_1](static/images/people__files__bullet_pp_2_1.png) **Cristina
-    Rigueiro**Lab technician.
+:::: {.person-row .nophoto}
+::: person-text
+**Pablo Villalva**
 
-    ![Stacks Image
-    7273](static/images/people__files__stacks-image-283f7c7-88x118.png)
+Field technician.
+:::
+::::
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Gemma
-    Calvo**Lab technician.
+:::: {.person-row .nophoto}
+::: person-text
+**Pablo Homet**
 
-    ![Stacks Image 2483](static/images/people__files__stacks-image-10a3bf5.jpg)
+Lab and field technician.
+:::
+::::
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **HAL9000**"The
-    component is correctly installed and fully operational".
+:::: person-row
+![](static/images/people__files__stacks-image-f74e557.png){fig-alt="Arndt Hampe"}
 
-    ![Stacks Image 1895](static/images/people__files__stacks-image-2a2ae49.jpg)
+::: person-text
+**Arndt Hampe**
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Manolo
-    Carrión**Field and lab technician.
+Seed dispersal, phylogeography, global change.
+:::
+::::
 
-    ![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Rafael
-    Gutiérrez**, former
-    Technician.![bullet_pp_2](static/images/people__files__bullet_pp_2-2.png)
-    **Jesús G.P. Rodríguez**, former Technician.
+:::: person-row
+![](static/images/people__files__stacks-image-979ecd7.png){fig-alt="Kimberly Holbrook"}
 
-Open all
+::: person-text
+[**Kimberly Holbrook**](http://ieg.ebd.csic.es/KimberlyHolbrook/Holbrook.htm)
 
--   Pre-doctoral students
+Seed dispersal and gene flow mediated by large frugivores in tropical habitats.
+:::
+::::
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Si Qi**Complex
-plant-herbivore interaction networks in fragmented landscapes.\
+:::: person-row
+![](static/images/people__files__stacks-image-0925a9b-102x88.jpg){fig-alt="Jerôme Duminil"}
+
+::: person-text
+[**Jerôme Duminil**](http://ebe.ulb.ac.be/ebe/Duminil.html)
+
+Population genetics of forest trees.
+:::
+::::
+
+:::: {.person-row .nophoto}
+::: person-text
+[**Fabrice
+Sagnard**](https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCkQFjABahUKEwjDx4eRjpLGAhVEPxQKHXDKAD8&url=http%3A%2F%2F65.54.113.26%2FAuthor%2F24217766%2Ffabrice-sagnard&ei=F_x-VYPgL8T-UPCUg_gD&usg=AFQjCNEyVYtNjwPAaIVd6We7q9dZhm1JEA&bvm=bv.95515949,d.d24)
+
+Spatial patterns and genetics of forest trees.
+:::
+::::
+
+## Technicians
+
+:::: person-row
+![](static/images/people__files__stacks-image-c1238aa.jpg){fig-alt="JuanMi Arroyo"}
+
+::: person-text
+**JuanMi Arroyo**
+
+Lab technician.
+:::
+::::
+
+:::: person-row
+![](static/images/people__files__stacks-image-8165154.jpg){fig-alt="Cristina Rigueiro"}
+
+::: person-text
+**Cristina Rigueiro**
+
+Lab technician.
+:::
+::::
+
+:::: person-row
+![](static/images/people__files__stacks-image-283f7c7-88x118.png){fig-alt="Gemma Calvo"}
+
+::: person-text
+**Gemma Calvo**
+
+Lab technician.
+:::
+::::
+
+:::: person-row
+![](static/images/people__files__stacks-image-10a3bf5.jpg){fig-alt="HAL9000"}
+
+::: person-text
+**HAL9000**
+
+"The component is correctly installed and fully operational".
+:::
+::::
+
+:::: person-row
+![](static/images/people__files__stacks-image-2a2ae49.jpg){fig-alt="Manolo Carrión"}
+
+::: person-text
+**Manolo Carrión**
+
+Field and lab technician.
+:::
+::::
+
+:::: {.person-row .nophoto}
+::: person-text
+**Rafael Gutiérrez**, former Technician.
+:::
+::::
+
+:::: {.person-row .nophoto}
+::: person-text
+**Jesús G.P. Rodríguez**, former Technician.
+:::
+::::
+
+## Pre-doctoral students
+
+:::: {.person-row .nophoto}
+::: person-text
+**Si Qi**
+
+Complex plant-herbivore interaction networks in fragmented landscapes.\
 Co-supervised with Xingfeng Si and Ding Ping. East China Normal University,
 China.
+:::
+::::
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Flávia Zagury**\
+:::: {.person-row .nophoto}
+::: person-text
+**Flávia Zagury**
+
+\
 Plant-frugivore interactions: mutualistic-antagonistic gradients and their
 demographic conseuquences.\
-Co-supervised with Rita Portela. Universidade Federal de Rio de Janeiro,
-Brazil. - Past PhD students
+Co-supervised with Rita Portela. Universidade Federal de Rio de Janeiro, Brazil.
+:::
+::::
 
-![Stacks Image
-7377](static/images/people__files__stacks-image-fd43754-104x96.jpg)
+## Past PhD students
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Blanca Arroyo**\
+:::: person-row
+![](static/images/people__files__stacks-image-fd43754-104x96.jpg){fig-alt="Blanca Arroyo"}
+
+::: person-text
+**Blanca Arroyo**
+
+\
 Plant-pollinator interactions: from individual-based networks to complex webs of
 interactions.\
 Co-supervised with Ignasi Bartomeus.
+:::
+::::
 
-![Stacks Image
-7353](static/images/people__files__stacks-image-dc6da9d-92x92.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-dc6da9d-92x92.jpg){fig-alt="Elena Quintero"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Elena
-Quintero**Super-generalist species in complex networks: interaction forms and
-their implications in ecosystems.
+::: person-text
+**Elena Quintero**
 
-![Stacks Image
-7355](static/images/people__files__stacks-image-f3555ee-82x94.jpg)
+Super-generalist species in complex networks: interaction forms and their
+implications in ecosystems.
+:::
+::::
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Jorge Isla**\
+:::: person-row
+![](static/images/people__files__stacks-image-f3555ee-82x94.jpg){fig-alt="Jorge Isla"}
+
+::: person-text
+**Jorge Isla**
+
+\
 Seed dispersal by animal frugivores and range expansion in plants: a multilayer
 network approach.
+:::
+::::
 
-![Stacks Image
-7362](static/images/people__files__stacks-image-59cbe29-94x106.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-59cbe29-94x106.jpg){fig-alt="Caio Ballarin"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Caio
-Ballarin**Plant-pollinator interaction networks in cerrado vegetation: from
-interaction motifs to multilayer structures.\
+::: person-text
+**Caio Ballarin**
+
+Plant-pollinator interaction networks in cerrado vegetation: from interaction
+motifs to multilayer structures.\
 External supervisor; Co-supervised with Felipe W. Amorim.
+:::
+::::
 
-![Stacks Image
-7316](static/images/people__files__stacks-image-d8db7ea-82x104.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-d8db7ea-82x104.jpg){fig-alt="Carolina Carvalho"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Carolina
-Carvalho**Ecological and genetic effects of seed size variation in defaunated
-landscapes.\
+::: person-text
+**Carolina Carvalho**
+
+Ecological and genetic effects of seed size variation in defaunated landscapes.\
 Co-supervised with M. Galetti.
+:::
+::::
 
-![Stacks Image
-7341](static/images/people__files__stacks-image-6e5f945-84x96.png)
+:::: person-row
+![](static/images/people__files__stacks-image-6e5f945-84x96.png){fig-alt="Eva Moracho"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Eva Moracho**\
+::: person-text
+**Eva Moracho**
+
+\
 Persisting in the limit.Gene flow, reproduction and conservation *Quercus robur*
 L. relict populations.\
 Co-supervised with A. Hampe.
+:::
+::::
 
-![Stacks Image 3001](static/images/people__files__stacks-image-a971cdd.png)
+:::: person-row
+![](static/images/people__files__stacks-image-a971cdd.png){fig-alt="Néstor Pérez Méndez"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [Néstor Pérez
-Méndez](http://nperezmendez.weebly.com/)\
+::: person-text
+[**Néstor Pérez Méndez**](http://nperezmendez.weebly.com/)
+
+\
 Lizard-mediated seed dispersal and gene flow patterns in *Neochamaelea
 pulverulenta*, a Canary Islands paleoendemism.\
 Co-supervised with A. Valido.
+:::
+::::
 
-![Stacks Image
-2978](static/images/people__files__stacks-image-61e433a-94x106.png)
+:::: person-row
+![](static/images/people__files__stacks-image-61e433a-94x106.png){fig-alt="Rocío Rodríguez"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Rocío
-Rodríguez**Seed dispersal, gene flow, and connectivity in fragmented relict tree
+::: person-text
+**Rocío Rodríguez**
+
+Seed dispersal, gene flow, and connectivity in fragmented relict tree
 populations.\
 Co-supervised with A. Hampe.
+:::
+::::
 
-![Stacks Image 3093](static/images/people__files__stacks-image-f2a6f51.png)
+:::: person-row
+![](static/images/people__files__stacks-image-f2a6f51.png){fig-alt="Cristina García"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [Cristina
-García](http://cristinagarcia.eu/Site/Home.html)\
+::: person-text
+[**Cristina García**](http://cristinagarcia.eu/Site/Home.html)
+
+\
 Gene flow mediated by frugivores and pollinators.
+:::
+::::
 
-![Stacks Image
-7412](static/images/people__files__stacks-image-ada2ff0-84x112.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-ada2ff0-84x112.jpg){fig-alt="Miranda"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) Miranda
-Sinnott-Armstrong\
+::: person-text
+**MirandaSinnott-Armstrong**\
 The evolution of fruit color.\
 External co-supervision with Michael Donohue, Yale University, USA.
+:::
+::::
 
-![Stacks Image 7228](static/images/people__files__stacks-image-f94b059.png)
+:::: person-row
+![](static/images/people__files__stacks-image-f94b059.png){fig-alt="Candelaria"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) Candelaria
-Rodríguez\
+::: person-text
+**Candelaria Rodríguez**\
 The evolution of bird pollination on islands.\
 Co-supervised with A. Valido.
+:::
+::::
 
-![Stacks Image
-7319](static/images/people__files__stacks-image-3b414e8-82x94.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-3b414e8-82x94.jpg){fig-alt="Francisco Fontúrbel"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) Francisco Fontúrbel
+::: person-text
+**Francisco Fontúrbel**
+
 Arquitectos ambientales y ecológicos: Pautas para la gestión ambiental del
 bosque templado lluvioso de Chile derivadas de la conservación del monito del
 monte (*Dromiciops gliroides*).\
 External supervisor; Co-supervised with Rodrigo Medel.
+:::
+::::
 
-![Stacks Image 3116](static/images/people__files__stacks-image-41f4fef.png)
+:::: person-row
+![](static/images/people__files__stacks-image-41f4fef.png){fig-alt="Jofre Carnicer"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Jofre
-Carnicer**](http://www.creaf.cat/es/personal/jofre-carnicer)Macroecology.
+::: person-text
+[**Jofre Carnicer**](http://www.creaf.cat/es/personal/jofre-carnicer)
 
-![Stacks Image 3199](static/images/people__files__stacks-image-bd29504.jpg)
+Macroecology.
+:::
+::::
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Débora
-Rother**](http://deborarother.wix.com/deborarother)Frugivory and seed dispersal
-limitation in the Atlantic rainforest.\
+:::: person-row
+![](static/images/people__files__stacks-image-bd29504.jpg){fig-alt="Débora Rother"}
+
+::: person-text
+[**Débora Rother**](http://deborarother.wix.com/deborarother)
+
+Frugivory and seed dispersal limitation in the Atlantic rainforest.\
 Co-supervised with M.A. Pizo and R. Rodrigues.
+:::
+::::
 
-![Stacks Image 3139](static/images/people__files__stacks-image-116e837.png)
+:::: person-row
+![](static/images/people__files__stacks-image-116e837.png){fig-alt="Paulo R. Guimarães Jr."}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Paulo R.
-Guimarães Jr.**](http://www.guimaraes.bio.br/)Ecological networks.
+::: person-text
+[**Paulo R. Guimarães Jr.**](http://www.guimaraes.bio.br/)
 
-![Stacks Image 3162](static/images/people__files__stacks-image-b65843b.jpg)
+Ecological networks.
+:::
+::::
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Juan Luis
-García-Castaño**Plant-frugivore interactions, seed dispersal and regeneration of
-montane vegetation.
+:::: person-row
+![](static/images/people__files__stacks-image-b65843b.jpg){fig-alt="Juan Luis García-Castaño"}
 
-![Stacks Image
-7306](static/images/people__files__stacks-image-555708a-98x104.jpg)
+::: person-text
+**Juan Luis García-Castaño**
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Fernando
-González**Frug**i**voría y ecología de la dispersión de semillas por el pavón
-*Oreophasis derbianus* (Cracidae).\
+Plant-frugivore interactions, seed dispersal and regeneration of montane
+vegetation.
+:::
+::::
+
+:::: person-row
+![](static/images/people__files__stacks-image-555708a-98x104.jpg){fig-alt="Fernando González"}
+
+::: person-text
+**Fernando González**
+
+Frug**i**voría y ecología de la dispersión de semillas por el pavón *Oreophasis
+derbianus* (Cracidae).\
 External supervisor.
+:::
+::::
 
-![Stacks Image
-7313](static/images/people__files__stacks-image-7421241-76x90.jpg)
+:::: person-row
+![](static/images/people__files__stacks-image-7421241-76x90.jpg){fig-alt="Francisco Rodríguez Sánchez"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) [**Francisco
-Rodríguez Sánchez**](https://sites.google.com/site/rodriguezsanchezf/)An
-integrative framework to investigate species responses to climate change:
+::: person-text
+[**Francisco Rodríguez
+Sánchez**](https://sites.google.com/site/rodriguezsanchezf/)
+
+An integrative framework to investigate species responses to climate change:
 biogeography and ecology of relict trees in the Mediterranean.
+:::
+::::
 
-![Stacks Image 7293](static/images/people__files__stacks-image-665aed0.png)
+:::: person-row
+![](static/images/people__files__stacks-image-665aed0.png){fig-alt="Alfredo Valido"}
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Alfredo
-Valido**Plant-frugivore interactions, and seed dispersal in island habitats.
+::: person-text
+**Alfredo Valido**
 
-![Stacks Image 7331](static/images/people__files__stacks-image-f74e557.png)
+Plant-frugivore interactions, and seed dispersal in island habitats.
+:::
+::::
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Arndt Hampe**Cómo
-ser un relicto en el Mediterráneo: ecología de la reproducción y de la
+:::: person-row
+![](static/images/people__files__stacks-image-f74e557.png){fig-alt="Arndt Hampe"}
+
+::: person-text
+**Arndt Hampe**
+
+Cómo ser un relicto en el Mediterráneo: ecología de la reproducción y de la
 regeneración de Frangula alnus subsp. baetica..
+:::
+::::
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Margarita
-Cobo**Polinización y biología de la reproducción de plantas Mediterráneas de
-montaña
+:::: {.person-row .nophoto}
+::: person-text
+**Margarita Cobo**
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Luis
-Domínguez**Ecología y biología de la reproducción de la Grajilla, *Corvus
-monedula*.
+Polinización y biología de la reproducción de plantas Mediterráneas de montaña
+:::
+::::
 
-![bullet_pp_2](static/images/people__files__bullet_pp_2.png) **Manuel
-Nogales**Ecología y biología de la reproducción del Cuervo, *Corvus corax*, en
-Islas Canarias. - Master students (current and past)
+:::: {.person-row .nophoto}
+::: person-text
+**Luis Domínguez**
+
+Ecología y biología de la reproducción de la Grajilla, *Corvus monedula*.
+:::
+::::
+
+:::: {.person-row .nophoto}
+::: person-text
+**Manuel Nogales**
+
+Ecología y biología de la reproducción del Cuervo, *Corvus corax*, en Islas
+Canarias.
+:::
+::::
+
+## Master students (current and past)
 
 Miguel Moreno (MJF, PJ)\
 Manuel Sánchez (IM, PJ)\
@@ -362,6 +582,6 @@ Eva Moracho (PJ)\
 Elena Quintero (PJ)\
 Daniel Pareja (PJ)
 
-Open all
+--------------------------------------------------------------------------------
 
 ####
