@@ -21,3 +21,38 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.3732/apps.1500085) | [PDF](https://bsapubs.onlinelibrary.wiley.com/doi/pdfdirect/10.3732/apps.1500085) | [OpenAlex](https://openalex.org/W2277582621)
+
+## BibTeX
+
+```bibtex
+@article{RN57993,
+   author = {Arroyo, J. M. and Escudero, M. and Jordano, P.},
+   title = {Isolation of 91 polymorphic microsatellite loci in the Western Mediterranean endemic Carex Helodes (Cyperaceae)},
+   journal = {Applications in Plant Sciences},
+   volume = {4},
+   number = {1},
+   note = {Dp6rh
+Times Cited:0
+Cited References Count:13},
+   abstract = {Premise of the study: Microsatellite primers were developed for Carex helodes (Cyperaceae), a western Mediterranean endemic that is locally distributed in southern Portugal and southwestern Spain and rare in northern Morocco.
+Methods and Results: One hundred nine nuclear microsatellite markers were developed using a shotgun pyrosequencing method, resulting in 91 polymorphic and 18 monomorphic loci when tested using 19 individuals sampled from five populations from Portugal, Spain, and Morocco. Loci averaged 3.23 alleles per locus (SD = 1.15). In a single population (Cortelha population, Portugal), the 34 most polymorphic loci showed a mean observed heterozygosity of 0.357 (SD = 0.292) and mean expected heterozygosity of 0.384 (SD = 0.255).
+Conclusions: Next-generation sequencing allowed us to develop a high number of genetic markers with levels of polymorphism adequate to study gene flow among populations. However, when genotyping the individuals within a population, we found low levels of variation.},
+   keywords = {carex helodes
+cyperaceae
+endemism
+sedge
+shotgun sequencing
+simple sequence repeat (ssr) marker
+population-genetics
+software
+windows
+linux},
+   ISSN = {2168-0450},
+   DOI = {ARTN 1500085
+10.3732/apps.1500085},
+   url = {<Go to ISI>://WOS:000378625500004
+https://onlinelibrary.wiley.com/doi/pdf/10.3732/apps.1500085},
+   year = {2016},
+   type = {Journal Article}
+}
+```

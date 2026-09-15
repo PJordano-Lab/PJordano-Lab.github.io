@@ -21,3 +21,46 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1890/08-1883.1) | [PDF](http://hdl.handle.net/10261/36449) | [OpenAlex](https://openalex.org/W2157318339)
+
+## BibTeX
+
+```bibtex
+@article{RN4282,
+   author = {Diaz-Castelazo, Cecilia and Guimaraes, Paulo R and Jordano, Pedro and Thompson, John N and Marquis, Robert J and Rico-Gray, Victor and Ordano, P Edro J and Hompson, J O H N N T},
+   title = {Changes of a mutualistic network over time: reanalysis over a 10-year period},
+   journal = {Ecology},
+   volume = {91},
+   number = {3},
+   pages = {793–801},
+   abstract = {We analyzed the structure of a multispecific network or interacting ants and plants bearing extrafloral nectaries recorded in 1990 and again in 2000 in La Mancha, Veracruz, Mexico. We assessed the replicability of the number of interactions found among species and also whether there had been changes in the network structure associated with appearance of new ant and plant species during. that 10-year period. Our results show that the nested topology of the network was similar between sampling dates, group dissimilarity increased, mean number of interactions for ant species increased, the frequency distribution of standardized degrees reached higher values for plant species, more ant species and fewer plant species constituted the core of the more recent network, and the presence of new ant and plant species increased while their contribution to nestedness remained the same. Generalist species (i.e., those with the most links or interactions) appeared to maintain the stability of the network because the new species incorporated into the communities were linked to this core of generalists. Camponotus planatus was the most extreme generalist ant species (the one with the most links) in both networks, followed by four other ant species; but other species changed either their position along the continuum of generalists relative to specialists or their presence or absence within the network. Even though new species moved into the area during the decade between the surveys, the overall network structure remained unmodified.},
+   keywords = {Community
+Biodiversity
+Specialization
+Coevolutionary Networks
+Invasions
+Ants
+Plants
+Mexico
+ant
+plant interactions
+mutualistic networks
+Mutualistic Networks
+mexico
+Ant-Plant Interactions
+Asymmetries
+camponotus planatus
+Camponotus Planatus
+Coastal Veracruz
+extrafloral nectary-bearing plants
+Extrafloral Nectary-Bearing Plants
+generalist vs
+Generalist Vs. Specialist Species
+specialist species
+temporal dynamics
+Temporal Dynamics},
+   ISSN = {0012-9658 (Print) 0012-9658 (Linking)},
+   DOI = {10.1890/08-1883.1},
+   year = {2010},
+   type = {Journal Article}
+}
+```

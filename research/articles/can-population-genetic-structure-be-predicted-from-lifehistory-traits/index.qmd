@@ -21,3 +21,31 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1086/513490) | [PDF](http://hdl.handle.net/10261/38468) | [OpenAlex](https://openalex.org/W2102695206)
+
+## BibTeX
+
+```bibtex
+@article{RN21467,
+   author = {Duminil, J and Fineschi, S and Hampe, A and Jordano, P and Salvini, D and Vendramin, G G and Petit, R J},
+   title = {Can population genetic structure be predicted from life-history traits?},
+   journal = {American Naturalist},
+   volume = {169},
+   pages = {662–672},
+   abstract = {Population genetic structure is a key parameter in evolutionary biology. Earlier comparative studies have shown that genetic structure depends on species ecological attributes and life-history traits, but species phylogenetic relatedness had not been accounted for. Here we reevaluate the relationships between genetic structure and species traits in seed plants. Each species is characterized by a set of life-history and ecological features as well as by its geographic range size, its heterozygote deficit, and its genetic structure at nuclear and organelle markers to distinguish between pollen- and seed-mediated gene flow. We use both a conventional regression approach and a method that controls for phylogenetic relationships. Once phylogenetic conservatism and covariation among traits are taken into account, genetic structure is shown to be related with only a few synthetic traits, such as mating system for nuclear markers and seed dispersal mode or geographic range size for organelle markers. Along with other studies on invasiveness or rarity, our work illustrates the fact that predicting the fate of species across a broad taxonomic assemblage on the basis of simple traits is rarely possible, a testimony of the highly contingent nature of evolution.},
+   keywords = {Species Specificity
+*Phylogeny
+*Phenotype
+Geography
+*Evolution
+Regression Analysis
+*Genetics, Population
+Angiosperms/*genetics
+Gene Flow/genetics/physiology
+Models, Theoretical
+Reproduction/genetics/physiology},
+   ISSN = {1537-5323 (Electronic)},
+   DOI = {10.1086/513490},
+   year = {2007},
+   type = {Journal Article}
+}
+```

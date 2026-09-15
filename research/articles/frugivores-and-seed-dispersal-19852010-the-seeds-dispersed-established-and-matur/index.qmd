@@ -19,3 +19,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1016/j.actao.2011.09.008) | [OpenAlex](https://openalex.org/W1981641854)
+
+## BibTeX
+
+```bibtex
+@article{RN3724,
+   author = {Forget, Pierre Michel and Jordano, Pedro and Lambert, Joanna E. and Böhning-Gaese, Katrin and Traveset, Anna and Wright, S. Joseph},
+   title = {Frugivores and seed dispersal (1985-2010); the 'seeds' dispersed, established and matured},
+   journal = {Acta Oecologica},
+   volume = {37},
+   number = {6},
+   pages = {517–520},
+   DOI = {10.1016/j.actao.2011.09.008},
+   year = {2011},
+   type = {Journal Article}
+}
+```

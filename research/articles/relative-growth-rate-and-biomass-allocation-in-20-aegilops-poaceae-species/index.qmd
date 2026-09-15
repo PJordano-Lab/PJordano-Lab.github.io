@@ -21,3 +21,42 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1469-8137.1998.00286.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8137.1998.00286.x) | [OpenAlex](https://openalex.org/W2081745218)
+
+## BibTeX
+
+```bibtex
+@article{RN26795,
+   author = {Villar, Rafael and Veneklaas, E.J. J and Jordano, Pedro and Lambers, H.},
+   title = {Relative growth rate and biomass allocation in 20 Aegilops (Poaceae) species},
+   journal = {New Phytologist},
+   volume = {140},
+   number = {3},
+   pages = {425–437},
+   abstract = {This paper analyses relationships between relative growth rate (RGR), Seed mass, biomass allocation, photosynthetic rate and other plant traits as well as habitat factors (rainfall and altitude) in 20 wild species of Aegilops L. and one closely related species of Amblyopyrum (Jaub. {&} Spach) Eig., which differ in ploidy level (diploid, tetraploid and hexaploid). The plants were grown hydroponically for 20 d in a growth chamber. The relationships between parameters were calculated either using the phylogenetic information (phylogenetically independent contrasts, PIG) or without using the phylogenetic information (trait values of taxa, TIP). The results using the two approaches were very similar, but there were a few exceptions in which the results were different (e.g. RGR VS. Seed mass). Specific leaf area (SLA) was positively correlated with leaf area ratio (LAR) and negatively correlated with net assimilation rate (NAR), which together resulted in the absence of a correlation between SLA and RGR. Leaf photosynthetic rates (expressed on a mass or area basis) showed no correlation with RGR. RGR was positively correlated with the stem mass ratio and negatively with root mass ratio. Species with a lower d. wt percentage have a higher RGR. Aegilops species from locations with higher annual rainfall invested less biomass in roots and more in shoots (leaves and stems) and had a higher RGR. Diploid species had a lower seed mass and initial mass than the hybrids (tetraploid and hexaploid species), but there was no correlation of RGR With ploidy level. Polyploid species, which have higher seed mass, occur at a higher altitude than diploid species. Our results show that variation in RGR in Aegilops and Amblyopyrum spp. is associated mainly with variation in biomass allocation (proportion of biomass in stems and roots) and d. wt percentage, and not with variation in SLA, leaf photosynthetic rates or seed mass.},
+   keywords = {Seed Mass
+Seed Size
+Plants
+Disturbance
+Phylogenetically Independent Contrasts
+Phylogeny
+Carbon
+Rainfall
+Strategies
+Seed mass
+Photosynthesis
+Relative Growth Rate
+Biomass Allocation
+Chemical-Composition
+Components
+Leaf-Area
+Aegilops L.
+Biomass allocation
+Relative growth rate
+Weight
+Wild wheat
+Wild Wheat},
+   DOI = {10.1046/j.1469-8137.1998.00286.x},
+   year = {1998},
+   type = {Journal Article}
+}
+```

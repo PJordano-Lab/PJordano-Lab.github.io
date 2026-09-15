@@ -19,3 +19,18 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/40604) | [OpenAlex](https://openalex.org/W1167039079)
+
+## BibTeX
+
+```bibtex
+@inbook{RN12826,
+   author = {Arroyo, J and Carrión, J S and Hampe, a and Jordano, P},
+   title = {La distribuición de las especies a diferentes escalas espacio-temporales},
+   booktitle = {Ecología del bosque mediterráneo en un mundo cambiante},
+   pages = {27–68},
+   abstract = {En este capítulo se explora cómo las especies del bosque mediterráneo han modificado su ámbito geográfico en respuesta a los cambios naturales del medio, desde el establecimiento del clima mediterráneo en nuestra región. Se analizan primero los cambios históricos reconocibles a través del registro fósil, cuyos datos han proporcionado nuevas perspectivas sobre la dinámica a largo plazo del bosque mediterráneo. Posteriormente se describen los tipos de distribución geográfica y las distintas metodologías de su análisis en una revisión crítica de la literatura sobre sectorización biogeográfica y distribución de la diversidad florística de la Península Ibérica. Aumentando progresivamente el detalle de la perspectiva, se describe a continuación la dinámica poblacional histórica de algunas especies emblemáticas del bosque mediterráneo. Ésta ha sido revelada recientemente mediante métodos moleculares, una herramienta poderosa para reconstruir la historia de los linajes, y el estudio de la regeneración de las especies en situaciones de relictualidad. La última sección está dedicada a las implicaciones que la distribución de las plantas tiene en diversos aspectos de su biología, como por ejemplo las interacciones con otros organismos. En particular, se discuten las posibles consecuencias de la modificación reciente de las áreas de distribución a escala regional y local (frecuente pero no necesariamente debida a factores antrópicos), especialmente cuando la distribución es parcheada (i.e. dinámica metapoblacional).},
+   ISBN = {84-8014-552-8},
+   year = {2004},
+   type = {Book Section}
+}
+```

@@ -21,3 +21,28 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/mec.14181) | [PDF](http://hdl.handle.net/10498/34836) | [OpenAlex](https://openalex.org/W2613192855)
+
+## BibTeX
+
+```bibtex
+@article{RN57549,
+   author = {González-Varo, Juan P. and Carvalho, Carolina S. and Arroyo, Juan M. and Jordano, Pedro},
+   title = {Unravelling seed dispersal through fragmented landscapes: Frugivore species operate unevenly as mobile links},
+   journal = {Molecular Ecology},
+   volume = {26},
+   number = {16},
+   pages = {4309–4321},
+   abstract = {Introduction: D-dimer assay, generally evaluated according to cutoff points calibrated for VTE exclusion, is used to estimate the individual risk of recurrence after a first idiopathic event of venous thromboembolism (VTE). Methods: Commercial D-dimer assays, evaluated according to predetermined cutoff levels for each assay, specific for age (lower in subjects <70 years) and gender (lower in males), were used in the recent DULCIS study. The present analysis compared the results obtained in the DULCIS with those that might have been had using the following different cutoff criteria: traditional cutoff for VTE exclusion, higher levels in subjects aged ≥60 years, or age multiplied by 10. Results: In young subjects, the DULCIS low cutoff levels resulted in half the recurrent events that would have occurred using the other criteria. In elderly patients, the DULCIS results were similar to those calculated for the two age-adjusted criteria. The adoption of traditional VTE exclusion criteria would have led to positive results in the large majority of elderly subjects, without a significant reduction in the rate of recurrent event. Conclusion: The results confirm the usefulness of the cutoff levels used in DULCIS.},
+   keywords = {DNA barcoding
+DNA microsatellites
+dispersal events
+frugivorous birds
+functional complementarity
+matrix},
+   ISSN = {4955139574},
+   DOI = {10.1111/mec.14181},
+   url = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.14181},
+   year = {2017},
+   type = {Journal Article}
+}
+```

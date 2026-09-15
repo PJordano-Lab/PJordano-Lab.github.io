@@ -21,3 +21,64 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2435.12763) | [PDF](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2435.12763) | [OpenAlex](https://openalex.org/W2949866378)
+
+## BibTeX
+
+```bibtex
+@article{RN29537,
+   author = {Jordano, Pedro},
+   title = {Sampling networks of ecological interactions},
+   journal = {Functional Ecology},
+   volume = {30},
+   number = {12},
+   pages = {1883–1893},
+   abstract = {Summary
+            
+              
+                
+                  Sampling ecological interactions presents similar challenges, problems, potential biases and constraints as sampling individuals and species in biodiversity inventories. Robust estimates of the actual number of interactions (links) within diversified ecological networks require adequate sampling effort that needs to be explicitly gauged. Yet we still lack a sampling theory explicitly focusing on ecological interactions.
+                
+                
+                  
+                    While the complete inventory of interactions is likely impossible, a robust characterization of its main patterns and metrics is probably realistic. We must acknowledge that a sizeable fraction of the maximum number of interactions
+                    
+                    among, say,
+                    A
+                    animal species and
+                    P
+                    plant species (i.e.
+                    
+                    ) is impossible to record due to forbidden links, that is life‐history restrictions. Thus, the number of observed interactions
+                    I
+                    in robustly sampled networks is typically
+                    
+                    , resulting in sparse interaction matrices with low connectance.
+                  
+                
+                
+                  Here I provide a review and outline a conceptual framework for interaction sampling by building an explicit analogue to individuals and species sampling, thus extending diversity‐monitoring approaches to the characterization of complex networks of ecological interactions. Contrary to species inventories, a sizable fraction of non‐observed pairwise interactions cannot be sampled, due to biological constraints that forbid their occurrence.
+                
+                
+                  Reasons for forbidden links are multiple but mainly stem from spatial and temporal uncoupling, size mismatches and intrinsically low probabilities of interspecific encounter for most potential interactions of partner species. Adequately assessing the completeness of a network of ecological interactions thus needs knowledge of the natural history details embedded, so that forbidden links can be accounted for as a portion of the unobserved links when addressing sampling effort.
+                
+                
+                  
+                    Recent implementations of inference methods for unobserved species or for individual‐based data can be combined with the assessment of forbidden links. This can help in estimating their relative importance, simply by the difference between the asymptotic estimate of interaction richness
+                    in a robustly sampled
+                    assemblage and the maximum richness
+                    
+                    of interactions. This is crucial to assess the rapid and devastating effects of defaunation‐driven loss of key ecological interactions and the services they provide and the analogous losses related to interaction gains due to invasive species and biotic homogenization.
+                  
+                
+              
+            
+            
+              A
+              lay summary
+              is available for this article.},
+   ISSN = {0269-8463, 1365-2435},
+   DOI = {10.1111/1365-2435.12763},
+   year = {2016},
+   type = {Journal Article}
+}
+```

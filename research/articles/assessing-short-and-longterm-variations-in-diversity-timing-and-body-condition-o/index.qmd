@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/oik.08387) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/oik.08387) | [OpenAlex](https://openalex.org/W4205188199)
+
+## BibTeX
+
+```bibtex
+@article{RN30662,
+   author = {Campo‐Celada, María and Jordano, Pedro and Benítez‐López, Ana and Gutiérrez‐Expósito, Carlos and Rabadán‐González, Julio and Mendoza, Irene},
+   title = {Assessing short and long‐term variations in diversity, timing and body condition of frugivorous birds},
+   journal = {Oikos},
+   volume = {2022},
+   number = {2},
+   pages = {oik.08387},
+   abstract = {Seed dispersal by frugivorous bird species involves a fine temporal tuning between fruiting plants and birds. However, this interaction may be severely threatened by anthropogenic climate and land‐use change, which may result in phenological mismatches and pervasive ecological consequences for avian communities. In this study, we evaluate changes at long (~40 years) and short‐time (seasonal) spans in an avian frugivore community using a snapshot resampling. Particularly, we focus on changes in composition, abundance, migratory timing (i.e. phenology) and physical condition in relation to variations in fruit supply. We used bird and fruit data collected during 1981–1983 and 2019–2021 in a Mediterranean scrubland site in Doñana Natural Area, SW Spain. Our findings indicate a profound transformation of species composition, bird phenology and body condition: in ~40 years, the avian community showed a 66% and 18.4% decrease of the abundance of wintering and seed‐disperser species, respectively. Seasonal abundance peaks were advanced for at least one month in the 9 out of 11 frugivorous bird species included in the analyses. Avian body condition during the migratory passage has worsened, with fewer individuals showing a high‐fat percentage now than in the past. Finally, we report a fruit production decrease of almost half in 2019–2021 compared to 1981–1983, probably linked to habitat encroachment by pine trees and replacement of fleshy‐fruited shrubs. Vegetation encroachment and climate change are the most plausible explanations for the observed changes in the avian community, but the relative importance of these factors is yet unknown. Our results at a local scale mirror the dramatic consequences of global change affecting the diversity, phenology and physical condition of frugivorous bird species reported in multiple studies across the globe. The loss of frugivores may trigger feedback mechanisms in which seed dispersal is disrupted, leading to impaired recruitment of fruiting plants and hence less food availability for the avian community.},
+   ISSN = {0030-1299, 1600-0706},
+   DOI = {10.1111/oik.08387},
+   year = {2022},
+   type = {Journal Article}
+}
+```

@@ -19,3 +19,19 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/40617) | [OpenAlex](https://openalex.org/W1623546747)
+
+## BibTeX
+
+```bibtex
+@inbook{RN57504,
+   author = {Jordano, Pedro and Vázquez, D and Bascompte, J},
+   title = {Redes complejas de interacciones planta---animal},
+   booktitle = {Interacciones planta---animal y la conservaci{ó}n de la biodiversidad},
+   editor = {Medel, R and Zamora, R and Aizen, M and Dirzo, R},
+   publisher = {CYTED},
+   address = {Madrid},
+   pages = {17–41},
+   year = {2009},
+   type = {Book Section}
+}
+```

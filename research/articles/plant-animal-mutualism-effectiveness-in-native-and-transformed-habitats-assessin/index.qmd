@@ -21,3 +21,28 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1016/j.ppees.2017.09.003) | [PDF](http://repositorio.uchile.cl/handle/2250/148534) | [OpenAlex](https://openalex.org/W2755919136)
+
+## BibTeX
+
+```bibtex
+@article{RN26746,
+   author = {Fontúrbel, Francisco E. and Jordano, Pedro and Medel, Rodrigo},
+   title = {Plant-animal mutualism effectiveness in native and transformed habitats: Assessing the coupled outcomes of pollination and seed dispersal},
+   journal = {Perspectives in Plant Ecology, Evolution and Systematics},
+   volume = {28},
+   number = {December 2016},
+   pages = {87–95},
+   abstract = {Most flowering plants depend on biotic pollination and seed dispersal for reproductive success. Pollination and seed dispersal are generalized mutualistic interactions, in which species with different effectiveness levels participate. However, anthropogenic habitat disturbance may hamper the impact of mutualists, jeopardizing plant establishment and recruitment. Important as it is, the effect of habitat transformation on the joint contribution of pollinators and seed dispersers to plant reproduction remains little explored. To assess the effects of habitat transformation on the effectiveness of pollination and seed dispersal processes, we studied a highly specialized system that consists of a hemiparasitic mistletoe, one hummingbird pollinator, and one marsupial seed disperser species that inhabit native and transformed habitats in southern Chile. Pollination and seed dispersal effectiveness landscapes were highly variable and did not differ between habitats. Pollinator visitation and fruit removal were higher at the transformed habitat whereas seed disperser visitation and fruit set were higher at the native habitat, probably due to differences in structure and resource availability between habitats. In consequence, and contrary to our expectations, the coupled outcome of pollination and seed dispersal was higher at the transformed habitat, suggesting that persistence of the tripartite mutualism in the overall system is benefitted from the presence of a native understory vegetation that attracts pollinators and seed dispersers and compensates for the often detrimental effects of habitat transformation.},
+   keywords = {Plant recruitment
+dromiciops gliroides
+Dromiciops gliroides
+eucalyptus plantation
+Eucalyptus plantation
+Sephanoides sephaniodes
+South american temperate forest
+Tristerix corymbosus},
+   DOI = {10.1016/j.ppees.2017.09.003},
+   year = {2017},
+   type = {Journal Article}
+}
+```

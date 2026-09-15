@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1371/journal.pone.0123346) | [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0123346&type=printable) | [OpenAlex](https://openalex.org/W2071796079)
+
+## BibTeX
+
+```bibtex
+@article{RN27142,
+   author = {Rother, D C and Pizo, M A and Siqueira, T and Rodrigues, R R and Jordano, P},
+   title = {Community-wide spatial and temporal discordances of seed-seedling shadows in a tropical rainforest},
+   journal = {PLoS ONE},
+   volume = {10},
+   pages = {e0123346},
+   abstract = {Several factors decrease plant survival throughout their lifecycles. Among them, seed dispersal limitation may play a major role by resulting in highly aggregated (contagious) seed and seedling distributions entailing increased mortality. The arrival of seeds, furthermore, may not match suitable environments for seed survival and, consequently, for seedling establishment. In this study, we investigated spatio-temporal patterns of seed and seedling distribution in contrasting microhabitats (bamboo and non-bamboo stands) from the Brazilian Atlantic Forest. Spatial distribution patterns, spatial concordance between seed rain and seedling recruitment between subsequent years in two fruiting seasons (2004-2005 and 2007-2009), and the relation between seeds and seedlings with environmental factors were examined within a spatially-explicit framework. Density and species richness of both seeds and seedlings were randomly distributed in non-bamboo stands, but showed significant clustering in bamboo stands. Seed and seedling distributions showed across-year inconsistency, suggesting a marked spatial decoupling of the seed and seedling stages. Generalized linear mixed effects models indicated that only seed density and seed species richness differed between stand types while accounting for variation in soil characteristics. Our analyses provide evidence of marked recruitment limitation as a result of the interplay between biotic and abiotic factors. Because bamboo stands promote heterogeneity in the forest, they are important components of the landscape. However, at high densities, bamboos may limit recruitment for the plant community by imposing marked discordances of seed arrival and early seedling recruitment.},
+   DOI = {10.1371/journal.pone.0123346},
+   year = {2015},
+   type = {Journal Article}
+}
+```

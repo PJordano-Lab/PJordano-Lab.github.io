@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.2307/3544018) | [PDF](http://hdl.handle.net/10261/45061) | [OpenAlex](https://openalex.org/W966749764)
+
+## BibTeX
+
+```bibtex
+@article{RN27495,
+   author = {Jordano, Pedro},
+   title = {Migrant birds are the main seed dispersers of blackberries in Southern Spain},
+   journal = {Oikos},
+   volume = {38},
+   pages = {183–193},
+   DOI = {10.2307/3544018},
+   year = {1982},
+   type = {Journal Article}
+}
+```

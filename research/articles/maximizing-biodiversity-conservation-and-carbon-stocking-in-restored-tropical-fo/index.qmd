@@ -21,3 +21,45 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/conl.12454) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/conl.12454) | [OpenAlex](https://openalex.org/W2800445892)
+
+## BibTeX
+
+```bibtex
+@article{RN57575,
+   author = {Brancalion, P. H. S. and Bello, C. and Chazdon, R. L. and Galetti, M. and Jordano, P. and Lima, R. A. F. and Medina, A. and Pizo, M. A. and Reid, J. L.},
+   title = {Maximizing biodiversity conservation and carbon stocking in restored tropical forests},
+   journal = {Conservation Letters},
+   volume = {11},
+   number = {4},
+   note = {Gp9lm
+Times Cited:0
+Cited References Count:48},
+   abstract = {Assessing the conservation value of restoration plantings is critical to support the global forest landscape restoration movement. We assessed the implications of tree species selection in the restoration of Brazil's Atlantic Forest regarding carbon stocking and species conservation. This assessment was based on a comprehensive dataset of seedling acquisition records from 961 restoration projects, more than14 million seedlings, 192 forest remnants, and functional data from 1,223 tree species. We found that animal-dispersed trees with larger seeds tend to have higher seed prices, yet are underrepresented in the seedlings acquired for restoration plantations. Compared to forest remnants, fruit supply potentially offered by the species acquired for restoration plantings is lower for birds, but higher for bats. Reduced abundance of medium- and/or large-seeded, animal-dispersed trees lead to declines of 2.8-10.6% in simulated potential carbon stocking. Given the uncertainty in these estimates, policy interventions may be needed to encourage greater representation of large-seeded, animal-dispersed tree species in Atlantic Forest restorations. These findings provide critical guidance for recovering tree functional diversity, plant-frugivore mutualistic interactions, and carbon stocking in multi-species tropical forest restoration plantings.},
+   keywords = {forest nurseries
+keystone species
+mutualistic interactions
+restoration monitoring
+restoration plantations
+seed dispersal
+seed size
+seedling production
+species reintroduction
+brazilian atlantic forest
+seed dispersal
+tree community
+restoration
+defaunation
+diversity
+sequestration
+limitations
+ecosystems
+landscape},
+   ISSN = {1755-263x},
+   DOI = {UNSP e12454
+10.1111/conl.12454},
+   url = {<Go to ISI>://WOS:000441238500013
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/conl.12454},
+   year = {2018},
+   type = {Journal Article}
+}
+```

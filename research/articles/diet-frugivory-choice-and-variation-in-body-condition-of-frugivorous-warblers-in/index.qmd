@@ -19,3 +19,18 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/42662) | [OpenAlex](https://openalex.org/W1017876521)
+
+## BibTeX
+
+```bibtex
+@article{RN59,
+   author = {Jordano, Pedro},
+   title = {Diet, fruit choice and variation in body condition of frugivorous warblers in Mediterranean scrubland},
+   journal = {Ardea},
+   volume = {76},
+   pages = {193–209},
+   keywords = {⛔ No DOI found},
+   year = {1988},
+   type = {Journal Article}
+}
+```

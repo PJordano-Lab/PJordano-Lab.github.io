@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1371/journal.pone.0016143) | [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0016143&type=printable) | [OpenAlex](https://openalex.org/W2130774976)
+
+## BibTeX
+
+```bibtex
+@article{RN25863,
+   author = {Gomez, J M and Jordano, P and Perfectti, F and Gómez, J M and Jordano, P and Perfectti, F},
+   title = {The functional consequences of mutualistic network architecture},
+   journal = {PLoS ONE},
+   volume = {6},
+   number = {1},
+   pages = {e16143–e16143},
+   DOI = {10.1371/journal.pone.0016143},
+   year = {2011},
+   type = {Journal Article}
+}
+```

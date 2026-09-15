@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/mec.14850) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.14850) | [OpenAlex](https://openalex.org/W2889430216)
+
+## BibTeX
+
+```bibtex
+@article{RN5744,
+   author = {González-Varo, Juan P. and Arroyo, Juan M and Jordano, Pedro},
+   title = {The timing of frugivore-mediated seed dispersal effectiveness},
+   journal = {Molecular Ecology},
+   volume = {28},
+   number = {2},
+   pages = {219–231},
+   abstract = {The seed dispersal effectiveness framework allows assessing mutualistic services from frugivorous animals in terms of quantity and quality. Quantity accounts for the number of seeds dispersed and quality for the probability of recruitment of dispersed seeds. Research on this topic has largely focused on the spatial patterns of seed deposition because seed fates often vary between microhabitats due to differences in biotic and abiotic factors. However, the temporal dimension has remained completely overlooked despite these factors—and even local disperser assemblages—can change dramatically during long fruiting periods. Here, we test timing effects on seed dispersal effectiveness, using as study case a keystone shrub species dispersed by frugivorous birds and with a fruiting period of 9 months. We evaluated quantity and quality in different microhabitats of a Mediterranean forest and different periods of the fruiting phenophase. We identified the bird species responsible for seed deposition through DNA barcoding and evaluated the probability of seedling recruitment through a series of field experiments on sequential demographic processes. We found that timing matters: The disperser assemblage was temporally structured, seed viability decreased markedly during the plant's fruiting phenophase, and germination was lower for viable seeds dispersed in the fruiting peak. We show how small contributions to seed deposition by transient migratory species can result in a relevant effectiveness if they disperse seeds in a high-quality period for seedling recruitment. This study expands our understanding of seed dispersal effectiveness, highlighting the importance of timing and infrequent interactions for population and community dynamics.},
+   keywords = {birds
+frugivory
+species interactions
+DNA barcoding
+seedling recruitment
+seasonal variation},
+   DOI = {10.1111/mec.14850},
+   year = {2019},
+   type = {Journal Article}
+}
+```

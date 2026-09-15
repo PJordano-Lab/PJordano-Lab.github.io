@@ -19,3 +19,18 @@ format:
 ## Links
 
 [PDF](http://rid.unrn.edu.ar/handle/20.500.12049/5718) | [OpenAlex](https://openalex.org/W3083837953)
+
+## BibTeX
+
+```bibtex
+@article{RN25568,
+   author = {Díaz, Sandra and Broadgate, Wendy and Declerck, Fabrice and Dobrota, Susanna and Krug, Cornelia and Moersberg, Hannah and Obura, David and Spehn, Eva and Tewksbury, Joshua and Verburg, Peter and Zafra Calvo, Noelia and Bellon, Mauricio and Cariño, Joji and Castañeda Alvarez, Nora and Chaplin Kramer, Rebecca and De Meester, Luc and Dulloo, Ehsan and Fernández-Palacios, José María and Garibaldi, Lucas Alejandro and Hill, Samantha and Isbell, Forest and Leadley, Paul and Liu, Jianguo and Mace, Georgina M. and Maron, Martine and Martín López, Berta and McGowan, Philip and Pereira, Henrique and Purvis, Andy and Reyes García, Victoria and Rocha, Juan and Rondinini, Carlo and Shannon, Lynne and Shaw, Rebecca and Shin, Yunne-Jai and Snelgrove, Paul and Strassburg, Bernardo and Subramanian, Suneetha and Visconti, Piero and Watson, James and Zanne, Amy and Bruford, Michael W. and Colli, Licia and Azeredo de Dornelas, Maria and Bascompte, Jordi and Forest, Felix and Hoban, Sean and Jones, Sarah and Jordano, Pedro and Kassen, Rees and Khoury, Colin and Laikre, Linda and Maxted, Nigel and Miloslavich, Patricia and Moreno Mateos, David and Ogden, Rob and Segelbacher, Gernot and Souffreau, Caroline and Svenning, Jens Christian and Vázquez, Ella},
+   title = {Synthesizing the scientific evidence to inform the development of the post-2020 Global Framework on Biodiversity},
+   journal = {Convention on Biological Diversity. UN Environment Programme},
+   volume = {CBD/SBSTTA/24/INF/9},
+   pages = {66 pp.},
+   abstract = {Díaz, Sandra. Universidad Nacional de Córdoba; Argentina.},
+   year = {2020},
+   type = {Journal Article}
+}
+```

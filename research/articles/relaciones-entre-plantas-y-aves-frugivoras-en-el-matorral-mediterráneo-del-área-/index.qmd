@@ -17,3 +17,17 @@ format:
 ## Links
 
 [OpenAlex](https://openalex.org/W1608040068)
+
+## BibTeX
+
+```bibtex
+@phdthesis{RN57945,
+   author = {Jordano, Pedro},
+   title = {Relaciones entre plantas y aves frugivoras en el matorral mediterráneo del área de Doñana},
+   university = {Universidad de Sevilla},
+   type = {Ph.D. Thesis},
+   url = {https://hdl.handle.net/11441/70423},
+   year = {1984},
+   type = {Thesis}
+}
+```

@@ -21,3 +21,23 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/oik.08384) | [PDF](http://hdl.handle.net/11449/233921) | [OpenAlex](https://openalex.org/W4200614509)
+
+## BibTeX
+
+```bibtex
+@article{RN30668,
+   author = {Friedemann, Pâmela and Côrtes, Marina Corrêa and De Castro, Everaldo Rodrigo and Galetti, Mauro and Jordano, Pedro and Guimarães Jr, Paulo R.},
+   title = {The individual‐based network structure of palm‐seed dispersers is explained by a rainforest gradient},
+   journal = {Oikos},
+   volume = {2022},
+   number = {2},
+   pages = {oik.08384},
+   abstract = {How species interactions change in space and time is a major question in ecology. In tropical forests, plant individuals share mutualistic partners (pollinators or seed dispersers), yet we have little understanding of the factors affecting these individual interaction patterns. We used a seed dispersal individual‐based network describing interactions between individuals of a palm species and bird species to investigate how intrinsic and extrinsic characteristics of individual plants influence the network structure. We evaluated if average canopy height, number of fruits, distance to forest gap and habitat type influence the role of palm individuals in the network. From 102 palms, 62 individuals had their seeds dispersed at least once: 17 individual palms in the restinga, 15 in the lowland and 30 in the pre‐montane habitat. Twelve bird species were recorded dispersing
+              Euterpe edulis
+              seeds. No palm characteristics influenced interaction patterns in the network, characterized by the level of centrality of each palm. At the network level, modularity with qualitative data was reproduced by the null models which consider the variation in the number and distribution across interactions. Three of the seven identified modules were associated with a particular habitat. Indeed, habitat type explained 50% of network modularity. Habitat association with modularity was driven by differences in species composition across habitats. Palm individuals did not differ greatly in central positions, indicating that bird species are not selecting palm individuals by their characteristics. When using the weighted network, modularity level was higher than expected by the number of interactions, and frequency of interactions was positively correlated with canopy height. Our results suggest that the organization of this individual‐based network is mostly driven by habitat type. We hypothesize that extrinsic characteristics, such as habitat type, may affect the network organization of populations of sessile organisms with potentially unanticipated consequences to ecological and evolutionary dynamics.},
+   ISSN = {0030-1299, 1600-0706},
+   DOI = {10.1111/oik.08384},
+   year = {2022},
+   type = {Journal Article}
+}
+```

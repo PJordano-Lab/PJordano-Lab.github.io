@@ -21,3 +21,28 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.13352) | [PDF](http://hdl.handle.net/11449/196990) | [OpenAlex](https://openalex.org/W2998892355)
+
+## BibTeX
+
+```bibtex
+@article{RN3975,
+   author = {Quintero, Elena and Pizo, Marco A. and Jordano, Pedro},
+   title = {Fruit resource provisioning for avian frugivores: The overlooked side of effectiveness in seed dispersal mutualisms},
+   journal = {Journal of Ecology},
+   volume = {108},
+   number = {4},
+   pages = {1358–1372},
+   abstract = {Mutualistic interactions between frugivorous birds and fleshy-fruited plants are key processes for both natural plant regeneration and the maintenance of birds relying on fruit resources. However, seed dispersal effectiveness (SDE) has been frequently studied only from the plant's perspective, that is the contribution of animals to plant fitness. Using a sample of Atlantic rainforest avian frugivores, this study presents a first comparative, empirical study of fruit effectiveness as a nutritional food resource for seed-dispersing birds through the use of resource-provisioning effectiveness (RPE) models. RPE is the product of the amount of fruits a frugivore can consume (quantity component) and the quality of the ingesta in terms of energy and nutrients obtained (quality component). Our results show wide variation in RPE among fleshy-fruited plant species. Energy-rich fruits consistently show a smaller quantity component, while energetically poor fruits are consistently the most consumed, with fruit species spanning a gradient from these two extremes. The specific RPEi resulting from a pairwise fruit–frugivore interaction is positively correlated with the total RPE (RPET) that a given fruit species has for the whole frugivore assemblage. RPE therefore appears to be a characteristic feature of the fruit species, rather than of the specific frugivore partner. Only the fruit's specific energy content showed a significant phylogenetic signal, suggesting potential constraints for free covariation between RPE and SDE of fruits and frugivores. Synthesis. We analyse variation in the effectiveness of fleshy-fruit food provisioning to avian frugivores by explicitly redefining RPE within the SDE framework. We found ample variation in RPE among plant species, showing differences in both quantity and quality components of fruit resources rewards for the frugivores. Our findings help unravel how seed-dispersing birds may discriminate among alternative fruit resources and to understand the configuration of mutual dependencies among mutualistic partners.},
+   keywords = {frugivory
+tropical
+Atlantic rainforest
+digestibility
+effectiveness landscape
+mutualistic interactions
+quantity and quality components
+resource-provisioning effectiveness (RPE)},
+   DOI = {10.1111/1365-2745.13352},
+   year = {2020},
+   type = {Journal Article}
+}
+```

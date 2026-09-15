@@ -21,3 +21,29 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.70348) | [PDF](https://doi.org/10.1111/1365-2745.70348) | [OpenAlex](https://openalex.org/W7161280795)
+
+## BibTeX
+
+```bibtex
+@article{RN31245,
+   author = {Alves-de-Lima, Larissa and Anjos, Diego and Arroyo-Correa, Blanca and Novaes, Letícia Rodrigues and Jordano, Pedro and Torezan-Silingardi, Helena Maura},
+   title = {Fire modulates the structural drivers and functioning of individual-based plant-pollinator networks},
+   journal = {Journal of Ecology},
+   volume = {114},
+   number = {5},
+   pages = {e70348},
+   abstract = {Fire is a natural phenomenon that shapes ecosystems, but climate change and human activities have increased its frequency and magnitude, disrupting essential ecosystem services like pollination. Despite advances in understanding fire's effects on species and interactions, the mechanisms shaping ecological networks and determining their functional outcomes remain poorly understood. To address these gaps, we used individual-based plant-pollinator networks to evaluate how do plant traits, phenology and site-related attributes (i.e. proximity of plant individuals, local temperature) shape interaction patterns before and after a fire. We also examined how these factors, along with each plant's position within the network (i.e. centrality), influence individual plant fitness before and after fire. Our results showed that the frequency of interactions of some pollinator functional groups changed after the fire, with an increase in plant–hummingbird interactions and a decrease in plant–lepidopteran interactions. In addition, before the fire the ecological drivers shaping plant-pollinator networks were the number of flowers, floral buds and distance to conspecifics and heterospecifics. Plant–plant facilitation via pollinator sharing, inferred from significant negative effects of shorter conspecific and also heterospecific distances on shaping network structure before fire, increased individual plant fitness only among aggregated individuals of the same species. In contrast, after the fire, flowering synchrony became the main ecological driver shaping plant-pollinator networks, suggesting stronger intraspecific competition, with plant fitness decreasing with higher spatial proximity of heterospecifics, with diluted effects of conspecific facilitation. Synthesis: Facilitative interactions with conspecifics via pollinator sharing were diluted by fire, with potential delayed effects on population recovery. Our findings emphasize that fire causes a shift from facilitative processes to more competitive scenarios in plant-pollinator networks, with implications for population dynamics and community recovery.},
+   keywords = {birds
+competition
+climate change
+facilitation
+indirect effects
+bees
+moths
+downscaling},
+   ISSN = {1365-2745},
+   DOI = {10.1111/1365-2745.70348},
+   year = {2026},
+   type = {Journal Article}
+}
+```

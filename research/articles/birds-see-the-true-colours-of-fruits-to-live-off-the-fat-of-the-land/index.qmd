@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rspb.2013.2516) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/3896014) | [OpenAlex](https://openalex.org/W2110312377)
+
+## BibTeX
+
+```bibtex
+@article{RN26956,
+   author = {Schaefer, H.M. Martin and Valido, Alfredo and Jordano, Pedro},
+   title = {Birds see the true colours of fruits to live off the fat of the land.},
+   journal = {Proceedings. Biological sciences / The Royal Society},
+   volume = {281},
+   number = {1777},
+   pages = {20132516–20132516},
+   abstract = {Communication is a characteristic of life, but its reliability and basic definition are hotly debated. Theory predicts that trade among mutualists requires high reliability. Here, we show that moderate reliability already allows mutualists to optimize their rewards. The colours of Mediterranean fleshy-fruits indicate lipid rewards (but not other nutrients) to avian seed dispersers on regional and local scales. On the regional scale, fruits with high lipid content were significantly darker and less chromatic than congeners with lower lipid content. On the local scale, two warbler species (Sylvia atricapilla and Sylvia borin) selected fruit colours that were less chromatic, and thereby maximized their intake of lipids-a critical resource during migration and wintering. Crucially, birds were able to maximize lipid rewards with moderate reliability from visual fruit colours (r(2) = 0.44-0.60). We suggest that mutualisms require only that any association between the quality and sensory aspects of signallers is learned through multiple, repeated interactions. Because these conditions are often fulfilled, also in social communication systems, we contend that selection on reliability is less intense than hitherto assumed. This may contribute to explaining the extraordinary diversity of signals, including that of plant reproductive displays.},
+   keywords = {Mutualism
+Seed dispersal
+Communication
+Honest signalling
+Sensory ecology
+Signal theory},
+   DOI = {10.1098/rspb.2013.2516},
+   year = {2014},
+   type = {Journal Article}
+}
+```

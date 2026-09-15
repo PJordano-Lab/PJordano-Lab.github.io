@@ -21,3 +21,29 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.13534) | [PDF](http://hdl.handle.net/11449/205554) | [OpenAlex](https://openalex.org/W3096898643)
+
+## BibTeX
+
+```bibtex
+@article{RN12203,
+   author = {Carvalho, Carolina da Silva and García, Cristina and Lucas, Marília Souza and Jordano, Pedro and Côrtes, Marina Corrêa},
+   title = {Extant fruit‐eating birds promote genetically diverse seed rain, but disperse to fewer sites in defaunated tropical forests},
+   journal = {Journal of Ecology},
+   volume = {109},
+   number = {2},
+   pages = {1055–1067},
+   abstract = {The world‐wide decline in populations of large‐bodied vertebrates due to deforestation and poaching threatens the persistence of animal‐dispersed plants by reducing long‐distance seed dispersal and generating aggregated seed rain patterns. We evaluated whether the composition of maternal trees contributing to the seed rain is also impacted by the loss of large frugivores. By combining molecular tools with a thorough sampling of the frugivore‐generated seed rain we quantified the number of seeds, richness of maternal progenies and number of maternal effective alleles in the seed rain of a tropical palm Euterpe edulis across ten Atlantic Forest remnants with varying levels of avian defaunation and density of palm conspecifics. Forest structure in defaunated areas was characterized by higher canopy openness. Defaunation did not affect the number of seeds dispersed or of effective alleles, but, together with palm density, was associated with higher numbers of maternal genotypes in the seed rain. This result suggests that medium‐sized birds may play an important role in mixing maternal genotypes where large‐sized frugivores have been extirpated. Defaunation, however, impacted the spatial distribution of seeds, with deposition sites in avian depauperated forests less likely to receive at least one seed. Synthesis. Our study suggests that medium‐sized frugivores contribute to maintaining the quantitative component of seed dispersal and local genetic diversity of a threatened tropical palm in human degraded forests and, therefore, may be important for guaranteeing the persistence of remnant animal‐dispersed plant populations under scenarios of rapid environmental change. The loss of large‐bodied frugivores, however, can disrupt longer dispersal events and strengthen the dispersal spatial limitation, with consequences for plant spatial distribution and fine‐scale genetic structure at the population level. Our study suggests that medium‐sized frugivores contribute to maintaining the quantitative component of seed dispersal and local genetic diversity of a threatened tropical palm in human degraded forests and, therefore, may be important for guaranteeing the persistence of remnant animal‐dispersed plant populations under scenarios of rapid environmental change. The loss of large‐bodied frugivores, however, can disrupt longer dispersal events and strengthen the dispersal spatial limitation, with consequences for plant spatial distribution and fine‐scale genetic structure at the population level.},
+   keywords = {frugivory
+Atlantic forest
+Euterpe edulis
+microhabitat
+allele diversity
+anthropogenic defaunation
+maternal progeny
+thrushes},
+   ISSN = {0022-0477},
+   DOI = {10.1111/1365-2745.13534},
+   year = {2021},
+   type = {Journal Article}
+}
+```

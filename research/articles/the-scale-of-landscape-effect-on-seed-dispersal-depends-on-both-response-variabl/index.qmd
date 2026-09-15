@@ -19,3 +19,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1007/s10980-019-00821-y) | [OpenAlex](https://openalex.org/W2943095103)
+
+## BibTeX
+
+```bibtex
+@article{RN145,
+   author = {San-José, Miriam and Arroyo-Rodríguez, Víctor and Jordano, Pedro and Meave, Jorge A. and Martínez-Ramos, Miguel},
+   title = {The scale of landscape effect on seed dispersal depends on both response variables and landscape predictor},
+   journal = {Landscape Ecology},
+   volume = {34},
+   number = {5},
+   pages = {1069–1080},
+   ISSN = {0921-2973, 1572-9761},
+   DOI = {10.1007/s10980-019-00821-y},
+   year = {2019},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1038/s41586-021-03665-2) | [PDF](https://rodin.uca.es/bitstream/10498/34858/1/Gonzalez-Varo%20et%20al.%202021%20Nature.pdf) | [OpenAlex](https://openalex.org/W3175504106)
+
+## BibTeX
+
+```bibtex
+@article{RN12126,
+   author = {González-Varo, Juan P. and Rumeu, Beatriz and Albrecht, Jörg and Arroyo, Juan M. and Bueno, Rafael S. and Burgos, Tamara and Silva, Luís P. da and Escribano-Ávila, Gema and Farwig, Nina and García, Daniel and Heleno, Ruben H. and Illera, Juan C. and Jordano, Pedro and Kurek, Przemysław and Simmons, Benno I. and Virgós, Emilio and Sutherland, William J. and Traveset, Anna},
+   title = {Limited potential for bird migration to disperse plants to cooler latitudes},
+   journal = {Nature},
+   volume = {595},
+   pages = {75–79},
+   abstract = {Climate change is forcing the redistribution of life on Earth at an unprecedented velocity1,2. Migratory birds are thought to help plants to track climate change through long-distance seed dispersal3,4. However, seeds may be consistently dispersed towards cooler or warmer latitudes depending on whether the fruiting period of a plant species coincides with northward or southward migrations. Here we assess the potential of plant communities to keep pace with climate change through long-distance seed dispersal by migratory birds. To do so, we combine phenological and migration information with data on 949 seed-dispersal interactions between 46 bird and 81 plant species from 13 woodland communities across Europe. Most of the plant species (86%) in these communities are dispersed by birds migrating south, whereas only 35% are dispersed by birds migrating north; the latter subset is phylogenetically clustered in lineages that have fruiting periods that overlap with the spring migration. Moreover, the majority of this critical dispersal service northwards is provided by only a few Palaearctic migrant species. The potential of migratory birds to assist a small, non-random sample of plants to track climate change latitudinally is expected to strongly influence the formation of novel plant communities, and thus affect their ecosystem functions and community assembly at higher trophic levels. Interactions between European bird and plant species show that fruiting period has a major effect on seed dispersal by migrating birds, which will influence plant adaptations to climate change through latitudinal dispersal.},
+   ISSN = {0028-0836},
+   DOI = {10.1038/s41586-021-03665-2},
+   year = {2021},
+   type = {Journal Article}
+}
+```

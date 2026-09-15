@@ -21,3 +21,24 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rspb.2019.2643) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2019.2643) | [OpenAlex](https://openalex.org/W4237633503)
+
+## BibTeX
+
+```bibtex
+@article{RN27414,
+   author = {Moleón, Marcos and Sánchez-Zapata, José A. and Donázar, José A. and Revilla, Eloy and Martín-López, Berta and Gutiérrez-Cánovas, Cayetano and Getz, Wayne M. and Morales-Reyes, Zebensui and Campos-Arceiz, Ahimsa and Crowder, Larry B. and Galetti, Mauro and González-Suárez, Manuela and He, Fengzhi and Jordano, Pedro and Lewison, Rebecca and Naidoo, Robin and Owen-Smith, Norman and Selva, Nuria and Svenning, Jens-Christian and Tella, José L. and Zarfl, Christiane and Jähnig, Sonja C. and Hayward, Matt W. and Faurby, Søren and García, Nuria and Barnosky, Anthony D. and Tockner, Klement},
+   title = {Rethinking megafauna},
+   journal = {Proceedings of the Royal Society B: Biological Sciences},
+   volume = {287},
+   number = {1922},
+   pages = {20192643},
+   note = {/Users/pedro/Zotero/storage/JDQ4XGG6/Moleón et al. - 2020 - Rethinking megafauna.pdf},
+   abstract = {Concern for megafauna is increasing among scientists and non-scientists. Many studies have emphasized that megafauna play prominent ecological roles and provide important ecosystem services to humanity. But, what precisely are ‘megafauna’? Here, we critically assess the concept of megafauna and propose a goal-oriented framework for megafaunal research. First, we review definitions of megafauna and analyse associated terminology in the scientific literature. Second, we conduct a survey among ecologists and palaeontologists to assess the species traits used to identify and define megafauna. Our review indicates that definitions are highly dependent on the study ecosystem and research question, and primarily rely on
+              ad hoc
+              size-related criteria. Our survey suggests that body size is crucial, but not necessarily sufficient, for addressing the different applications of the term megafauna. Thus, after discussing the pros and cons of existing definitions, we propose an additional approach by defining two function-oriented megafaunal concepts: ‘keystone megafauna’ and ‘functional megafauna’, with its variant ‘apex megafauna’. Assessing megafauna from a functional perspective could challenge the perception that there may not be a unifying definition of megafauna that can be applied to all eco-evolutionary narratives. In addition, using functional definitions of megafauna could be especially conducive to cross-disciplinary understanding and cooperation, improvement of conservation policy and practice, and strengthening of public perception. As megafaunal research advances, we encourage scientists to unambiguously define how they use the term ‘megafauna’ and to present the logic underpinning their definition.},
+   ISSN = {0962-8452, 1471-2954},
+   DOI = {10.1098/rspb.2019.2643},
+   year = {2020},
+   type = {Journal Article}
+}
+```

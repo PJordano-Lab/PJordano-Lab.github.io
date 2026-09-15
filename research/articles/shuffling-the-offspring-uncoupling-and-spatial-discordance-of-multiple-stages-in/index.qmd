@@ -21,3 +21,35 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1080/11956860.1995.11682288) | [PDF](http://hdl.handle.net/10261/42308) | [OpenAlex](https://openalex.org/W150323889)
+
+## BibTeX
+
+```bibtex
+@article{RN26932,
+   author = {Jordano, Pedro and Herrera, C M},
+   title = {Shuffling the offspring: uncoupling and spatial discordance of multiple stages in vertebrate seed dispersal},
+   journal = {Ecoscience},
+   volume = {2},
+   pages = {230–237},
+   abstract = {Recruitment of vertebrate-dispersed plants may be divided into a series of sequential stages including fruit removal by frugivores, seed delivery to the ground, post-dispersal seed survival, seedling emergence, and seedling establishment. The particular processes operating at different stages may be independent of each other (''uncoupled''), and peculiarities in the configuration of the interrelationships between stages (sign and magnitude of uncoupling) may lead to high site-specificity of the eventual outcome (''spatial discordance''). This conceptual framework is illustrated in this paper using recruitment data for the bird-dispersed tree Phillyrea latifolia (Oleaceae) from two southeastern Spanish localities (forest and scrubland habitats). Between-habitat differences in P. latifolia recruitment are best understood by considering that patterns of uncoupling among recruitment stages depend strongly on local conditions, particularly on the thoroughness of fruit crop removal by frugivorous birds. The interaction of P. latifolia with frugivores has implications at every subsequent stage in recruitment, and proper understanding of the constraints operating on recruitment requires recognition of the multiplicity of stages involved. Uncoupling of stages was found to originate fine-scale discordances in patterns of regeneration in the two habitats studied. We use a structural equation model to quantify the direct and indirect effects of the various recruitment stages on spatial variation in number of 2nd-year seedlings recruited. Variation among microhabitats in recruitment was due to variation in seed rain intensity and seed survivorship in scrubland, while post-germination events limiting seedling emergence played a major role in forest recruitment. Results of this study highlight the need of considering the multi-staged nature of recruitment in vertebrate-dispersed plants.},
+   keywords = {Recruitment
+Selection
+Seedling Recruitment
+Birds
+Tree Establishment
+Spatial Variation
+Plant-Populations
+Old-Field Succession
+Path-Analysis
+Components
+Mechanisms
+Central New-York
+Mediterranean Habitats
+Population Recruitment
+Seed And Seedling Survival
+Seed Dispersal By Vertebrates},
+   DOI = {10.1080/11956860.1995.11682288},
+   year = {1995},
+   type = {Journal Article}
+}
+```

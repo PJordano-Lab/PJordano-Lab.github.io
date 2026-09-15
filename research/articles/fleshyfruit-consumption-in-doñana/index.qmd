@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1002/bes2.2197) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.2197) | [OpenAlex](https://openalex.org/W4404683820)
+
+## BibTeX
+
+```bibtex
+@article{RN30261,
+   author = {Villalva, Pablo and Quintero, Elena and Isla, Jorge and Jordano, Pedro},
+   title = {Fleshy‐fruit consumption in Doñana},
+   journal = {The Bulletin of the Ecological Society of America},
+   volume = {106},
+   number = {1},
+   pages = {e02197},
+   ISSN = {0012-9623, 2327-6096},
+   DOI = {10.1002/bes2.2197},
+   year = {2024},
+   type = {Journal Article}
+}
+```

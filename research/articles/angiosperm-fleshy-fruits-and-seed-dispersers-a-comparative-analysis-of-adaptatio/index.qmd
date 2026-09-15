@@ -26,7 +26,7 @@ format:
 
 ## BibTeX
 
-``` bibtex
+```bibtex
 @article{RN3705,
    author = {Jordano, Pedro},
    title = {Angiosperm fleshy fruits and seed dispersers: a comparative analysis of adaptation and constraints in plant-animal interactions},

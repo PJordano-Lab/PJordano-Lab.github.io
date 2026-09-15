@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.2307/3544762) | [PDF](http://hdl.handle.net/10261/45055) | [OpenAlex](https://openalex.org/W1966920241)
+
+## BibTeX
+
+```bibtex
+@article{RN27520,
+   author = {Jordano, Pedro},
+   title = {Seed weight variation and differential avian dispersal in blackberries Rubus ulmifolius},
+   journal = {Oikos},
+   volume = {43},
+   number = {2},
+   pages = {149–153},
+   abstract = {Patterns of within- and between-crop variation in seed weight are described for a population of Rubus ulmifolius in S Spain. Broad variation in seed weight (1.1-4.9mg) exists among clones; within-crop variation usually encompassed at least 1/3 of this range and accounted on average for 23% of the total population variance. The 4 main avian seed dispersers in the study area differ in the frequency distributions of seed sizes found in faecal samples analyzed, indicating that they actually disperse different portions of the seed size distribution. -Author},
+   DOI = {10.2307/3544762},
+   year = {1984},
+   type = {Journal Article}
+}
+```

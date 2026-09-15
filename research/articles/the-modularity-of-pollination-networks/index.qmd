@@ -21,3 +21,22 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1073/pnas.0706375104) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/2148393) | [OpenAlex](https://openalex.org/W2070304262)
+
+## BibTeX
+
+```bibtex
+@article{RN5202,
+   author = {Olesen, Jens M and Bascompte, Jordi and Dupont, Yoko L and Jordano, Pedro},
+   title = {The modularity of pollination networks},
+   journal = {Proceedings of the National Academy of Sciences USA},
+   volume = {104},
+   number = {December},
+   pages = {19891–19896},
+   keywords = {mutualistic networks
+ecological netwo
+pollinaton},
+   DOI = {10.1073/pnas.0706375104},
+   year = {2007},
+   type = {Journal Article}
+}
+```

@@ -19,3 +19,29 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/geb.12193) | [OpenAlex](https://openalex.org/W2106277789)
+
+## BibTeX
+
+```bibtex
+@article{RN20061,
+   author = {Dehling, D M and Töpfer, T and Schaefer, H M and Jordano, P and Böhning-Gaese, K and Schleuning, M},
+   title = {Functional relationships beyond species richness patterns: Trait matching in plant-bird mutualisms across scales},
+   journal = {Global Ecology and Biogeography},
+   volume = {23},
+   pages = {1085–1093},
+   abstract = {© 2014 John Wiley & Sons Ltd. Aim: Functional relationships between species groups on macroecological scales have often been inferred from comparisons of species numbers across space. On large spatial scales, however, it is difficult to assess whether correlations of species numbers represent actual functional relationships. Here, we investigated the functional relationship between a feeding guild (fruit-eating birds) and its resource (fleshy-fruited plants) by studying the matching of their functional traits across spatial scales, from individual interactions to regional patterns. Location: A 3000-m elevational gradient in the tropical Andes. Methods: We sampled plant-bird interactions at two sites along the elevational gradient, and using multivariate statistics (fourth-corner analysis) we identified corresponding morphological traits of birds and plants that influenced which bird species fed from which plant species. We then tested whether the functional trait diversities of the bird species assemblages matched those of the plant species assemblages along the elevational gradient. Results: Corresponding functional traits of birds and plants were closely and significantly correlated on the scale of individual plant-bird interactions. On the regional scale, the functional diversities, but not species numbers, of bird and plant assemblages correlated significantly along the elevational gradient. Main conclusions: The analysis of species interaction networks with multivariate statistics was a powerful tool for identifying relationships between functional traits of interacting species. The close functional relationships between birds and plants on the scale of individual interactions and on the regional scale show that comparisons of functional trait diversities, based on matching traits of interacting species, are better suited than correlations of species numbers to reveal the mechanisms behind large-scale diversity patterns of interacting species. The identification of functional interdependences between interacting species on large spatial scales will be important for improving predictive models of species distributions in space and time.},
+   keywords = {Mutualism
+Seed dispersal
+Fourth-corner analysis
+Functional diversity
+Elevational gradient
+Fleshy-fruited plants
+Andes
+Frugivorous birds
+Interaction networks
+Manú National Park},
+   DOI = {10.1111/geb.12193},
+   year = {2014},
+   type = {Journal Article}
+}
+```

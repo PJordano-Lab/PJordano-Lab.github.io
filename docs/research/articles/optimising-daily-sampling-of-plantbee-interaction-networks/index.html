@@ -21,6 +21,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -38,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-644d0fd99cf69ed39cf2c499aca00f57.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-ee86c88f7866c99c5b29dd9fb11d7cde.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,13 +106,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- Dark Mode Toggle -->
 <style>
   .theme-toggle {
-    background: rgba(0, 0, 0, 0.06);
-    border: 1px solid rgba(0, 0, 0, 0.15);
+    background: rgba(255, 255, 255, 0.10);
+    border: 1px solid rgba(255, 255, 255, 0.28);
     border-radius: 2rem;
     padding: 0.35rem 0.75rem;
     cursor: pointer;
     transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
-    color: #1e293b;
+    color: #f8f7f4;
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
@@ -89,57 +123,82 @@ ul.task-list li input[type="checkbox"] {
   }
 
   .theme-toggle:hover {
-    background: rgba(0, 0, 0, 0.12);
-    border-color: rgba(0, 0, 0, 0.25);
+    background: rgba(255, 255, 255, 0.20);
+    border-color: rgba(255, 255, 255, 0.45);
   }
 
   .theme-toggle i {
-    font-size: 0.85rem;
+    font-size: 1rem;
+  }
+
+  /* keep it clear of the social icons */
+  .quarto-navbar-tools .theme-toggle {
+    margin-left: 0.6rem;
   }
 </style>
 
 <script>
   (function() {
-    function applyTheme(theme) {
-      document.documentElement.setAttribute('data-theme', theme);
-      localStorage.setItem('theme', theme);
-      if (theme === 'dark') {
-        document.body.classList.remove('quarto-light');
-        document.body.classList.add('quarto-dark');
-      } else {
-        document.body.classList.remove('quarto-dark');
-        document.body.classList.add('quarto-light');
-      }
-      var btn = document.getElementById('theme-toggle-btn');
-      if (btn) {
-        btn.innerHTML = theme === 'dark'
-          ? '<i class="bi bi-sun-fill"></i> Light'
-          : '<i class="bi bi-moon-stars-fill"></i> Dark';
-        btn.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+    var BTN_HTML = {
+      dark:  '<i class="bi bi-sun-fill"></i> Light',
+      light: '<i class="bi bi-moon-stars-fill"></i> Dark'
+    };
+
+    function currentTheme() {
+      return document.documentElement.getAttribute('data-theme') || 'light';
+    }
+
+    // Body classes can only be set once <body> exists. This script sits in
+    // <head>, so during first parse document.body is still null - touching it
+    // there threw a TypeError that killed the rest of this IIFE, which is why
+    // no toggle button was ever injected.
+    function applyBodyClasses(theme) {
+      if (!document.body) return;
+      document.body.classList.toggle('quarto-dark', theme === 'dark');
+      document.body.classList.toggle('quarto-light', theme !== 'dark');
+    }
+
+    function refreshButtons(theme) {
+      var label = theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
+      var buttons = document.querySelectorAll('.theme-toggle');
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].innerHTML = BTN_HTML[theme === 'dark' ? 'dark' : 'light'];
+        buttons[i].setAttribute('aria-label', label);
+        buttons[i].setAttribute('title', label);
       }
     }
 
-    var saved = localStorage.getItem('theme') || 'dark';
-    applyTheme(saved);
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      try { localStorage.setItem('theme', theme); } catch (e) {}
+      applyBodyClasses(theme);
+      refreshButtons(theme);
+    }
+
+    // Set the attribute before first paint so there is no flash of the wrong
+    // theme; the body/button work happens once the DOM is ready.
+    var saved = 'dark';
+    try { saved = localStorage.getItem('theme') || 'dark'; } catch (e) {}
+    document.documentElement.setAttribute('data-theme', saved);
 
     window.toggleTheme = function() {
-      var current = document.documentElement.getAttribute('data-theme') || 'light';
-      applyTheme(current === 'dark' ? 'light' : 'dark');
+      applyTheme(currentTheme() === 'dark' ? 'light' : 'dark');
     };
 
     function addToggleButton() {
-      var navbarTools = document.querySelector('.quarto-navbar-tools');
-      if (!navbarTools || document.getElementById('theme-toggle-btn')) return;
-      var btn = document.createElement('button');
-      btn.id = 'theme-toggle-btn';
-      btn.className = 'theme-toggle';
-      btn.onclick = toggleTheme;
-      var current = document.documentElement.getAttribute('data-theme') || 'light';
-      btn.innerHTML = current === 'dark'
-        ? '<i class="bi bi-sun-fill"></i> Light'
-        : '<i class="bi bi-moon-stars-fill"></i> Dark';
-      btn.setAttribute('aria-label', current === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
-      navbarTools.appendChild(btn);
+      var theme = currentTheme();
+      var containers = document.querySelectorAll('.quarto-navbar-tools');
+      for (var i = 0; i < containers.length; i++) {
+        if (containers[i].querySelector('.theme-toggle')) continue;
+        var btn = document.createElement('button');
+        btn.id = i === 0 ? 'theme-toggle-btn' : 'theme-toggle-btn-' + i;
+        btn.className = 'theme-toggle';
+        btn.type = 'button';
+        btn.addEventListener('click', window.toggleTheme);
+        containers[i].appendChild(btn);
+      }
+      applyBodyClasses(theme);
+      refreshButtons(theme);
     }
 
     if (document.readyState === 'loading') {
@@ -238,6 +297,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#publication-details" id="toc-publication-details" class="nav-link active" data-scroll-target="#publication-details">Publication Details</a></li>
   <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
+  <li><a href="#bibtex" id="toc-bibtex" class="nav-link" data-scroll-target="#bibtex">BibTeX</a></li>
   </ul>
 </nav>
     </div>
@@ -292,6 +352,41 @@ ul.task-list li input[type="checkbox"] {
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p><a href="https://doi.org/10.1111/1365-2656.70309">DOI Link</a> | <a href="https://doi.org/10.1111/1365-2656.70309">PDF</a> | <a href="https://openalex.org/W7168349102">OpenAlex</a></p>
+</section>
+<section id="bibtex" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex">BibTeX</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">RN58452</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>   <span class="dt">author</span> = {Ballarin, C. S. and Isla, J. and Arroyo-Correa, B. and Quintero, E. and Hachuy-Filho, L. and Amorim, F. W. and Jordano, P.},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>   <span class="dt">title</span> = {Optimising daily sampling of plant-bee interaction networks},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>   <span class="dt">journal</span> = {Journal of Animal Ecology},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>   <span class="dt">note</span> = {Ballarin, Caio S</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>Isla, Jorge</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>Arroyo-Correa, Blanca</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>Quintero, Elena</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>Hachuy-Filho, Leandro</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>Amorim, Felipe W</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>Jordano, Pedro</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>eng</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>88887.839479/2023-00/Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior/</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>Finance Code 001/Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior/</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>2021/10639-5/Fundacao de Amparo a Pesquisa do Estado de Sao Paulo/</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>2024/02640-1/Fundacao de Amparo a Pesquisa do Estado de Sao Paulo/</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>England</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>2026/07/15</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>J Anim Ecol. 2026 Jul 15. doi: 10.1111/1365-2656.70309.},</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>   <span class="dt">abstract</span> = {Plant-pollinator interactions are dynamic not only across seasons but also over hourly time scales, even beyond the day-night contrast. However, capturing the daily temporal variability of pollination networks during field data collection is challenging. Consequently, our understanding of daily variation in network composition and structure remains incomplete due to limited sampling coverage. Moreover, inaccurate sampling protocols can result in missing links that impair the identification of underlying processes and emerging patterns. We address this gap by studying the fine-scale temporal organisation of the diverse diurnal plant-bee relationships and examining how the interaction composition and network structure fluctuate throughout the day. We extensively sampled plant-bee interactions in a Brazilian Cerrado over two flowering seasons, encompassing six 2-h sampling periods throughout the day. We compared interaction beta-diversity and network structural properties across sampling periods. A factorial approach was used to merge interactions among all combinations of sampling periods to assess how the composition and structure of the partial-day networks deviated from those exhibited by the full-day network (i.e. consolidating all interactions). Plant-bee interactions exhibited notable variations in network metrics across daily sampling periods. From dawn to dusk, plant-bee networks showed reduced modularity and specialisation but greater nestedness. Interaction beta-diversity between sampling periods increased progressively with wider temporal intervals, mainly explained by interaction rewiring among shared species. Combining four 2-h sampling periods recovered up to ~80% of all pairwise interactions and ~ 82% of interaction frequencies, and generated partial-day networks that most closely resembled the structure of full-day networks. These best-performing combinations consistently drew from daily central hours, whereas early-morning and late-afternoon periods contributed fewer but unique interactions. Our study demonstrates that plant-bee interaction networks are time-sensitive at the intraday scale and that interaction completeness is not necessarily improved by increasing effort within a single time window, but rather by distributing sampling across, or focusing on, the most informative periods of the day. We provide a general framework to evaluate how temporal sampling design affects network representativeness in systems where interactions depend on time-of-day.},</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>   <span class="dt">keywords</span> = {diurnal network structure</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>dynamical network topology</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>neotropical savanna</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>resource utilisation patterns</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>sampling schedules},</span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>   <span class="dt">ISSN</span> = {1365-2656 (Electronic)</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>0021-8790 (Linking)},</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>   <span class="dt">DOI</span> = {10.1111/1365-2656.70309},</span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>   <span class="dt">url</span> = {https://www.ncbi.nlm.nih.gov/pubmed/42454659},</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>   <span class="dt">year</span> = {2026},</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>   <span class="dt">type</span> = {Journal Article}</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 
 </section>

@@ -19,3 +19,18 @@ format:
 ## Links
 
 [PDF](https://dialnet.unirioja.es/descarga/articulo/2953979.pdf) | [OpenAlex](https://openalex.org/W1541688302)
+
+## BibTeX
+
+```bibtex
+@article{RN613,
+   author = {Jordano, Pedro},
+   title = {Biolog{í}a de la reproducci{ó}n de tres especies del g{é}nero Lonicera (Caprifoliaceae) en la Sierra de Cazorla},
+   journal = {Anal. Jard. Bot. Madrid},
+   volume = {48},
+   pages = {31–52},
+   keywords = {⛔ No DOI found},
+   year = {1990},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,31 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.14260) | [PDF](https://doi.org/10.1111/1365-2745.14260) | [OpenAlex](https://openalex.org/W4391108877)
+
+## BibTeX
+
+```bibtex
+@article{RN29606,
+   author = {Quintero, Elena and Arroyo, Juan Miguel and Dirzo, Rodolfo and Jordano, Pedro and Rodríguez-Sánchez, Francisco},
+   title = {Lasting effects of avian-frugivore interactions on seed dispersal and seedling establishment},
+   journal = {Journal of Ecology},
+   volume = {112},
+   number = {3},
+   pages = {656–672},
+   abstract = {The consequences of plant–animal interactions often transcend the mere encounter stage, as those encounters are followed by a chain of subsequent stages on the plant's reproductive cycle that ultimately determine fitness. Yet, the dissemination and recruitment stages of animal-mediated seed dispersal are seldom analysed jointly, hindering a full understanding of the ecology of seed dispersal. We analyse the dispersal and recruitment of a fleshy-fruited plant (Pistacia lentiscus), from fruit production to seedling survival up to their second year. We link early reproductive investment of individual plants to seedling recruitment and explore the role played by seed viability, the coterie of frugivores and microhabitat seed deposition. The proportion of viable seeds was generally low (mean = 34%) but highly variable among individual plants (range: 0%–95%). Seed viability did not seem to have a direct effect on individual plant's recruitment. We recorded 28 bird species feeding on P. lentiscus fruits or seeds. Their contribution to plant recruitment was mainly determined by their intensity of fruit consumption and probability to disperse viable seeds. Most frugivores presented non-random microhabitat preferences, delivering uneven seed contributions to different sites. Post-dispersal seed predation by rodents was the most limiting phase in P. lentiscus recruitment. Yet, microhabitats showing the lowest predation rates received the lowest seed rain. Hence, we found a decoupling of the dissemination and recruitment stages: most seeds do not arrive at the most suitable microhabitats. We estimate P. lentiscus plants need to produce c. 5 × 105 fruits to recruit a single seedling that survives to its second summer in our study site. Its success as a prevalent species in Mediterranean lowland landscapes relies on its high fecundity and thorough fruit removal and dispersal by a diversified frugivore assemblage, which compensates for the high seed unviability characteristic of this genus. Synthesis: Measuring the delayed, post-dispersal outcomes of animal frugivory interactions may overturn inferences based on consumption observations only. Seed rain patterns are often decoupled from microhabitats' suitability for seedling recruitment. Hence, more integrative studies that encompass the entire plant reproductive cycle (from fruit production to seedling recruitment) are needed to fully understand frugivores' lasting contribution to plant regeneration in natural populations.},
+   keywords = {frugivory
+seedling recruitment
+Pistacia lentiscus
+microhabitat
+seed viability
+seedling survival
+post-dispersal predation
+plant–animal mutualisms
+plant regeneration
+Doñana National Park},
+   ISSN = {1365-2745},
+   DOI = {10.1111/1365-2745.14260},
+   year = {2024},
+   type = {Journal Article}
+}
+```

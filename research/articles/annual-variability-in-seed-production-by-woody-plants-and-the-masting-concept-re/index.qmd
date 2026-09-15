@@ -21,3 +21,25 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1086/286191) | [PDF](https://digital.csic.es/bitstream/10261/42160/1/286191.pdf) | [OpenAlex](https://openalex.org/W2157735227)
+
+## BibTeX
+
+```bibtex
+@article{RN17558,
+   author = {Herrera, C M and Jordano, P and Guitián, J and Traveset, a},
+   title = {Annual variability in seed production by woody plants and the masting concept: reassessment of principles and relationship to pollination and seed dispersal.},
+   journal = {American Naturalist},
+   volume = {152},
+   pages = {576–594},
+   abstract = {By analyzing 296 published and unpublished data sets describing annual variation in seed output by 144 species of woody plants, this article addresses the following questions. Do plant species naturally fall into distinct groups corresponding to masting and nonmasting habits? Do plant populations generally exhibit significant bimodality in annual seed output? Are there significant relationships between annual variability in seed production and pollination and seed dispersal modes, as predicted from economy of scale considerations? We failed to identify distinct groups of species with contrasting levels of annual variability in seed output but did find evidence that most polycarpic woody plants seem to adhere to alternating supra-annual schedules consisting of either high or low reproduction years. Seed production was weakly more variable among wind-pollinated taxa than animal-pollinated ones. Plants dispersed by mutualistic frugivores were less variable than those dispersed by either inanimate means or animals that predominantly behave as seed predators. We conclude that there are no objective reasons to perpetuate the concept of mast fruiting in the ecological literature as a shorthand to designate a distinct biological phenomenon. Associations between supra-annual variability in seed output and pollination and seed dispersal methods suggest the existence of important reproductive correlates that demand further investigation.},
+   keywords = {pollination
+seed dispersal
+crop size
+seed
+mast fruiting},
+   ISSN = {0003-0147},
+   DOI = {10.1086/286191},
+   year = {1998},
+   type = {Journal Article}
+}
+```

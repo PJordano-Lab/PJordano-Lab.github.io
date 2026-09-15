@@ -21,3 +21,25 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1365-294x.2005.02542.x) | [PDF](http://hdl.handle.net/10261/40569) | [OpenAlex](https://openalex.org/W2161215580)
+
+## BibTeX
+
+```bibtex
+@article{RN57525,
+   author = {García, C. and Arroyo, J. M. and Godoy, J. A. and Jordano, P.},
+   title = {Mating patterns, pollen dispersal, and the ecological maternal neighbourhood in a Prunus mahaleb L. population},
+   journal = {Molecular Ecology},
+   volume = {14},
+   pages = {1821–1830},
+   abstract = {Gender polymorphism, plant-animal interactions, and environmental heterogeneity are the three important sources of variation in mating system and pollen dispersal patterns. We used progeny arrays and paternity analysis to assess the effects of gender type and density level on variation in mating patterns within a highly isolated population of Prunus mahaleb, a gynodioecious species. All the adult trees in the population were sampled and located. The direct estimate of long-distance insect-mediated pollination events was low (< 10%). Gender expression deeply influenced the mating system, decreasing the outcrossing rates (t(m)) and the pollen pool diversity in hermaphrodite trees. Long intermate distances (> 250 m) were significantly more frequent among female mother trees. Variation in local tree density also affected pollen pool diversity and intermate distance, with a higher effective number of fathers (k(e)) and longer intermate distances for female trees in low-density patches. A canonical correlation analysis showed significant correlations between mating variables and the maternal ecological neighbourhood. Only the first canonical variable was significant and explained 78% of variation. Outcrossing rates tended to decrease, and the relatedness among the fathers tended to increase, when mother trees grew in dense patches with high cover of other woody species and taller vegetation away from the pine forest edge. We highlight the relevance of considering maternal ecological neighbourhood effects on mating system and gene flow studies as maternal trees act simultaneously as receptors of pollen and as sources of the seeds to be dispersed.},
+   keywords = {Canonical correlation analysis
+Environmental heterogeneity
+Mating system
+Paternity analysis
+Pollen dispersal},
+   ISSN = {0962-1083},
+   DOI = {10.1111/j.1365-294X.2005.02542.x},
+   year = {2005},
+   type = {Journal Article}
+}
+```

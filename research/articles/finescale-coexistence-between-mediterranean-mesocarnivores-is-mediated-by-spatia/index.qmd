@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1002/ece3.8077) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.8077) | [OpenAlex](https://openalex.org/W3213172641)
+
+## BibTeX
+
+```bibtex
+@article{RN12196,
+   author = {Ferreiro‐Arias, Iago and Isla, Jorge and Jordano, Pedro and Benítez‐López, Ana},
+   title = {Fine‐scale coexistence between Mediterranean mesocarnivores is mediated by spatial, temporal, and trophic resource partitioning},
+   journal = {Ecology and Evolution},
+   volume = {11},
+   number = {22},
+   pages = {15520–15533},
+   abstract = {The partition of the ecological niche can enhance the coexistence of predators due to differences in how they exploit three main resources: food, space, and time, the latter being an axis that often remains unexplored. We studied niche segregation in a Mediterranean mesocarnivore community composed by Vulpes vulpes, Genetta genetta, Meles meles, and Herpestes ichneumon, addressing simultaneously different niche axes: the temporal, trophic, and spatial axes. We assessed temporal segregation between mesopredators and prey and between potential competitors, using camera trap data between 2018 and 2020 in a Mediterranean landscape in Southern Spain. We deployed camera traps in 35 stations in three sites with varying vegetation cover within Doñana National Park. We further examined the spatial overlap in activity centers and trophic preferences between potential competitors using diet information from studies performed in the study area. We found an overall temporal segregation between trophic generalist species, with species showing higher temporal overlap differing in their trophic preferences and/or showing limited spatial overlap. Furthermore, we observed an overall high overlap between the activity patterns of predators and their major prey in the area (the common genet vs. small mammals and the red fox vs. European rabbit). Our study suggests that coexistence of the different species that compose the mesocarnivore assemblage in Mediterranean landscapes can be facilitated by subtle differences along the three main niche axes, with temporal segregation being a most pronounced mechanism. Our findings reinforce the idea that the coexistence mechanisms underlying community structure are multidimensional. The coexistence of the different species that compose the mesocarnivore assemblage in Mediterranean landscapes can be facilitated by the marked temporal and spatial segregation between generalist species, but also by differences in trophic preferences by specialist species when their activity patterns overlap with other mesocarnivores. Our findings reinforce the idea that the coexistence mechanisms underlying community structure are multidimensional.},
+   ISSN = {2045-7758},
+   DOI = {10.1002/ece3.8077},
+   year = {2021},
+   type = {Journal Article}
+}
+```

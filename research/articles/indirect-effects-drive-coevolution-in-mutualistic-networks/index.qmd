@@ -19,3 +19,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1038/nature24273) | [OpenAlex](https://openalex.org/W2766126935)
+
+## BibTeX
+
+```bibtex
+@article{RN57564,
+   author = {Guimarães, Paulo R. and Pires, Mathias M. and Jordano, Pedro and Bascompte, Jordi and Thompson, John N.},
+   title = {Indirect effects drive coevolution in mutualistic networks},
+   journal = {Nature},
+   volume = {550},
+   pages = {511–514},
+   abstract = {0 0 M o n t h 2 0 1 7 | V o L 0 0 0 | n A t U R E | 1 Ecological interactions have been acknowledged to play a key role in shaping biodiversity 1,2 . Yet a major challenge for evolutionary biology is to understand the role of ecological interactions in shaping trait evolution when progressing from pairs of interacting species to multispecies interaction networks 2 . Here we introduce an approach that integrates coevolutionary dynamics and network structure. Our results show that non-interacting species can be as important as directly interacting species in shaping coevolution within mutualistic assemblages. The contribution of indirect effects differs among types of mutualism. Indirect effects are more likely to predominate in nested, species-rich networks formed by multiple-partner mutualisms, such as pollination or seed dispersal by animals, than in small and modular networks formed by intimate mutualisms, such as those between host plants and their protective ants. Coevolutionary pathways of indirect effects favour ongoing trait evolution by promoting slow but continuous reorganization of the adaptive landscape of mutualistic partners under changing environments. Our results show that coevolution can be a major process shaping species traits throughout ecological networks. These findings expand our understanding of how evolution driven by interactions occurs through the interplay of selection pressures moving along multiple direct and indirect pathways. Coevolution, the reciprocal adaptation resulting from ecological interactions, shapes the adaptive peaks of pairs of interacting species (Fig. 1a, b). Ultimately, selection driven by ecological interactions fuels adaptation in populations 3 , affects ecosystems 4 , and shapes the responses of ecological assemblages to environmental change 2 . An important challenge in advancing our understanding of how ecological interactions shape biodiversity, however, is to determine how coevo-lution acts when progressing from pairs or small groups of interacting species 5–12 to species-rich networks 2,13–16 . In species-rich networks, the effects of selection may cascade and produce indirect effects (evolutionary changes prompted by species that are not linked directly as interacting partners). For example, selection imposed by one polli-nator species may promote evolutionary changes in a plant species, which may lead to changes in another pollinator species. Indirect effects may change the adaptive landscape (Fig. 1c) and thereby drive trait distributions in biological communities 14–17},
+   DOI = {10.1038/nature24273},
+   url = {https://www.nature.com/articles/nature24273.pdf},
+   year = {2017},
+   type = {Journal Article}
+}
+```

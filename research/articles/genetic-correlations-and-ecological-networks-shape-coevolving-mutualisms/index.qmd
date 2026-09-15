@@ -19,3 +19,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/ele.13605) | [OpenAlex](https://openalex.org/W3087821265)
+
+## BibTeX
+
+```bibtex
+@article{RN27897,
+   author = {Assis, Ana Paula A. and Thompson, John N. and Santana, Pamela Cristina and Jordano, Pedro and Bascompte, Jordi and Guimarães, Paulo R.},
+   title = {Genetic correlations and ecological networks shape coevolving mutualisms},
+   journal = {Ecology Letters},
+   volume = {23},
+   number = {12},
+   pages = {1789–1799},
+   abstract = {Ecological interactions shape the evolution of multiple species traits in populations. These traits are often linked to each other through genetic correlations, affecting how each trait evolves through selection imposed by interacting partners. Here, we integrate quantitative genetics, coevolutionary theory and network science to explore how trait correlations affect the coevolution of mutualistic species not only in pairs of species but also in species-rich networks across space. We show that genetic correlations may determine the pace of coevolutionary change, affect species abundances and fuel divergence among populations of the same species. However, this trait divergence promoted by genetic correlations is partially buffered by the nested structure of species-rich mutualisms. Our study, therefore, highlights how coevolution and its ecological consequences may result from conﬂicting processes at different levels of organisation, ranging from genes to communities.},
+   keywords = {species interactions
+trait matching
+mutualistic networks
+coadaptation
+geographic mosaic of coevolution},
+   ISSN = {1461-023X, 1461-0248},
+   DOI = {10.1111/ele.13605},
+   year = {2020},
+   type = {Journal Article}
+}
+```

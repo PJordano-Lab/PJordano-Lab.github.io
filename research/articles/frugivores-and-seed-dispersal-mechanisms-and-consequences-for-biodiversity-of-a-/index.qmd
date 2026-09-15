@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rsbl.2010.0986) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/3097856) | [OpenAlex](https://openalex.org/W2165187074)
+
+## BibTeX
+
+```bibtex
+@article{RN26944,
+   author = {Jordano, Pedro and Forget, P.-M. Pierre-Michel and Lambert, Joanna E. and Böhning-Gaese, Katrin and Traveset, Anna and Wright, S. Joseph and Bohning-Gaese, K. and Traveset, Anna and Wright, S. Joseph},
+   title = {Frugivores and seed dispersal: mechanisms and consequences for biodiversity of a key ecological interaction.},
+   journal = {Biology Letters},
+   volume = {7},
+   number = {3},
+   pages = {321–323},
+   abstract = {The 5th Symposium on Frugivores and Seed Dispersal, held in Montpellier (France), 13-18 June 2010, brought together more than 220 researchers exemplifying a wide diversity of approaches to the study of frugivory and dispersal of seeds. Following Ted Fleming and Alejandro Estrada's initiative in 1985, this event was a celebration of the 25th anniversary of the first meeting in Veracruz, Mexico. Frugivory and seed dispersal are active research areas that have diversified in multiple directions since 1985 to include evolution (e.g. phylogenetic diversity and dispersal adaptations), physiology (e.g. sensory cues and digestion), landscape ecology (movement patterns), molecular ecology (e.g. gene flow, genetic diversity and structure), community ecology (e.g. mutualistic interaction networks) and conservation biology (effects of hunting, fragmentation, invasion and extinction), among others. This meeting provided an opportunity to assess conceptual and methodological progress, to present ever more sophisticated insights into frugivory in animals and dispersal patterns in plants, and to report the advances made in examining the mechanisms and consequences of seed dispersal for plants and frugivores.},
+   keywords = {frugivory
+fragmentation
+conservation biology
+dispersal
+hunting},
+   ISSN = {1744-9561},
+   DOI = {10.1098/rsbl.2010.0986},
+   year = {2011},
+   type = {Journal Article}
+}
+```

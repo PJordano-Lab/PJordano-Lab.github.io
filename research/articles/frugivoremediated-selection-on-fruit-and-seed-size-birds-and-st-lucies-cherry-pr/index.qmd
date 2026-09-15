@@ -21,3 +21,37 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.2307/2265833) | [PDF](http://hdl.handle.net/10261/42642) | [OpenAlex](https://openalex.org/W2002734223)
+
+## BibTeX
+
+```bibtex
+@article{RN164,
+   author = {Jordano, Pedro},
+   title = {Frugivore-mediated selection on fruit and seed size: birds and St. Lucie's cherry, Prunus Mahaleb},
+   journal = {Ecology},
+   volume = {76},
+   number = {8},
+   pages = {2627–2627},
+   abstract = {Frugivorous birds consumed >75% of the ripe fruits of a Prunus mahaleb population in southeastern Spain, but only half of the seed crop was successfully removed from parent plants by legitimate seed dispersers. For two consecutive years, I studied the sign and magnitude of phenotypic selection exerted by frugivorous birds on fruit size and seed mass, two key traits in this mutualistic plant-seed disperser interaction. Individual plants showed extensive phenotypic variation in these traits, but among-individual variation accounted for <30% of total trait variance. Selection patterns were assessed at two levels by separating the effects of selection acting on the parent tree (among-crop selection; comparing fruit removal and seed dispersal efficiency among individual plants) and selection acting at the individual seed level (comparing seed mass variation before and after dispersal by frugivorous birds). Dispersal efficiency (percentage of the seed crop dispersed) correlated negatively with crop size, fruit size, and seed mass. However, only crop size was significantly, positively, correlated with the absolute number of seeds dispersed relative to the population mean, used as the estimator for relative fitness. Greater visitation by dispersers to smaller plants compensated for their lower fecundity but, for plants with larger crops, a greater number of seeds was dispersed despite lower dispersal efficiency. Directional and stabilizing/disruptive selection gradients on fruit traits were not significant or, at best, only marginally significant, indicative of weak and inconsistent selection effects on maternal phenotypes. In contrast, selection on individual seed phenotypes was significant. Seeds on the ground, after successful dispersal by frugivorous birds, were significantly smaller than seeds 'available' at the start of the fruiting season. Observed selection differentials on individual seed mass were -0.12 (1992) and -0.13 (1993), suggesting that frugivores might exert strong selection on individual seed phenotypes irrespective of the maternal phenotype. This selection regime, with far-reaching demographic consequences but low potential for inducing evolutionary change in fruit traits, is expected on the basis of known hierarchical selection cues used by foraging frugivores. Fruit phenotypic variation might be irrelevant as a cue used by birds for discrimination among fruit crops, but, given extensive within-crop variation, frugivores might strongly select among seed phenotypes in a process not related consistently to among-crop selection on maternal phenotypes.},
+   keywords = {Pollination
+Seed Dispersal
+Mutualism
+Ipomopsis-Aggregata
+Pollen Dispersal
+Evolutionary
+Floral Traits
+Frugivorous Birds
+Fruit Size
+Individual Variation
+Natural-Selection
+Phenotypic Selection
+Prunus
+Removal
+Seed Mass
+Sexual Selection
+Virola-Surinamensis},
+   DOI = {10.2307/2265833},
+   year = {1995},
+   type = {Journal Article}
+}
+```

@@ -19,3 +19,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.2307/3565598) | [OpenAlex](https://openalex.org/W2013927416)
+
+## BibTeX
+
+```bibtex
+@article{RN27217,
+   author = {Jordano, Pedro},
+   title = {Pre-dispersal biology of Pistacia lentiscus (Anacardiaceae): cumulative effects on seed removal by birds},
+   journal = {Oikos},
+   volume = {55},
+   number = {3},
+   pages = {375–386},
+   abstract = {A highly variable fraction of final-sized fruits (on average, 80.1% and 55.5% in consecutive study years) contained empty seeds, either because of embryo abortion or parthenocarpy, but these fruits were retained and eventually consumed by birds. A total of 26 bird species consumed the fruits, with 19 being seed dispersers accounting for the removal of 82.5% and 83.3% of the final-sized fruit crop in 2 study years. Only 4 bird species removed 82.2% of the seeds and pulp/seed predators took 6.0%. Plant characteristics directly related to fecundity had strong effects on estimates of dispersal success relevant to finess, accounting for 82.4% of its variance when holding constant the effects of fruit-design traits; the latter accounted for 1.8% of this variance. Fruit removal by frugivores had a negligible contribution to variation in realized reproductive output, largely attributable to the cumulative effects of the pre-dispersal phase, when great losses of potential fecundity occurred as abortion of embryos or production of parthenocarpic fruit. -from Author},
+   DOI = {10.2307/3565598},
+   year = {1989},
+   type = {Journal Article}
+}
+```

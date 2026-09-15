@@ -21,3 +21,27 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1046/j.1365-294x.2003.02006.x) | [PDF](http://hdl.handle.net/10261/42355) | [OpenAlex](https://openalex.org/W2096296309)
+
+## BibTeX
+
+```bibtex
+@article{RN5519,
+   author = {Hampe, A. and Arroyo, J. and Jordano, Pedro and Petit, R.J. J.},
+   title = {Rangewide phylogeography of a bird-dispersed Eurasian shrub: Contrasting Mediterranean and temperate glacial refugia},
+   journal = {Molecular Ecology},
+   volume = {12},
+   number = {3},
+   pages = {3415–3426},
+   abstract = {We studied the phylogeography of alder buckthorn (Frangula alnus), a bird-dispersed shrub or small tree distributed over most of Europe and West Asia and present in three of the four main refugia of West Palaearctic temperate woody plants: the Iberian Peninsula, the Balkans and Anatolia. A total of 78 populations from 21 countries were analysed for chloroplast DNA variation using polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP), and 21 different haplotypes were distinguished. We found a very strong overall population differentiation (GST = 0.81) and phylogeographical structure, and a sharp contrast between the haplotype-rich refugia and the almost completely uniform area of postglacial colonization. The haplotype network comprises three lineages made up of haplotypes from the Iberian Peninsula, Anatolia with the Caucasus, and temperate Europe. The Iberian and the Anatolian branches represent parts of a major lineage that spans over the whole northern Mediterranean Basin and some neighbouring areas and probably dates back to the Tertiary. Many haplotypes of this lineage are distributed locally and most populations are fixed for a single haplotype; these populations have apparently been very stable since their establishment, experiencing negligible gene flow and few mutations. The temperate European lineage consists of one very widespread and abundant plus six locally distributed haplotypes. Four of them are located in Southeast Europe, the putative refugium of all extant temperate European populations. Contrary to populations from Iberia and Anatolia, F. alnus populations from the southeastern European refugium have most genetic variation within populations. Bird-mediated seed dispersal has apparently allowed not only a very rapid postglacial expansion of F. alnus but also subsequent regular seed exchanges between populations of the largely continuous species range in temperate Europe. In contrast, the disjunct F. alnus populations persisting in Mediterranean mountain ranges seem to have experienced little gene flow and have therefore accumulated a high degree of differentiation, even at short distances. Populations from the southern parts of the glacial refugia have contributed little to the postglacial recolonization of Europe, but their long-term historical continuity has allowed them to maintain a unique store of genetic variation.},
+   keywords = {Diversity
+Differentiation
+Seed dispersal
+Chloroplast DNA
+Fleshy fruits
+Postglacial recolonization},
+   ISSN = {1365-294X},
+   DOI = {10.1046/j.1365-294X.2003.02006.x},
+   year = {2003},
+   type = {Journal Article}
+}
+```

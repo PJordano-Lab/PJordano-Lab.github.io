@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-644d0fd99cf69ed39cf2c499aca00f57.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ee86c88f7866c99c5b29dd9fb11d7cde.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -103,13 +103,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- Dark Mode Toggle -->
 <style>
   .theme-toggle {
-    background: rgba(0, 0, 0, 0.06);
-    border: 1px solid rgba(0, 0, 0, 0.15);
+    background: rgba(255, 255, 255, 0.10);
+    border: 1px solid rgba(255, 255, 255, 0.28);
     border-radius: 2rem;
     padding: 0.35rem 0.75rem;
     cursor: pointer;
     transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
-    color: #1e293b;
+    color: #f8f7f4;
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
@@ -120,57 +120,82 @@ ul.task-list li input[type="checkbox"] {
   }
 
   .theme-toggle:hover {
-    background: rgba(0, 0, 0, 0.12);
-    border-color: rgba(0, 0, 0, 0.25);
+    background: rgba(255, 255, 255, 0.20);
+    border-color: rgba(255, 255, 255, 0.45);
   }
 
   .theme-toggle i {
-    font-size: 0.85rem;
+    font-size: 1rem;
+  }
+
+  /* keep it clear of the social icons */
+  .quarto-navbar-tools .theme-toggle {
+    margin-left: 0.6rem;
   }
 </style>
 
 <script>
   (function() {
-    function applyTheme(theme) {
-      document.documentElement.setAttribute('data-theme', theme);
-      localStorage.setItem('theme', theme);
-      if (theme === 'dark') {
-        document.body.classList.remove('quarto-light');
-        document.body.classList.add('quarto-dark');
-      } else {
-        document.body.classList.remove('quarto-dark');
-        document.body.classList.add('quarto-light');
-      }
-      var btn = document.getElementById('theme-toggle-btn');
-      if (btn) {
-        btn.innerHTML = theme === 'dark'
-          ? '<i class="bi bi-sun-fill"></i> Light'
-          : '<i class="bi bi-moon-stars-fill"></i> Dark';
-        btn.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+    var BTN_HTML = {
+      dark:  '<i class="bi bi-sun-fill"></i> Light',
+      light: '<i class="bi bi-moon-stars-fill"></i> Dark'
+    };
+
+    function currentTheme() {
+      return document.documentElement.getAttribute('data-theme') || 'light';
+    }
+
+    // Body classes can only be set once <body> exists. This script sits in
+    // <head>, so during first parse document.body is still null - touching it
+    // there threw a TypeError that killed the rest of this IIFE, which is why
+    // no toggle button was ever injected.
+    function applyBodyClasses(theme) {
+      if (!document.body) return;
+      document.body.classList.toggle('quarto-dark', theme === 'dark');
+      document.body.classList.toggle('quarto-light', theme !== 'dark');
+    }
+
+    function refreshButtons(theme) {
+      var label = theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
+      var buttons = document.querySelectorAll('.theme-toggle');
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].innerHTML = BTN_HTML[theme === 'dark' ? 'dark' : 'light'];
+        buttons[i].setAttribute('aria-label', label);
+        buttons[i].setAttribute('title', label);
       }
     }
 
-    var saved = localStorage.getItem('theme') || 'dark';
-    applyTheme(saved);
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      try { localStorage.setItem('theme', theme); } catch (e) {}
+      applyBodyClasses(theme);
+      refreshButtons(theme);
+    }
+
+    // Set the attribute before first paint so there is no flash of the wrong
+    // theme; the body/button work happens once the DOM is ready.
+    var saved = 'dark';
+    try { saved = localStorage.getItem('theme') || 'dark'; } catch (e) {}
+    document.documentElement.setAttribute('data-theme', saved);
 
     window.toggleTheme = function() {
-      var current = document.documentElement.getAttribute('data-theme') || 'light';
-      applyTheme(current === 'dark' ? 'light' : 'dark');
+      applyTheme(currentTheme() === 'dark' ? 'light' : 'dark');
     };
 
     function addToggleButton() {
-      var navbarTools = document.querySelector('.quarto-navbar-tools');
-      if (!navbarTools || document.getElementById('theme-toggle-btn')) return;
-      var btn = document.createElement('button');
-      btn.id = 'theme-toggle-btn';
-      btn.className = 'theme-toggle';
-      btn.onclick = toggleTheme;
-      var current = document.documentElement.getAttribute('data-theme') || 'light';
-      btn.innerHTML = current === 'dark'
-        ? '<i class="bi bi-sun-fill"></i> Light'
-        : '<i class="bi bi-moon-stars-fill"></i> Dark';
-      btn.setAttribute('aria-label', current === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
-      navbarTools.appendChild(btn);
+      var theme = currentTheme();
+      var containers = document.querySelectorAll('.quarto-navbar-tools');
+      for (var i = 0; i < containers.length; i++) {
+        if (containers[i].querySelector('.theme-toggle')) continue;
+        var btn = document.createElement('button');
+        btn.id = i === 0 ? 'theme-toggle-btn' : 'theme-toggle-btn-' + i;
+        btn.className = 'theme-toggle';
+        btn.type = 'button';
+        btn.addEventListener('click', window.toggleTheme);
+        containers[i].appendChild(btn);
+      }
+      applyBodyClasses(theme);
+      refreshButtons(theme);
     }
 
     if (document.readyState === 'loading') {
@@ -311,8 +336,10 @@ window.Quarto = {
 <p class="hero-affiliation">Research Professor, Estación Biológica de Doñana, CSIC, and Assoc. Professor, Univ. Sevilla</p>
 <h1 class="hero-name">Pedro Jordano</h1>
 <p class="hero-bio">My research focuses on the study of biological diversity (biodiversity) from both ecological and evolutionary perspectives. I am interested in how ecological interactions, e.g. mutualisms, shape complex ecological systems. Interactions, such as those among plants and their seed dispersers and pollinators, are the wireframe of biodiversity, yet we are far from understanding how they evolve and coevolve. My main research tools to address this fascinating theme include field ecology, molecular genetics, and theoretical ecology.</p>
+<p>• <a href="./pedro.html">More details →</a></p>
+<hr>
 <div class="research-chips">
-<p>Ecology Conservation Biology Complex networks Ecological interactions Biodiversity Tropical ecology Mutualisms Plant-animal interactions Dispersal and gene flow</p>
+<p>Ecology • Conservation Biology • Complex networks • Ecological interactions • Biodiversity • Tropical ecology • Mutualisms • Plant-animal interactions • Dispersal and gene flow</p>
 </div>
 <div class="hero-cta">
   <a href="research.html" class="btn-primary-custom">
@@ -329,8 +356,7 @@ window.Quarto = {
 </div>
 <hr class="section-divider">
 <section id="recent-work" class="level2 section-heading section-heading-row">
-<h2 class="section-heading anchored" data-anchor-id="recent-work">Recent Work</h2>
-<p><a href="./pedro.html" class="section-link">More details →</a></p>
+<h2 class="section-heading anchored" data-anchor-id="recent-work">Recent Work </h2>
 <p><a href="./research.html" class="section-link">All publications →</a></p>
 </section>
 <div id="listing-articles" class="quarto-listing quarto-listing-container-table">
@@ -377,7 +403,7 @@ Subtitle
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1787608800000" data-listing-file-modified-sort="1789419595144" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="18" data-listing-title-sort="Resolution of Respect Eugene “Geno” Wallace Schupp (1952–2026) Seed dispersal ecologist, restoration scientist, mentor" data-listing-filename-sort="index.qmd">
+<tr data-index="0" data-listing-date-sort="1787608800000" data-listing-file-modified-sort="1789433754150" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="80" data-listing-title-sort="Resolution of Respect Eugene “Geno” Wallace Schupp (1952–2026) Seed dispersal ecologist, restoration scientist, mentor" data-listing-filename-sort="index.qmd">
 <td>
 <span class="listing-date">Aug 25, 2026</span>
 </td>

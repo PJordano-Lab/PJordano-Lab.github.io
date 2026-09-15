@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.3897/biss.5.75564) | [PDF](https://biss.pensoft.net/article/75564/download/pdf/) | [OpenAlex](https://openalex.org/W3201449494)
+
+## BibTeX
+
+```bibtex
+@article{RN12010,
+   author = {Jordano, Pedro},
+   title = {The biodiversity of ecological interactions: challenges for recording and documenting the Web of Life},
+   journal = {Biodiversity Information Science and Standards},
+   volume = {5},
+   pages = {e75564},
+   abstract = {Biodiversity is more than a collection of individual species. It is the combination of biological entities and processes supporting life on Earth: no single species persists without interacting with other species. A full account of biodiversity on Earth needs to document the essential ecological interactions that support Earth’s system through their functional outcomes. Quantifying biodiversity’s interactome (the whole suite of interactions among biotic organisms) is challenging not just because of the daunting task of describing ecosystem complexity, it’s also limited by the need to define and establish a proper grammar to record and catalog species interactions. Actually, a record of a pairwise interaction between two species can be identified as a "tetranomial species", with just a concatenation of the two Latin binomials. Thus sampling interactions requires solving exactly the same constraints and problems we face when sampling biodiversity. In real interaction webs, the number of actual pairwise interactions among species in local assemblages scales exponentially with species richness. I discuss the main components of these interactions and those that are key to properly sample and document them. Interactions take the form of predation, competition, commensalism, amensalism, mutualism, symbiosis, and parasitism and, in all cases, involve reciprocal effects for the interacting species and build into highly complex networks (Fig. 1). The type of metadata required to document ecological interactions between partner species depends on interaction type; yet a fraction of these metadata is shared with those of the partner species. The interaction type sets limits to between-species encounters (actually, encounters between individuals of the partner species) and, more importantly, sets the type of outcome emerging from the interactions. There is a broad range of information that can eventually be acquired when recording an ecological interaction: from its simple presence (the interaction exists, it's been just recorded) to an estimate of its frequency, to obtaining data about its outcome or per-interaction effect (e.g., number of flowers pollinated in a visit by a pollinator to a plant). In addition, the types of interaction data can be quite diverse, reflecting the variety of sampling methods: interaction records from direct observation in the field; camera-traps; DNA-barcoding; bibliographic sources; surveys of image databases, etc. Interaction biodiversity inventories may require merging information coming from these distinct data sources. All these components need to be properly defined in order to build informative metadata and to document ecological interaction records. We are just starting to delineate the main components needed to catalog and inventory ecological interactions as a part of biodiversity inventories.},
+   DOI = {10.3897/biss.5.75564},
+   year = {2021},
+   type = {Journal Article}
+}
+```

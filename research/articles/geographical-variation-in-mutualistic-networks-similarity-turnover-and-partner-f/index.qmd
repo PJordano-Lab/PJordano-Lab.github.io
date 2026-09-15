@@ -21,3 +21,27 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rspb.2014.2925) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2014.2925) | [OpenAlex](https://openalex.org/W2146446325)
+
+## BibTeX
+
+```bibtex
+@article{RN27744,
+   author = {Trøjelsgaard, Kristian and Jordano, Pedro and Carstensen, Daniel W. D.W. Daniel W and Olesen, Jens M. J.M. Jens M},
+   title = {Geographical variation in mutualistic networks: similarity, turnover and partner fidelity},
+   journal = {Proceedings. Biological sciences / The Royal Society},
+   volume = {282},
+   number = {1802},
+   pages = {192–211},
+   abstract = {Although species and their interactions in unison represent biodiversity and all the ecological and evolutionary processes associated with life, biotic interactions have, contrary to species, rarely been integrated into the concepts of spatial β-diversity. Here, we examine β-diversity of ecological networks by using pollination networks sampled across the Canary Islands. We show that adjacent and distant communities are more and less similar, respectively, in their composition of plants, pollinators and interactions than expected from random distributions. We further show that replacement of species is the major driver of interaction turnover and that this contribution increases with distance. Finally, we quantify that species-specific partner compositions (here called partner fidelity) deviate from random partner use, but vary as a result of ecological and geographical variables. In particular, breakdown of partner fidelity was facilitated by increasing geographical distance, changing abundances and changing linkage levels, but was not related to the geographical distribution of the species. This highlights the importance of space when comparing communities of interacting species and may stimulate a rethinking of the spatial interpretation of interaction networks. Moreover, geographical interaction dynamics and its causes are important in our efforts to anticipate effects of large-scale changes, such as anthropogenic disturbances.},
+   keywords = {coevolution
+pollination networks
+island ecology
+distance decay
+β-diversity
+opportunism},
+   ISSN = {0906-7590\n1600-0587},
+   DOI = {10.1098/rspb.2014.2925},
+   year = {2015},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,37 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1461-0248.2005.00810.x) | [PDF](http://hdl.handle.net/10261/40567) | [OpenAlex](https://openalex.org/W2097282068)
+
+## BibTeX
+
+```bibtex
+@article{RN23767,
+   author = {Vazquez, D P and Morris, W F and Jordano, Pedro},
+   title = {Interaction frequency as a surrogate for the total effect of animal mutualists on plants},
+   journal = {Ecology Letters},
+   volume = {8},
+   pages = {1088–1094},
+   abstract = {We evaluate whether species interaction frequency can be used as a surrogate for the total effect of a species on another. Because interaction frequency is easier to estimate than per-interaction effect, using interaction frequency as a surrogate of total effect could facilitate the large-scale analysis of quantitative patterns of species-rich interaction networks. We show mathematically that the correlation between interaction frequency (I) and total effect (T) becomes more strongly positive the greater the variation of I relative to the variation of per-interaction effect (P) and the greater the correlation between I and P. A meta-analysis using data on I, P and T for animal pollinators and seed dispersers visiting plants shows a generally strong, positive relationship between T and I, in spite of no general relationship between P and I. Thus, frequent animal mutualists usually contribute the most to plant reproduction, regardless of their effectiveness on a per-interaction basis.},
+   keywords = {Pollination
+Seed Dispersal
+Mutualism
+Patterns
+Pollen Limitation
+Abundance
+Body-Size
+Trophic Interactions
+Food-Web
+Population
+Plant-Animal Interactions
+Interaction Strength
+Capita Interaction Strength
+Plant Reproduction
+Effectiveness
+Interaction Networks
+Interaction Frequency
+Quantity Component},
+   DOI = {10.1111/j.1461-0248.2005.00810.x},
+   year = {2005},
+   type = {Journal Article}
+}
+```

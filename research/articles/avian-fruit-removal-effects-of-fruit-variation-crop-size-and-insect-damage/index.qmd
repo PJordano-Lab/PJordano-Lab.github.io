@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.2307/1939863) | [PDF](http://hdl.handle.net/10261/42665) | [OpenAlex](https://openalex.org/W2027211213)
+
+## BibTeX
+
+```bibtex
+@article{RN26911,
+   author = {Jordano, P.},
+   title = {Avian fruit removal: effects of fruit variation, crop size, and insect damage},
+   journal = {Ecology},
+   volume = {68},
+   number = {6},
+   pages = {1711–1723},
+   abstract = {Avian dispersal of seeds of the wild olive tree (Olea europaea var. sylvestris) was studied in Mediterranean shrubland, southern Spain. Fourteen species of small fru- givorous birds in the genera Sylvia, Turdus, Sturnus, and Erithacus accounted for 97.4% of the fruits consumed by birds. The significance of each bird species as an Olea fruit consumer was closely related to its abundance in the area and was not associated with its dependence on the fruit for food; this resulted in a highly asymmetric interaction between the plant and its dispersers. Fruit production differed greatly between two consecutive seasons. During an extremely dry year most trees aborted their entire fruit crop just after flowering. During the 2nd yr, both flower production and fruit set increased, and this resulted in larger crops of ripe fruit. Most fruits that ripened (96.2% of the final-sized fruits) during the year of low fruit pro- duction were consumed by dispersers (X = 93.9%), and incidence of fruit-damaging agents was low (6.0%). During the 2nd yr, fruit loss to the two main fruit predators, Dacus oleae (Tephritidae) and Prays oleae (Yponomeutidae), increased (2 = 27.1%, range 1.1-52.3%). A satiation process took place during this year since fruit production exceeded the energy demand of the disperser assemblage, and this incre_ased the potential for fruit loss to insect frugivores. Fruit removal by dispersers decreased (X= 52.4%), but the increase in fecundity during the 2nd yr for most of the trees compensated for this difference and resulted in a greater absolute number of seeds removed. Most variation in ripe fruit removal by birds was attributed to the interaction of dispersal- related plant traits with insect frugivores that determine post-ripening fruit losses. The types of higher order interactions that result from the action of birds, the pulp-damaging fly, and the seed-eating moth larva may damp, or reverse, any selective effect of a single system component on plant traits related to seed dispersal},
+   ISSN = {0012-9658},
+   DOI = {10.2307/1939863},
+   year = {1987},
+   type = {Journal Article}
+}
+```

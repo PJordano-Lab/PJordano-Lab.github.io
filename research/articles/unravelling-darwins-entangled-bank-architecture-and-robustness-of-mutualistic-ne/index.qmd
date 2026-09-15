@@ -21,3 +21,25 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rspb.2016.1564) | [PDF](https://escholarship.org/content/qt7c0175ms/qt7c0175ms.pdf) | [OpenAlex](https://openalex.org/W2556148975)
+
+## BibTeX
+
+```bibtex
+@article{RN26864,
+   author = {Dáttilo, Wesley and Lara-Rodríguez, Nubia and Jordano, Pedro and Guimarães, Paulo R. and Thompson, John N. and Marquis, Robert J. and Medeiros, Lucas P. and Ortiz-Pulido, Raul and Marcos-García, Maria A. and Rico-Gray, Victor},
+   title = {Unravelling darwin’s entangled bank: Architecture and robustness of mutualistic networks with multiple interaction types},
+   journal = {Proceedings of the Royal Society B: Biological Sciences},
+   volume = {283},
+   number = {1843},
+   pages = {20161564},
+   abstract = {Trying to unravel Darwin’s entangled bank further, we describe the architecture of a network involving multiple forms of mutualism (pollination by animals, seed dispersal by birds and plant protection by ants) and evaluate whether this multi-network shows evidence of a structure that promotes robustness. We found that species differed strongly in their contributions to the organization of the multi-interaction network, and that only a few species contributed to the structuring of these patterns. Moreover, we observed that the multi-interaction networks did not enhance community robustness compared with each of the three independent mutualistic networks when analysed across a range of simulated scenarios of species extinction. By simulating the removal of highly interacting species, we observed that, overall, these species enhance network nestedness and robustness, but decrease modularity. We discuss how the organization of interlinked mutualistic networks may be essential for the maintenance of ecological communities, and therefore the long-term ecological and evolutionary dynamics of interactive, species-rich com munities. We suggest that conserving these keystone mutualists and their interactions is crucial to the persistence of species-rich mutualistic assemblages, mainly because they support other species and shape the network organization.},
+   keywords = {Modularity
+Nestedness
+Coupled networks
+Keystone mutualists
+Structure-stability relationships},
+   DOI = {10.1098/rspb.2016.1564},
+   year = {2016},
+   type = {Journal Article}
+}
+```

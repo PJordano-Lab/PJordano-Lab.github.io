@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1474-919x.1987.tb03199.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1474-919X.1987.tb03199.x) | [OpenAlex](https://openalex.org/W2061943765)
+
+## BibTeX
+
+```bibtex
+@article{RN855,
+   author = {Jordano, Pedro},
+   title = {Frugivory, external morphology and digestive system in mediterranean sylviid warblers Sylvia spp},
+   journal = {Ibis},
+   volume = {129},
+   pages = {175–189},
+   abstract = {Fruit consumption was assessed in six species of Sylwia warblers and compared to variation in external morphology and digestive system. Variation in the use of fruit was determined primarily by external morphology (body-size, gape-width and hindlimb characteristics). Variation in digestive traits (intestine-length, gizzard and liver-weight) did not account for a significant fraction of variation in frugivory across species. Relative to other non-frugivorous Muscicapidae, Sylwia spp. exhibit digestive adaptations specific to fruit processing; however, variation in external morphology constrains the degree of dependence on fruit within the genus.},
+   ISSN = {0019-1019},
+   DOI = {10.1111/j.1474-919X.1987.tb03199.x},
+   year = {1987},
+   type = {Journal Article}
+}
+```

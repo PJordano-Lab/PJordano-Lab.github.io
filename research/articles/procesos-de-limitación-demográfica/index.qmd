@@ -19,3 +19,19 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/40596) | [OpenAlex](https://openalex.org/W231897530)
+
+## BibTeX
+
+```bibtex
+@inbook{RN11727,
+   author = {Jordano, Pedro and Pulido, Fernando and Arroyo, Juan and García-Castaño, Juan Luis and García-Fayos, Patricio},
+   title = {Procesos de limitación demográfica},
+   booktitle = {Ecología del bosque mediterráneo en un mundo cambiante},
+   editor = {Valladares, F},
+   publisher = {Ministerio de Medio Ambiente, EGRAF, S.A.},
+   address = {Madrid},
+   pages = {229–248},
+   year = {2004},
+   type = {Book Section}
+}
+```

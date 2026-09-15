@@ -21,3 +21,43 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/brv.12374) | [PDF](https://figshare.com/articles/journal_contribution/Ecological_and_evolutionary_legacy_of_megafauna_extinctions/22962164) | [OpenAlex](https://openalex.org/W2761128794)
+
+## BibTeX
+
+```bibtex
+@article{RN57544,
+   author = {Galetti, M. and Moleon, M. and Jordano, P. and Pires, M. M. and Guimaraes, P. R. and Pape, T. and Nichols, E. and Hansen, D. and Olesen, J. M. and Munk, M. and de Mattos, J. S. and Schweiger, A. H. and Owen-Smith, N. and Johnson, C. N. and Marquis, R. J. and Svenning, J. C.},
+   title = {Ecological and evolutionary legacy of megafauna extinctions},
+   journal = {Biological Reviews},
+   volume = {93},
+   number = {2},
+   pages = {845–862},
+   note = {Gc3qrTimes Cited:3Cited References Count:220},
+   abstract = {For hundreds of millions of years, large vertebrates (megafauna) have inhabited most of the ecosystems on our planet. During the late Quaternary, notably during the Late Pleistocene and the early Holocene, Earth experienced a rapid extinction of large, terrestrial vertebrates. While much attention has been paid to understanding the causes of this massive megafauna extinction, less attention has been given to understanding the impacts of loss of megafauna on other organisms with whom they interacted. In this review, we discuss how the loss of megafauna disrupted and reshaped ecological interactions, and explore the ecological consequences of the ongoing decline of large vertebrates. Numerous late Quaternary extinct species of predators, parasites, commensals and mutualistic partners were associated with megafauna and were probably lost due to their strict dependence upon them (co-extinctions). Moreover, many extant species have megafauna-adapted traits that provided evolutionary benefits under past megafauna-rich conditions, but are now of no or limited use (anachronisms). Morphological evolution and behavioural changes allowed some of these species partially to overcome the absence of megafauna. Although the extinction of megafauna led to a number of co-extinction events, several species that likely co-evolved with megafauna established new interactions with humans and their domestic animals. Species that were highly specialized in interactions with megafauna, such as large predators, specialized parasites, and large commensalists (e.g. scavengers, dung beetles), and could not adapt to new hosts or prey were more likely to die out. Partners that were less megafauna dependent persisted because of behavioural plasticity or by shifting their dependency to humans via domestication, facilitation or pathogen spill-over, or through interactions with domestic megafauna. We argue that the ongoing extinction of the extant megafauna in the Anthropocene will catalyse another wave of co-extinctions due to the enormous diversity of key ecological interactions and functional roles provided by the megafauna.},
+   keywords = {anachronism
+cerrado
+botfly
+seed dispersal
+parasite-host interaction
+dung beetles
+plant defence
+scavengers
+megaherbivores
+savanna
+african dung beetle
+seed-dispersal
+late pleistocene
+body-size
+coleoptera-scarabaeidae
+amazonian forests
+vampire bats
+loxodonta-africana
+feeding-behavior
+large herbivores},
+   ISSN = {1464-7931},
+   DOI = {10.1111/brv.12374},
+   url = {<Go to ISI>://WOS:000429699100007},
+   year = {2018},
+   type = {Journal Article}
+}
+```

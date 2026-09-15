@@ -21,3 +21,17 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.13039/501100000780) | [PDF](http://hdl.handle.net/10261/81615) | [OpenAlex](https://openalex.org/W2160758288)
+
+## BibTeX
+
+```bibtex
+@article{RN57964,
+   author = {Jordano, Pedro and Zamora, Regino and Marañón, T and Arroyo, J},
+   title = {Claves ecol{ó}gicas para la restauraci{ó}n del bosque mediterr{á}neo. Aspectos demogr{á}ficos, ecofisiol{ó}gicos y gen{é}ticos},
+   journal = {Ecosistemas},
+   volume = {10},
+   pages = {1–13},
+   year = {2005},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rsbl.2013.1000) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2013.1000) | [OpenAlex](https://openalex.org/W2116021331)
+
+## BibTeX
+
+```bibtex
+@article{RN57491,
+   author = {Heleno, Ruben and Garcia, Cristina and Jordano, Pedro and Traveset, Anna and Gómez, José Maria and Blüthgen, Nico and Memmott, Jane and Moora, Mari and Cerdeira, Jorge and Rodríguez-Echeverría, Susana and Freitas, Helena and Olesen, Jens M},
+   title = {Ecological networks: delving into the architecture of biodiversity.},
+   journal = {Biology letters},
+   volume = {10},
+   pages = {20131000},
+   abstract = {In recent years, the analysis of interaction networks has grown popular as a framework to explore ecological processes and the relationships between community structure and its functioning. The field has rapidly grown from its infancy to a vibrant youth, as reflected in the variety and quality of the discussions held at the first international symposium on Ecological Networks in Coimbra-Portugal (23-25 October 2013). The meeting gathered 170 scientists from 22 countries, who presented data from a broad geographical range, and covering all stages of network analyses, from sampling strategies to effective ways of communicating results, presenting new analytical tools, incorporation of temporal and spatial dynamics, new applications and visualization tools.(1) During the meeting it became evident that while many of the caveats diagnosed in early network studies are successfully being tackled, new challenges arise, attesting to the health of the discipline.},
+   keywords = {bioinformatics
+ecology
+environmental science
+plant science
+systems biology},
+   ISSN = {1744-957X (Electronic)\r1744-9561 (Linking)},
+   DOI = {10.1098/rsbl.2013.1000},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3917341/pdf/rsbl20131000.pdf},
+   year = {2014},
+   type = {Journal Article}
+}
+```

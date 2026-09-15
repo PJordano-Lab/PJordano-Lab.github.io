@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1073/pnas.1633576100) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/170927) | [OpenAlex](https://openalex.org/W2168793216)
+
+## BibTeX
+
+```bibtex
+@article{RN152,
+   author = {Bascompte, J. and Jordano, P. and Melian, C. J. and Olesen, J. M.},
+   title = {The nested assembly of plant-animal mutualistic networks},
+   journal = {Proceedings of the National Academy of Sciences},
+   volume = {100},
+   number = {16},
+   pages = {9383–9387},
+   ISSN = {0027-8424, 1091-6490},
+   DOI = {10.1073/pnas.1633576100},
+   year = {2003},
+   type = {Journal Article}
+}
+```

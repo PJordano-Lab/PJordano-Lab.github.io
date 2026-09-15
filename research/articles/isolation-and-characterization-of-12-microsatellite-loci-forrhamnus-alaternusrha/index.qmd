@@ -21,3 +21,24 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1755-0998.2009.02657.x) | [PDF](http://hdl.handle.net/10261/38386) | [OpenAlex](https://openalex.org/W2018815662)
+
+## BibTeX
+
+```bibtex
+@article{RN57459,
+   author = {Arroyo, J. M. and RodrÍguez, R. and Rigueiro, C. and Hampe, A. and Jordano, P.},
+   title = {Isolation and characterization of 12 microsatellite loci for Rhamnus alaternus (Rhamnaceae)},
+   journal = {Molecular Ecology Resources},
+   volume = {9},
+   pages = {1216–1218},
+   abstract = {Twelve polymorphic microsatellite loci were developed for Rhamnus alaternus using an enriched-library approach. We detected 69 alleles in 49 individuals genotyped (mean number of alleles per locus was 4.79) in two different populations. The values of observed and expected heterozygosities ranged from 0.045 to 0.963 and 0.089 to 0.873 respectively. Levels of polymorphism and the exclusionary power of the developed markers render them readily applicable for studies of contemporary pollen and seed gene flow through parentage analyses.},
+   keywords = {Rhamnaceae
+Rhamnus alaternus
+Seed dispersal},
+   ISSN = {1755-098X},
+   DOI = {10.1111/j.1755-0998.2009.02657.x},
+   url = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1755-0998.2009.02657.x},
+   year = {2009},
+   type = {Journal Article}
+}
+```

@@ -19,3 +19,17 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/45079) | [OpenAlex](https://openalex.org/W2238016986)
+
+## BibTeX
+
+```bibtex
+@article{RN57469,
+   author = {Jordano, P},
+   title = {Notas sobre la dieta no-insectívora de algunos Muscicapidae},
+   journal = {Ardeola},
+   volume = {34},
+   pages = {89–98},
+   year = {2006},
+   type = {Journal Article}
+}
+```

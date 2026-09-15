@@ -21,3 +21,40 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2656.70309) | [PDF](https://doi.org/10.1111/1365-2656.70309) | [OpenAlex](https://openalex.org/W7168349102)
+
+## BibTeX
+
+```bibtex
+@article{RN58452,
+   author = {Ballarin, C. S. and Isla, J. and Arroyo-Correa, B. and Quintero, E. and Hachuy-Filho, L. and Amorim, F. W. and Jordano, P.},
+   title = {Optimising daily sampling of plant-bee interaction networks},
+   journal = {Journal of Animal Ecology},
+   note = {Ballarin, Caio S
+Isla, Jorge
+Arroyo-Correa, Blanca
+Quintero, Elena
+Hachuy-Filho, Leandro
+Amorim, Felipe W
+Jordano, Pedro
+eng
+88887.839479/2023-00/Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior/
+Finance Code 001/Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior/
+2021/10639-5/Fundacao de Amparo a Pesquisa do Estado de Sao Paulo/
+2024/02640-1/Fundacao de Amparo a Pesquisa do Estado de Sao Paulo/
+England
+2026/07/15
+J Anim Ecol. 2026 Jul 15. doi: 10.1111/1365-2656.70309.},
+   abstract = {Plant-pollinator interactions are dynamic not only across seasons but also over hourly time scales, even beyond the day-night contrast. However, capturing the daily temporal variability of pollination networks during field data collection is challenging. Consequently, our understanding of daily variation in network composition and structure remains incomplete due to limited sampling coverage. Moreover, inaccurate sampling protocols can result in missing links that impair the identification of underlying processes and emerging patterns. We address this gap by studying the fine-scale temporal organisation of the diverse diurnal plant-bee relationships and examining how the interaction composition and network structure fluctuate throughout the day. We extensively sampled plant-bee interactions in a Brazilian Cerrado over two flowering seasons, encompassing six 2-h sampling periods throughout the day. We compared interaction beta-diversity and network structural properties across sampling periods. A factorial approach was used to merge interactions among all combinations of sampling periods to assess how the composition and structure of the partial-day networks deviated from those exhibited by the full-day network (i.e. consolidating all interactions). Plant-bee interactions exhibited notable variations in network metrics across daily sampling periods. From dawn to dusk, plant-bee networks showed reduced modularity and specialisation but greater nestedness. Interaction beta-diversity between sampling periods increased progressively with wider temporal intervals, mainly explained by interaction rewiring among shared species. Combining four 2-h sampling periods recovered up to ~80% of all pairwise interactions and ~ 82% of interaction frequencies, and generated partial-day networks that most closely resembled the structure of full-day networks. These best-performing combinations consistently drew from daily central hours, whereas early-morning and late-afternoon periods contributed fewer but unique interactions. Our study demonstrates that plant-bee interaction networks are time-sensitive at the intraday scale and that interaction completeness is not necessarily improved by increasing effort within a single time window, but rather by distributing sampling across, or focusing on, the most informative periods of the day. We provide a general framework to evaluate how temporal sampling design affects network representativeness in systems where interactions depend on time-of-day.},
+   keywords = {diurnal network structure
+dynamical network topology
+neotropical savanna
+resource utilisation patterns
+sampling schedules},
+   ISSN = {1365-2656 (Electronic)
+0021-8790 (Linking)},
+   DOI = {10.1111/1365-2656.70309},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/42454659},
+   year = {2026},
+   type = {Journal Article}
+}
+```

@@ -21,6 +21,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -38,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-644d0fd99cf69ed39cf2c499aca00f57.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-ee86c88f7866c99c5b29dd9fb11d7cde.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,13 +106,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- Dark Mode Toggle -->
 <style>
   .theme-toggle {
-    background: rgba(0, 0, 0, 0.06);
-    border: 1px solid rgba(0, 0, 0, 0.15);
+    background: rgba(255, 255, 255, 0.10);
+    border: 1px solid rgba(255, 255, 255, 0.28);
     border-radius: 2rem;
     padding: 0.35rem 0.75rem;
     cursor: pointer;
     transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
-    color: #1e293b;
+    color: #f8f7f4;
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
@@ -89,57 +123,82 @@ ul.task-list li input[type="checkbox"] {
   }
 
   .theme-toggle:hover {
-    background: rgba(0, 0, 0, 0.12);
-    border-color: rgba(0, 0, 0, 0.25);
+    background: rgba(255, 255, 255, 0.20);
+    border-color: rgba(255, 255, 255, 0.45);
   }
 
   .theme-toggle i {
-    font-size: 0.85rem;
+    font-size: 1rem;
+  }
+
+  /* keep it clear of the social icons */
+  .quarto-navbar-tools .theme-toggle {
+    margin-left: 0.6rem;
   }
 </style>
 
 <script>
   (function() {
-    function applyTheme(theme) {
-      document.documentElement.setAttribute('data-theme', theme);
-      localStorage.setItem('theme', theme);
-      if (theme === 'dark') {
-        document.body.classList.remove('quarto-light');
-        document.body.classList.add('quarto-dark');
-      } else {
-        document.body.classList.remove('quarto-dark');
-        document.body.classList.add('quarto-light');
-      }
-      var btn = document.getElementById('theme-toggle-btn');
-      if (btn) {
-        btn.innerHTML = theme === 'dark'
-          ? '<i class="bi bi-sun-fill"></i> Light'
-          : '<i class="bi bi-moon-stars-fill"></i> Dark';
-        btn.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+    var BTN_HTML = {
+      dark:  '<i class="bi bi-sun-fill"></i> Light',
+      light: '<i class="bi bi-moon-stars-fill"></i> Dark'
+    };
+
+    function currentTheme() {
+      return document.documentElement.getAttribute('data-theme') || 'light';
+    }
+
+    // Body classes can only be set once <body> exists. This script sits in
+    // <head>, so during first parse document.body is still null - touching it
+    // there threw a TypeError that killed the rest of this IIFE, which is why
+    // no toggle button was ever injected.
+    function applyBodyClasses(theme) {
+      if (!document.body) return;
+      document.body.classList.toggle('quarto-dark', theme === 'dark');
+      document.body.classList.toggle('quarto-light', theme !== 'dark');
+    }
+
+    function refreshButtons(theme) {
+      var label = theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
+      var buttons = document.querySelectorAll('.theme-toggle');
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].innerHTML = BTN_HTML[theme === 'dark' ? 'dark' : 'light'];
+        buttons[i].setAttribute('aria-label', label);
+        buttons[i].setAttribute('title', label);
       }
     }
 
-    var saved = localStorage.getItem('theme') || 'dark';
-    applyTheme(saved);
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      try { localStorage.setItem('theme', theme); } catch (e) {}
+      applyBodyClasses(theme);
+      refreshButtons(theme);
+    }
+
+    // Set the attribute before first paint so there is no flash of the wrong
+    // theme; the body/button work happens once the DOM is ready.
+    var saved = 'dark';
+    try { saved = localStorage.getItem('theme') || 'dark'; } catch (e) {}
+    document.documentElement.setAttribute('data-theme', saved);
 
     window.toggleTheme = function() {
-      var current = document.documentElement.getAttribute('data-theme') || 'light';
-      applyTheme(current === 'dark' ? 'light' : 'dark');
+      applyTheme(currentTheme() === 'dark' ? 'light' : 'dark');
     };
 
     function addToggleButton() {
-      var navbarTools = document.querySelector('.quarto-navbar-tools');
-      if (!navbarTools || document.getElementById('theme-toggle-btn')) return;
-      var btn = document.createElement('button');
-      btn.id = 'theme-toggle-btn';
-      btn.className = 'theme-toggle';
-      btn.onclick = toggleTheme;
-      var current = document.documentElement.getAttribute('data-theme') || 'light';
-      btn.innerHTML = current === 'dark'
-        ? '<i class="bi bi-sun-fill"></i> Light'
-        : '<i class="bi bi-moon-stars-fill"></i> Dark';
-      btn.setAttribute('aria-label', current === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
-      navbarTools.appendChild(btn);
+      var theme = currentTheme();
+      var containers = document.querySelectorAll('.quarto-navbar-tools');
+      for (var i = 0; i < containers.length; i++) {
+        if (containers[i].querySelector('.theme-toggle')) continue;
+        var btn = document.createElement('button');
+        btn.id = i === 0 ? 'theme-toggle-btn' : 'theme-toggle-btn-' + i;
+        btn.className = 'theme-toggle';
+        btn.type = 'button';
+        btn.addEventListener('click', window.toggleTheme);
+        containers[i].appendChild(btn);
+      }
+      applyBodyClasses(theme);
+      refreshButtons(theme);
     }
 
     if (document.readyState === 'loading') {
@@ -238,6 +297,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#publication-details" id="toc-publication-details" class="nav-link active" data-scroll-target="#publication-details">Publication Details</a></li>
   <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
+  <li><a href="#bibtex" id="toc-bibtex" class="nav-link" data-scroll-target="#bibtex">BibTeX</a></li>
   </ul>
 </nav>
     </div>
@@ -291,6 +351,46 @@ ul.task-list li input[type="checkbox"] {
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
 <p><a href="https://doi.org/10.1111/j.1365-2745.2009.01577.x">DOI Link</a> | <a href="https://openalex.org/W2160536054">OpenAlex</a></p>
+</section>
+<section id="bibtex" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex">BibTeX</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">RN57569</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>   <span class="dt">author</span> = {Garcia, Cristina and Jordano, Pedro and Arroyo, Juan Miguel and Godoy, José Antonio},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>   <span class="dt">title</span> = {Maternal genetic correlations in the seed rain: effects of frugivore activity in heterogeneous landscapes},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>   <span class="dt">journal</span> = {Journal of Ecology},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>   <span class="dt">volume</span> = {97},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>   <span class="dt">number</span> = {6},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>   <span class="dt">pages</span> = {1424–1435},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>   <span class="dt">note</span> = {506ph</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>Times Cited:21</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>Cited References Count:45},</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>   <span class="dt">abstract</span> = {P&gt; A frugivore-generated seed rain combines dispersed propagules from source trees located all over the landscape. By selecting deposition sites, frugivorous vertebrates set the maternal genetic correlations in the seed rain, i.e. how maternal progenies become distributed over the landscape relative to the source trees and other conspecifics. This aspect, however, remains virtually unexplored despite its central effect on the demographic and genetic structure in plant populations.We examined three components of maternal genetic correlations in the seed rain: the number of distinct contributing maternal trees (maternal richness), the genetic relatedness among contributing trees (maternal relatedness) and the probability that two seeds drawn from the same seed trap come from the same maternal tree (correlated maternity).We studied the maternal genetic correlations in a vertebrate-generated seed rain of a Prunus mahaleb population located in a heterogeneous landscape (c. 25 ha). Based on the multilocus genotypes provided by microsatellite markers, we identified the source tree of dispersed seeds sampled in seed traps and distributed among six microhabitat types.Seed traps showed a spatial aggregation of maternally related seeds that varied among microhabitats in relation to the frugivore foraging preferences, resulting in variable maternal correlations across the landscape. We found: (i) seed traps with high maternal richness and low genetic relatedness in sites dominated by high shrubs, frequently visited by most frugivore species; (ii) seed traps with low maternal richness, high relatedness and increased correlated maternity values resulting from recurrent dispersal from few isolated source trees to sites dominated by non-fleshy fruited species; and (iii) seed traps under pine trees with high maternal richness and relatedness (but low correlated maternity) due to long-distance dispersal events from several source trees growing closely to each other.Synthesis. Maternal progenies became distributed non-randomly over the landscape, where trees with similar maternal neighbourhoods tended to disperse their progeny to similar microhabitats. This resulted in genetic limitation, i.e. the failure of maternal trees to reach all microhabitats, as well as the failure of the microhabitats to cast all maternal progenies. Both the genetic limitation and the spatial aggregation of maternal progenies, driven by frugivore activity, might pervasively determine recruitment and spatial genetic patterns in heterogeneous populations.},</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>   <span class="dt">keywords</span> = {correlated maternity</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>genetic limitation</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>heterogeneous landscape</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>maternal progenies</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>maternal richness</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>microhabitat</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>prunus mahaleb</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>seed dispersal by vertebrates</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>seed rain</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>seed trap</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>prunus-mahaleb</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>computer-program</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>dispersal</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>patterns</span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>recruitment</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>population</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>identification</span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>pollen</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>trees</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>plant},</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>   <span class="dt">ISSN</span> = {0022-0477},</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>   <span class="dt">DOI</span> = {10.1111/j.1365-2745.2009.01577.x},</span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>   <span class="dt">url</span> = {&lt;Go to ISI&gt;://WOS:000270787100034},</span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>   <span class="dt">year</span> = {2009},</span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>   <span class="dt">type</span> = {Journal Article}</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 
 </section>

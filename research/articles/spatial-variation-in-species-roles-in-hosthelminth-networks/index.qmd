@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rstb.2020.0361) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2020.0361) | [OpenAlex](https://openalex.org/W3200047260)
+
+## BibTeX
+
+```bibtex
+@article{RN12018,
+   author = {Dallas, Tad A. and Jordano, Pedro},
+   title = {Spatial variation in species' roles in host–helminth networks},
+   journal = {Philosophical Transactions of the Royal Society B},
+   volume = {376},
+   number = {1837},
+   pages = {20200361},
+   abstract = {Species interactions may vary considerably across space as a result of spatial and environmental gradients. With respect to host–parasite interactions, this suggests that host and parasite species may play different functional roles across the different networks they occur in. Using a global occurrence database of helminth parasites, we examine the conservation of species' roles using data on host–helminth interactions from 299 geopolitical locations. Defining species' roles in a two-dimensional space which captures the tendency of species to be more densely linked within species subgroups than between subgroups, we quantified species' roles in two ways, which captured if and which species' roles are conserved by treating species' utilization of this two-dimensional space as continuous, while also classifying species into categorical roles. Both approaches failed to detect the conservation of species' roles for a single species out of over 38 000 host and helminth parasite species. Together, our findings suggest that species' roles in host–helminth networks may not be conserved, pointing to the potential role of spatial and environmental gradients, as well as the importance of the context of the local host and helminth parasite community. This article is part of the theme issue ‘Infectious disease macroecology: parasite diversity and dynamics across the globe’.},
+   ISSN = {0962-8436},
+   DOI = {10.1098/rstb.2020.0361},
+   year = {2021},
+   type = {Journal Article}
+}
+```

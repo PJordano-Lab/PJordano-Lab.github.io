@@ -21,3 +21,31 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1890/0012-9615(2000)070[0591:sdetqc]2.0.co;2) | [PDF](https://digital.csic.es/bitstream/10261/42613/1/JordSchu_2000EcolMonogr.pdf) | [OpenAlex](https://openalex.org/W1987187051)
+
+## BibTeX
+
+```bibtex
+@article{RN14751,
+   author = {Jordano, Pedro and Schupp, Eugene W},
+   title = {Seed disperser effectiveness: The quantity component and patterns of seed rain for Prunus mahaleb},
+   journal = {Ecological Monographs},
+   volume = {70},
+   pages = {591–615},
+   abstract = {In this paper we analyze the seed dispersal stage of the Prunus mahaleb-frugivorous bird interaction from fruit removal through seed delivery within the context of disperser effectiveness. The effectiveness of a frugivorous species as a seed disperser is the contribution it makes to plant fitness. Effectiveness depends on the quantity of seed dispersed ("quantity component") and the quality of dispersal provided each seed ("quality component"). For the main frugivores, we studied abundance, visitation rate, and feeding behavior, the major variables influencing the quantity component of effectiveness, and the postforaging microhabitat use and resultant seed shadows, which set the stage for postdispersal factors that will influence the quality component of effectiveness. Legitimate seed dispersers (SD) swallowed fruits whole and defecated or regurgitated intact seeds; pulp consumers (PC) pecked fruits to obtain pulp and dropped seeds to the ground, but some species occasionally dispersed seeds (PCSD species). Overall numbers of fruits removed (i.e., handled) by avian frugivores were similar in the two study years; however, the estimated percentage of seeds dispersed differed significantly, with lower relative dispersal success in the year with greater relative abundance of PC species. Similar numbers of seeds were dispersed in the two years despite nearly a fourfold difference in number of fruits produced. Fruit crop size explained >80% variance in the number of seeds dispersed per tree. A total of 38 species of birds were recorded during censuses, with frugivores representing 68.8% of them; the relative representation of SD, PC, and PCSD species was 42.2%, 17.2%, and 9.4%, respectively. Individual trees showed extensive variation in visitation rates, ranging from 0.3 to 41.6 visits/10 h in any year. The main visitors were the SD species Phoenicurus ochruros (10.8 visits/10 h), Turdus viscivorus (9.2 visits/10 h), Erithacus rubecula (3.5 visits/10 h), and Sylvia communis (2.6 visits/10 h); and the PC species Fringilla coelebs (16.7 visits/10 h) and Pants ater (4.7 visits/10 h). Species with large quantity components of effectiveness typically had either high visit or high feeding rates, combined with high probability of dispersing a handled seed. Variation among species in fruit-handling behavior, however, was the main factor influencing variation in the quantity component. Visit rate in turn was influenced largely by local abundance. No single frugivore trait, however, can adequately estimate the quantity component of disperser effectiveness. A "gulper''/''masher" dichotomy helps explain differences in fruit handling among major frugivore types and shows many correlates with other aspects of frugivore activity that ultimately influence the quantity component. Most species showed marked preferences for microhabitats with plant cover, especially P. mahaleb, midheight shrubs, and Pinus (86.1% of the departure flights) and avoided open microhabitats. Most flights were over short distances (77.5% to perches located within 30 m). Among the main frugivores, 40.3% of the exit flights were to perches >15 m away from the feeding tree, but only 18.5% of these flights were to perches >15 m from any P, mahaleb. Covered microhabitats received significantly more seeds (39.3 +/- 5.0 seeds dispersed/m(2), 1988 [mean +/- 1 SE]; 31.7 +/- 5.9 seeds dispersed/m(2), 1989) than open microhabitats (2.8 +/- 0.7 seeds dispersed/m(2), 1988; 1.8 +/- 0.4 seeds dispersed/m2, 1989). The potential contribution of each bird species to the seed rain in each microhabitat was estimated from the number of visits recorded, the mean number of seeds dispersed per visit, and the proportion of exit flights to each microhabitat. Microhabitats differed strongly in the proportions of seeds delivered by the main frugivores, and bird species also differed in the proportions of seeds delivered to a given microhabitat. The seed rain to covered microhabitats was delivered by a more heterogeneous assortment of species than the seed rain to open sites. The resulting seed shadow was a complex result,of the interaction between movement patterns of a suite of bird species differing both in the quantity of seed dispersed and microhabitat preferences and in the landscape distribution of these microhabitat patches. This seed shadow was extremely nonrandom due both to a strong overall preference by most of the birds for the relatively scarce covered microhabitats and to species-specific preferences for particular types of covered microhabitats. Different microhabitat types not only received variable amounts of dispersed seed, but also differed in the number and identity of disperser species contributing to that seed rain.},
+   keywords = {Mutualism
+Seed dispersal
+Spain
+Seed rain
+Avian frugivory
+Fruit size
+Sylvia
+Fruit removal
+Mediterranean scrubland
+Plant demography
+Turdus},
+   ISSN = {0012-9615},
+   DOI = {10.1890/0012-9615(2000)070[0591:SDETQC]2.0.CO;2},
+   year = {2000},
+   type = {Journal Article}
+}
+```

@@ -19,3 +19,19 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/40592) | [OpenAlex](https://openalex.org/W1540154925)
+
+## BibTeX
+
+```bibtex
+@inbook{RN24679,
+   author = {Jordano, P and Bascompte, J and Olesen, J M},
+   title = {The ecological consequences of complex topology and nested structure in pollinatiion webs},
+   booktitle = {Specialization and generalization in plant-pollinator interactions},
+   editor = {Waser, Nickolas M and Ollerton, Jeff},
+   publisher = {University of Chicago Press},
+   address = {Chicago, IL, USA},
+   pages = {173–199},
+   year = {2006},
+   type = {Book Section}
+}
+```

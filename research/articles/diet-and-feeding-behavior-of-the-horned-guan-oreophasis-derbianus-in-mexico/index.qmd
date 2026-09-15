@@ -19,3 +19,31 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1676/16-041.1) | [OpenAlex](https://openalex.org/W2782241309)
+
+## BibTeX
+
+```bibtex
+@article{RN27194,
+   author = {González-García, Author Fernando and Santana, Eduardo and Jordano, Pedro D and Rico-Gray, Victor and Moliner, Vicente Urios and The, Source and Journal, Wilson and Derbianus, Oreophasis and Alez-garc, Fernando Gonz and Santana-c, Eduardo and Jordano, Pedro D},
+   title = {Diet and Feeding Behavior of the Horned Guan ( Oreophasis derbianus ) In Mexico Your use of this PDF , the BioOne Web site , and all posted and associated content},
+   journal = {Wilson Journal of Ornithology},
+   volume = {129},
+   number = {4},
+   pages = {771–782},
+   keywords = {frugivory
+is
+foraging behavior
+forest birds
+el triunfo biosphere reserve
+horned guan
+mexican cloud forest
+oreophasis derbianus
+conservation of neotropical montane
+endemic to the humid
+montane forest of southern
+the horned guan},
+   DOI = {10.1676/16-041.1},
+   year = {2017},
+   type = {Journal Article}
+}
+```

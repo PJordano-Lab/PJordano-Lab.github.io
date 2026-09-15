@@ -21,3 +21,33 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1371/journal.pone.0017395) | [PDF](https://doi.org/10.1371/journal.pone.0017395) | [OpenAlex](https://openalex.org/W1993494645)
+
+## BibTeX
+
+```bibtex
+@article{RN4391,
+   author = {Marquitti, Darcie and Guimara, Paulo Roberto and Kalko, Klara Viktoria and Jordano, Pedro and Aloizio, Marcus and Aguiar, Martinez De and Mello, M A and Marquitti, F M and Guimaraes  Jr., P R and Kalko, E K and Jordano, Pedro and de Aguiar, M A},
+   title = {The missing part of seed dispersal networks: structure and robustness of bat-fruit interactions},
+   journal = {PLoS ONE},
+   volume = {6},
+   number = {2},
+   pages = {e17395–e17395},
+   abstract = {Mutualistic networks are crucial to the maintenance of ecosystem services. Unfortunately, what we know about seed dispersal networks is based only on bird-fruit interactions. Therefore, we aimed at filling part of this gap by investigating bat-fruit networks. It is known from population studies that: (i) some bat species depend more on fruits than others, and (ii) that some specialized frugivorous bats prefer particular plant genera. We tested whether those preferences affected the structure and robustness of the whole network and the functional roles of species. Nine bat-fruit datasets from the literature were analyzed and all networks showed lower complementary specialization (H(2)' = 0.37+/-0.10, mean +/- SD) and similar nestedness (NODF = 0.56+/-0.12) than pollination networks. All networks were modular (M = 0.32+/-0.07), and had on average four cohesive subgroups (modules) of tightly connected bats and plants. The composition of those modules followed the genus-genus associations observed at population level (Artibeus-Ficus, Carollia-Piper, and Sturnira-Solanum), although a few of those plant genera were dispersed also by other bats. Bat-fruit networks showed high robustness to simulated cumulative removals of both bats (R = 0.55+/-0.10) and plants (R = 0.68+/-0.09). Primary frugivores interacted with a larger proportion of the plants available and also occupied more central positions; furthermore, their extinction caused larger changes in network structure. We conclude that bat-fruit networks are highly cohesive and robust mutualistic systems, in which redundancy is high within modules, although modules are complementary to each other. Dietary specialization seems to be an important structuring factor that affects the topology, the guild structure and functional roles in bat-fruit networks.},
+   keywords = {Adaptation
+Animals
+Species Specificity
+Cluster Analysis
+*Ecosystem
+Chiroptera/*physiology
+Seed Dispersal/*physiology
+*Food Chain
+Biological/physiology
+Feeding Behavior/physiology
+Fruit/*physiology
+Pollination/physiology},
+   ISSN = {1932-6203 (Electronic) 1932-6203 (Linking)},
+   DOI = {10.1371/journal.pone.0017395},
+   year = {2011},
+   type = {Journal Article}
+}
+```

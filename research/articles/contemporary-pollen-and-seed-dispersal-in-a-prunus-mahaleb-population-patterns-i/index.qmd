@@ -21,3 +21,37 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1365-294x.2006.03126.x) | [PDF](http://hdl.handle.net/10261/38508) | [OpenAlex](https://openalex.org/W2126988744)
+
+## BibTeX
+
+```bibtex
+@article{RN57527,
+   author = {Garcia, C and Jordano, Pedro and Godoy, J A},
+   title = {Contemporary pollen and seed dispersal in a Prunus mahaleb population: patterns in distance and direction},
+   journal = {Molecular Ecology},
+   volume = {16},
+   number = {9},
+   pages = {1947–1955},
+   abstract = {Pollination and seed dispersal determine the spatial pattern of gene flow in plant populations and, for those species relying on pollinators and frugivores as dispersal vectors, animal activity plays a key role in determining this spatial pattern. For these plant species, reported dispersal patterns are dominated by short-distance movements with a significant amount of immigration. However, the contribution of seed and pollen to the overall contemporary gene immigration is still poorly documented for most plant populations. In this study we investigated pollination and seed dispersal at two spatial scales in a local population of Prunus mahaleb (L.), a species pollinated by insects and dispersed by frugivorous vertebrates. First, we dissected the relative contribution of pollen and seed dispersal to gene immigration from other parts of the metapopulation. We found high levels of gene immigration (18.50%), due to frequent long distance seed dispersal events. Second, we assessed the distance and directionality for pollen and seed dispersal events within the local population. Pollen and seed movement patterns were non-random, with skewed distance distributions: pollen tended moved up to 548 m along an axis approaching the N-S direction, and seeds were dispersed up to 990 m, frequently along the SW and SE axes. Animal-mediated dispersal contributed significantly towards gene immigration into the local population and had a markedly nonrandom pattern within the local population. Our data suggest that animals can impose distinct spatial signatures in contemporary gene flow, with the potential to induce significant genetic structure at a local level.},
+   keywords = {Consequences
+Dispersal Direction
+Dispersal Distance
+Gene Flow
+Gene Immigration
+Landscape
+Microsatellites
+Paternity Inference
+Plant-Populations
+Pollination
+Rain-Forest
+Recruitment
+Reproductive Success
+Seed Dispersal
+Spatial-Patterns
+Tree},
+   DOI = {10.1111/j.1365-294X.2006.03126.x},
+   url = {<Go to ISI>://WOS:000245697000013},
+   year = {2007},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,23 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rsbl.2019.0264) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/6684993) | [OpenAlex](https://openalex.org/W2959823778)
+
+## BibTeX
+
+```bibtex
+@article{RN146,
+   author = {González-Varo, Juan P. and Díaz-García, Sarah and Arroyo, Juan M. and Jordano, Pedro},
+   title = {Seed dispersal by dispersing juvenile animals: a source of functional connectivity in fragmented landscapes},
+   journal = {Biology Letters},
+   volume = {15},
+   number = {7},
+   pages = {20190264},
+   abstract = {Juvenile animals generally disperse from their birthplace to their future breeding territories. In fragmented landscapes, habitat-specialist species must disperse through the anthropogenic matrix where remnant habitats are embedded. Here, we test the hypothesis that dispersing juvenile frugivores leave a footprint in the form of seed deposition through the matrix of fragmented landscapes. We focused on the Sardinian warbler (
+              Sylvia melanocephala
+              ), a resident frugivorous passerine. We used data from field sampling of bird-dispersed seeds in the forest and matrix of a fragmented landscape, subsequent disperser identification through DNA-barcoding analysis, and data from a national bird-ringing programme. Seed dispersal by Sardinian warblers was confined to the forest most of the year, but warblers contributed a peak of seed-dispersal events in the matrix between July and October, mainly attributable to dispersing juveniles. Our study uniquely connects animal and plant dispersal, demonstrating that juveniles of habitat-specialist frugivores can provide mobile-link functions transiently, but in a seasonally predictable way.},
+   ISSN = {1744-9561, 1744-957X},
+   DOI = {10.1098/rsbl.2019.0264},
+   year = {2019},
+   type = {Journal Article}
+}
+```

@@ -19,3 +19,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1016/j.ppees.2012.12.004) | [OpenAlex](https://openalex.org/W2060707763)
+
+## BibTeX
+
+```bibtex
+@article{RN4752,
+   author = {Rother, Débora and Jordano, Pedro and Ribeiro, Ricardo and Pizo, Marco Aurélio and Cristina, Débora and Jordano, Pedro and Ribeiro, Ricardo and Aurélio, Marco},
+   title = {Demographic bottlenecks in tropical plant regeneration : A comparative analysis of causal influences},
+   journal = {Perspectives in Plant Ecology, Evolution and Systematics},
+   volume = {15},
+   number = {2},
+   pages = {86–96},
+   abstract = {Mortality factors that act sequentially through the demographic transitions from seed to sapling may have critical effects on recruitment success. Understanding how habitat heterogeneity influences the causal factors that limit propagule establishment in natural populations is central to assess these demographic bottlenecks and their consequences. Bamboos often influence forest structure and dynamics and are a major factor in generating landscape complexity and habitat heterogeneity in tropical forests. To understand how patch heterogeneity influences plant recruitment we studied critical establishment stages during early recruitment of Euterpe edulis, Sloanea guianensis and Virola bicuhyba in bamboo and non-bamboo stands in the Brazilian Atlantic forest. We combined observational studies of seed rain and seedling emergence with seed addition experiments to evaluate the transition probabilities among regeneration stages within bamboo and non-bamboo stands. The relative importance of each mortality factor was evaluated by determining how the loss of propagules affected stage-specific recruitment success. Our results revealed that the seed addition treatment significantly increased seedling survivorship for all three species. E. edulis seedling survival probability increased in the addition treatment in the two stand types. However, for S. guianensis and V. bicuhyba this effect depended strongly on artificially protecting the seeds, as both species experienced increased seed and seedling losses due to post-dispersal seed predators and herbivores. Propagules of all three species had a greater probability of reaching subsequent recruitment stages when protected. The recruitment of large-seeded V. bicuhyba and E. edulis appears to be much more limited by post-dispersal factors than by dispersal limitation, whereas the small-seeded S. guianensis showed an even stronger effect of post-dispersal factors causing recruitment collapse in some situations. We demonstrated that E. edulis, S. guianensis and V. bicuhyba are especially susceptible to predation during early compared with later establishment stages and this early stage mortality can be more crucial than stand differences as determinants of successful regeneration. Among-species differences in the relative importance of dispersal vs. establishment limitation are mediated by variability in species responses to patch heterogeneity. Thus, bamboo effects on the early recruitment of non-bamboo species are patchy and species-specific, with successional bamboo patches exerting a far-reaching influence on the heterogeneity of plant species composition and abundance. © 2012 Perspectives in Plant Ecology, Evolution and Systematics.},
+   keywords = {Euterpe edulis
+Life stages
+Mortality factors
+Sloanea guianensis
+Survival probability
+Virola bicuhyba},
+   DOI = {10.1016/j.ppees.2012.12.004},
+   year = {2013},
+   type = {Journal Article}
+}
+```

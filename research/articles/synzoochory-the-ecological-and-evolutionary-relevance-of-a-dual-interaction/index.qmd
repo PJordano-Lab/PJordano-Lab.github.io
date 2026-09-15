@@ -19,3 +19,22 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/brv.12481) | [OpenAlex](https://openalex.org/W2901785918)
+
+## BibTeX
+
+```bibtex
+@article{RN29691,
+   author = {Gómez, José María and Schupp, Eugene W. and Jordano, Pedro},
+   title = {Synzoochory: the ecological and evolutionary relevance of a dual interaction},
+   journal = {Biological Reviews},
+   volume = {94},
+   number = {3},
+   pages = {874–902},
+   abstract = {ABSTRACT
+            Synzoochory is the dispersal of seeds by seed‐caching animals. The animal partner in this interaction plays a dual role, acting both as seed disperser and seed predator. We propose that this duality gives to synzoochory two distinctive features that have crucial ecological and evolutionary consequences. First, because plants attract animals that have not only positive (seed dispersal) but also negative (seed predation) impacts on their fitness, the evolution of adaptations to synzoochory is strongly constrained. Consequently, it is not easy to identify traits that define a synzoochorous dispersal syndrome. The absence of clear adaptations entails the extra difficulty of identifying synzoochorous plants by relying on dispersal traits, limiting our ability to explore the full geographic, taxonomic and phylogenetic extent of synzoochory. Second, the positive and negative outcomes of interactions with synzoochorous animals are expressed simultaneously. Consequently, synzoochorous interactions are not exclusively mutualistic or antagonistic, but are located at some point along a mutualism–antagonism continuum. What makes synzoochory interesting and unique is that the position of each partner along the continuum can be evaluated for every plant–animal interaction, and thus the continuum can be precisely described by assessing the relative frequency of positive and negative interaction events in each pairwise interaction. Herein we explore these two main features of synzoochory with a comprehensive quantitative survey of published studies on synzoochory. Synzoochory has been recorded for at least 1339 plant species differing in life forms, from annual and short‐lived herbs to long‐lived trees, belonging to 641 genera and 157 families widely distributed across the globe and across the seed plant phylogeny. Over 30 animal families belonging to five disparate taxonomic groups (rodents, marsupials, birds, insects, and land crabs) potentially act as synzoochorous dispersers. Although synzoochory appears to be fundamentally a secondary dispersal mode, many abundant and dominant trees are primarily synzoochorous. In addition, we found evidence of the existence of diplosynzoochory (caching animals acting both as primary and secondary dispersers of the same individual seed), mostly in nut‐bearing trees. Finally, we found that synzoochorous interactions are widely spread across the mutualism–antagonism continuum. Nevertheless, there were some differences among disperser species and functional groups. Corvids and some rodents (cricetids, nesomyids, sciurids) were located in the positive‐effects region of the continuum and presumably behave mostly as dispersers, whereas land crabs and insects were located in the negative‐effects extreme and behave mostly as seed predators. Our review demonstrates that synzoochory is not an anecdotal ecological interaction. Rather, it is pivotal to the functioning of many ecosystems where the natural regeneration of keystone plant species depends on the activity of granivorous animals that play a dual role. This distinctive interaction should not be ignored if we wish to have an accurate understanding of the functioning of natural systems.},
+   ISSN = {1464-7931, 1469-185X},
+   DOI = {10.1111/brv.12481},
+   year = {2019},
+   type = {Journal Article}
+}
+```

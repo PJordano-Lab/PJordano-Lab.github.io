@@ -19,3 +19,39 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2656.12978) | [OpenAlex](https://openalex.org/W2921007492)
+
+## BibTeX
+
+```bibtex
+@article{RN57951,
+   author = {Dattilo, W. and Vizentin-Bugoni, J. and Debastiani, V. J. and Jordano, P. and Izzo, T. J.},
+   title = {The influence of spatial sampling scales on ant-plant interaction network architecture},
+   journal = {Journal of Animal Ecology},
+   volume = {88},
+   number = {6},
+   pages = {903–914},
+   note = {Ie8yw
+Times Cited:2
+Cited References Count:76},
+   abstract = {Despite great interest in metrics to quantify the structure of ecological networks, the effects of sampling and scale remain poorly understood. In fact, one of the most challenging issues in ecology is how to define suitable scales (i.e., temporal or spatial) to accurately describe and understand ecological systems. Here, we sampled a series of ant-plant interaction networks in the southern Brazilian Amazon rainforest in order to determine whether the spatial sampling scale, from local to regional, affects our understanding of the structure of these networks. To this end, we recorded ant-plant interactions in adjacent 25 x 30 m subplots (local sampling scale) nested within twelve 250 x 30 m plots (regional sampling scale). Moreover, we combined adjacent or random subplots and plots in order to increase the spatial sampling scales at the local and regional levels. We then calculated commonly used binary and quantitative network-level metrics for both sampling scales (i.e., number of species and interactions, nestedness, specialization and modularity), all of which encompass a wide array of structural patterns in interaction networks. We observed increasing species and interactions across sampling scales, and while most network descriptors remained relatively constant at the local level, there was more variation at the regional scale. Among all metrics, specialization was most constant across different spatial sampling scales. Furthermore, we observed that adjacent assembly did not generate more variation in network descriptor values compared to random assembly. This finding indicates that the spatially aggregated distribution of species/individuals and abiotic conditions does not affect the organization of these interacting assemblages. Our results have a direct impact on our empirical and theoretical understanding of the ecological dynamics of species interactions by demonstrating that small spatial sampling scales should suffice to record some patterns commonly found in ant-plant interaction networks in a highly diverse tropical rainforest.},
+   keywords = {ecological networks
+network structure
+plant-animal interactions
+sampling scale dependence
+sampling variation
+animal mutualistic networks
+ecological networks
+species-richness
+dependence
+specialization
+nestedness
+diversity
+patterns
+completeness
+biodiversity},
+   ISSN = {0021-8790},
+   url = {<Go to ISI>://WOS:000472660900009},
+   year = {2019},
+   type = {Journal Article}
+}
+```

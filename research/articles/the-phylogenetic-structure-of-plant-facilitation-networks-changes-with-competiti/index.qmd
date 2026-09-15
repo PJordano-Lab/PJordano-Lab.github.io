@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1365-2745.2010.01731.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2745.2010.01731.x) | [OpenAlex](https://openalex.org/W2097833542)
+
+## BibTeX
+
+```bibtex
+@article{RN57503,
+   author = {Verdú, Miguel and Jordano, Pedro and Valiente-Banuet, Alfonso},
+   title = {The phylogenetic structure of plant facilitation networks changes with competition},
+   journal = {Journal of Ecology},
+   volume = {98},
+   pages = {1454–1461},
+   abstract = {1. Ecological communities are assembled as complex networks of both positive (i.e. facilitation) and negative (i.e. competition) interactions. In networks established among plant species, many facilitative interactions occurring between a benefactor - a nurse - and a beneficiary - a facilitated seedling - turn into competition over time as the facilitated seedling grows and outcompetes the nurse. The facilitative associations that disappear over time are mainly restricted to closely related taxa, because close relatives tend to share niche requirements and compete more strongly for the same resources. In consequence, the phylogenetic structure of a network might change as positive associations become negative. 2. This study is aimed to characterize how the overall (i.e. nestedness and connectance) and the phylogenetic structure of facilitation networks in semi-arid communities change when facilitation turns into competition and some of the early species associations established by facilitation disappear. 3. We show that the initial facilitation networks retain the overall, but not the phylogenetic, structure. Phylogenetic analyses show that as seedlings, facilitated species tend to associate with the same subset of nurses while, on the contrary, nurses are indifferent to the identity of their facilitated seedlings. But when competition becomes important, closely related nurse species appear associated with only a subset of facilitated species in the community. 4. Synthesis. Temporal rearrangements in the phylogenetic structure of the facilitation networks provide evidence that plant-plant species interactions lead to highly species-specific networks in which the phylogenetic history has a pervasive influence not only on recruitment but also on adult community composition. The use of phylogenetic methods combined with complex network approaches opens the possibility to understand the complexity of ecological interactions occurring in nature as for example those occurring when biological invasions take place or those producing coextinction cascades following species removal from ecosystems.},
+   keywords = {Competition
+Complex networks
+Facilitation
+Phylogenetic signal
+Plant-plant interactions},
+   ISSN = {0022-0477},
+   DOI = {10.1111/j.1365-2745.2010.01731.x},
+   url = {https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2745.2010.01731.x},
+   year = {2010},
+   type = {Journal Article}
+}
+```

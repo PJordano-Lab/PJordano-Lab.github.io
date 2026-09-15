@@ -21,3 +21,39 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rspb.2010.1371) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/3030842) | [OpenAlex](https://openalex.org/W2166939357)
+
+## BibTeX
+
+```bibtex
+@article{RN57552,
+   author = {Olesen, J. M. and Bascompte, J. and Dupont, Y. L. and Elberling, H. and Rasmussen, C. and Jordano, P.},
+   title = {Missing and forbidden links in mutualistic networks},
+   journal = {Proceedings of the Royal Society B-Biological Sciences},
+   volume = {278},
+   number = {1706},
+   pages = {725–732},
+   note = {710jiTimes Cited:80Cited References Count:43},
+   abstract = {Ecological networks are complexes of interacting species, but not all potential links among species are realized. Unobserved links are either missing or forbidden. Missing links exist, but require more sampling or alternative ways of detection to be verified. Forbidden links remain unobservable, irrespective of sampling effort. They are caused by linkage constraints. We studied one Arctic pollination network and two Mediterranean seed-dispersal networks. In the first, for example, we recorded flower-visit links for one full season, arranged data in an interaction matrix and got a connectance C of 15 per cent. Interaction accumulation curves documented our sampling of interactions through observation of visits to be robust. Then, we included data on pollen from the body surface of flower visitors as an additional link 'currency'. This resulted in 98 new links, missing from the visitation data. Thus, the combined visit-pollen matrix got an increased C of 20 per cent. For the three networks, C ranged from 20 to 52 per cent, and thus the percentage of unobserved links (100 - C) was 48 to 80 per cent; these were assumed forbidden because of linkage constraints and not missing because of under-sampling. Phenological uncoupling (i.e. non-overlapping phenophases between interacting mutualists) is one kind of constraint, and it explained 22 to 28 per cent of all possible, but unobserved links. Increasing phenophase overlap between species increased link probability, but extensive overlaps were required to achieve a high probability. Other kinds of constraint, such as size mismatch and accessibility limitations, are briefly addressed.},
+   keywords = {arctic
+climate
+mediterranean shrubland
+mismatch
+pollination
+seed dispersal
+plant-pollinator interactions
+ecological networks
+temporal dynamics
+climate-change
+constraints
+asymmetries
+ecosystems
+phenology
+community
+abundance},
+   ISSN = {0962-8452},
+   DOI = {10.1098/rspb.2010.1371},
+   url = {<Go to ISI>://WOS:000286507400012},
+   year = {2011},
+   type = {Journal Article}
+}
+```

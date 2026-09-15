@@ -21,3 +21,27 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.3161/1733-5329(2005)7[179:sfsocb]2.0.co;2) | [PDF](http://hdl.handle.net/10261/40568) | [OpenAlex](https://openalex.org/W2175201082)
+
+## BibTeX
+
+```bibtex
+@article{RN57521,
+   author = {Mello, M A R and Leiner, N O and Guimaraes, P R and Jordano, Pedro},
+   title = {Size-based fruit selection of Calophyllum brasiliense (Clusiaceae) by bats of the genus Artibeus (Phyllostomidae) in a Restinga area, southeastern Brazil},
+   journal = {Acta Chiropterologica},
+   volume = {7},
+   pages = {179–182},
+   keywords = {Atlantic Forest
+Birds
+Dispersal
+Feeding-Behavior
+Frugivore
+Frugivory
+Optimal Foraging
+Seed Dispersal
+Seed Size
+Trees},
+   year = {2005},
+   type = {Journal Article}
+}
+```

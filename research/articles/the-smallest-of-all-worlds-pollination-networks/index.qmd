@@ -21,3 +21,37 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1016/j.jtbi.2005.09.014) | [PDF](http://hdl.handle.net/10261/40459) | [OpenAlex](https://openalex.org/W2023799137)
+
+## BibTeX
+
+```bibtex
+@article{RN27407,
+   author = {Olesen, Jens M and Bascompte, Jordi and Dupont, Yoko L and Jordano, Pedro},
+   title = {The smallest of all worlds: Pollination networks},
+   journal = {Journal of Theoretical Biology},
+   volume = {240},
+   pages = {270–276},
+   abstract = {A pollination network may be either 2-mode, describing trophic and reproductive interactions between communities of flowering plants and pollinator species within a well-defined habitat, or 1-mode, describing interactions between either plants or pollinators. In a 1-mode pollinator network, two pollinator species are linked to each other if they both visit the same plant species, and vice versa for plants. Properties of 2-mode networks and their derived 1-mode networks are highly correlated and so are properties of 1-mode pollinator and 1-mode plant networks. Most network properties are scale-dependent, i.e. they are dependent upon network size. Pollination networks have the strongest small-world properties of any networks yet studied, i.e. all species are close to each other (short average path length) and species are highly clustered. Species in pollination networks are much more densely linked than species in traditional food webs, i.e. they have a higher density of links, a shorter distance between species, and species are more clustered. (c) 2005 Elsevier Ltd. All rights reserved.},
+   keywords = {Patterns
+Ecology
+Biology
+Islands
+Network
+Food-Web Structure
+Plants
+Food Web
+food web
+Mutualistic Networks
+network
+clustering
+Wide-Web
+Clustering
+Small World
+path length
+Path Length
+small world},
+   DOI = {10.1016/j.jtbi.2005.09.014},
+   year = {2006},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1038/s41467-022-34355-w) | [PDF](https://www.nature.com/articles/s41467-022-34355-w.pdf) | [OpenAlex](https://openalex.org/W4309028405)
+
+## BibTeX
+
+```bibtex
+@article{RN12408,
+   author = {Martins, Lucas P. and Stouffer, Daniel B. and Blendinger, Pedro G. and Böhning-Gaese, Katrin and Buitrón-Jurado, Galo and Correia, Marta and Costa, José Miguel and Dehling, D. Matthias and Donatti, Camila I. and Emer, Carine and Galetti, Mauro and Heleno, Ruben and Jordano, Pedro and Menezes, Ícaro and Morante-Filho, José Carlos and Muñoz, Marcia C. and Neuschulz, Eike Lena and Pizo, Marco Aurélio and Quitián, Marta and Ruggera, Roman A. and Saavedra, Francisco and Santillán, Vinicio and D’Angelo, Virginia Sanz and Schleuning, Matthias and Silva, Luís Pascoal da and Silva, Fernanda Ribeiro da and Timóteo, Sérgio and Traveset, Anna and Vollstädt, Maximilian G. R. and Tylianakis, Jason M.},
+   title = {Global and regional ecological boundaries explain abrupt spatial discontinuities in avian frugivory interactions},
+   journal = {Nature Communications},
+   volume = {13},
+   number = {1},
+   pages = {6943},
+   abstract = {Species interactions can propagate disturbances across space via direct and indirect effects, potentially connecting species at a global scale. However, ecological and biogeographic boundaries may mitigate this spread by demarcating the limits of ecological networks. We tested whether large-scale ecological boundaries (ecoregions and biomes) and human disturbance gradients increase dissimilarity among plant-frugivore networks, while accounting for background spatial and elevational gradients and differences in network sampling. We assessed network dissimilarity patterns over a broad spatial scale, using 196 quantitative avian frugivory networks (encompassing 1496 plant and 1004 bird species) distributed across 67 ecoregions, 11 biomes, and 6 continents. We show that dissimilarities in species and interaction composition, but not network structure, are greater across ecoregion and biome boundaries and along different levels of human disturbance. Our findings indicate that biogeographic boundaries delineate the world’s biodiversity of interactions and likely contribute to mitigating the propagation of disturbances at large spatial scales. Vertebrate frugivores play important ecological roles. Here, the authors analyse a global dataset on plants and birds and find that plant-frugivore networks are more dissimilar, yet structurally consistent, across ecoregion and biome boundaries.},
+   DOI = {10.1038/s41467-022-34355-w},
+   year = {2022},
+   type = {Journal Article}
+}
+```

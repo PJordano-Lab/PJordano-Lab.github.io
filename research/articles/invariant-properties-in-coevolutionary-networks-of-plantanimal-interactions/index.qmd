@@ -21,3 +21,27 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1046/j.1461-0248.2003.00403.x) | [PDF](http://hdl.handle.net/10261/41710) | [OpenAlex](https://openalex.org/W2096871615)
+
+## BibTeX
+
+```bibtex
+@article{RN25845,
+   author = {Jordano, Pedro and Bascompte, J. and Olesen, J.M. M},
+   title = {Invariant properties in coevolutionary networks of plant-animal interactions},
+   journal = {Ecology Letters},
+   volume = {6},
+   number = {1},
+   pages = {69–81},
+   abstract = {Plant-animal mutualistic networks are interaction webs consisting of two sets of entities, plant and animal species, whose evolutionary dynamics are deeply influenced by the outcomes of the interactions, yielding a diverse array of coevolutionary processes. These networks are two-mode networks sharing many common properties with others such as food webs, social, and abiotic networks. Here we describe generalized patterns in the topology of 29 plant-pollinator and 24 plant-frugivore networks in natural communities. Scale-free properties have been described for a number of biological, social, and abiotic networks; in contrast, most of the plant-animal mutualistic networks (65.6%) show species connectivity distributions (number of links per species) with a power-law regime but decaying as a marked cut-off, i.e. truncated power-law or broad-scale networks and few (22.2%) show scale-invariance. We hypothesize that plant-animal mutualistic networks follow a build-up process similar to complex abiotic nets, based on the preferential attachment of species. However, constraints in the addition of links such as morphological mismatching or phenological uncoupling between mutualistic partners, restrict the number of interactions established, causing deviations from scale-invariance. This reveals generalized topological patterns characteristic of self-organized complex systems. Relative to scale-invariant networks, such constraints may confer higher robustness to the loss of keystone species that are the backbone of these webs.},
+   keywords = {Pollination
+Biodiversity
+Coevolution
+Ecological networks
+Food web structure
+Seed-dispersal
+pollination seed-dispersal food web structure coev},
+   DOI = {10.1046/j.1461-0248.2003.00403.x},
+   year = {2003},
+   type = {Journal Article}
+}
+```

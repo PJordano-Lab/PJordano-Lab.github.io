@@ -19,3 +19,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1146/annurev-ecolsys-102824-110132) | [OpenAlex](https://openalex.org/W7165569942)
+
+## BibTeX
+
+```bibtex
+@article{RN30631,
+   author = {Jordano, Pedro},
+   title = {The ecological interactome: understanding Biodiversity through patterns of interactions},
+   journal = {Annual Review of Ecology, Evolution, and Systematics},
+   volume = {57},
+   pages = {51–76},
+   abstract = {Complex systems are characterized not only by their components but also by the interactions linking them, with megadiverse ecosystems shaping intricate and functionally coupled webs. Yet, Earth's ecological interactome—the whole network of interspecific interactions—remains unexplored, despite efforts at biodiversity monitoring. This interactome, the functional scaffold of the biosphere, sustains crucial ecological processes resulting from interactions of many different types at individual, ecosystem, and global scales. Interactions, governed by species traits, phylogeny, and ecological context, play a stronger role than species identity in maintaining ecosystem functionality. This review synthesizes theory and data on interaction richness, sampling effects, interaction outcomes, and integration of multiple interaction types in multilayer networks at different scales. Emerging approaches aim to infer probabilistic networks with conditional variables (e.g., traits, phylogenetic relationships), accounting for uncertainty arising from spatial and temporal variability. Recognizing that interaction extinctions often precede species loss, conservation strategies must address interaction loss to safeguard network integrity alongside taxonomic diversity.},
+   ISSN = {1543-592X
+1545-2069},
+   DOI = {10.1146/annurev-ecolsys-102824-110132},
+   year = {2026},
+   type = {Journal Article}
+}
+```

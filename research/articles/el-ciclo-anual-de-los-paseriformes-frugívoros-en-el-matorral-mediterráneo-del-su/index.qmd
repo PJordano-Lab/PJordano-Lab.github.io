@@ -19,3 +19,17 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/45077) | [OpenAlex](https://openalex.org/W973156700)
+
+## BibTeX
+
+```bibtex
+@article{RN57500,
+   author = {Jordano, P},
+   title = {El ciclo anual de los paseriformes frugívoros en el matorral Mediterráneo del sur de España: importancia de su invernada y variaciones interanuales},
+   journal = {Ardeola},
+   volume = {32},
+   pages = {69–94},
+   year = {1985},
+   type = {Journal Article}
+}
+```

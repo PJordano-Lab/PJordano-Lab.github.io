@@ -19,3 +19,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/mec.13692) | [OpenAlex](https://openalex.org/W2396469239)
+
+## BibTeX
+
+```bibtex
+@article{RN57517,
+   author = {Moracho, E and Moreno, G and Jordano, P and Hampe, A},
+   title = {Unusually limited pollen dispersal and connectivity of Pedunculate oak (Quercus robur) refugial populations at the species' southern range margin},
+   journal = {Molecular Ecology},
+   volume = {25},
+   pages = {3319–3331},
+   abstract = {Low-latitudinal range margins of temperate and boreal plant species typically consist of scattered populations that persist locally in microrefugia. It remains poorly understood how their refugial habitats affect patterns of gene flow and connectivity, key components for their long-term viability and evolution. We examine landscape-scale patterns of historical and contemporary gene flow in refugial populations of the widespread European forest tree Pedunculate oak (Quercus robur) at the species' southwestern range margin. We sampled all adult trees (n = 135) growing in a 20 km long valley and genotyped 724 acorns from 72 mother trees at 17 microsatellite loci. The ten oak stands that we identified were highly differentiated and formed four distinct genetic clusters, despite sporadic historical dispersal being detectable. By far most contemporary pollination occurred within stands, either between local mates (85.6%) or through selfing (6.8%). Pollen exchange between stands (2.6%) was remarkably rare given their relative proximity and was complemented by long-distance pollen immigration (4.4%) and hybridization with the locally abundant Quercus pyrenaica (0.6%). The frequency of between-stand mating events decreased with increasing size and spatial isolation of stands. Overall, our results reveal outstandingly little long-distance gene flow for a wind-pollinated tree species. We argue that the distinct landscape characteristics of oaks' refugial habitats, with a combination of a rugged topography, dense vegetation and humid microclimate, are likely to increase plant survival but to hamper effective long-distance pollen dispersal. Moreover, local mating might be favoured by high tree compatibility resulting from genetic purging in these long-term relict populations. This article is protected by copyright. All rights reserved.},
+   keywords = {genetic differentiation
+genetic diversity
+landscape scale
+marginal populations
+paternity analysis
+rear edge},
+   DOI = {10.1111/mec.13692},
+   url = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/mec.13692},
+   year = {2016},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2656.12584) | [PDF](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.12584) | [OpenAlex](https://openalex.org/W2537805468)
+
+## BibTeX
+
+```bibtex
+@article{RN3836,
+   author = {Jordano, Pedro and Cocucci, Andrea and Sazatornil, In Focus},
+   title = {Natural history matters: how biological constraints shape diversified interactions in pollination networks},
+   journal = {Journal of Animal Ecology},
+   volume = {85},
+   number = {1867},
+   pages = {1423–1426},
+   DOI = {10.1111/1365-2656.12584},
+   year = {2016},
+   type = {Journal Article}
+}
+```

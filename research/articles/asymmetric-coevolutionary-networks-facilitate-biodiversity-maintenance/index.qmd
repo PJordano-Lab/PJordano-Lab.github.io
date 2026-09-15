@@ -21,3 +21,30 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1126/science.1123412) | [PDF](https://doi.org/10.5281/zenodo.19670114) | [OpenAlex](https://openalex.org/W2140664585)
+
+## BibTeX
+
+```bibtex
+@article{RN57991,
+   author = {Bascompte, Jordi and Jordano, Pedro and Olesen, Jens M},
+   title = {Asymetric coevolutionary networks facilitate biodiversity maintenance},
+   journal = {Science},
+   volume = {312},
+   pages = {431–433},
+   abstract = {The mutualistic interactions between plants and their pollinators or seed dispersers have played a major role in the maintenance of Earth's biodiversity. To investigate how coevolutionary interactions are shaped within species-rich communities, we characterized the architecture of an array of quantitative, mutualistic networks spanning a broad geographic range. These coevolutionary networks are highly asymmetric, so that if a plant species depends strongly on an animal species, the animal depends weakly on the plant. By using a simple dynamical model, we showed that asymmetries inherent in coevolutionary networks may enhance long-term coexistence and facilitate biodiversity maintenance.},
+   keywords = {Animals
+Biodiversity
+Biological
+Biological Evolution
+Ecosystem
+Mathematics
+Models
+Plant Physiological Phenomena
+Pollen
+Symbiosis},
+   ISSN = {1095-9203},
+   DOI = {10.1126/science.1123412},
+   year = {2006},
+   type = {Journal Article}
+}
+```

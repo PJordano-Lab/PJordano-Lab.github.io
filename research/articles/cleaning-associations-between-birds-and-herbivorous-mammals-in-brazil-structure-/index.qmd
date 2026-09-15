@@ -21,3 +21,40 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1525/auk.2011.11144) | [PDF](https://academic.oup.com/auk/article-pdf/129/1/36/26880233/auk0036.pdf) | [OpenAlex](https://openalex.org/W2161729683)
+
+## BibTeX
+
+```bibtex
+@article{RN21223,
+   author = {Sazima, Cristina and Jordano, Pedro and Guimarães, Paulo R and Reis, Sérgio F Dos and Sazima, Ivan},
+   title = {Cleaning associations between birds and herbivorous mammals in Brazil: Structure and complexity},
+   journal = {The Auk},
+   volume = {129},
+   number = {1},
+   pages = {36–43},
+   abstract = {Birds that remove ectoparasites and other food material from their hosts are iconic illustrations of mutualistic—commensalistic cleaning associations. To assess the complex pattern of food resource use embedded in cleaning interactions of an assemblage of birds and their herbivorous mammal hosts in open habitats in Brazil, we used a network approach that characterized their patterns of association. Cleaning interactions showed a distinctly nested pattern, related to the number of interactions of cleaners and hosts and to the range of food types that each host species provided. Hosts that provided a wide range of food types (flies, ticks, tissue and blood, and organic debris) were attended by more species of cleaners and formed the core of the web. On the other hand, core cleaner species did not exploit the full range of available food resources, but used a variety of host species to exploit these resources instead. The structure that we found indicates that cleaners rely on cleaning interactions to obtain food types that would not be available otherwise (e.g., blood-engorged ticks or horseflies, wounded tissue). Additionally, a nested organization for the cleaner bird—mammalian herbivore association means that both generalist and selective species take part in the interactions and that partners of selective species form an ordered subset of the partners of generalist species. The availability of predictable protein-rich food sources for birds provided by cleaning interactions may lead to an evolutionary pathway favoring their increased use by birds that forage opportunistically.},
+   keywords = {nestedness
+resumen
+network organization
+asociaciones de limpieza entre
+aves y mamíferos herbívoros
+cleaner birds
+de sus hospederos son
+ectoparásitos y otros alimentos
+ejemplos icónicos de asociaciones
+en brasil
+estructura y complejidad
+herbivorous mammal hosts
+interspecific interactions
+las aves que remueven
+las interacciones
+mutualistas-comensalistas de limpieza
+para establecer el complejo
+patrón de uso de
+recursos alimenticios embebido en},
+   ISSN = {0004-8038},
+   DOI = {10.1525/auk.2011.11144},
+   year = {2012},
+   type = {Journal Article}
+}
+```

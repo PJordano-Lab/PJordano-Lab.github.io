@@ -21,3 +21,36 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1046/j.1365-2745.2000.00459.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1365-2745.2000.00459.x) | [OpenAlex](https://openalex.org/W2005890648)
+
+## BibTeX
+
+```bibtex
+@article{RN9626,
+   author = {Garcia, D and Zamora, R and Gomez, J M and Jordano, Pedro and Hodar, J A},
+   title = {Geographical variation in seed production, predation and abortion in Juniperus communis throughout its range in Europe},
+   journal = {Journal of Ecology},
+   volume = {88},
+   pages = {436–446},
+   abstract = {1 The geographical variation of seed production, predation and abortion was analysed in Juniperus communis for 31 populations in seven distinct regions throughout the species' distribution range in Europe, including both the northern and southern boundaries.2 The number of seeds per cone and the number of filled seeds per cone varied significantly between geographical regions and among populations within regions. Populations from the Mediterranean mountains (south-east Spain) showed the highest values in the number of seeds per cone but the lowest values in the number of filled seeds per cone.3 Losses due to predispersal seed predation varied significantly among populations within a region but not between regions, suggesting that predation incidence depends on local-scale factors. Seed abortion rates were higher in southern Iberian populations than in the other regions, and varied significantly among populations and regions. As a result of predation and abortion, seed production was lowest in the Iberian regions.4 Seed abortion showed a significant quadratic relationship with latitude, with higher values of abortion at either end of the gradient, but particularly at the southern limit.5 The production of filled seeds declined gradually towards both northern and southern distribution limits. In the Mediterranean mountains (southern limit), low seed production coincided with a marked limitation placed upon natural regeneration by summer drought, leading to a demographic bottleneck in populations. Although seed abortion levels were relatively high in the subarctic tundra (northern limit) populations, they were free from predispersal seed predators, suggesting that population viability here may be under less pressure.},
+   keywords = {Seed Production
+Pinus-Banksiana
+Inbreeding Depression
+Population-Size
+Bruchid Beetles
+Latitudinal Gradients
+Species Distribution
+Acacia-Farnesiana
+Distribution Boundaries
+Geographical Patterns
+Juniperus Communis
+Northern Limits
+Plant Gentianella-Germanica
+Predispersal Seed Predation
+Seed Abortion
+Spermotrophus Wachtl Hymenoptera
+Tilia-Cordata},
+   DOI = {10.1046/j.1365-2745.2000.00459.x},
+   year = {2000},
+   type = {Journal Article}
+}
+```

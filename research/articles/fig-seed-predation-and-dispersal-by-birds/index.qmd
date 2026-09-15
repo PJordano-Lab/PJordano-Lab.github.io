@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.2307/2387996) | [PDF](http://hdl.handle.net/10261/45058) | [OpenAlex](https://openalex.org/W2079606267)
+
+## BibTeX
+
+```bibtex
+@article{RN27783,
+   author = {Jordano, Pedro},
+   title = {Fig-seed predation and dispersal by birds},
+   journal = {BIOTROPICA},
+   volume = {15},
+   number = {1},
+   pages = {38–41},
+   abstract = {Observations of birds eating the figs of a single Ficus continifolia tree in Costa Rican lowland deciduous forest indicate that a crop of c100 000 figs was exhausted in 5 days, of which 95 000 were removed during the first 3 days. Birds processed an c20 828 figs/day (65.1% of the total daily consumption), and the difference (34.9%) represented fruits consumed by mammals and/or those falling to the ground. Parrots were responsible for 78% of the total taken by birds and 50.6% of the figs leaving the tree per day. Use by these seed predators represents fruit (and seed) waste. The 'true' avian dispersers (eg orioles, tanagers, trogons, flycatchers) took only c4600 figs/day. An estimated 4.2 X 10 6  fig seeds were lost each day, 36.2% of them to parrots and 63.8% ot destruction by invertebrates (mostly aganoid wasps). Only 6.3% of the seeds leaving the tree per day are actually dispersed undamaged by birds.-Author},
+   DOI = {10.2307/2387996},
+   year = {1983},
+   type = {Journal Article}
+}
+```

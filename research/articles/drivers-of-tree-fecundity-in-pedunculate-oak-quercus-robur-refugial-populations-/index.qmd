@@ -19,3 +19,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/plb.12578) | [OpenAlex](https://openalex.org/W2613035526)
+
+## BibTeX
+
+```bibtex
+@article{RN26776,
+   author = {Moracho, E. and Jordano, P. and Hampe, A.},
+   title = {Drivers of tree fecundity in pedunculate oak (Quercus robur) refugial populations at the species’ southwestern range margin},
+   journal = {Plant Biology},
+   volume = {20},
+   pages = {195–202},
+   abstract = {© 2017 German Botanical Society and The Royal Botanical Society of the Netherlands. The current low latitudinal range margins of many extra-tropical plant species consist of small and scattered populations that persist locally in microrefugia. It remains poorly understood how their refugial distribution affects mating patterns and reproductive success. Here we examine flower and acorn production and their determinants in refugial populations of the widespread European forest tree pedunculate oak (Quercus robur). We monitored male flower, female flower and acorn production in 159 adult trees from 12 oak stands over 2 years. We related these and derived parameters to a series of ecological and genetic predictor variables extrinsic (stand size, density and isolation as well as elevation, topography and forest cover) or intrinsic (size, phenology and several genotypic measures) to the target tree. Tree fertility was unrelated to extrinsic factors but determined by tree size, although we detected size-independent variation in reproductive investment. Female flower number accurately predicted acorn crop size. Fruit set differed between years, evidencing the existence of pollen limitation at the landscape but not at the local scale. Fruit set also tended to increase with the number of mates of the target tree. We detected no other evidence for genetic constraints on mating. Reproduction was triggered by a combination of small-scale and landscape-scale drivers. Although short-distance mating prevailed, limited pollen flow did not appear to significantly constrain reproductive success. The high intrinsic ability of populations to maintain their reproductive capacity may help explain their successful long-term persistence in an adverse broader environment.},
+   keywords = {marginal populations
+pollen limitation
+crop size
+fruit set
+gene flow
+Climate relict
+ecological and genetic correlates},
+   DOI = {10.1111/plb.12578},
+   year = {2018},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1086/284665) | [PDF](http://hdl.handle.net/10261/42668) | [OpenAlex](https://openalex.org/W2036159265)
+
+## BibTeX
+
+```bibtex
+@article{RN25572,
+   author = {Jordano, Pedro},
+   title = {Patterns of mutualistic interactions in pollination and seed dispersal: connectance, dependence asymmetries, and coevolution},
+   journal = {American Naturalist},
+   volume = {129},
+   pages = {657–677},
+   DOI = {10.1086/284665},
+   year = {1987},
+   type = {Journal Article}
+}
+```

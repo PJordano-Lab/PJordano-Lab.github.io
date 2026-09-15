@@ -21,3 +21,22 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2656.12831) | [PDF](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.12831) | [OpenAlex](https://openalex.org/W2794813732)
+
+## BibTeX
+
+```bibtex
+@article{RN30033,
+   author = {Simmons, Benno I. and Sutherland, William J. and Dicks, Lynn V. and Albrecht, Jörg and Farwig, Nina and García, Daniel and Jordano, Pedro and González‐Varo, Juan P.},
+   title = {Moving from frugivory to seed dispersal: Incorporating the functional outcomes of interactions in plant–frugivore networks},
+   journal = {The Journal of Animal Ecology},
+   volume = {87},
+   number = {4},
+   pages = {995–1007},
+   abstract = {There is growing interest in understanding the functional outcomes of species interactions in ecological networks. For many mutualistic networks, including pollination and seed dispersal networks, interactions are generally sampled by recording animal foraging visits to plants. However, these visits may not reflect actual pollination or seed dispersal events, despite these typically being the ecological processes of interest.Frugivorous animals can act as seed dispersers, by swallowing entire fruits and dispersing their seeds, or as pulp peckers or seed predators, by pecking fruits to consume pieces of pulp or seeds. These processes have opposing consequences for plant reproductive success. Therefore, equating visitation with seed dispersal could lead to biased inferences about the ecology, evolution and conservation of seed dispersal mutualisms.Here, we use natural history information on the functional outcomes of pairwise bird–plant interactions to examine changes in the structure of seven European plant–frugivore visitation networks after non‐mutualistic interactions (pulp pecking and seed predation) have been removed. Following existing knowledge of the contrasting structures of mutualistic and antagonistic networks, we hypothesized a number of changes following interaction removal, such as increased nestedness and lower specialization.Non‐mutualistic interactions with pulp peckers and seed predators occurred in all seven networks, accounting for 21%–48% of all interactions and 6%–24% of total interaction frequency. When non‐mutualistic interactions were removed, there were significant increases in network‐level metrics such as connectance and nestedness, while robustness decreased. These changes were generally small, homogenous and driven by decreases in network size. Conversely, changes in species‐level metrics were more variable and sometimes large, with significant decreases in plant degree, interaction frequency, specialization and resilience to animal extinctions and significant increases in frugivore species strength.Visitation data can overestimate the actual frequency of seed dispersal services in plant–frugivore networks. We show here that incorporating natural history information on the functions of species interactions can bring us closer to understanding the processes and functions operating in ecological communities. Our categorical approach lays the foundation for future work quantifying functional interaction outcomes along a mutualism–antagonism continuum, as documented in other frugivore faunas.
+, There is growing interest in understanding functional roles in species interaction networks. Here, the authors use data on the functional outcomes of bird–plant interactions to examine changes in the structure of visitation networks after removing non‐mutualistic interactions. Incorporating this information brings us closer to understanding ecological processes of interest within networks. Photo by Saverio Gatto.},
+   ISSN = {0021-8790},
+   DOI = {10.1111/1365-2656.12831},
+   year = {2018},
+   type = {Journal Article}
+}
+```

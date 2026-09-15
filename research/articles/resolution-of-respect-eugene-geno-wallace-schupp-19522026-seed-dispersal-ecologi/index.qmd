@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1002/bes2.70097) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.70097) | [OpenAlex](https://openalex.org/W7204211684)
+
+## BibTeX
+
+```bibtex
+@article{RN58513,
+   author = {Jordano, Pedro and Gómez, José María},
+   title = {Resolution of Respect Eugene “Geno” Wallace Schupp (1952–2026) Seed dispersal ecologist, restoration scientist, mentor},
+   journal = {The Bulletin of the Ecological Society of America},
+   ISSN = {0012-9623
+2327-6096},
+   DOI = {10.1002/bes2.70097},
+   year = {2026},
+   type = {Journal Article}
+}
+```

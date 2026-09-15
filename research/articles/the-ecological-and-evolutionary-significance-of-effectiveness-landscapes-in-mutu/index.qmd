@@ -19,3 +19,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/ele.13939) | [OpenAlex](https://openalex.org/W4206578561)
+
+## BibTeX
+
+```bibtex
+@article{RN12002,
+   author = {Gómez, José María and Schupp, Eugene W. and Jordano, Pedro},
+   title = {The ecological and evolutionary significance of effectiveness landscapes in mutualistic interactions},
+   journal = {Ecology Letters},
+   pages = {264–277},
+   abstract = {Mutualism effectiveness, the contribution of an interacting organism to its partner's fitness, is defined as the number of immediate outcomes of the interactions (quantity component) multiplied by the probability that an immediate outcome results in a new individual (quality component). These components form a two‐dimensional effectiveness landscape with each species’ location determined by its values of quantity (x‐axis) and quality (y‐axis). We propose that the evolutionary history of mutualistic interactions leaves a footprint that can be identified by three properties of the spatial structure of effectiveness values: dispersion of effectiveness values, relative contribution of each component to the effectiveness values and correlation between effectiveness components. We illustrate this approach using a large dataset on synzoochory, seed dispersal by seed‐caching animals. The synzoochory landscape was clumped, with effectiveness determined primarily by the quality component, and with quantity and quality positively correlated. We suggest this type of landscape structure is common in generalised coevolved mutualisms, where multiple functionally equivalent, high‐quality partners exert similarly strong selection. Presumably, only those organisms located in high‐quality regions will impact the evolution of their partner. Exploring properties of effectiveness landscapes in other mutualisms will provide new insight into the evolutionary and ecological consequences of mutualisms. Mutualism effectiveness, the contribution of an interacting organism to its partner's fitness, is defined as the number of immediate outcomes of the interactions (Quantity component) multiplied by the probability that an immediate outcome results in a new individual (Quality component). These components form a two‐dimensional effectiveness landscape with each species’ location determined by its values of quantity and quality. We propose that the evolutionary history of mutualistic interactions leaves a footprint that can be identified by three properties of the spatial structure of effectiveness landscapes: dispersion of effectiveness values, relative contribution of each component to the effectiveness values and correlation between effectiveness components.},
+   ISSN = {1461-023X},
+   DOI = {10.1111/ele.13939},
+   year = {2022},
+   type = {Journal Article}
+}
+```

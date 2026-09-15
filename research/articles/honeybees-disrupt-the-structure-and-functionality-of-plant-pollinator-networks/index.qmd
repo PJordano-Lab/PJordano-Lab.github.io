@@ -21,3 +21,29 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1038/s41598-019-41271-5) | [PDF](https://www.nature.com/articles/s41598-019-41271-5.pdf) | [OpenAlex](https://openalex.org/W2921962488)
+
+## BibTeX
+
+```bibtex
+@article{RN57568,
+   author = {Valido, A. and Rodriguez-Rodriguez, M. C. and Jordano, P.},
+   title = {Honeybees disrupt the structure and functionality of plant-pollinator networks},
+   journal = {Scientific Reports},
+   volume = {9},
+   number = {1},
+   pages = {4711},
+   note = {Valido, Alfredo
+Rodriguez-Rodriguez, Maria C
+Jordano, Pedro
+eng
+England
+Sci Rep. 2019 Mar 18;9(1):4711. doi: 10.1038/s41598-019-41271-5.},
+   abstract = {The honeybee is the primary managed species worldwide for both crop pollination and honey production. Owing to beekeeping activity, its high relative abundance potentially affects the structure and functioning of pollination networks in natural ecosystems. Given that evidences about beekeeping impacts are restricted to observational studies of specific species and theoretical simulations, we still lack experimental data to test for their larger-scale impacts on biodiversity. Here we used a three-year field experiment in a natural ecosystem to compare the effects of pre- and post-establishment stages of beehives on the pollination network structure and plant reproductive success. Our results show that beekeeping reduces the diversity of wild pollinators and interaction links in the pollination networks. It disrupts their hierarchical structural organization causing the loss of interactions by generalist species, and also impairs pollination services by wild pollinators through reducing the reproductive success of those plant species highly visited by honeybees. High-density beekeeping in natural areas appears to have lasting, more serious negative impacts on biodiversity than was previously assumed.},
+   ISSN = {2045-2322 (Electronic)
+2045-2322 (Linking)},
+   DOI = {10.1038/s41598-019-41271-5},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30886227},
+   year = {2019},
+   type = {Journal Article}
+}
+```

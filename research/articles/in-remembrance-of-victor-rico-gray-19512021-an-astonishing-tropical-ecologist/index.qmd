@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/btp.12987) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/btp.12987) | [OpenAlex](https://openalex.org/W3177381569)
+
+## BibTeX
+
+```bibtex
+@article{RN12151,
+   author = {Dáttilo, Wesley and Serio‐Silva, Juan Carlos and Thompson, John N. and Del‐Claro, Kleber and Guimarães, Paulo R. and Oliveira, Paulo S. and Jordano, Pedro and Marquis, Robert J. and Koptur, Suzanne},
+   title = {In remembrance of Victor Rico Gray (1951‐2021): An astonishing tropical ecologist},
+   journal = {Biotropica},
+   volume = {53},
+   number = {4},
+   pages = {1238–1243},
+   abstract = {In this remembrance, we have brought together some of Victor Rico‐Gray’s friends and collaborators to recall his many contributions to tropical ecology and his influence on so many young scientists. Victor’s research ranged from Mexican ethnobotany to the evolutionary ecology of complex interactions between ants and plants. His research was highly collaborative, forming strong bonds among those who shared his interests in how the web of life is organized. He inspired students through his mentoring in tropical ecology, mainly his lectures at the Instituto de Ecología AC (INECOL), and later at the Universidad Veracruzana (UV), his courses organized by the Organization for Tropical Studies (OTS), and his talks at meetings, including the Association of Tropical Biology and Conservation (ATBC). Victor’s story is not over. It will continue to be traced through countless scientists who were inspired by Victor’s life and work. We started by describing the Victor's life and his graduate studies in tropical ecology. Next, we highlight the Victor's importance in the formation of new scientists and in tropical ecology. We finished the text by gathering good memories and anecdotes of Victor.},
+   ISSN = {0006-3606},
+   DOI = {10.1111/btp.12987},
+   year = {2021},
+   type = {Journal Article}
+}
+```

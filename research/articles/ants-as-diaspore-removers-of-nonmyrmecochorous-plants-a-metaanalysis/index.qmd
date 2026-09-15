@@ -19,3 +19,22 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/oik.06940) | [OpenAlex](https://openalex.org/W3013105633)
+
+## BibTeX
+
+```bibtex
+@article{RN26852,
+   author = {Anjos, Diego V. and Leal, Laura C. and Jordano, Pedro and Del-Claro, Kleber},
+   title = {Ants as diaspore removers of non-myrmecochorous plants: a meta-analysis},
+   journal = {Oikos},
+   abstract = {Diaspore (e.g. seeds, fruits) dispersal is pivotal for plant communities and often involves several steps and different dispersing agents. Most studies focusing on diaspore dispersal by animals have highlighted the role of vertebrates, neglecting the role of ants in the diaspore dispersal of non-myrmecochorous plants. Diaspore dispersal by ants is especially relevant in the current scenario of declining of vertebrate populations and, consequently, collapse of the dispersal system of large-seeded plants. Although ants can never compensate for the dispersal service provided by vertebrates, they can mitigate the impact of vertebrate decline via removal of diaspores deposited on the ground. We have used a meta-analytical approach to investigate the contribution of ants in the removal of non-myrmecochorous diaspores (through vertebrate exclusion experiments). We considered the number of diaspore removal as effect size and factors such as plant growth forms, diaspore and ant size, habitat type as moderators. In addition, we investigated the role of such factors on the diaspore removal distance by ants. Ants played complementary role to non-myrmecochorous diaspore removal services provided by vertebrates (mean Hedges’ g of −0.30). The ant diaspore removal was 69% higher for diaspores from shrubs than that of tree diaspores and removal of small-sized diaspores were 69% and 70% higher in comparison to medium- and large-sized diaspores, respectively. Regarding the diaspore removal distance by ants, those of tree species were removed 32% farther than those of shrub species, and diaspores were removed three- times farther in the savanna than in rainforest ecosystems. Our results highlight the shrubs and small-sized diaspores. Regarding the diaspore removal distance, the ants can be crucial for the dispersal of tree diaspores and in the savanna ecosystems. Finally, considering the biodiversity crisis, the ants may play an even more important role than appreciated in diaspores dispersal.},
+   keywords = {defaunation
+mutualism
+ant–plant interactions
+diplocory
+seed dispersal, effectiveness},
+   DOI = {10.1111/oik.06940},
+   year = {2020},
+   type = {Journal Article}
+}
+```

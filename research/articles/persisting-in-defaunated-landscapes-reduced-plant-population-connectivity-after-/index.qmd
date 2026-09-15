@@ -21,3 +21,33 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.12848) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.12848) | [OpenAlex](https://openalex.org/W2744231854)
+
+## BibTeX
+
+```bibtex
+@article{RN26923,
+   author = {Pérez-Méndez, Néstor and Jordano, Pedro and Valido, Alfredo},
+   title = {Persisting in defaunated landscapes: Reduced plant population connectivity after seed dispersal collapse},
+   journal = {Journal of Ecology},
+   volume = {106},
+   pages = {936–947},
+   abstract = {1.Defaunation of large-bodied frugivores could be causing severe losses of crucial ecosystem functions such as seed dispersal. The immediate ecological consequences may include alteration or even collapse of seed-mediated gene flow affecting plant population connectivity, with impacts on the regional scale distribution of genetic variation. Yet these far-reaching consequences of defaunation remain understudied. 2.Here we tested whether human-induced defaunation of the Canarian frugivorous lizards (Gallotia, Lacertidae) altered within-island population connectivity and the amount and large-scale distribution of genetic variation of Neochamaelea pulverulenta (Rutaceae), which relies exclusively on these lizards for seed dispersal. Our study system defines a lizard downsizing gradient with three contrasted ecological scenarios (islands) with relatively optimal (Gran Canaria; large-sized lizards), sub-optimal (Tenerife; medium) and collapsed seed dispersal processes (La Gomera; small). We extensively sampled individual plant genotypes from 80 populations spanning the full geographic range of the plant to examine their genetic diversity, population-genetic network topologies, and the patterns of isolation both by distance (IBD) and resistance (IBR) across these three ecological scenarios. 3.Plant genetic diversity appeared unaffected by defaunation-mediated downsizing of frugivorous lizards. However, we found a reduced overall plant population connectivity together with an increased isolation by distance within the most defaunated islands (La Gomera and, to a lesser extent, Tenerife) when compared with the scenario preserving the functionality of lizard-mediated seed dispersal (Gran Canaria). The results, with a significant effect of lizard downsizing, were robust when controlling for biotic/abiotic differences among the three islands by means of isolation by resistance models (IBR). 4.Synthesis. Our results provide valuable insights into the far-reaching consequences of the deterioration of mutualisms on plant population dynamics over very large spatial scales. Conservation of large-bodied frugivores is thus essential because their irreplaceable mutualistic dispersal services maintain an extensive movement of seeds across the landscape, crucial for maintaining the genetic cohesiveness of metapopulations and the adaptive potential of plant species across their entire geographic range. This article is protected by copyright. All rights reserved.},
+   keywords = {seed dispersal
+extinction
+genetic diversity
+Extinction
+Seed dispersal
+Genetic diversity
+Canary Islands
+frugivorous lizards
+Frugivorous lizards
+Gallotia
+Neochamaelea pulverulenta
+population connectivity
+Population connectivity},
+   ISSN = {4955139574},
+   DOI = {10.1111/1365-2745.12848},
+   year = {2018},
+   type = {Journal Article}
+}
+```

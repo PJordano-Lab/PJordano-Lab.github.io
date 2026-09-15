@@ -19,3 +19,31 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1890/14-2467.1) | [OpenAlex](https://openalex.org/W2123928993)
+
+## BibTeX
+
+```bibtex
+@article{RN27844,
+   author = {Rodríguez-Rodríguez, M C and Jordano, P and Valido, A},
+   title = {Hotspots of damage by antagonists shape the spatial structure of plant-pollinator interactions},
+   journal = {Ecology},
+   volume = {96},
+   pages = {2181–2191},
+   abstract = {The balance between mutualistic and antagonistic plant-animal interactions and their spatial variation results in a highly dynamic mosaic of reproductive success within plant populations. Yet, the ecological drivers of this small-scale heterogeneity of interaction patterns and their outcomes remain virtually unexplored. We analyzed spatial structure in the frequency and intensity of interactions that vertebrate pollinators (birds and lizards) and invertebrate antagonists (florivores, nectar larcenists, and seed predators) had when interacting with the insular plant Isoplexis canariensis, and their effect on plant fitness. Spatially autocorrelated variation in plant reproductive success (fruit and viable seed set) emerged from the combined action of mutualists and antagonists, rather than reflecting the spatial pattern of any specific animal group. However, the influence of antagonists on plant fitness was stronger primarily due to the florivores' action on earlier reproductive stages, consuming and damaging floral structures before the arrival of pollinators. Our results indicate that the early action of antagonists creates hotspots of increased plant damage, where the effects of later acting mutualists are not translated into increased reproductive benefits. We foresee the potential for antagonists to shape the intra-population mosaics of plant fitness in situations where antagonists outnumber mutualists, when their interactions occur before those of mutualists, and when mutualists can detect and avoid damaged plants while foraging. Severely damaged plants in antagonistic hotspots might be excluded from the mating network and render a limited production of viable seeds, reducing both the growth rate of the plant population and the effective population size.},
+   keywords = {Plant-animal interactions
+Bird pollination
+Lizard pollination
+Canary islands
+Isoplexis canariensis
+Floral herbivory
+Mark correlation function
+Nectar larceny
+Plant reproductive success
+Point pattern analysis
+Predispersal seed predation
+Spatial pattern},
+   DOI = {10.1890/14-2467.1},
+   year = {2015},
+   type = {Journal Article}
+}
+```

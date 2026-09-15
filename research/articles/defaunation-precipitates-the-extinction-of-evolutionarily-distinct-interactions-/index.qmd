@@ -21,3 +21,30 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1126/sciadv.aav6699) | [PDF](https://advances.sciencemag.org/content/advances/5/6/eaav6699.full.pdf) | [OpenAlex](https://openalex.org/W2952917773)
+
+## BibTeX
+
+```bibtex
+@article{RN57854,
+   author = {Emer, C. and Galetti, M. and Pizo, M. A. and Jordano, P. and Verdu, M.},
+   title = {Defaunation precipitates the extinction of evolutionarily distinct interactions in the Anthropocene},
+   journal = {Science Advances},
+   volume = {5},
+   number = {6},
+   pages = {eaav6699},
+   note = {Emer, Carine
+Galetti, Mauro
+Pizo, Marco A
+Jordano, Pedro
+Verdu, Miguel
+eng
+Sci Adv. 2019 Jun 19;5(6):eaav6699. doi: 10.1126/sciadv.aav6699. eCollection 2019 Jun.},
+   abstract = {Species on Earth are interconnected with each other through ecological interactions. Defaunation can erode those connections, yet we lack evolutionary predictions about the consequences of losing interactions in human-modified ecosystems. We quantified the fate of the evolutionary history of avian-seed dispersal interactions across tropical forest fragments by combining the evolutionary distinctness of the pairwise-partner species, a proxy to their unique functional features. Both large-seeded plant and large-bodied bird species showed the highest evolutionary distinctness. We estimate a loss of 3.5 to 4.7 x 10(4) million years of cumulative evolutionary history of interactions due to defaunation. Bird-driven local extinctions mainly erode the most evolutionarily distinct interactions. However, the persistence of less evolutionarily distinct bird species in defaunated areas exerts a phylogenetic rescue effect through seed dispersal of evolutionarily distinct plant species.},
+   ISSN = {2375-2548 (Electronic)
+2375-2548 (Linking)},
+   DOI = {10.1126/sciadv.aav6699},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/31223648},
+   year = {2019},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1046/j.1365-294x.2000.01009.x) | [PDF](http://hdl.handle.net/10261/42617) | [OpenAlex](https://openalex.org/W2170533549)
+
+## BibTeX
+
+```bibtex
+@article{RN2256,
+   author = {Jordano, Pedro and Godoy, José A},
+   title = {RAPD variation and population genetic structure in Prunus mahaleb (Rosaceae), an animal-dispersed tree},
+   journal = {Molecular Ecology},
+   volume = {9},
+   pages = {1293–1305},
+   abstract = {We examined the patterns of random amplified polymorphic DNA (RAPD) variation among seven Prunus mahaleb (Rosaceae) populations extending over ≃ 100 km2 to examine local differentiation in relation to spatial isolation due to both geographical distance and differences in elevation. No less than 51.4% of the RAPD loci were polymorphic, but very few were fixed and among-population variation accounted for 16.46% of variation in RAPD patterns. Mean gene diversity was 0.1441, with mean Nei's genetic diversity for individual populations ranging between 0.089 and 0.149. Mean G(ST) value across loci was 0.1935 (range, 0.0162-0.4685), giving an average estimate for Nm of 1.191. These results suggest extensive gene flow among populations, but higher G(ST) and lower Nm values relative to other outcrossing, woody species with endozoochorous dispersal, also suggest a process of isolation by distance. The combined effect of both geographical and elevation distances and nonoverlapping flowering and fruiting phenophases on the G(ST) matrix was partially significant, revealing only marginal isolation of the P. mahaleb populations. The matrix correlation between estimated Nm values among populations and the geographical + elevation distance matrices (r = -0.4623, P = 0.07), suggests a marginal trend for more isolated populations to exchange less immigrants. Long-distance seed dispersal by efficient medium-sized frugivorous birds and mammals is most likely associated to the high levels of within-population genetic diversity. However, vicariance factors and demographic bottlenecks (high postdispersal seed and seedling mortality) explain comparatively high levels of local differentiation.},
+   keywords = {Seed dispersal
+Genetic diversity
+Avian frugivores
+Plant recruitment
+RAPD
+Spatial variation},
+   ISSN = {0962-1083},
+   DOI = {10.1046/j.1365-294X.2000.01009.x},
+   year = {2000},
+   type = {Journal Article}
+}
+```

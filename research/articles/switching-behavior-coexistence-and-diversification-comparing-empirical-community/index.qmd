@@ -21,3 +21,40 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1461-0248.2008.01195.x) | [PDF](http://hdl.handle.net/10261/38403) | [OpenAlex](https://openalex.org/W2139969991)
+
+## BibTeX
+
+```bibtex
+@article{RN57493,
+   author = {Carnicer, Jofre and Abrams, Peter A and Jordano, Pedro},
+   title = {Switching behavior, coexistence and diversification: comparing empirical community-wide evidence with theoretical predictions},
+   journal = {Ecology Letters},
+   volume = {11},
+   number = {8},
+   pages = {802–808},
+   abstract = {Theory shows that the presence of behavioural switching between alternative resources can contribute to coexistence when competitors differ in trophic-related traits. In addition, switching can generate disruptive selection on such traits in a low-diversity community, increasing the number of species. Both of these processes should produce communities in which species differ in their values of the trophic trait, and display corresponding differences in the time-course of their switching from one resource to another. Here we present evidence for widespread switching behaviour for a diverse Mediterranean scrubland bird community. We show that species differ in a beak character related to their relative use of insect and fruit resource channels, and that the timing of switching is correlated with the relative use of resources. These patterns are consistent with theoretical predictions, suggesting a possible role of switching behaviour in promoting avian coexistence and diversification.},
+   keywords = {Adaptation
+Birds
+Coexistence
+Diversification
+Evolution
+Food-Web Complexity
+Foraging Theory
+Fruits
+Generalists
+Insects
+Niche Conservatism
+Patterns
+Resource Seasonality
+Specialists
+Species Richness
+Stability
+Switching Behaviour
+Temporal Variation
+Warblers},
+   DOI = {10.1111/j.1461-0248.2008.01195.x},
+   url = {<Go to ISI>://WOS:000257655400005},
+   year = {2008},
+   type = {Journal Article}
+}
+```

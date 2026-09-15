@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1016/j.revpalbo.2010.03.008) | [PDF](http://hdl.handle.net/10261/36389) | [OpenAlex](https://openalex.org/W2093191251)
+
+## BibTeX
+
+```bibtex
+@article{RN1899,
+   author = {Rodríguez-Sánchez, Francisco and Hampe, Arndt and Jordano, Pedro and Arroyo, Juan},
+   title = {Past tree range dynamics in the Iberian Peninsula inferred through phylogeography and palaeodistribution modelling: A review},
+   journal = {Review of Palaeobotany and Palynology},
+   volume = {162},
+   pages = {507–521},
+   abstract = {The forests in the Iberian Peninsula have been strongly influenced by past climatic changes, but reconstructing their historical distributions and dynamics is very difficult due to the complex climatic characteristics and relief of the region. Research disciplines such as phylogeography and species distribution modelling can describe the past range dynamics of individual tree species in relatively great detail and help elucidate how these species have reacted to climatic changes. Here we review phylogeographical and modelling studies from species representative of the major Iberian forest types and attempt to extract general trends from the diversity of individual species histories in the Peninsula. To date most studies focus on geographical range dynamics during the Pleistocene, but an increasing body of evidence shows that some species have also retained the genetic imprints of much more ancient processes. Many widespread Iberian species show a deep and often remarkably clear-cut divide between populations from the Mediterranean and from the Atlantic regions of the Iberian Peninsula, suggesting that both areas have independently sustained viable populations over extended periods. In fact, phylogeographical studies commonly find that species had several glacial refugia across the Iberian Peninsula. On the other hand, distribution models help identifying further suitable areas that could have sustained so far undetected refugia. Such studies are of interest for species conservation, because refugium populations are high-priority targets due to their long-term persistence and unique evolutionary trajectory. Overall, we conclude that palaeoecology, phylogeography and species distribution modelling have a great potential to inform each other because of their complementary perspectives and results. A true integration of these approaches is therefore fundamental for further progress in our understanding of past Iberian environments and the organisms they harboured. © 2010 Elsevier B.V.},
+   keywords = {Genetic diversity
+Spain
+Glacial refugia
+Hindcasting
+Palaeobiogeography
+Species distribution modelling},
+   ISSN = {0034-6667},
+   DOI = {10.1016/j.revpalbo.2010.03.008},
+   year = {2010},
+   type = {Journal Article}
+}
+```

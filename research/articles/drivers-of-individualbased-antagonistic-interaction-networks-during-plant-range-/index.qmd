@@ -21,3 +21,29 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.13942) | [PDF](https://doi.org/10.1111/1365-2745.13942) | [OpenAlex](https://openalex.org/W4293055117)
+
+## BibTeX
+
+```bibtex
+@article{RN12452,
+   author = {Isla, Jorge and Jacome-Flores, Miguel E. and Pareja, Daniel and Jordano, Pedro},
+   title = {Drivers of individual-based, antagonistic interaction networks during plant range expansion},
+   journal = {Journal of Ecology},
+   volume = {110},
+   number = {9},
+   pages = {2190–2204},
+   abstract = {Range expansion in plant populations, especially at the colonization front, can be either limited by disproportionately large effects of antagonistic interactions or facilitated by their release. How the strength of antagonistic interactions changes along successional gradients during range expansion is still poorly documented, especially when diverse assemblages of plant antagonists (rodents, invertebrates and birds) combine within interaction networks. We study the changes in individual-based, predispersal seed-pulp predator networks along a colonization gradient in a rapidly expanding Juniperus phoenicea population in Donana National Park (SW Spain). Additionally, we analysed the role of individual plant traits and neighbourhood attributes in network configuration by using Exponential Random Graph Models. Seven seed-pulp consumer animal species varied significantly in their frequency of interaction and prevalence. While invertebrate species were well-established in old and intermediately mature stands, greenfinch Chloris chloris was dominant at the colonization front. Variable species roles and spread of interactions among individual plants generated changes in the configuration of interactions during plant expansion. Individual plant traits strongly determined the topology of these networks, although with differences between stands. Increasing individual crop size and seeds per cone increased the interaction odds of individual plants, while seed viability showed the opposite effect. The network topology at the colonization front appeared less driven by individual traits, possibly because of the short interaction history of this recently established area. The disproportionately large effect of C. chloris in these recently established stands, potentially resulted in large seed losses during range expansion. Synthesis. Turnover of antagonistic interactions, characterized the colonization front, resulting in more heterogeneous interaction strengths among individual plants. We found no evidence for a complete or sizeable antagonistic release of J. phoenicea at the colonization front promoting this rapid expansion. It becomes necessary to explore interactions with seed dispersers to understand how antagonistic and mutualistic plant-animal interactions balance during range expansion. Our study highlights the importance of an individual-based approach in understanding how interactions are structured and driven in natural changing landscapes.},
+   keywords = {ecological networks
+dispersal
+landscape ecology
+plant-herbivore interactions
+reproductive ecology
+antagonistic interactions
+plant range shifts
+seed-predation},
+   ISSN = {0022-0477},
+   DOI = {10.1111/1365-2745.13942},
+   year = {2022},
+   type = {Journal Article}
+}
+```

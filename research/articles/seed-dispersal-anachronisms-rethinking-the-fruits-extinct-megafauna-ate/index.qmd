@@ -21,3 +21,36 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1371/journal.pone.0001745) | [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0001745&type=printable) | [OpenAlex](https://openalex.org/W2014322534)
+
+## BibTeX
+
+```bibtex
+@article{RN57994,
+   author = {Guimaraes, P. R. and Galetti, M. and Jordano, P.},
+   title = {Seed dispersal anachronisms: rethinking the fruits extinct megafauna ate},
+   journal = {PLoS One},
+   volume = {3},
+   number = {3},
+   pages = {e1745},
+   note = {Guimaraes, Paulo R
+Galetti, Mauro
+Jordano, Pedro
+eng
+Research Support, Non-U.S. Gov't
+2008/03/06
+PLoS One. 2008 Mar 5;3(3):e1745. doi: 10.1371/journal.pone.0001745.},
+   abstract = {BACKGROUND: Some neotropical, fleshy-fruited plants have fruits structurally similar to paleotropical fruits dispersed by megafauna (mammals > 10(3) kg), yet these dispersers were extinct in South America 10-15 Kyr BP. Anachronic dispersal systems are best explained by interactions with extinct animals and show impaired dispersal resulting in altered seed dispersal dynamics. METHODOLOGY/PRINCIPAL FINDINGS: We introduce an operational definition of megafaunal fruits and perform a comparative analysis of 103 Neotropical fruit species fitting this dispersal mode. We define two megafaunal fruit types based on previous analyses of elephant fruits: fruits 4-10 cm in diameter with up to five large seeds, and fruits > 10 cm diameter with numerous small seeds. Megafaunal fruits are well represented in unrelated families such as Sapotaceae, Fabaceae, Solanaceae, Apocynaceae, Malvaceae, Caryocaraceae, and Arecaceae and combine an overbuilt design (large fruit mass and size) with either a single or few (< 3 seeds) extremely large seeds or many small seeds (usually > 100 seeds). Within-family and within-genus contrasts between megafaunal and non-megafaunal groups of species indicate a marked difference in fruit diameter and fruit mass but less so for individual seed mass, with a significant trend for megafaunal fruits to have larger seeds and seediness. CONCLUSIONS/SIGNIFICANCE: Megafaunal fruits allow plants to circumvent the trade-off between seed size and dispersal by relying on frugivores able to disperse enormous seed loads over long-distances. Present-day seed dispersal by scatter-hoarding rodents, introduced livestock, runoff, flooding, gravity, and human-mediated dispersal allowed survival of megafauna-dependent fruit species after extinction of the major seed dispersers. Megafauna extinction had several potential consequences, such as a scale shift reducing the seed dispersal distances, increasingly clumped spatial patterns, reduced geographic ranges and limited genetic variation and increased among-population structuring. These effects could be extended to other plant species dispersed by large vertebrates in present-day, defaunated communities.},
+   keywords = {Conservation of Natural Resources
+Ecosystem
+*Fossils
+Fruit/anatomy & histology/*physiology
+*Seeds
+South America},
+   ISSN = {1932-6203 (Electronic)
+1932-6203 (Linking)},
+   DOI = {10.1371/journal.pone.0001745},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/18320062},
+   year = {2008},
+   type = {Journal Article}
+}
+```

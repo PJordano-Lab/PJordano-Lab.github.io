@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.12690) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.12690) | [OpenAlex](https://openalex.org/W2566443198)
+
+## BibTeX
+
+```bibtex
+@article{RN27311,
+   author = {Jordano, Pedro},
+   title = {What is long-distance dispersal? And a taxonomy of dispersal events},
+   journal = {Journal of Ecology},
+   volume = {105},
+   number = {1},
+   pages = {75–84},
+   abstract = {1. Dispersal is a key individual-based process influencing many life-history attributes and scaling up to population-level properties (e.g. metapopulation connectivity). A persistent challenge in dispersal ecology has been the robust characterization of dispersal functions (kernels), a fundamental tool to predict how dispersal processes respond under global change scenarios. Particularly, the rightmost tail of these functions, that is the long-distance dispersal (LDD) events, are difficult to characterize empirically and to model in realistic ways. 2. But, when is it a LDD event? In the specific case of plants, dispersal has three basic components: (i) a distinct (sessile) source, the maternal plant producing the fruits or the paternal tree acting as a source of pollen; (ii) a distance component between source and target locations; and (iii) a vector actually performing the movement entailing the dispersal event. Here, I discuss operative definitions of LDD based on their intrinsic properties: (i) events crossing geographic boundaries among stands; and (ii) events contributing to effective gene flow and propagule migration. 3. Strict-sense long-distance dispersal involves movement both outside the stand geographic limits and outside the genetic neighbourhood area of individuals. Combinations of propagule movements within/outside these two spatial reference frames result in four distinct modes of LDD. 4. Synthesis. I expect truncation of seed dispersal kernels to have multiple consequences on demography and genetics, following to the loss of key dispersal services in natural populations. Irrespective of neighbourhood sizes, loss of LDD events may result in more structured and less cohesive genetic pools, with increased isolation by distance extending over broader areas. Proper characterization of the LDD events helps to assess, for example, how the ongoing defaunation of large-bodied frugivores pervasively entails the loss of crucial LDD functions.},
+   keywords = {pollination
+frugivory
+seed dispersal
+dispersal
+plant?animal interactions},
+   ISSN = {1365-2745},
+   DOI = {10.1111/1365-2745.12690},
+   year = {2017},
+   type = {Journal Article}
+}
+```

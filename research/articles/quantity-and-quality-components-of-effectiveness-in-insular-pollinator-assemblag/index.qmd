@@ -19,3 +19,25 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1007/s00442-013-2606-y) | [OpenAlex](https://openalex.org/W2078897382)
+
+## BibTeX
+
+```bibtex
+@article{RN30805,
+   author = {Rodríguez-Rodríguez, María C. and Jordano, Pedro and Valido, Alfredo},
+   title = {Quantity and quality components of effectiveness in insular pollinator assemblages},
+   journal = {Oecologia},
+   volume = {173},
+   number = {1},
+   pages = {179–190},
+   keywords = {Canary Islands
+Bird pollination
+Lizard pollination
+Opportunistic nectar-feeding
+Plant reproductive biology},
+   ISSN = {0029-8549},
+   DOI = {10.1007/s00442-013-2606-y},
+   year = {2013},
+   type = {Journal Article}
+}
+```

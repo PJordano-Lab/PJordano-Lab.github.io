@@ -21,3 +21,27 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1469-8137.2010.03402.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-8137.2010.03402.x) | [OpenAlex](https://openalex.org/W2157332851)
+
+## BibTeX
+
+```bibtex
+@article{RN14948,
+   author = {Schupp, Eugene W and Jordano, Pedro and Gómez, José María},
+   title = {Seed dispersal effectiveness revisited: A conceptual review},
+   journal = {New Phytologist},
+   volume = {188},
+   pages = {333–353},
+   abstract = {Contents Summary1I.Introduction2II.Caveats3III.What is an effective disperser?3IV.The SDE landscape and its quantitative and qualitative axes4V.How are disperser assemblages distributed on the SDE landscape?8VI.Composite seed shadows and SDE: are there advantages to being dispersed by multiple dispersal agents? 10VII.The context dependence of SDE12VIII.'Distance-dependent SDE'15IX.Emerging issues16X.Conclusions17Acknowledgements17References17 Summary Growth in seed dispersal studies has been fast-paced since the seed disperser effectiveness (SDE) framework was developed 17 yr ago. Thus, the time is ripe to revisit the framework in light of accumulated new insight. Here, we first present an overview of the framework, how it has been applied, and what we know and do not know. We then introduce the SDE landscape as the two-dimensional representation of the possible combinations of the quantity and the quality of dispersal and with elevational contours representing isoclines of SDE. We discuss the structure of disperser assemblages on such landscapes. Following this we discuss recent advances and ideas in seed dispersal in the context of their impacts on SDE. Finally, we highlight a number of emerging issues that provide insight into SDE. Overall, the SDE framework successfully captures the complexities of seed dispersal. We advocate an expanded use of the term dispersal encompassing the multiple recruitment stages from fruit to adult. While this entails difficulties in estimating SDE, it is a necessary expansion if we are to understand the central relevance of seed dispersal in plant ecology and evolution.},
+   keywords = {Seed dispersal
+Context dependence
+Complementary dispersal
+Diplochory
+Distance-dependent SDE
+SDE landscape
+Seed disperser effectiveness},
+   ISSN = {0028-646X},
+   DOI = {10.1111/j.1469-8137.2010.03402.x},
+   year = {2010},
+   type = {Journal Article}
+}
+```

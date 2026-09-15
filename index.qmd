@@ -31,10 +31,14 @@ fig-align="center"}
 <p class="hero-bio">My research focuses on the study of biological diversity (biodiversity) from both ecological and evolutionary perspectives. I am interested in how ecological interactions, e.g. mutualisms, shape complex ecological systems. Interactions, such as those among plants and their seed dispersers and pollinators, are the wireframe of biodiversity, yet we are far from understanding how they evolve and coevolve. My main research tools to address this fascinating theme include field ecology, molecular genetics, and theoretical ecology.</p>
 ```
 
+• [More details →](pedro.qmd)
+
+-------------------------------------------
+
 ::: research-chips
-Ecology Conservation Biology Complex networks Ecological interactions
-Biodiversity Tropical ecology Mutualisms Plant-animal interactions Dispersal and
-gene flow
+Ecology • Conservation Biology • Complex networks • Ecological interactions •
+Biodiversity • Tropical ecology • Mutualisms • Plant-animal interactions •
+Dispersal and gene flow
 :::
 
 ```{=html}
@@ -56,9 +60,7 @@ gene flow
 <hr class="section-divider">
 
 ::: section-heading-row
-## Recent Work {.section-heading}
-
-[More details →](pedro.qmd){.section-link}
+## Recent Work  {.section-heading}
 
 [All publications →](research.qmd){.section-link}
 :::

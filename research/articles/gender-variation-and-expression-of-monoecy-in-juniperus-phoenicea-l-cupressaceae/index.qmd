@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1086/337909) | [PDF](http://hdl.handle.net/10261/42658) | [OpenAlex](https://openalex.org/W2072785330)
+
+## BibTeX
+
+```bibtex
+@article{RN26814,
+   author = {Jordano, Pedro},
+   title = {Gender variation and expression of monoecy in Juniperus phoenicea (L.)(Cupressaceae)},
+   journal = {Botanical Gazette},
+   volume = {152},
+   number = {4},
+   pages = {476–485},
+   abstract = {Bot. Gaz.},
+   DOI = {10.1086/337909},
+   year = {1991},
+   type = {Journal Article}
+}
+```

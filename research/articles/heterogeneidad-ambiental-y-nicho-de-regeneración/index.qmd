@@ -19,3 +19,20 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/40606) | [OpenAlex](https://openalex.org/W999138928)
+
+## BibTeX
+
+```bibtex
+@inbook{RN57983,
+   author = {Marañón, Teodoro and Camarero, Jesús Julio and Castro, Jorge and Díaz, Mario and Espelta, Josep María and Hampe, Arndt and Jordano, Pedro and Valladares, Fernando and Verdú, Miguel and Zamora, R},
+   title = {Heterogeneidad ambiental y nichos de regeneraci{ó}n},
+   booktitle = {Ecología del bosque mediterráneo en un mundo cambiante},
+   editor = {Valladares, F. },
+   publisher = {EGRAF S.A.},
+   address = {Madrid},
+   pages = {69–99},
+   ISBN = {84-8014-552-8},
+   year = {2004},
+   type = {Book Section}
+}
+```

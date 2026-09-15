@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1038/hdy.2010.28) | [PDF](https://www.nature.com/articles/hdy201028.pdf) | [OpenAlex](https://openalex.org/W1974419643)
+
+## BibTeX
+
+```bibtex
+@article{RN23883,
+   author = {Jordano, P},
+   title = {Pollen, seeds and genes: the movement ecology of plants},
+   journal = {Heredity},
+   volume = {105},
+   pages = {329–330},
+   abstract = {Heredity 105, 329 (2010). doi:10.1038/hdy.2010.28},
+   ISSN = {0018-067X},
+   DOI = {10.1038/hdy.2010.28},
+   year = {2010},
+   type = {Journal Article}
+}
+```

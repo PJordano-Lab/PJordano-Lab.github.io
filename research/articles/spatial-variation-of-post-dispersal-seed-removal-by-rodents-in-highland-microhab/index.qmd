@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1079/ssr2006245) | [PDF](https://curis.ku.dk/ws/files/10761741/Garcia-Castano_et_al._2006__pre-print_.pdf) | [OpenAlex](https://openalex.org/W2163313664)
+
+## BibTeX
+
+```bibtex
+@article{RN14936,
+   author = {García-Castaño, Juan Luis and Kollmann, Johannes and Jordano, Pedro},
+   title = {Spatial variation of post-dispersal seed removal by rodents in highland microhabitats of Spain and Switzerland},
+   journal = {Seed Science Research},
+   volume = {16},
+   pages = {213–222},
+   abstract = {Few data are available and little is known about spatial variation in post-dispersal seed removal at different levels throughout the geographic range of a plant species. Here, we compare post-dispersal seed removal by rodents within and among sites in two distinct regions, the south-eastern Spanish Mediterranean highlands and the Swiss Jura. Seed removal was assessed experimentally for four fleshy-fruited species (Berberis vulgaris, Crataegus monogyna, Rosa spp. and Taxus baccata) in heterogeneous sites with distinct microhabitats. A factorial general linear model (GLM) analysis was used to evaluate the relative influence of species-specific seed traits on removal at three spatial levels (microhabitat, site and region). In both highland ecosystems, live trapping revealed that rodents were the main seed removers: Apodemus sylvaticus was observed in both regions, whereas A. flavicollis and Clethrionomys glareolus occurred only at the Swiss sites. There was a significant difference in seed removal between regions, and the preferences of the rodents varied among plant species and microhabitats. Variation in rodent presence explained some differences in seed removal between regions and among microhabitats. Finally, the effect of rodent presence on seed removal differs due to both regional and microhabitat effects.},
+   DOI = {10.1079/ssr2006245},
+   year = {2006},
+   type = {Journal Article}
+}
+```

@@ -19,3 +19,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/geb.13452) | [OpenAlex](https://openalex.org/W4210340833)
+
+## BibTeX
+
+```bibtex
+@article{RN12358,
+   author = {Dallas, Tad A and Jordano, Pedro and Blowes, Shane},
+   title = {Parasite species richness and host range are not spatially conserved},
+   journal = {Global Ecology and Biogeography},
+   volume = {31},
+   number = {4},
+   pages = {663–671},
+   abstract = {Interactor richness in host–parasite networks, corresponding to either parasite species richness for host species or host range for parasite species, can be a function of taxonomic or trait constraints. Species appearing in multiple networks can have similar interactor richness in each network owing to these taxonomic and trait constraints, resulting in a spatially conserved mean interactor richness and lower variation in interaction richness relative to a null expectation. Here, we used a global database of host–helminth interactions to examine the variability in interactor richness across a spatially explicit collection of 299 host–helminth networks. Global. 1800–2003. Helminth parasite species and their host species. We used randomization tests to examine spatial conservation of species interactions for both host and helminth species. We failed to detect a signal of interactor richness conservation for > 95% of host and helminth parasite species relative to a set of three null models, where both the mean number of interactions per species and the variation in the number of interactions per species did not differ from a random draw. Furthermore, we detected a significant taxonomic signal in divergence in parasite species richness from a null model for host species, indicating that slight departures from null expectations are related to host phylogenetic relationships. Overall, this indicates that interactor richness can vary widely for the same species and that host and helminth parasite species can play very different functional roles in interaction networks across spatial or environmental gradients.},
+   ISSN = {1466-822X},
+   DOI = {10.1111/geb.13452},
+   year = {2022},
+   type = {Journal Article}
+}
+```

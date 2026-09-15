@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/ele.14163) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14163) | [OpenAlex](https://openalex.org/W4317737897)
+
+## BibTeX
+
+```bibtex
+@article{RN29360,
+   author = {Arroyo‐Correa, Blanca and Jordano, Pedro and Bartomeus, Ignasi},
+   title = {Intraspecific variation in species interactions promotes the feasibility of mutualistic assemblages},
+   journal = {Ecology Letters},
+   volume = {26},
+   number = {3},
+   pages = {448–459},
+   abstract = {Patterns of resource use observed at the species level emerge from the way individuals exploit the range of available resources. Hence, accounting for interindividual differences in resource use, such as pollinator use by plants, is essential to advance our understanding of community assembly and persistence. By using finely resolved data on plant–­pollinator interactions, we evaluated how interindividual plant variation in pollinator use scales up to affect community structure and dynamics. All co-­occurring plant species comprised specialists interacting with proper subsets of pollinators that visited generalists, and differences in interaction patterns were driven by among-­individual trait variation. Furthermore, the nested structure and feasibility of plant–­pollinator communities were maximised at higher levels of interindividual plant variation in traits and pollinator use. Our study sheds light on how pervasive properties of community structure arise from individual-­level processes and contributes to elucidate the importance of preserving intraspecific variation in traits and resource use within populations.},
+   ISSN = {1461-023X, 1461-0248},
+   DOI = {10.1111/ele.14163},
+   year = {2023},
+   type = {Journal Article}
+}
+```

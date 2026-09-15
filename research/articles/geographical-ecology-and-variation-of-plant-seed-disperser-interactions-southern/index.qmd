@@ -19,3 +19,29 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1007/bf00052213) | [OpenAlex](https://openalex.org/W4295196793)
+
+## BibTeX
+
+```bibtex
+@inbook{RN25856,
+   author = {Jordano, Pedro},
+   title = {Geographical ecology and variation of plant-seed disperser interactions: southern Spanish junipers and frugivorous thrushes},
+   booktitle = {Frugivory and seed dispersal: ecological and evolutionary aspects},
+   editor = {Fleming, T H and Estrada, A},
+   publisher = {Kluwer Academic Publisher},
+   address = {Dordrecht, The Netherlands},
+   volume = {107-108},
+   pages = {85–104},
+   abstract = {Spatial and temporal predictability in the mutual selective pressures of plants and frugivorous birds is a prerequisite for coevolution to occur. I examine the interaction patterns of strongly frugivorous thrushes (Turdus spp.) and their major winter food plants (Juniperus spp., Cupressaceae) and how they vary in space and time. Spatial congruency, rarely considered in seed dispersal studies, is studied at three spatial scales: 1) the total species range; 2) regional distribution; and 3) local abundance and its variation between seasons. Southern Spanish frugivorous thrushes and junipers show very low congruence in distribution patterns at each of these scales. Most juniper species show geographic distributions that are nested within the geographic ranges of thrush species. Bird species showed greater habitat breadth values than plants and were found in a greater percentage of localities. The local bird abundance was strongly correlated across years and sites with the local availability of juniper cones. Cone production varied markedly between years, but the rankings for different species in different years were statistically concordant at mid-elevation and lowland sites. Both bird abundance and cone production showed greater temporal than spatial variability. Variation of cone productions at both temporal and spatial scales was greater than variability in bird abundance. Species with strong interactions of mutual dependence showed very low values of biogeographic congruence, caused by differences in geographic range and habitat specificity. This obviously limits the possibilities for pairwise, specific coevolution to occur. However, mutual effects of species groups are possible to the extent that the component species are ecologically 'interchangeable' in their selective effects and other constraints on coevolution are not operating. The approach used here to examine the patterns of species interactions at different biogeographic scales might prove useful in comparative studies of plant-animal interactions. © 1993 Kluwer Academic Publishers.},
+   keywords = {Mutualism
+Frugivory
+Juniperus
+Mediterranean scrubland
+Turdus
+Annual variation
+Geographic variation},
+   DOI = {10.1007/BF00052213},
+   year = {1993},
+   type = {Book Section}
+}
+```

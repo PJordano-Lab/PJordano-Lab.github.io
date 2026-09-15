@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1079/9781845931650.0104) | [PDF](http://hdl.handle.net/11449/227373) | [OpenAlex](https://openalex.org/W1485096388)
+
+## BibTeX
+
+```bibtex
+@inbook{RN21689,
+   author = {Donatti, C I and Galetti, M and Pizo, M A and Guimarães Jr., P R and Jordano, Pedro},
+   title = {Living in the land of ghosts: Fruit traits and the importance of large mammals as seed dispersers in the Pantanal, Brazil},
+   booktitle = {Frugivory and seed dispersal: theory and applications in a changing world},
+   editor = {Dennis, A and Green, R and Schupp, E W and Wescott, D},
+   publisher = {Commonwealth Agricultural Bureau International},
+   address = {Wallingford, UK},
+   pages = {104–123},
+   year = {2007},
+   type = {Book Section}
+}
+```

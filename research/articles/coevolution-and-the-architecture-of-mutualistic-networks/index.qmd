@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1558-5646.2012.01801.x) | [PDF](https://digital.csic.es/bitstream/10261/74146/1/j.1558-5646.2012.01801.x.pdf) | [OpenAlex](https://openalex.org/W2168577353)
+
+## BibTeX
+
+```bibtex
+@article{RN57562,
+   author = {Nuismer, Scott L. and Jordano, Pedro and Bascompte, Jordi},
+   title = {Coevolution and the architecture of mutualistic networks},
+   journal = {Evolution},
+   volume = {67},
+   pages = {338–354},
+   abstract = {Although coevolution is widely recognized as an important evolutionary process for pairs of reciprocally specialized species, its importance within species-rich communities of generalized species has been questioned. Here we develop and analyze mathematical models of mutualistic communities, such as those between plants and pollinators or plants and seed-dispersers to evaluate the importance of coevolutionary selection within complex communities. Our analyses reveal that coevolutionary selection can drive significant changes in trait distributions with important consequences for the network structure of mutualistic communities. One such consequence is greater connectance caused by an almost invariable increase in the rate of mutualistic interaction within the community. Another important consequence is altered patterns of nestedness. Specifically, interactions mediated by a mechanism of phenotype matching tend to be antinested when coevolutionary selection is weak and even more strongly antinested as increasing coevolutionary selection favors the emergence of reciprocal specialization. In contrast, interactions mediated by a mechanism of phenotype differences tend to be nested when coevolutionary selection is weak, but less nested as increasing coevolutionary selection favors greater levels of generalization in both plants and animals. Taken together, our results show that coevolutionary selection can be an important force within mutualistic communities, driving changes in trait distributions, interaction rates, and even network structure.},
+   keywords = {Dispersal
+Mutualism
+Nestedness
+Network structure
+Pollination},
+   ISSN = {1558-5646},
+   DOI = {10.1111/j.1558-5646.2012.01801.x},
+   url = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1558-5646.2012.01801.x},
+   year = {2013},
+   type = {Journal Article}
+}
+```

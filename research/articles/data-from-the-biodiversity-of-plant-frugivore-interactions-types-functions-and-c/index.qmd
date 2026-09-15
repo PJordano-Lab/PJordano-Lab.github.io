@@ -21,3 +21,35 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.5281/zenodo.19482637) | [PDF](https://doi.org/10.5281/zenodo.19482637) | [OpenAlex](https://openalex.org/W7152961901)
+
+## BibTeX
+
+```bibtex
+@article{RN30803,
+   author = {Jordano, Pedro},
+   title = {The biodiversity of plant–frugivore interactions: types, functions and consequences},
+   journal = {Oikos},
+   volume = {2026},
+   pages = {e11991},
+   abstract = {Abstract
+          
+            Pairwise plant-frugivore mutualistic interactions build up into mega-diverse networks involving dozens of interacting species, being the most generalized among free-living species. These mutualisms consist of food provisioning by plants and, their counterpart, plant propagule (seeds) movement by the animals, being crucial for the natural vegetation regeneration in many ecosystems. Yet we are far from understanding which part of this enormous interaction biodiversity is needed for their maintenance. I overview the diversity of interaction modes involved in these mutualisms, the main components of the seed dispersal services, and their functional diversity. I examine how interaction richness covaries with partner species richness at different scales, resulting in variable patterns of species complementarities in terms of seed dispersal effects. The functionality of most generalized plant-frugivore mutualisms relies on complementarity of effects across a high diversity of partners, yet frequently depends on just a distinct subset of them, resulting in high functional redundancy. Two distinct aspects are relevant: 1) variable quantitative effects among species; 2) variable pairwise-interaction outcomes, between the extremes of antagonism and mutualism. Frugivory, occurring at the final stage of each plant reproductive episode, entails a large, cumulative, effect of other biotic interactions occurring at earlier stages (e.g., floral herbivory, pollination, pre-dispersal fruit damage). I examine how plant-frugivore interactions mix-up with the whole biotic interactome of a plant, using the
+            Prunus mahaleb
+            system as a case study. The effects of distinct subsets of frugivores combine with different sets of antagonistic and mutualistic partners in other interactions, yet having a lasting signal on final seed dispersal success.
+          
+          
+            Abbreviated abstract
+            
+              Pairwise plant-frugivore mutualistic interactions aggregate into highly diverse networks crucial for seed dispersal and ecosystem regeneration, but the exact subset of interactions essential to maintain these systems remains unclear. The functionality of these mutualisms depends on complementary effects among many species, though often only a few key partners drive seed dispersal, producing both high diversity and redundancy. The outcomes of these interactions—ranging from mutualism to antagonism— are cumulative, as frugivory at the end of the reproductive cycle incorporates the influences of other biotic interactions throughout earlier plant stages, as illustrated by the
+              Prunus mahaleb
+              case study.
+            
+          
+          
+            Significance statement
+            Pairwise plant-frugivore mutualistic interactions aggregate into highly diverse networks crucial for seed dispersal and ecosystem regeneration, but the exact subset of interactions essential to maintain these systems remains unclear. Outcomes of these interactions—ranging from mutualism to antagonism— are cumulative, as frugivory at the end of the reproductive cycle incorporates the influences of other biotic interactions throughout earlier plant stages. This study highlights the combined effects of plant-frugivore interactions within the whole plant interactome.},
+   DOI = {10.1002/oik.11991},
+   year = {2026},
+   type = {Journal Article}
+}
+```

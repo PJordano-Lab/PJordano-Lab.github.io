@@ -19,3 +19,29 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.0030-1299.2007.16029.x) | [OpenAlex](https://openalex.org/W1965863613)
+
+## BibTeX
+
+```bibtex
+@article{RN16415,
+   author = {Rezende, Enrico L and Jordano, Pedro and Bascompte, Jordi},
+   title = {Effects of phenotypic complementarity and phylogeny on the nested structure of mutualistic networks},
+   journal = {Oikos},
+   volume = {116},
+   pages = {1919–1929},
+   abstract = {Recent studies have started to unravel the structure of mutualistic networks, although few functional explanations underlying such structure have been explored. We used computer simulations to test whether complementarity between phenotypic traits of plants and animals can explain the pervasive tendency of specialists to interact with proper subsets of species that generalists interact with (nested interactions), and how phylogeny affects such interaction patterns. Simultaneously, we assessed whether complementarity and phylogenctic structure were associated with patterns of interaction in a real mutualistic community. Simulation results support that highly nested networks can emerge from phenotypic complementarity, particularly when several traits are involved. The hierarchical structure of phylogenetic relations can also contribute to increased nestedness because traits determining complementaricy are then inherited in a correlated fashion. Phylogenetic effects on resulting generalization levels are often low, but can be detected. Results from the empirical network support a relevant role of complementarity and phylogenetic history on interaction patterns. Our results demonstrate that these factors can contribute to nestedness, which emphasize the necessity of considering evolutionary mechanisms in studies of community structure.},
+   keywords = {Nectar
+Patterns
+Pollination Syndromes
+Community
+Specialization
+Evolution
+Coevolutionary Networks
+Seed Size
+Prunus Mahaleb
+Asymmetries},
+   DOI = {10.1111/j.2007.0030-1299.16029.x},
+   year = {2007},
+   type = {Journal Article}
+}
+```

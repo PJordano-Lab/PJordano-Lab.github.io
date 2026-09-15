@@ -19,3 +19,17 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/45073) | [OpenAlex](https://openalex.org/W1135670422)
+
+## BibTeX
+
+```bibtex
+@article{RN6376,
+   author = {Jordano, P},
+   title = {Relaciones interespecíficas y coexistencia entre el águila real (Aquila chrysaetos) y el águila perdicera (Hieraaëtus fasciatus) en Sierra Morena central},
+   journal = {Ardeola},
+   volume = {28},
+   pages = {67–88},
+   year = {2006},
+   type = {Journal Article}
+}
+```

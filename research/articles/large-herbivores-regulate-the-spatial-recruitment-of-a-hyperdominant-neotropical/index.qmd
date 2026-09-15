@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/btp.12873) | [PDF](https://doi.org/10.1111/btp.12873]) | [OpenAlex](https://openalex.org/W3095694032)
+
+## BibTeX
+
+```bibtex
+@article{RN103,
+   author = {Valverde, Javier and Carvalho, Carolina da Silva and Jordano, Pedro and Galetti, Mauro},
+   title = {Large herbivores regulate the spatial recruitment of a hyperdominant Neotropical palm},
+   journal = {Biotropica},
+   volume = {53},
+   number = {1},
+   pages = {286–295},
+   abstract = {Large mammalian herbivores play an important role in shaping the diversity of tropical forests by affecting the survival of seedlings and saplings beneath parent plants. The white-lipped peccary (Tayassu pecari) accounts for the largest herbivore biomass that controls seed and seedling survival in Neotropical ecosystems. However, hunting and habitat loss has driven peccaries to local extinction for most of their original distribution, so it is likely that their absence will affect plant recruitment dynamics. We tested the effects of peccary local extinction on the density and spatial distribution of the hyperdominant palm Euterpe edulis by performing a fine-scale characterization of its spatial recruitment in six forest sites in the Brazilian Atlantic forest. We compared the age structure and the spatial patterns of seedlings, saplings, and adults as well as the relationship between them. We found that while under the presence of peccaries there was a decrease in recruitment rates under adults, the local extinction of these large mammals led to a more clumped process of spatial recruitment. Despite such contrasting spatial patterns of recruitment dynamics, neither age structure nor the random spatial distribution of adults was affected by the presence or absence of peccaries, indicating that their early effects on these palm populations are mitigated as recruitment advances. Our findings highlight the role of large-bodied forest-dwelling herbivores in regulating the fine-scale spatial recruitment of plants and advance our understanding on the effects of defaunation in tropical forests. Abstract in Portuguese is available with online material.},
+   keywords = {Atlantic forest
+defaunation
+Euterpe edulis
+plant recruitment
+seed predation},
+   ISSN = {1744-7429},
+   DOI = {10.1111/btp.12873},
+   year = {2021},
+   type = {Journal Article}
+}
+```

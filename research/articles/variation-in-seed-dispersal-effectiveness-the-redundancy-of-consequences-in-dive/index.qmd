@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/oik.02629) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/oik.02629) | [OpenAlex](https://openalex.org/W2121148529)
+
+## BibTeX
+
+```bibtex
+@article{RN26881,
+   author = {Rother, Débora C. and Pizo, Marco A. and Jordano, Pedro},
+   title = {Variation in seed dispersal effectiveness: the redundancy of consequences in diversified tropical frugivore assemblages},
+   journal = {Oikos},
+   volume = {125},
+   number = {3},
+   pages = {336–342},
+   abstract = {Plant-frugivore mutualistic assemblages frequently combine multiple, complementary or not (i.e. redundant), distinct effects of animal species. To a large extent, the outcomes of these interactions crucially depend on the delayed consequences of frugivore effectiveness on plant recruitment. We evaluated seed dispersal effectiveness for three plant species in a Brazilian Atlantic forest with a marked habitat heterogeneity defined by bamboo and non-bamboo patches. Twenty one, 23 and 14 bird species ate fruits of Euterpe edulis, Sloanea guianensis and Virola bicuhyba trees, respectively. For both Euterpe and Virola, visitation rate was the variable contributing for most variance across frugivore species in the quantitative component of effectiveness (QC, which depends on the combined effects of interaction frequency and per-interaction effect), while the number of fruits manipulated/visit had the greatest contribution in Sloanea. By combining observational data and experimental seed addition for Euterpe we tested for consistent functional patterns among species in the frugivore assemblage, extending beyond the fruit removal stage. Rankings of QC across Euterpe frugivores remained consistent with their relative contributions to fruit removal and, importantly, with their contributions to seedling establishment. Yet, QC of effectiveness across Euterpe frugivores were more homogeneous at the fruit removal and dispersal stages (contribution to seed dispersal) than for the delayed, dissemination and post-dispersal effects on recruitment. High complementarity of diversified frugivore assemblages may increase through added variance in their delayed effects related to qualitative components of effectiveness. Our results underscore the importance of assessing how dispersal services provided by mutualistic frugivores play complementary, rather than redundant, roles in seed dispersal within heterogeneous landscapes. Such ecological outcomes highlight the value of combining observational and experimental field designs to assess functional diversity patterns of tropical frugivore assemblages and delayed effects of their interactions with plants.},
+   ISSN = {6503251521},
+   DOI = {10.1111/oik.02629},
+   year = {2016},
+   type = {Journal Article}
+}
+```

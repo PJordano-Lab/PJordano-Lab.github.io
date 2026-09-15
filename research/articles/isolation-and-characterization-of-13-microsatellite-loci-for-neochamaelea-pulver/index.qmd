@@ -19,3 +19,25 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1755-0998.2009.02701.x) | [OpenAlex](https://openalex.org/W2122361825)
+
+## BibTeX
+
+```bibtex
+@article{RN14508,
+   author = {Rigueiro, Cristina and Arroyo, Juan M and Valido, Alfredo and Jordano, Pedro},
+   title = {Isolation and characterization of 13 microsatellite loci for Neochamaelea pulverulenta (Cneoraceae)},
+   journal = {Molecular Ecology Resources},
+   volume = {9},
+   pages = {1497–1500},
+   abstract = {We report 13 polymorphic nuclear microsatellite loci for Neochamaelea pulverulenta (Cneoraceae) using an enriched-library approach. Although this plant species is tetraploid, expected patterns for tetrasomic segregation were completely absent, and all loci analysed showed a diploid pattern of inheritance. We detected a total of 102 alleles in 57 individuals genotyped (mean number of alleles per locus was 7.85). The values of observed and expected heterozygosities ranged from 0.193 to 0.737 and 0.425 to 0.812 respectively. Disomic segregation, levels of polymorphism and the exclusionary power of the developed markers render them readily applicable for parentage assignment of dispersed seeds, and for analyses of spatial genetic structure and population connectivity.},
+   keywords = {Pollination
+Seed dispersal
+Canary Islands
+Diploidization
+Seed endocarp},
+   ISSN = {1755-098X},
+   DOI = {10.1111/j.1755-0998.2009.02701.x},
+   year = {2009},
+   type = {Journal Article}
+}
+```

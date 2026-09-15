@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rspb.2015.2444) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2015.2444) | [OpenAlex](https://openalex.org/W2305695185)
+
+## BibTeX
+
+```bibtex
+@article{RN57489,
+   author = {Dehling, D Matthias and Jordano, Pedro and Schaefer, H Martin and Böhning-Gaese, Katrin and Schleuning, Matthias},
+   title = {Morphology predicts species' functional roles and their degree of specialization in plant{\textendash}frugivore interactions},
+   journal = {Proceedings of the Royal Society of London Series B-Biological Sciences},
+   volume = {283},
+   pages = {20152444},
+   DOI = {10.1098/rspb.2015.2444},
+   url = {http://rspb.royalsocietypublishing.org/content/royprsb/283/1823/20152444.full.pdf},
+   year = {2016},
+   type = {Journal Article}
+}
+```

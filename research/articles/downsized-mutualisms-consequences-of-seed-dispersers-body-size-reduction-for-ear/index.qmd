@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1016/j.ppees.2014.12.001) | [PDF](http://hdl.handle.net/20.500.12049/559) | [OpenAlex](https://openalex.org/W1994503780)
+
+## BibTeX
+
+```bibtex
+@article{RN26128,
+   author = {Pérez-Méndez, Néstor and Jordano, Pedro and Valido, Alfredo},
+   title = {Downsized mutualisms: Consequences of seed dispersers{\textquoteright} body-size reduction for early plant recruitment},
+   journal = {Perspectives in Plant Ecology Evolution and Systematics},
+   volume = {17},
+   pages = {151–159},
+   DOI = {10.1016/j.ppees.2014.12.001},
+   year = {2015},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,37 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1466-8238.2007.00324.x) | [PDF](http://hdl.handle.net/10261/38464) | [OpenAlex](https://openalex.org/W2120026193)
+
+## BibTeX
+
+```bibtex
+@article{RN57967,
+   author = {Carnicer, Jofre and Brotons, Lluis and Sol, Daniel and Jordano, Pedro},
+   title = {Community-based processes behind species richness gradients: contrasting abundance-extinction dynamics and sampling effects in areas of low and high productivity},
+   journal = {Global Ecol Biogeography},
+   volume = {16},
+   pages = {709–719},
+   note = {221yi
+Times Cited:22
+Cited References Count:55},
+   abstract = {Aim To consider the role of local colonization and extinction rates in explaining the generation and maintenance of species richness gradients at the regional scale.Location A Mediterranean biome (oak forests, deciduous forests, shrublands, pinewoods, firwoods, alpine heathlands, crops) in Catalonia, Spain.Methods We analysed the relative importance of direct and indirect effects of community size in explaining species richness gradients. Direct sampling effects of community size on species richness are predicted by Hubbell's neutral theory of biodiversity and biogeography. The greater the number of individuals in a locality, the greater the number of species expected by random direct sampling effects. Indirect effects are predicted by the abundance-extinction hypothesis, which states that in more productive sites increased population densities and reduced extinction rates may lead to high species richness. The study system was an altitudinal gradient of forest bird species richness.Results We found significant support for the existence of both direct and indirect effects of community size in species richness. Thus, both the neutral and the abundance-extinction hypotheses were supported for the altitudinal species richness gradient of forest birds in Catalonia. However, these mechanisms seem to drive variation in species richness only in low-productivity areas; in high-productivity areas, species richness was uncorrelated with community size and productivity measures.Main conclusions Our results support the existence of a geographical mosaic of community-based processes behind species richness gradients, with contrasting abundance-extinction dynamics and sampling effects in areas of low and high productivity.},
+   keywords = {Altitudinal Gradients
+Biodiversity
+Birds
+Climate
+Diversification
+Energy Relationships
+Extinction Rate
+Latitudinal Diversity Gradient
+Neutral Theory
+Patterns
+Sampling
+Santa-Rosalia
+Scale
+Species Richness},
+   DOI = {10.1111/j.1466-8238.2007.00324.x},
+   url = {<Go to ISI>://WOS:000250262900004},
+   year = {2007},
+   type = {Journal Article}
+}
+```

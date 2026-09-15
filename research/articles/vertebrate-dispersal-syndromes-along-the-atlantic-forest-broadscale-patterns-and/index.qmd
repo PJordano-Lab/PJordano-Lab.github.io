@@ -21,3 +21,50 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1466-8238.2008.00386.x) | [PDF](http://hdl.handle.net/10261/38415) | [OpenAlex](https://openalex.org/W2108663069)
+
+## BibTeX
+
+```bibtex
+@article{RN57574,
+   author = {Almeida-Neto, M. and Campassi, F. and Galetti, M. and Jordano, P. and Oliveira, A.},
+   title = {Vertebrate dispersal syndromes along the Atlantic forest: broad-scale patterns and macroecological correlates},
+   journal = {Global Ecology and Biogeography},
+   volume = {17},
+   number = {4},
+   pages = {503–513},
+   note = {311qm
+Times Cited:59
+Cited References Count:56},
+   abstract = {Aim To assess the geographical variation in the relative importance of vertebrates, and more specifically of birds and mammals, as seed dispersal agents in forest communities, and to evaluate the influence of geographical and climatic factors on the observed trends.
+Location One hundred and thirty-five forest communities in the Brazilian Atlantic forest.
+Methods We collected data on dispersal modes for 2292 woody species. By combining species x site with species x trait matrices, we obtained the percentages of endozoochory, ornithochory, mastozoochory and the mean fruit diameter for the local forest communities. We used Spearman's correlation to assess bivariate relationships between variables. Subsequently, we performed paired t-tests to verify if variations in frequency of dispersal modes and mean fruit diameter were influenced by altitude or temperature. Then, we applied multiple linear regressions to evaluate the effect of geographical and climatic variables on variation in the relative frequency of dispersal modes and mean fruit diameter across communities.
+Results We found no consistent latitudinal or longitudinal trend in the percentage of vertebrate-dispersed species, neither bird- nor mammal-dispersed species along the Atlantic forest. Endozoochory was affected chiefly by annual mean rainfall, increasing towards moister sites. Forest communities located at higher altitudes had a higher percentage of bird-dispersed species. Even when sites with identical values of annual mean temperature were compared, altitude had a positive effect on ornithochory. Conversely, we found a higher percentage of mammal-dispersed species in warmer forests, even when locations at the same altitudinal belts were contrasted. Fruit diameter was clearly related to altitude, decreasing towards higher elevations.
+Main conclusions This is the first analysis of a large data set on dispersal syndromes in tropical forest communities. Our findings support the hypotheses that: (1) geographical variation in the relative number of fleshy fruit species is mainly driven by moisture conditions and is relatively independent of geographical location, and (2) broad-scale trends in fruit size correspond to geographical variation in the relative importance of mammals and birds as seed dispersal agents at the community level.},
+   keywords = {birds
+brazilian atlantic forest
+dispersal spectra
+elevation
+endozoochory
+fleshy fruits
+frugivory
+fruit size
+latitudinal gradient
+mammals
+seed size
+fruit size
+spatial autocorrelation
+neotropical forests
+plant-communities
+woody-plants
+growth form
+rain-forest
+spectra
+adaptation},
+   ISSN = {1466-822x},
+   DOI = {10.1111/j.1466-8238.2008.00386.x},
+   url = {<Go to ISI>://WOS:000256614700005
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1466-8238.2008.00386.x},
+   year = {2008},
+   type = {Journal Article}
+}
+```

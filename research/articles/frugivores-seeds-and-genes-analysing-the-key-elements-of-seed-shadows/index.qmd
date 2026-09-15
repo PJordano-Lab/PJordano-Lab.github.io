@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1079/9781845931650.0229) | [PDF](http://hdl.handle.net/10261/38467) | [OpenAlex](https://openalex.org/W1565947062)
+
+## BibTeX
+
+```bibtex
+@inbook{RN11338,
+   author = {Jordano, Pedro},
+   title = {Frugivores, seeds, and genes: analysing the key components of seed shadows},
+   booktitle = {Seed dispersal: theory and its application in a changing world},
+   editor = {Dennis, A J and Schupp, E W and Green, R and Westcott, D},
+   publisher = {CAB International Publishing},
+   address = {Wallingford, UK},
+   pages = {229–251},
+   year = {2007},
+   type = {Book Section}
+}
+```

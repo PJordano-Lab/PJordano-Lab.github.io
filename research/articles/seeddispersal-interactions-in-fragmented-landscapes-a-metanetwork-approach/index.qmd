@@ -19,3 +19,43 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/ele.12909) | [OpenAlex](https://openalex.org/W2791664311)
+
+## BibTeX
+
+```bibtex
+@article{RN57541,
+   author = {Emer, C. and Galetti, M. and Pizo, M. A. and Guimaraes, P. R. and Moraes, S. and Piratelli, A. and Jordano, P.},
+   title = {Seed-dispersal interactions in fragmented landscapes - a metanetwork approach},
+   journal = {Ecology Letters},
+   volume = {21},
+   number = {4},
+   pages = {484–493},
+   note = {Fy6xyTimes Cited:0Cited References Count:86},
+   abstract = {Mutualistic interactions repeatedly preserved across fragmented landscapes can scale-up to form a spatial metanetwork describing the distribution of interactions across patches. We explored the structure of a bird seed-dispersal (BSD) metanetwork in 16 Neotropical forest fragments to test whether a distinct subset of BSD-interactions may mediate landscape functional connectivity. The metanetwork is interaction-rich, modular and poorly connected, showing high beta-diversity and turnover of species and interactions. Interactions involving large-sized species were lost in fragments < 10000 ha, indicating a strong filtering by habitat fragmentation on the functional diversity of BSD-interactions. Persistent interactions were performed by small-seeded, fast growing plant species and by generalist, small-bodied bird species able to cross the fragmented landscape. This reduced subset of interactions forms the metanetwork components persisting to defaunation and fragmentation, and may generate long-term deficits of carbon storage while delaying forest regeneration at the landscape level.},
+   keywords = {atlantic forest
+avian seed-dispersal interactions
+beta-diversity of interactions
+defaunation
+eco-logical functions
+habitat fragmentation
+interaction centrality
+meta-community
+mobile links
+tropical conservation
+brazilian atlantic forest
+ecological networks
+functional connectivity
+habitat fragmentation
+mutualistic networks
+biological networks
+community ecology
+frugivorous birds
+tropical forest
+beta-diversity},
+   ISSN = {1461-023x},
+   DOI = {10.1111/ele.12909},
+   url = {<Go to ISI>://WOS:000427007400002},
+   year = {2018},
+   type = {Journal Article}
+}
+```

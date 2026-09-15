@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1007/s00442-011-1984-2) | [PDF](http://hdl.handle.net/10261/40446) | [OpenAlex](https://openalex.org/W2079512690)
+
+## BibTeX
+
+```bibtex
+@article{RN57546,
+   author = {Mello, Marco Aurelio Ribeiro and Marquitti, Flávia Maria Darcie and Guimaraes, Paulo R and Kalko, Elisabeth Klara Viktoria and Jordano, Pedro and Aguiar, Marcus Aloizio Martinez},
+   title = {The modularity of seed dispersal: differences in structure and robustness between bat- and bird-fruit networks},
+   journal = {Oecologia},
+   volume = {167},
+   pages = {131–140},
+   DOI = {10.1007/s00442-011-1984-2},
+   url = {https://link.springer.com/content/pdf/10.1007%2Fs00442-011-1984-2.pdf},
+   year = {2011},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/ele.14141) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14141) | [OpenAlex](https://openalex.org/W4310572889)
+
+## BibTeX
+
+```bibtex
+@article{RN12346,
+   author = {Quintero, Elena and Rodríguez‐Sánchez, Francisco and Jordano, Pedro},
+   title = {Reciprocity and interaction effectiveness in generalised mutualisms among free‐living species},
+   journal = {Ecology Letters},
+   volume = {26},
+   pages = {132–146},
+   abstract = {Mutualistic interactions among free‐living species generally involve low‐frequency interactions and highly asymmetric dependence among partners, yet our understanding of factors behind their emergence is still limited. Using individual‐based interactions of a super‐generalist fleshy‐fruited plant with its frugivore assemblage, we estimated the Resource Provisioning Effectiveness (RPE) and Seed Dispersal Effectiveness (SDE) to assess the balance in the exchange of resources. Plants were highly dependent on a few frugivore species, while frugivores interacted with most individual plants, resulting in strong asymmetries of mutual dependence. Interaction effectiveness was mainly driven by interaction frequency. Despite highly asymmetric dependences, the strong reliance on quantity of fruit consumed determined high reciprocity in rewards between partners (i.e. higher energy provided by the plant, more seedlings recruited), which was not obscured by minor variations in the quality of animal or plant service. We anticipate reciprocity will emerge in low‐intimacy mutualisms where the mutualistic outcome largely relies upon interaction frequency. Using individual‐based interactions of a super‐generalist fleshy‐fruited plant with its frugivore assemblage, we estimated mutual rewards using the Effectiveness framework, to assess the balance in exchange of resources and partner dependence. Plants were highly dependent on a few generalist frugivores, while these interacted with most individual plants, resulting in strong asymmetries of mutual dependence. Despite highly asymmetric dependences, the strong reliance on quantity of fruit determined high reciprocity in rewards between partners.},
+   ISSN = {1461-023X},
+   DOI = {10.1111/ele.14141},
+   year = {2023},
+   type = {Journal Article}
+}
+```

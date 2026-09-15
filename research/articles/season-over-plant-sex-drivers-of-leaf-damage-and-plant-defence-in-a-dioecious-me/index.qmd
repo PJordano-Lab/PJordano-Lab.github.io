@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/plb.70115) | [PDF](https://doi.org/10.1111/plb.70115) | [OpenAlex](https://openalex.org/W4414257511)
+
+## BibTeX
+
+```bibtex
+@article{RN30632,
+   author = {Valdés‐Correcher, E. and Calvo, G. and Rigueiro, C. and Lago‐Núñez, B. and Jordano, P. and Moreira, X.},
+   title = {Season over plant sex: drivers of leaf damage and plant defence in a dioecious Mediterranean shrub},
+   journal = {Plant Biology},
+   pages = {plb.70115},
+   abstract = {In dioecious plants, females often prioritize reproduction over growth, potentially investing more in defence, while males grow faster but allocate fewer resources to defence, making them more susceptible to herbivory. Recent studies challenge this view, showing that males may grow more slowly and sometimes invest equally or more in defence. Variability in sex-speciﬁc herbivory and defence strategies may stem from seasonal shifts in resource allocation, with females prioritizing growth early in the season and reproduction later. These changes complicate herbivory patterns, necessitating research that considers temporally dynamic factors.},
+   ISSN = {1435-8603, 1438-8677},
+   DOI = {10.1111/plb.70115},
+   year = {2025},
+   type = {Journal Article}
+}
+```

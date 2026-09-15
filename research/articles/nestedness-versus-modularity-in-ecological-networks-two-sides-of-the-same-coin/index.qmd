@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1365-2656.2010.01688.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2656.2010.01688.x) | [OpenAlex](https://openalex.org/W2099326369)
+
+## BibTeX
+
+```bibtex
+@article{RN25621,
+   author = {Fortuna, M.A. Miguel A and Stouffer, D.B. Daniel B and Olesen, Jens M J.M. and Jordano, Pedro and Mouillot, David and Krasnov, Boris R and Poulin, Robert and Bascompte, Jordi},
+   title = {Nestedness versus modularity in ecological networks: two sides of the same coin?},
+   journal = {Journal of Animal Ecology},
+   volume = {79},
+   number = {4},
+   pages = {1–7},
+   abstract = {1. Understanding the structure of ecological networks is a crucial task for interpreting community and ecosystem responses to global change. 2. Despite the recent interest in this subject, almost all studies have focused exclusively on one specific network property. The question remains as to what extent different network properties are related and how understanding this relationship can advance our comprehension of the mechanisms behind these patterns. 3. Here, we analysed the relationship between nestedness and modularity, two frequently studied network properties, for a large data set of 95 ecological communities including both plant-animal mut ualistic and host-parasite networks. 4. We found that the correlation between nestedness and modularity for a population of random matrices generated from the real communities decreases significantly in magnitude and sign with increasing connectance independent of the network type. At low connectivities, networks that are highly nested also tend to be highly modular; the reverse happens at high connectivities. 5. The above result is qualitatively robust when different null models are used to infer network structure, but, at a finer scale, quantitative differences exist. We observed an important interaction between the network structure pattern and the null model used to detect it. 6. A better understanding of the relationship between nestedness and modularity is important given their potential implications on the dynamics and stability of ecological communities. © 2010 The Authors. Journal compilation © 2010 British Ecological Society.},
+   keywords = {Complex networks
+Food webs
+Mutualistic networks
+Host-parasite
+Plant-pollinator
+Plant-seed disperser},
+   DOI = {10.1111/j.1365-2656.2010.01688.x},
+   year = {2010},
+   type = {Journal Article}
+}
+```

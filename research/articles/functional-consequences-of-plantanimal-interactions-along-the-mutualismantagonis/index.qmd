@@ -21,3 +21,30 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1002/ecy.1756) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.1756) | [OpenAlex](https://openalex.org/W2581996291)
+
+## BibTeX
+
+```bibtex
+@article{RN57464,
+   author = {Rodríguez-Rodríguez, María C. and Jordano, Pedro and Valido, Alfredo},
+   title = {Functional consequences of plant-animal interactions along the mutualism-antagonism gradient},
+   journal = {Ecology},
+   volume = {98},
+   pages = {1266–1276},
+   abstract = {Plant- animal interactions are pivotal for ecosystem functioning, and usually form complex networks involving multiple species of mutualists as well as antagonists. The costs and benefits of these interactions show a strong context- dependency directly related to individual variation in partner identity and differential strength. Yet understanding the context- dependency and functional consequences of mutualistic and antagonistic interactions on individuals remains a lasting challenge. We use a network approach to characterize the individual, plant- based pollination interaction networks of the Canarian Isoplexis canariensis (Plantaginaceae) with a mixed assemblage of vertebrate mutualists (birds and lizards) and invertebrate antagonists (florivores, nectar larcenists, and predispersal seed predators). We identify and quantify interaction typologies based on the sign (mutualistic vs. antagonistic) and strength (weak vs. strong) of animal- mediated pollination and test the relationship with indi- vidual female reproductive success (FRS). In addition, we document pollinator movement pat- terns among individual plants to infer events of pollen transfer/receipt that define the plant mating networks and test the relationship with FRS. We identify six interaction typologies along a mutualism- antagonism gradient, with two typologies being over- represented involving both mutualists and antagonists and influencing FRS. Plants showing strong mutualistic inter- actions, but also (weak or strong) interactions with antagonists are relatively better connected in the mating network (i.e., with higher potential to transfer or receive pollen). Thus, mixed flower visitor assemblages with mutualists and antagonists give plants increased their impor- tance in the mating networks, promote outcrossing and increasing both female and male fit- ness. Our approach helps characterize plant- animal interaction typologies, the context- specificity of diversified mutualisms, and a better forecasting of their functional consequences.},
+   keywords = {Canary Islands
+Isoplexis canariensis
+antagonist
+bird pollination
+female reproductive success
+individual-based pollination networks
+interaction strength
+mating network
+mutualist},
+   ISSN = {4955139574},
+   DOI = {10.1002/ecy.1756},
+   url = {https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecy.1756},
+   year = {2017},
+   type = {Journal Article}
+}
+```

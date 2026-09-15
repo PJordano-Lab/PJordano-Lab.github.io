@@ -21,3 +21,40 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1095-8339.2006.00529.x) | [PDF](https://academic.oup.com/botlinnean/article-pdf/151/1/141/17031911/j.1095-8339.2006.00529.x.pdf) | [OpenAlex](https://openalex.org/W2117876669)
+
+## BibTeX
+
+```bibtex
+@article{RN57545,
+   author = {Galetti, M. and Donatti, C. I. and Pires, A. S. and Guimaraes, P. R. and Jordano, P.},
+   title = {Seed survival and dispersal of an endemic Atlantic forest palm: the combined effects of defaunation and forest fragmentation},
+   journal = {Botanical Journal of the Linnean Society},
+   volume = {151},
+   number = {1},
+   pages = {141–149},
+   note = {038wlTimes Cited:129Cited References Count:54},
+   abstract = {About 45 palm species occur in the Atlantic forest of Brazil, and most of them are affected by loss of seed dispersers resulting from forest fragmentation and hunting. Here we report the effects of habitat loss and defaunation on the seed dispersal system of an endemic palm, Astrocaryum aculeatissimum. We evaluated seed removal, insect and rodent seed predation, and scatter-hoarding in nine sites, ranging from 19 ha to 79 000 ha. We report the seedling, juvenile and adult palm densities in this range of sites. Endocarps remaining beneath the parent palm had a higher probability of being preyed upon by insects in small, mostly fragmented and more defaunated sites. The frequency of successful seed removal, scatter-hoarding and consumption by rodents increased in the larger, less defaunated sites. Successful removal and dispersal collapsed in small (< 1000 ha), highly defaunated sites and frequently resulted in low densities of both seedlings and juveniles. Our results indicate that a large fraction of Atlantic forest palms that rely on scatter-hoarding rodents may become regionally extinct due to forest fragmentation and defaunation. Current management practices including palm extraction and hunting pressure have a lasting effect on Atlantic forest palm regeneration by severely limiting successful recruitment of prereproductive individuals.(c) 2006 The Linnean Society of London.},
+   keywords = {astrocaryum
+caching
+dasyprocta
+proechymis
+scatter-hoarding
+sciurus
+seed predation
+south-eastern brazil
+rain-forest
+astrocaryum-standleyanum
+syagrus-romanzoffiana
+population-structure
+spatial-distribution
+neotropical forest
+tropical forests
+recruitment
+tree},
+   ISSN = {0024-4074},
+   DOI = {DOI 10.1111/j.1095-8339.2006.00529.x},
+   url = {<Go to ISI>://WOS:000237260100011},
+   year = {2006},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/btp.12738) | [PDF](http://hdl.handle.net/11449/201409) | [OpenAlex](https://openalex.org/W2996084291)
+
+## BibTeX
+
+```bibtex
+@article{RN147,
+   author = {Emer, Carine and Jordano, Pedro and Pizo, Marco A. and Ribeiro, Milton C. and Silva, Fernanda R. and Galetti, Mauro},
+   title = {Seed dispersal networks in tropical forest fragments: Area effects, remnant species, and interaction diversity},
+   journal = {Biotropica},
+   volume = {52},
+   number = {1},
+   pages = {81–89},
+   ISSN = {0006-3606, 1744-7429},
+   DOI = {10.1111/btp.12738},
+   year = {2020},
+   type = {Journal Article}
+}
+```

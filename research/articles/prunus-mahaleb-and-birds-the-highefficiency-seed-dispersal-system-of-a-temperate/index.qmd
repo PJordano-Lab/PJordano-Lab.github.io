@@ -21,3 +21,34 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.2307/2937263) | [PDF](http://hdl.handle.net/10261/45070) | [OpenAlex](https://openalex.org/W2030325236)
+
+## BibTeX
+
+```bibtex
+@article{RN13261,
+   author = {Herrera, Carlos M and Jordano, Pedro},
+   title = {Prunus mahaleb and birds : the high-efficiency seed dispersal system of a temperate fruiting tree},
+   journal = {Ecological Monographs},
+   volume = {51},
+   pages = {203–218},
+   abstract = {Seed dispersal of Pr1rnlr.s rnahaleh (Rosaceae), a tree producing large fruit crops, was studied in southeastern Spain to establish the degree of reciprocal dependence between the plant and the birds which disperse it. P. rnr~hnleb drupes contain a relatively large seed (pulp:stone ratio 0.62). The water content of pulp is 82.97~ and dry flesh contains 3.2% crude fat and 7.8% crude protein, being largely made up of carbohydrates. Four bird species were the main seed dispersers. Visitation rates, feeding efficiency. and degree of dependence on P. rnahalrh fruits for food varied substantially among species. T1rrdlr.s rnrr~rla and Sylvir~ r~tricrlpillr~ showed the highest visitation rates, were be- haviorally the most efficient, removed the bulk of seeds and, after feeding, tended to fly preferentially towards the apparently safest sites for growth and survival of saplings. They were also most heavily dependent on P. muhulrb fruits for food, whereas the other disperser species relied largely on insects. Individual plant location and dispersers' habitat preferences produced a differential seeding pattern over the patchy habitat surrounding study trees. The "key" dispersers T. rnerulr~and S. utricc~pillu are specialized frugivores, efficiently dispersing seeds of a plant producing large numbers of extremely low-reward fruits. These results conflict with theoretical expectations and suggest that both the nature of the correlation between bird- and plant-related coevolutionary gradients and their amplitudes, as well as the nature of bird-plant coevolutionary interactions. may differ between tropical and temperate habitats.},
+   keywords = {spain
+prunus mahaleb
+f
+turdus merula
+sylvia atricapilla
+considered as any nonpassive
+eetling qfjicic
+etl di
+ncy
+olirtion
+plant-bird coei
+sc
+seed dispersal may be
+spersr11},
+   ISSN = {0012-9615},
+   DOI = {10.2307/2937263},
+   year = {1981},
+   type = {Journal Article}
+}
+```

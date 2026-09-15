@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1365-2745.2008.01364.x) | [PDF](http://hdl.handle.net/10261/38407) | [OpenAlex](https://openalex.org/W2165908687)
+
+## BibTeX
+
+```bibtex
+@article{RN13556,
+   author = {Hampe, Arndt and García-Castaño, Juan L and Schupp, Eugene W and Jordano, Pedro},
+   title = {Spatio-temporal dynamics and local hotspots of initial recruitment in vertebrate-dispersed trees},
+   journal = {Journal of Ecology},
+   volume = {96},
+   pages = {668–678},
+   abstract = {1. Initial recruitment, or the arrival and establishment of propagules, is the most variable period in the life cycle of long-lived plants, and the extent to which studies of initial recruitment can be used to predict patterns of regeneration remains unresolved.2. We investigated the spatio-temporal dynamics of initial recruitment across five populations of three fleshy-fruited tree species from contrasting environments. Among-year variation in total seedfall, dispersed seedfall and seedling distributions was examined using analytical approaches that are new to the field and that explicitly incorporate space and allow comparisons among studies.3. Observed patterns ranged from remarkable across-year consistency in seedfall distributions and strong spatial coupling between seed and seedling stages to extensive variation and almost complete independence of stages. Spatial distributions of frugivore-mediated seedfall were markedly more consistent than those of the total seedfall in two of the five populations. Seedling distributions were generally more variable among years than seedfall distributions.4. All populations showed a positive relationship between the long-term mean density of recruitment at a given microsite and its year-to-year consistency. This relationship remained valid when considering only microsites away from fruiting tree canopies (i.e. those receiving actually dispersed seeds), and was virtually independent of their distance to the nearest fruiting tree.5. Synthesis. Our results point to the existence of some general rules behind the idiosyncratic recruitment dynamics of perennial plant populations, which should help with projecting spatial patterns of plant establishment in long-lived species. In particular, those microsites that combine a great intensity with a high year-to-year consistency of recruitment should represent potential regeneration 'hotspots' whose identification and characterization can be of great use for the management and conservation of naturally regenerating tree populations.},
+   DOI = {10.1111/j.1365-2745.2008.01364.x},
+   year = {2008},
+   type = {Journal Article}
+}
+```

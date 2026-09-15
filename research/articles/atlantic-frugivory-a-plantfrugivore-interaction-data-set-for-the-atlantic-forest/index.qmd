@@ -21,3 +21,29 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1002/ecy.1818) | [PDF](https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.1818) | [OpenAlex](https://openalex.org/W2597377573)
+
+## BibTeX
+
+```bibtex
+@article{RN27685,
+   author = {Bello, Carolina and Galetti, Mauro and Montan, Denise and Pizo, Marco A and Mariguela, Tatiane C and Culot, Laurence and Bufalo, Felipe and Labecca, Fabio and Pedrosa, Felipe and Constantini, Rafaela and Emer, Carine and Silva, Wesley R and da Silva, Fernanda R and Ovaskainen, Otso and Jordano, Pedro},
+   title = {ATLANTIC frugivory: a plant–frugivore interaction data set for the Atlantic Forest},
+   journal = {Ecology},
+   volume = {98},
+   number = {6},
+   pages = {1729–1729},
+   abstract = {The dataset provided here includes 8320 frugivory interactions (records of pairwise interactions between plant and frugivore species) reported for the Atlantic Forest. The dataset includes interactions between 331 vertebrate species (232 birds, 90 mammals, five fishes, one amphibian and three reptiles) and 788 plant species. We also present information on traits directly related to the frugivory process (endozoochory), such as the size of fruits and seeds and the body mass and gape size of frugivores. Data were extracted from 166 published and unpublished sources spanning from 1961 to 2016. While this is probably the most comprehensive dataset available for a tropical ecosystem, it is arguably taxonomically and geographically biased. The plant families better represented are Melastomataceae, Myrtaceae, Moraceae, Urticaceae and Solanaceae. Myrsine coriacea, Alchornea glandulosa, Cecropia pachystachya, and Trema micrantha are the plant species with the most animal dispersers (83, 76, 76 and 74 species, respectively). Among the animal taxa, the highest number of interactions is reported for birds (3883), followed by mammals (1315). The woolly spidermonkey or muriqui, Brachyteles arachnoides, and rufous-bellied thrush, Turdus rufiventris, are the frugivores with the most diverse fruit diets (137 and 121 plants species, respectively). The most important general patterns that we note are that larger seeded plant species (>12 mm) are mainly eaten by terrestrial mammals (rodents, ungulates, primates and carnivores) and that birds are the main consumers of fruits with a high concentration of lipids. Our dataset is geographically biased, with most interactions recorded for the southeast Atlantic Forest},
+   keywords = {frugivory
+seed dispersal
+mutualism
+Atlantic Forest
+fruit traits
+frugivores
+network
+plant–animal interaction},
+   ISSN = {4955139574},
+   DOI = {10.1002/ecy.1818},
+   year = {2017},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,28 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1420-9101.2010.02206.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1420-9101.2010.02206.x) | [OpenAlex](https://openalex.org/W1590249142)
+
+## BibTeX
+
+```bibtex
+@article{RN57530,
+   author = {Valido, A. and Schaefer, H. M. and Jordano, P.},
+   title = {Colour, design and reward: Phenotypic integration of fleshy fruit displays},
+   journal = {Journal of Evolutionary Biology},
+   volume = {24},
+   pages = {751–760},
+   abstract = {The functional or structural linkage among traits [phenotypic integration (PI)] within complex structures can constrain the evolutionary response of individual traits. To analyse whether frugivores with distinct sensory ecology have shaped the patterns of fruit diversification differently, we compared PI values of fleshy fruits that are consumed by birds and mammals. We used phylogenetic comparative analyses of PI among 13 morphological, nutritional and visual fruit traits from 111 Mediterranean plant species. Results showed that morphological traits had higher PI values than nutritional and colour traits. Visual and nutritional traits show positive phylogenetic covariance, while negative covariation occurs between fruits size and nutrients. Importantly, fruits consumed by birds were relatively more integrated than fruits consumed partly or solely by mammals. Hence, we show that major groups of mutualistic frugivores can shape the covariance among some fruit traits differently and thereby influence fruit diversification.},
+   keywords = {Colour
+Fruit evolution
+Morphology
+Nutrient
+Seed dispersal syndromes
+Visual signal
+evolutionary constraints},
+   ISSN = {1010-061X},
+   DOI = {10.1111/j.1420-9101.2010.02206.x},
+   url = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1420-9101.2010.02206.x},
+   year = {2011},
+   type = {Journal Article}
+}
+```

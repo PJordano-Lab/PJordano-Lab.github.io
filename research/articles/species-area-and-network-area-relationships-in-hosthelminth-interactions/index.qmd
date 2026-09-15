@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rspb.2020.3143) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/8059662) | [OpenAlex](https://openalex.org/W3137520524)
+
+## BibTeX
+
+```bibtex
+@article{RN12014,
+   author = {Dallas, Tad A. and Jordano, Pedro},
+   title = {Species-area and network-area relationships in host–helminth interactions},
+   journal = {Proceedings of the Royal Society B},
+   volume = {288},
+   number = {1947},
+   pages = {20203143},
+   abstract = {The scaling relationship observed between species richness and the geographical area sampled (i.e. the species-area relationship (SAR)) is a widely recognized macroecological relationship. Recently, this theory has been extended to trophic interactions, suggesting that geographical area may influence the structure of species interaction networks (i.e. network-area relationships (NARs)). Here, we use a global dataset of host–helminth parasite interactions to test existing predictions from macroecological theory. Scaling between single locations to the global host–helminth network by sequentially adding networks together, we find support that geographical area influences species richness and the number of species interactions in host–helminth networks. However, species-area slopes were larger for host species relative to their helminth parasites, counter to theoretical predictions. Lastly, host–helminth network modularity—capturing the tendency of the network to form into separate subcommunities—decreased with increasing area, also counter to theoretical predictions. Reconciling this disconnect between existing theory and observed SAR and NAR will provide insight into the spatial structuring of ecological networks, and help to refine theory to highlight the effects of network type, species distributional overlap, and the specificity of trophic interactions on NARs.},
+   ISSN = {0962-8452},
+   DOI = {10.1098/rspb.2020.3143},
+   year = {2021},
+   type = {Journal Article}
+}
+```

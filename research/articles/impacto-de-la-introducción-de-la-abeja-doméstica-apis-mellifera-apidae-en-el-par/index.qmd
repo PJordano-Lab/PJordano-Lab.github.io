@@ -19,3 +19,20 @@ format:
 ## Links
 
 [PDF](https://doaj.org/article/80e1abbb4b3b40c2850339e8ea97bcca) | [OpenAlex](https://openalex.org/W4311065816)
+
+## BibTeX
+
+```bibtex
+@article{RN27843,
+   author = {Valido, Alfredo and Rodr\'\iguez-Rodr\'\iguez, Mar\'\ia Candelaria and Jordano, Pedro},
+   title = {Impacto de la introducci{ó}n de la abeja dom{é}stica (Apis mellifera, Apidae) en el Parque Nacional del Teide (Tenerife, Islas Canarias)},
+   journal = {Revista Ecosistemas},
+   volume = {23},
+   pages = {58–59},
+   abstract = {Valido, A., Rodr{\'\i}guez Rodr{\'\i}guez, M.C., Jordano, P. 2014. Impacto de la introducci{ó}n de la abeja dom{é}stica ( Apis mellifera , Apidae) en el Parque Nacional del Teide (Tenerife, Islas Canarias). Ecosistemas 23(3): 58-66. Doi.: 10.7818/ECOS.2014.23-3.08 En el Parque Nacional del Teide (Tenerife, Islas Canarias) se autoriza, cada primavera, la introducci{ó}n de unas 3000 colmenas de abeja dom{é}stica ( Apis mellifera , Apidae). Esto implica que unas 100 millones de abejas mel{\'\i}feras compiten por n{é}ctar y polen con la fauna polinizadora nativa (insectos, aves y lagartos) de este ecosistema peculiar de alta monta{ñ}a. Si tenemos en cuenta que A. mellifera es considerada como un polinizador poco eficaz, la masiva presencia de abejas dom{é}sticas puede adem{á}s incidir negativamente tanto en la producci{ó}n de frutos y semillas como en la viabilidad de las semillas y el vigor de las pl{á}ntulas. El objetivo de este art{\'\i}culo es se{ñ}alar las consecuencias ecol{ó}gicas de la introducci{ó}n de A. mellifera en la red de interacciones mutualistas en esta {á}rea protegida (con un elevado porcentaje de especies end{é}micas), adem{á}s de revisar el impacto de la abeja dom{é}stica sobre la flora y fauna nativa en otros sistemas insulares. Los resultados obtenidos muestran que la diversidad de polinizadores disminuye sustancialmente tras la introducci{ó}n de A. mellifera . Adem{á}s, se detecta una reducci{ó}n significativa en la eficacia reproductiva de aquellas plantas ( Echium wildpretii , Spartocytisus supranubius ) frecuentemente visitadas por A. mellifera . Por todo ello, y en base a los resultados obtenidos, se recomienda eliminar completamente la presencia de colmenas en el interior del Parque Nacional del Teide con el fin de proteger su flora y fauna end{é}mica.},
+   keywords = {⚠️ Invalid DOI},
+   DOI = {10.7818/re.2014.23-3.00},
+   year = {2014},
+   type = {Journal Article}
+}
+```

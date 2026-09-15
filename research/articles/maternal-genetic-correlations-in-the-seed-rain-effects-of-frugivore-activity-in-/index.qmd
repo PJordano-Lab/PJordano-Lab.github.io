@@ -19,3 +19,45 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1365-2745.2009.01577.x) | [OpenAlex](https://openalex.org/W2160536054)
+
+## BibTeX
+
+```bibtex
+@article{RN57569,
+   author = {Garcia, Cristina and Jordano, Pedro and Arroyo, Juan Miguel and Godoy, José Antonio},
+   title = {Maternal genetic correlations in the seed rain: effects of frugivore activity in heterogeneous landscapes},
+   journal = {Journal of Ecology},
+   volume = {97},
+   number = {6},
+   pages = {1424–1435},
+   note = {506ph
+Times Cited:21
+Cited References Count:45},
+   abstract = {P> A frugivore-generated seed rain combines dispersed propagules from source trees located all over the landscape. By selecting deposition sites, frugivorous vertebrates set the maternal genetic correlations in the seed rain, i.e. how maternal progenies become distributed over the landscape relative to the source trees and other conspecifics. This aspect, however, remains virtually unexplored despite its central effect on the demographic and genetic structure in plant populations.We examined three components of maternal genetic correlations in the seed rain: the number of distinct contributing maternal trees (maternal richness), the genetic relatedness among contributing trees (maternal relatedness) and the probability that two seeds drawn from the same seed trap come from the same maternal tree (correlated maternity).We studied the maternal genetic correlations in a vertebrate-generated seed rain of a Prunus mahaleb population located in a heterogeneous landscape (c. 25 ha). Based on the multilocus genotypes provided by microsatellite markers, we identified the source tree of dispersed seeds sampled in seed traps and distributed among six microhabitat types.Seed traps showed a spatial aggregation of maternally related seeds that varied among microhabitats in relation to the frugivore foraging preferences, resulting in variable maternal correlations across the landscape. We found: (i) seed traps with high maternal richness and low genetic relatedness in sites dominated by high shrubs, frequently visited by most frugivore species; (ii) seed traps with low maternal richness, high relatedness and increased correlated maternity values resulting from recurrent dispersal from few isolated source trees to sites dominated by non-fleshy fruited species; and (iii) seed traps under pine trees with high maternal richness and relatedness (but low correlated maternity) due to long-distance dispersal events from several source trees growing closely to each other.Synthesis. Maternal progenies became distributed non-randomly over the landscape, where trees with similar maternal neighbourhoods tended to disperse their progeny to similar microhabitats. This resulted in genetic limitation, i.e. the failure of maternal trees to reach all microhabitats, as well as the failure of the microhabitats to cast all maternal progenies. Both the genetic limitation and the spatial aggregation of maternal progenies, driven by frugivore activity, might pervasively determine recruitment and spatial genetic patterns in heterogeneous populations.},
+   keywords = {correlated maternity
+genetic limitation
+heterogeneous landscape
+maternal progenies
+maternal richness
+microhabitat
+prunus mahaleb
+seed dispersal by vertebrates
+seed rain
+seed trap
+prunus-mahaleb
+computer-program
+dispersal
+patterns
+recruitment
+population
+identification
+pollen
+trees
+plant},
+   ISSN = {0022-0477},
+   DOI = {10.1111/j.1365-2745.2009.01577.x},
+   url = {<Go to ISI>://WOS:000270787100034},
+   year = {2009},
+   type = {Journal Article}
+}
+```

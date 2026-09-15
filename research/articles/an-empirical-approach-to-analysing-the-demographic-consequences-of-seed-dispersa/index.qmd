@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1079/9781845931650.0391) | [PDF](http://hdl.handle.net/10261/38516) | [OpenAlex](https://openalex.org/W1577901424)
+
+## BibTeX
+
+```bibtex
+@inbook{RN27319,
+   author = {Godinez-Alvarez, H and Jordano, P},
+   title = {An empirical approach to analysing the demographic consequences of seed dispersal by frugivores},
+   booktitle = {Seed dispersal theory and its application in a changing world},
+   publisher = {CAB Interantional Publishing},
+   address = {Wallingford, UK},
+   pages = {391–406},
+   abstract = {This chapter reviews some existing approaches to the study of seed dispersal and presents a brief discussion of the population projected matrix models which are commonly used in plant demographic studies. Empirical data are used to illustrate the idea and the possible benefits and disadvantages of the empirical approach to analysing the demographic consequences of seed dispersal (of Neobuxbaumia tetetzo) by frugivores (e.g. birds and bats) are discussed. It argues that matrix population models can incorporate the necessary elements of analysis to clearly integrate the effects of frugivore activity on plant population dynamics.},
+   year = {2007},
+   type = {Book Section}
+}
+```

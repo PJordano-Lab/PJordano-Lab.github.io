@@ -21,3 +21,29 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1890/07-0451.1) | [PDF](http://hdl.handle.net/10261/38399) | [OpenAlex](https://openalex.org/W2102196187)
+
+## BibTeX
+
+```bibtex
+@article{RN4613,
+   author = {Olesen, JM and Bascompte, J and Elberling, H and Jordano, Pedro},
+   title = {Temporal dynamics in a pollination network},
+   journal = {Ecology},
+   volume = {89},
+   number = {6},
+   pages = {1573–1582},
+   keywords = {pollination
+phenology
+constraint
+abundance
+mutualistic
+ecological network
+network
+arctic
+linkages between species
+preferential attachment},
+   DOI = {10.1890/07-0451.1},
+   year = {2008},
+   type = {Journal Article}
+}
+```

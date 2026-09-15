@@ -19,3 +19,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1126/science.1233774) | [OpenAlex](https://openalex.org/W2170513943)
+
+## BibTeX
+
+```bibtex
+@article{RN26861,
+   author = {Galetti, Mauro and Guevara, Roger and Côrtes, Marina C and Fadini, Rodrigo and Matter, Sandro Von and Leite, Abraão B. and Labecca, Fábio and Ribeiro, Thiago and Carvalho, Carolina S. and Collevatti, Rosane G. and Pires, Mathias M and Guimarães Jr., Paulo R and Brancalion, Pedro H. and Ribeiro, Milton C. and Jordano, Pedro},
+   title = {Functional extinction of birds drives rapid evolutionary changes in seed size},
+   journal = {Science},
+   volume = {340},
+   pages = {1086–1091},
+   abstract = {Local extinctions have cascading effects on ecosystem functions, yet little is known about the potential for the rapid evolutionary change of species in human-modified scenarios. We show that the functional extinction of large-gape seed dispersers in the Brazilian Atlantic forest is associated with the consistent reduction of the seed size of a keystone palm species. Among 22 palm populations, areas deprived of large avian frugivores for several decades present smaller seeds than nondefaunated forests, with negative consequences for palm regeneration. Coalescence and phenotypic selection models indicate that seed size reduction most likely occurred within the past 100 years, associated with human-driven fragmentation. The fast-paced defaunation of large vertebrates is most likely causing unprecedented changes in the evolutionary trajectories and community composition of tropical forests.},
+   ISSN = {0036-8075},
+   DOI = {10.1126/science.1233774},
+   year = {2013},
+   type = {Journal Article}
+}
+```

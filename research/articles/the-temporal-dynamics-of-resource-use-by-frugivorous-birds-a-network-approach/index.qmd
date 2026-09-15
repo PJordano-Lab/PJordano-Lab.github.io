@@ -21,3 +21,46 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1890/07-1939.1) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/07-1939.1) | [OpenAlex](https://openalex.org/W2109709798)
+
+## BibTeX
+
+```bibtex
+@article{RN4632,
+   author = {Carnicer, J and Jordano, P and Melián, C J},
+   title = {The temporal dynamics of resource use by frugivorous birds: a network approach},
+   journal = {Ecology},
+   volume = {90},
+   number = {7},
+   pages = {1958–1970},
+   abstract = {Ecological network patterns are influenced by diverse processes that operate at different temporal rates. Here we analyzed whether the coupled effect of local abundance variation, seasonally phenotypic plastic responses, and species evolutionary adaptations might act in concert to shape network patterns. We studied the temporal variation in three interaction properties of bird species (number of interactions per species, interaction strength, and interaction asymmetry) in a temporal sequence of 28 plant-frugivore interaction networks spanning two years in a Mediterranean shrubland community. Three main hypotheses dealing with the temporal variation of network properties were tested, examining the effects of abundance, switching behavior between alternative food resources, and morphological traits in determining consumer interaction patterns. Our results demonstrate that temporal variation in consumer interaction patterns is explained by short-term variation in resource and bird abundances and seasonal dietary switches between alternative resources (fleshy fruits and insects). Moreover, differences in beak morphology are associated with differences in switching behavior between resources, suggesting an important role of foraging adaptations in determining network patterns. We argue that beak shape adaptations might determine generalist and specialist feeding behaviors and thus the positions of consumer species within the network. Finally, we provide a preliminary framework to interpret phylogenetic signal in plant-animal networks. Indeed, we show that the strength of the phylogenetic signal in networks depends on the relative importance of abundance, behavioral, and morphological variables. We show that these variables strongly differ in their phylogenetic signal. Consequently, we suggest that moderate and significant phylogenetic effects should be commonly observed in networks of species interactions.},
+   keywords = {phylogeny
+abundance
+EVOLUTIONARY
+generalist vs
+frugivorous birds
+interaction network
+asymmetry
+mediterranean shrubland
+AVIAN FRUGIVORES
+BIOLOGY
+COEVOLUTIONARY
+DARWINS FINCHES
+FOOD WEBS
+generalist vs. specialist
+INTERACTION STRENGTH
+Mediterranean shrubland
+morphological traits
+MUTUALISTIC NETWORKS
+NETWORKS
+PHENOTYPIC PLASTICITY
+PREDATOR-PREY DYNAMICS
+resource pulse
+specialist
+switching behavior
+SWITCHING BEHAVIOR},
+   ISSN = {0012-9658},
+   DOI = {10.1890/07-1939.1},
+   year = {2009},
+   type = {Journal Article}
+}
+```

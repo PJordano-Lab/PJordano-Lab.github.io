@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1371/journal.pbio.1002559) | [PDF](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.1002559&type=printable) | [OpenAlex](https://openalex.org/W2520782046)
+
+## BibTeX
+
+```bibtex
+@article{RN26947,
+   author = {Jordano, Pedro},
+   title = {Chasing Ecological Interactions},
+   journal = {PLOS Biology},
+   volume = {14},
+   number = {9},
+   pages = {e1002559},
+   abstract = {Basic research on biodiversity has concentrated on individual species—naming new species, studying distribution patterns, and analyzing their evolutionary relationships. Yet biodiversity is more than a collection of individual species; it is the combination of biological entities and processes that support life on Earth.To understand biodiversity we must catalog it, but we must also assess the ways species interact with other species to provide functional support for the Tree of Life. Ecological interactions may be lost well before the species involved in those interactions go extinct; their ecological functions disappear even though they remain. Here, I address the challenges in studying the functional aspects of species interactions and how basic research is helping us address the fast-paced extinction of species due to human activities.},
+   DOI = {10.1371/journal.pbio.1002559},
+   year = {2016},
+   type = {Journal Article}
+}
+```

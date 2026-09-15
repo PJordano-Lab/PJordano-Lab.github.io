@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1146/annurev.ecolsys.38.091206.095818) | [PDF](http://hdl.handle.net/10261/38462) | [OpenAlex](https://openalex.org/W2113618723)
+
+## BibTeX
+
+```bibtex
+@article{RN26843,
+   author = {Bascompte, Jordi and Jordano, Pedro},
+   title = {Plant-animal mutualistic networks: the architecture of biodiversity},
+   journal = {Annual Reviews of Ecology, Evolution, and Systematics},
+   volume = {38},
+   pages = {567–593},
+   abstract = {The mutually beneficial interactions between plants and their animal pollinators and seed dispersers have been paramount in the generation of Earth's biodiversity. These mutualistic interactions often involve dozens or even hundreds of species that form complex networks of interdependences. Understanding how coevolution proceed in these highly diversified mutualisms among free-living species presents a conceptual challenge. Recent work has led to the unambiguous conclusion that mutualistic networks are very heterogeneous (the bulk of the species have a few interactions, but a few species are much more connected than expected by chance), nested (specialists interact with subsets of the species with which generalists interact), and built on weak and asymmetric links among species. Both ecological variables (e.g., pheology, local abundance, and geographic range) and past evolutionary history may explain such network patterns. Network structure ahs important implications for the coexistence and stability of species as well as for the coevolutionary process. Mutualistic networks can thus be regarded as the architecture of biodiversity.},
+   DOI = {10.1146/annurev.ecolsys.38.091206.095818},
+   year = {2007},
+   type = {Journal Article}
+}
+```

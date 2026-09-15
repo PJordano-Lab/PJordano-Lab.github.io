@@ -19,3 +19,41 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.2307/2937165) | [OpenAlex](https://openalex.org/W2105480206)
+
+## BibTeX
+
+```bibtex
+@article{RN13234,
+   author = {Herrera, C and Jordano, Pedro and Lopez-Soria, L and Amat, Ja},
+   title = {Recruitment of a mast-fruiting, bird-dispersed tree: bridging frugivore activity and seedling establishment},
+   journal = {Ecological Monographs},
+   volume = {64},
+   pages = {315–344},
+   abstract = {The recruitment of Phillyrea latifolia L. (Oleaceae), a bird-dispersed tree of Mediterranean forest, is described. Fruit removal by birds, seed rain, post-dispersal seed predation, seed germination, and seedling emergence, survival, and establishment were studied. The main objective was testing whether seed dispersal by birds produced a predictable seedling shadow as a result of coupled patterns of seed rain, seedling emergence, and seedling establishment. P. latifolia is a mast-fruiting species and large fruit crops were produced in only 2 (1981 and 1989) out of 15 yr (1978-1992). We report here on the 1989 fruiting event at one scrubland and one forest site.Ripe fruits were available from mid-September to early June. Extensive removal by birds started after fruit crops of other species were depleted. Seed dispersers were more abundant, and fruit predators more scarce, in scrubland than in forest. P. latifolia fruits were a major component in the diet of principal seed dispersers (Sylvia atricapilla and Erithacus rubecula) that depended almost exclusively on them for food late in the season. Fruit removal levels were higher, crops were depleted earlier, and individual plants dispersed more seeds in scrubland than in forest. Crop size was the best predictor of number of seeds dispersed by individual plants in scrubland, while fruit characteristics were more influential in forest. Seed dispersal was largely a within-population phenomenon, as no seed fall occurred in traps set beyond the distributional limits of P. latifolia in the study region. Frugivores produced a spatially predictable seed rain at the two sites. Seed rain was greatest beneath fleshy fruit-producing species (under female individuals in dioecious species) in scrubland and at forest-gap interfaces in forest. Post-dispersal seed predation was low at the two sites (39 and 54% after 1-yr exposure). In forest, seed survival was lower in gaps than in forest interior or forest edges. In scrubland, seed survival differed widely among microhabitats (defined by overlying plant species), ranging from 19% (open ground) to 61% (beneath Rosmarinus officinalis). In forest, density of emerging seedlings was unrelated to location in the habitat mosaic (gap, forest edge, interior). Seedling density did differ among microhabitats in scrubland, where emergence was greatest under fleshy fruit-producing species. Seedling survival was higher in forest than in scrubland, where seedlings incurred greater mortality due to desiccation. In both sites, seedling survival depended significantly on microhabitat and was depressed under adult conspecifics.The activity of frugivores directly impacted seedling distribution in scrubland, as spatial patterns of seed deposition were not overshadowed by later-acting factors, such as rodent seed predation or variation in germination. In forest, there was spatial discordance between seed rain and seedling distribution, as a consequence of uncoupled seed rain and seedling emergence. Spatial patterns of seed deposition by birds may thus have a lasting impact on the population dynamics of P. latifolia, but this will vary among populations depending on the extent of coupling of the different stages in the recruitment process (dispersal-seed rain-germination and seedling establishment).},
+   keywords = {Seed Dispersal
+Mutualism
+Recruitment
+Virola-Surinamensis
+Spain
+Postdispersal Seed Predation
+Spatial Heterogeneity
+Plant-Populations
+Old Fields
+Deciduous Forest
+Tropical Tree
+Mediterranean Scrublands
+Fleshy Fruits
+Oleaceae
+Neotropical Herb
+Avian Frugivory
+Central New-York
+Forest Understory
+Mast Fruiting
+Mediterranean Scrubland
+Plant Demography
+Seedling Survivorship},
+   DOI = {10.2307/2937165},
+   year = {1994},
+   type = {Journal Article}
+}
+```

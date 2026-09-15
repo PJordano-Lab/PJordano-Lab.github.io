@@ -21,3 +21,23 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/mec.17285) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.17285) | [OpenAlex](https://openalex.org/W4391353431)
+
+## BibTeX
+
+```bibtex
+@article{RN29644,
+   author = {Moracho, Eva and Klein, Etienne K. and Oddou‐Muratorio, Sylvie and Hampe, Arndt and Jordano, Pedro},
+   title = {Highly clustered mating networks in naturally fragmented riparian tree populations},
+   journal = {Molecular Ecology},
+   pages = {e17285},
+   abstract = {Abstract
+            
+              Understanding how spatial patterns of mating and gene flow respond to habitat loss and geographical isolation is a crucial aspect of forest fragmentation genetics. Naturally fragmented riparian tree populations exhibit unique characteristics that significantly influence these patterns. In this study, we investigate mating patterns, pollen‐mediated gene flow, and genetic diversity in relict populations of
+              Frangula alnus
+              in southern Spain by testing specific hypotheses related to the riparian habitat. We employ a novel approach that combines paternity analysis, particularly suited for small and isolated populations, with complex network theory and Bayesian models to predict mating likelihood among tree pairs. Our findings reveal a prevalence of short‐distance pollination, resulting in spatially driven local mating clusters with a distinct subset of trees being highly connected in the mating network. Additionally, we observe numerous pollination events over distances of hundreds of metres and considerable pollen immigration. Local neighbourhood density is the primary factor influencing within‐population mating patterns and pollen dispersal; moreover, mating network properties reflect the population's size and spatial configuration. Conversely, among‐population pollen dispersal is mainly determined by tree size, which influences floral display. Our results do not support a major role of directional pollen dispersal in longitudinal trends of genetic diversity. We provide evidence that long‐term fragmented tree populations persist in unique environments that shape mating patterns and impose constraints to pollen‐mediated gene flow. Nevertheless, even seemingly strongly isolated populations can maintain functional connectivity over extended periods, especially when animal‐mediated mating networks promote genetic diversity, as in this riparian tree species.},
+   ISSN = {0962-1083, 1365-294X},
+   DOI = {10.1111/mec.17285},
+   year = {2024},
+   type = {Journal Article}
+}
+```

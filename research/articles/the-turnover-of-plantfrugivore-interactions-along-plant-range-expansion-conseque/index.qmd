@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1098/rspb.2022.2547) | [PDF](https://doi.org/10.1098/rspb.2022.2547) | [OpenAlex](https://openalex.org/W4377940559)
+
+## BibTeX
+
+```bibtex
+@article{RN29287,
+   author = {Isla, Jorge and Jácome-Flores, Miguel and Arroyo, Juan M. and Jordano, Pedro},
+   title = {The turnover of plant–frugivore interactions along plant range expansion: consequences for natural colonization processes},
+   journal = {Proceedings of the Royal Society B: Biological Sciences},
+   volume = {290},
+   number = {1999},
+   pages = {20222547},
+   abstract = {Plant–animal mutualisms such as seed dispersal are key interactions for sustaining plant range shifts. It remains elusive whether the organization of interactions with seed dispersers is reconfigured along the expansion landscape template and, if so, whether its effects accelerate or slow colonization. Here we analyse plant–frugivore interactions in a scenario of rapid population expansion of a Mediterranean juniper. We combined network analyses with field surveys, sampling interactions between individual plants and frugivores by DNA-barcoding and phototrapping over two seasons. We assess the role of intrinsic and extrinsic intraspecific variability in shaping interactions and we estimate the individual plant contributions to the seed rain. The whole interaction network was highly structured, with a distinct set of modules including individual plants and frugivore species arranged concordantly along the expansion gradient. The modular configuration was partially shaped by individual neighbourhood context (density and fecundity) and phenotypic traits (cone size). Interaction reconfiguration resulted in a higher and more uneven propagule contribution, with most effective dispersers having a prominent role at the colonization front stand, where a distinct subset of early arriving plants dominated the seed rain. Our study offers new insights into the key role of mutualistic interactions in colonization scenarios by promoting fast plant expansion processes.},
+   ISSN = {0962-8452, 1471-2954},
+   DOI = {10.1098/rspb.2022.2547},
+   year = {2023},
+   type = {Journal Article}
+}
+```

@@ -17,3 +17,17 @@ format:
 ## Links
 
 [OpenAlex](https://openalex.org/W2768695288)
+
+## BibTeX
+
+```bibtex
+@article{RN30461,
+   author = {Jordano, Pedro},
+   title = {Alimentación y relaciones tróficas entre los paseriformes en paso otoñal por una localidad de Andalucía central},
+   journal = {Doñana, Acta Vertebrata},
+   volume = {8},
+   pages = {103–124},
+   year = {1981},
+   type = {Journal Article}
+}
+```

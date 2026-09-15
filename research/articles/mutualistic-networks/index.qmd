@@ -19,3 +19,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1515/9781400848720) | [OpenAlex](https://openalex.org/W4241512725)
+
+## BibTeX
+
+```bibtex
+@book{RN26844,
+   author = {Bascompte, Jordi and Jordano, Pedro},
+   title = {Mutualistic networks},
+   publisher = {Princeton University Press},
+   address = {Princeton, NJ},
+   series = {Monographs in Population Biology, No. 53},
+   pages = {1},
+   year = {2014},
+   type = {Book}
+}
+```

@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1038/srep24820) | [PDF](https://www.nature.com/articles/srep24820.pdf) | [OpenAlex](https://openalex.org/W2339905758)
+
+## BibTeX
+
+```bibtex
+@article{RN5214,
+   author = {Pérez-Méndez, Néstor and Jordano, Pedro and García, Cristina and Valido, Alfredo},
+   title = {The signatures of Anthropocene defaunation: cascading effects of the seed dispersal collapse},
+   journal = {Scientific Reports},
+   volume = {6},
+   number = {April},
+   pages = {24820–24820},
+   abstract = {Anthropogenic activity is driving population declines and extinctions of large-bodied, fruit-eating animals worldwide. Loss of these frugivores is expected to trigger negative cascading effects on plant populations if remnant species fail to replace the seed dispersal services provided by the extinct frugivores. A collapse of seed dispersal may not only affect plant demography (i.e., lack of recruitment), but should also supress gene flow via seed dispersal. Yet little empirical data still exist demonstrating the genetic consequences of defaunation for animal-dispersed plant species. Here, we first document a significant reduction of seed dispersal distances along a gradient of human-driven defaunation, with increasing loss of large-and medium-bodied frugivores. We then show that local plant neighbourhoods have higher genetic similarity, and smaller effective population sizes when large seed dispersers become extinct (i.e., only small frugivores remain) or are even partially downgraded (i.e., medium-sized frugivores providing less efficient seed dispersal). Our results demonstrate that preservation of large frugivores is crucial to maintain functional seed dispersal services and their associated genetic imprints, a central conservation target. Early signals of reduced dispersal distances that accompany the Anthropogenic defaunation forecast multiple, cascading effects on plant populations.},
+   ISSN = {2045-2322},
+   DOI = {10.1038/srep24820},
+   year = {2016},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,30 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1093/acprof:oso/9780198564836.003.0003) | [PDF](http://hdl.handle.net/10261/40607) | [OpenAlex](https://openalex.org/W126296694)
+
+## BibTeX
+
+```bibtex
+@inbook{RN58003,
+   author = {Melián, C J and Bascompte, J and Jordano, P},
+   title = {Spatial structure and dynamics in a marine food web},
+   booktitle = {Aquatic Food Webs - An ecosystem approach},
+   editor = {Belgrano, A. and Scharler, U. and Dunne, J. and Ulanowicz, R.},
+   publisher = {Oxford University Press},
+   address = {Oxford, UK},
+   pages = {18–24},
+   abstract = {This book provides a synthesis of theoretical and empirical food web research. Whether they are binary systems or weighted networks, food webs are of particular interest to ecologists by providing a macroscopic view of ecosystems. They describe interactions between species and their environment, and subsequent advances in the understanding of their structure, function, and dynamics are of vital importance to ecosystem management and conservation. This book covers issues of structure, function, scaling, complexity, and stability in the contexts of conservation, fisheries, and climate. Although the focus of this volume is upon aquatic food webs (where many of the recent advances have been made), many other issues are addressed.},
+   keywords = {binary systems
+climate
+conservation
+ecosystem management
+ecosystems
+environment
+fisheries
+species
+weighted networks},
+   ISBN = {978-0-19-856483-6},
+   year = {2005},
+   type = {Book Section}
+}
+```

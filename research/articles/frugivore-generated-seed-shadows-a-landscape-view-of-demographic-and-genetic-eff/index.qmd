@@ -19,3 +19,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1079/9780851995250.0305) | [OpenAlex](https://openalex.org/W1556946856)
+
+## BibTeX
+
+```bibtex
+@inbook{RN58142,
+   author = {Jordano, P. and Godoy, J. A.},
+   title = {Frugivore-generated seed shadows: a landscape view of demographic and genetic effects},
+   booktitle = {Seed dispersal and frugivory: ecology, evolution, and conservation},
+   editor = {Levey, D. and Silva, W. and Galetti, M.},
+   publisher = {Book chapter},
+   address = {Wallingford, UK},
+   pages = {305–321},
+   DOI = {papers2://publication/uuid/7BFA8326-5797-4C1B-B55F-6DBC347DB418},
+   url = {papers2://publication/uuid/7BFA8326-5797-4C1B-B55F-6DBC347DB418},
+   year = {2002},
+   type = {Book Section}
+}
+```

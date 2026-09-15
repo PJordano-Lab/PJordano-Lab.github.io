@@ -21,3 +21,20 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1046/j.0962-1083.2001.01342.x) | [PDF](http://hdl.handle.net/10261/42605) | [OpenAlex](https://openalex.org/W2115943550)
+
+## BibTeX
+
+```bibtex
+@article{RN28395,
+   author = {Godoy, Jose A. and Jordano, Pedro},
+   title = {Seed dispersal by animals: exact identification of source trees with endocarp DNA microsatellites},
+   journal = {Molecular Ecology},
+   volume = {10},
+   number = {9},
+   pages = {2275–2283},
+   ISSN = {0962-1083, 1365-294X},
+   DOI = {10.1046/j.0962-1083.2001.01342.x},
+   year = {2001},
+   type = {Journal Article}
+}
+```

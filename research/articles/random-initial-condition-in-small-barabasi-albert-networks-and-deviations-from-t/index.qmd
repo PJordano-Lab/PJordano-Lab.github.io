@@ -21,3 +21,22 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1103/physreve.71.037101) | [PDF](http://repositorio.unicamp.br/jspui/handle/REPOSIP/196266) | [OpenAlex](https://openalex.org/W2006489743)
+
+## BibTeX
+
+```bibtex
+@article{RN1169,
+   author = {Guimarães, P R and de Aguiar, M A M and Bascompte, J and Jordano, Pedro and dos Reis, S F},
+   title = {Random initial condition in small Barabasi-Albert networks and deviations from the scale-free behavior},
+   journal = {Physical Review E},
+   volume = {71},
+   pages = {37101–37101},
+   abstract = {Barabasi-Albert networks are constructed by adding nodes via preferential attachment to an initial core of nodes. We study the topology of small scale-free networks as a function of the size and average connectivity of their initial random core. We show that these two parameters may strongly affect the tail of the degree distribution, by consistently leading to broad-scale or single-scale networks. In particular, we argue that the size of the initial network core and its density of connections may be the main responsible for the exponential truncation of the power-law behavior observed in some small scale-free networks.},
+   keywords = {Complex Networks
+Models
+Evolving Networks},
+   DOI = {10.1103/PhysRevE.71.037101},
+   year = {2005},
+   type = {Journal Article}
+}
+```

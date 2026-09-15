@@ -21,3 +21,27 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1007/s12052-009-0197-1) | [PDF](https://evolution-outreach.biomedcentral.com/counter/pdf/10.1007/s12052-009-0197-1) | [OpenAlex](https://openalex.org/W2084952252)
+
+## BibTeX
+
+```bibtex
+@article{RN5188,
+   author = {Jordano, Pedro},
+   title = {Coevolution in multispecific interactions among free-living species},
+   journal = {Evolution: Education and Outreach},
+   volume = {3},
+   number = {1},
+   pages = {40–46},
+   abstract = {Ecological interactions among species are the backbone of biodiversity. Interactions take a tremendous variety of forms in nature and have pervasive consequences for the population dynamics and evolution of species. A persistent challenge in evolutionary biology has been to understand how coevolution has produced complex webs of interacting species, where a large number of species interact through mutual dependences (e.g., mutualisms) or influen- ces (e.g., predator–prey interactions in food webs). Recent work on megadiverse species assemblages in ecological communities has uncovered interesting repeated patterns that emerge in these complex networks of multispecies interactions. They include the presence of a core of super- generalists, proper patterns of interaction (that resemble nested chinese boxes), and multiple modules that act as the basic blocks of the complex network. The structure of multispecies interactions resembles other complex networks and is central to understanding its evolution and the consequences of species losses for the persistence of the whole network. These patterns suggest both precise ways on how coevolution goes on beyond simple pairwise interactions and scales up to whole communities.},
+   keywords = {pollination
+seed dispersal
+complex networks
+mutualism
+coevolution
+multispecies interactions},
+   ISSN = {1936-6426},
+   DOI = {10.1007/s12052-009-0197-1},
+   year = {2010},
+   type = {Journal Article}
+}
+```

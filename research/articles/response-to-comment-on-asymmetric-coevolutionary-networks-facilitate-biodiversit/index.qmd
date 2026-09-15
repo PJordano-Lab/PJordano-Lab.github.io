@@ -19,3 +19,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1126/science.1129628) | [OpenAlex](https://openalex.org/W2115760600)
+
+## BibTeX
+
+```bibtex
+@article{RN57467,
+   author = {Holland, J Nathaniel and Okuyama, Toshinori and DeAngelis, Donald L and Bascompte, Jordi and Jordano, Pedro and Olesen, Jens M},
+   title = {Comment on "Asymmetric coevolutionary networks facilitate biodiversity maintenance''},
+   journal = {Science},
+   volume = {313},
+   pages = {––},
+   keywords = {Competition
+Interaction Strength
+Stability},
+   DOI = {10.1126/science.1129628},
+   year = {2006},
+   type = {Journal Article}
+}
+```

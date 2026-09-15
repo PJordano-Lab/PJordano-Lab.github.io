@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.2307/3545836) | [PDF](http://hdl.handle.net/10261/42647) | [OpenAlex](https://openalex.org/W1985914011)
+
+## BibTeX
+
+```bibtex
+@article{RN27293,
+   author = {Jordano, Pedro},
+   title = {Spatial and temporal variation in the avian-frugivore assemblage of Prunus mahaleb: patterns and consequences},
+   journal = {Oikos},
+   volume = {71},
+   pages = {479–491},
+   DOI = {10.2307/3545836},
+   year = {1994},
+   type = {Journal Article}
+}
+```

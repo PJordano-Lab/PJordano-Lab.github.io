@@ -21,3 +21,25 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1755-0998.2009.02527.x) | [PDF](http://hdl.handle.net/10261/38390) | [OpenAlex](https://openalex.org/W2028251924)
+
+## BibTeX
+
+```bibtex
+@article{RN57973,
+   author = {Rigueiro, C and Arroyo, J M and Rodriguez, R and Hampe, A and Jordano, Pedro},
+   title = {Isolation and characterization of 16 polymorphic microsatellite loci for Frangula alnus (Rhamnaceae)},
+   journal = {Molecular Ecology Resources},
+   volume = {9},
+   pages = {986–989},
+   abstract = {We report the first 16 polymorphic nuclear microsatellite markers developed for Frangula alnus (Rhamnaceae). Markers were tested on all three subspecies as well as on three local populations, including analyses of both leaf and seed endocarps. A total of 87 alleles were found (mean number of alleles per locus was 5.44) for 72 individuals genotyped. Observed and expected heterozygosities ranged from 0.097 to 0.792 and from 0.093 to 0.794, respectively. The levels of polymorphism and exclusionary power of the developed markers render them applicable for parentage analyses and measurements of seed dispersal through direct comparison of endocarps and adult tree genotypes.},
+   keywords = {Endocarp
+Frangula
+Rhamnaceae
+Seed Dispersal
+Software
+Ssr},
+   DOI = {10.1111/j.1755-0998.2009.02527.x},
+   year = {2009},
+   type = {Journal Article}
+}
+```

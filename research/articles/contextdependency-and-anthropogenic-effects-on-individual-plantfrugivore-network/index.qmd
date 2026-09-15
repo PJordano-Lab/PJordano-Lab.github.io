@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/oik.04978) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/oik.04978) | [OpenAlex](https://openalex.org/W2791770126)
+
+## BibTeX
+
+```bibtex
+@article{RN57505,
+   author = {Miguel, M. Florencia and Jordano, Pedro and Tabeni, Solana and Campos, Claudia M.},
+   title = {Context-dependency and anthropogenic effects on individual plant-frugivore networks},
+   journal = {Oikos},
+   volume = {127},
+   pages = {1045–1059},
+   keywords = {ecological networks
+intrapopulation heterogeneity
+land uses},
+   DOI = {10.1111/oik.04978},
+   year = {2018},
+   type = {Journal Article}
+}
+```

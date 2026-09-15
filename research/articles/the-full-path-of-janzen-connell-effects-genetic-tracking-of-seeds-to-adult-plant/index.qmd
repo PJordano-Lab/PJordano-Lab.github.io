@@ -21,3 +21,27 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1365-294x.2011.05202.x) | [PDF](http://hdl.handle.net/10261/42693) | [OpenAlex](https://openalex.org/W2157438799)
+
+## BibTeX
+
+```bibtex
+@article{RN57995,
+   author = {Schupp, Eugene W. and Jordano, Pedro},
+   title = {The full path of Janzen-Connell effects: Genetic tracking of seeds to adult plant recruitment},
+   journal = {Molecular Ecology},
+   volume = {20},
+   pages = {3953–3955},
+   abstract = {The Janzen-Connell (J-C) model (Janzen 1970; Connell 1971) has been a dominant yet controversial paradigm for forest community dynamics for four decades, especially in the tropics. With increasing distance from the parent plant, the density of dispersed seeds decreases and, because of a reduced impact of distance- and density-responsive seed and seedling enemies, propagule survival increases, resulting in peak recruitment at some distance from the parent and little recruitment near adult conspecifics. This spacing generates gaps near adult trees for the recruitment of heterospecifics, enhancing species coexistence and species richness. Field studies, primarily focused on seeds and young seedlings, have repeatedly demonstrated increasing survival with increasing distance from parents or decreasing density of propagules (e.g. Clark & Clark 1984; Gilbert et al. 1994; Swamy & Terborgh 2010). Yet a meta-analysis of distance-dependent propagule survival failed to support a general pattern of survival increasing with distance from adult conspecifics, suggesting that there is no need for further experimental tests of the J-C hypothesis in terms of diversity enhancement-results are species-specific, not general (Hyatt et al. 2003). However, a lack of consistent experimental results is not surprising. The outcome of tests of the hypothesis can vary as a function of many factors that can affect successive recruitment stages differently (Schupp 1992; Hyatt et al. 2003; Swamy & Terborgh 2010). This highlights a critical gap-a full test of the J-C model requires data demonstrating that effects carry over to recruitment of new reproductive adults, yet few studies have gone beyond early stages. There is strong inferential evidence that adult trees can show the imprint of J-C effects (e.g. Nathan et al. 2000; Howe & Miriti 2004), and focal individual modelling has clearly demonstrated that J-C effects can operate from sapling through adult stages in a significant number of species (Peters 2003). It is likely that such results are not unusual, but there have been few attempts to demonstrate J-C spacing at the adult stage. In this issue of Molecular Ecology, Steinitz et al. (2011) studied the Mediterranean pine Pinus halepensis (Aleppo pine) and combined a unique situation with an innovative approach to provide the most elegant demonstration yet that adult recruits are spaced further from parents than expected from the initial seed distribution, clear evidence of a J-C effect carrying over to reproductive adults. A major advancement of this study is that it incorporates estimates of the initial patterns of seed dispersal and parentage analysis of adult-offspring relationships, illustrating the value of combined field and genetic approaches.},
+   keywords = {Janzen-Connell model
+density dependence
+distance dependence
+effective seed dispersal
+microsatellites
+plant recruitment},
+   ISSN = {1365-294X},
+   DOI = {10.1111/j.1365-294X.2011.05202.x},
+   url = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-294X.2011.05202.x},
+   year = {2011},
+   type = {Journal Article}
+}
+```

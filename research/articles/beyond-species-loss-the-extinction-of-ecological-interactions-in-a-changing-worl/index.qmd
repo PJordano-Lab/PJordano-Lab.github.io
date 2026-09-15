@@ -21,3 +21,38 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2435.12356) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2435.12356) | [OpenAlex](https://openalex.org/W2155430569)
+
+## BibTeX
+
+```bibtex
+@article{RN57548,
+   author = {Valiente-Banuet, A. and Aizen, M. A. and Alcantara, J. M. and Arroyo, J. and Cocucci, A. and Galetti, M. and Garcia, M. B. and Garcia, D. and Gomez, J. M. and Jordano, P. and Medel, R. and Navarro, L. and Obeso, J. R. and Oviedo, R. and Ramirez, N. and Rey, P. J. and Traveset, A. and Verdu, M. and Zamora, R.},
+   title = {Beyond species loss: the extinction of ecological interactions in a changing world},
+   journal = {Functional Ecology},
+   volume = {29},
+   number = {3},
+   pages = {299–307},
+   note = {Ce1xoTimes Cited:97Cited References Count:77},
+   abstract = {The effects of the present biodiversity crisis have been largely focused on the loss of species. However, a missed component of biodiversity loss that often accompanies or even precedes species disappearance is the extinction of ecological interactions. Here, we propose a novel model that (i) relates the diversity of both species and interactions along a gradient of environmental deterioration and (ii) explores how the rate of loss of ecological functions, and consequently of ecosystem services, can be accelerated or restrained depending on how the rate of species loss covaries with the rate of interactions loss. We find that the loss of species and interactions are decoupled, such that ecological interactions are often lost at a higher rate. This implies that the loss of ecological interactions may occur well before species disappearance, affecting species functionality and ecosystems services at a faster rate than species extinctions. We provide a number of empirical case studies illustrating these points. Our approach emphasizes the importance of focusing on species interactions as the major biodiversity component from which the health' of ecosystems depends.},
+   keywords = {biotic interactions
+co-evolution
+diversity
+extinction debt of ecological interactions
+global change drivers
+seed-dispersal interactions
+functional extinction
+mutualistic networks
+evolutionary changes
+mating patterns
+empty forest
+pollination
+habitat
+diversity
+biodiversity},
+   ISSN = {0269-8463},
+   DOI = {10.1111/1365-2435.12356},
+   url = {<Go to ISI>://WOS:000351606400002},
+   year = {2015},
+   type = {Journal Article}
+}
+```

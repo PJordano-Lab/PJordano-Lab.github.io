@@ -19,3 +19,19 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/40575) | [OpenAlex](https://openalex.org/W152010290)
+
+## BibTeX
+
+```bibtex
+@inbook{RN11932,
+   author = {Jordano, Pedro and Galetti, M and SIlva, W R},
+   title = {Ligando frugivoria e dispersão de sementes a biologia da conservacao},
+   booktitle = {Biologia da conservação: essências},
+   editor = {Duarte, C F and Bergallo, H G and Dos Santos, M A and Va, A E},
+   publisher = {Editorial Rima},
+   address = {São Paulo, Brasil},
+   pages = {411–436},
+   year = {2006},
+   type = {Book Section}
+}
+```

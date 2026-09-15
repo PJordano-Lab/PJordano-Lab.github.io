@@ -1036,11 +1036,19 @@ $bibtex-dark-bg:     #9ca3ad;
 $bibtex-dark-text:   #10203f;
 $bibtex-dark-field:  #8f1d1d;
 
-div.sourceCode:has(> pre.bibtex),
 pre.sourceCode.bibtex {
   background-color: $bibtex-light-bg !important;
+  background-image: none !important;
   border: 1px solid rgba(0, 0, 0, 0.12);
   border-radius: 6px;
+}
+
+/* the wrapper div paints its own background behind the pre; keep it in a
+   SEPARATE rule — a browser that does not understand :has() would drop the
+   whole selector list, taking the pre rule with it */
+div.sourceCode:has(> pre.bibtex) {
+  background-color: $bibtex-light-bg !important;
+  border-color: rgba(0, 0, 0, 0.12) !important;
 }
 
 pre.sourceCode.bibtex,
@@ -1061,10 +1069,15 @@ pre.sourceCode.bibtex code span.ot {
 }
 
 [data-theme="dark"] {
-  div.sourceCode:has(> pre.bibtex),
   pre.sourceCode.bibtex {
     background-color: $bibtex-dark-bg !important;
-    border-color: rgba(0, 0, 0, 0.35);
+    background-image: none !important;
+    border-color: rgba(0, 0, 0, 0.35) !important;
+  }
+
+  div.sourceCode:has(> pre.bibtex) {
+    background-color: $bibtex-dark-bg !important;
+    border-color: rgba(0, 0, 0, 0.35) !important;
   }
 
   pre.sourceCode.bibtex,
@@ -1084,5 +1097,8 @@ pre.sourceCode.bibtex code span.ot {
 
   /* line-number gutter links and the copy button on the grey field */
   pre.sourceCode.bibtex a { color: $bibtex-dark-text !important; }
+  pre.sourceCode.bibtex .code-copy-button,
+  pre.sourceCode.bibtex + .code-copy-button { color: $bibtex-dark-text; }
+
   div.sourceCode:has(> pre.bibtex) .code-copy-button { color: $bibtex-dark-text; }
 }

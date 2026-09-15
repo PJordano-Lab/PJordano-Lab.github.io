@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.0030-1299.2006.14583.x) | [PDF](http://hdl.handle.net/10261/40471) | [OpenAlex](https://openalex.org/W2116643531)
+
+## BibTeX
+
+```bibtex
+@article{RN25853,
+   author = {Lewinsohn, T.M. M and Inácio Prado, P. and Jordano, Pedro and Bascompte, J. and Olesen, J.M. M and Prado, P I and Jordano, Pedro and Bascompte, J. and Olesen, J.M. M},
+   title = {Structure in plant-animal interaction assemblages},
+   journal = {Oikos},
+   volume = {113},
+   number = {1},
+   pages = {174–184},
+   abstract = {We present a comprehensive approach to detect pattern in assemblages of plant and animal species linked by interactions such as pollination, frugivory or herbivory. Simple structural models produce gradient, compartmented or nested patterns of interaction; intermediate patterns between a gradient and compartments are possible, and nesting within compartments produces a combined model. Interaction patterns can be visualized and analyzed either as matrices, as bipartite networks or as multivariate sets through correspondence analysis. We argue that differences among patterns represent outcomes of distinct evolutionary and ecological processes in these highly diversified assemblages. Instead of choosing one model a priori, assemblages should be probed for a suite of patterns. A plant-pollinator assemblage exemplifies a simple nested pattern, whereas a plant-herbivore assemblage illustrates a compound pattern with nested structures within compartments. Compartmentation should reflect coevolutionary histories and constraints, whereas differences in species abundance or dispersal may generate nestedness.},
+   keywords = {NETWORKS},
+   DOI = {10.1111/j.0030-1299.2006.14583.x},
+   year = {2006},
+   type = {Journal Article}
+}
+```

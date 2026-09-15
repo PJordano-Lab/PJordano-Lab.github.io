@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1073/pnas.2402342122) | [PDF](https://www.pnas.org/doi/pdf/10.1073/pnas.2402342122) | [OpenAlex](https://openalex.org/W4407402898)
+
+## BibTeX
+
+```bibtex
+@article{RN30783,
+   author = {Quintero, Elena and Arroyo-Correa, Blanca and Isla, Jorge and Rodríguez-Sánchez, Francisco and Jordano, Pedro},
+   title = {Downscaling mutualistic networks from species to individuals reveals consistent interaction niches and roles within plant populations},
+   journal = {Proceedings of the National Academy of Sciences},
+   volume = {122},
+   number = {7},
+   pages = {e2402342122},
+   abstract = {Species-level networks emerge as the combination of interactions spanning multiple individuals, and their study has received considerable attention over the past 30 y. However, less is known about the structure of interaction configurations within species, even though individuals are the actual interacting units in nature. We compiled 46 empirical, individual-based, interaction networks on plant-animal seed dispersal mutualisms, comprising 1,037 plant individuals across 29 species from various regions. We compared the structure of individual-based networks to that of species-based networks and, by extending the niche concept to interaction assemblages, we explored individual plant specialization. Using a Bayesian framework to account for uncertainty derived from sampling, we examined how plant individuals “explore” the interaction niche of their populations. Both individual-based and species-based networks exhibited high variability in network properties, lacking remarkable structural and topological differences between them. Within populations, frugivores’ interaction allocation among plant individuals was highly heterogeneous, with one to three frugivore species dominating interactions. Regardless of species or bioregion, plant individuals displayed a variety of interaction profiles across populations, with a consistently-small percentage of individuals playing a central role and exhibiting high diversity in their interaction assemblage. Plant populations showed variable mid to low levels of niche specialization; and individuals’ interaction niche “breadth” accounted for 70% of the population interaction diversity, on average. Our results highlight how downscaling from species to individual-based networks helps understanding the structuring of interactions within ecological communities and provide an empirical basis for the extension of niche theory to complex mutualistic networks.},
+   ISSN = {0027-8424, 1091-6490},
+   DOI = {10.1073/pnas.2402342122},
+   year = {2025},
+   type = {Journal Article}
+}
+```

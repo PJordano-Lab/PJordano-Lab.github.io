@@ -21,3 +21,26 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.12705) | [PDF](http://hdl.handle.net/10261/155689) | [OpenAlex](https://openalex.org/W2560886384)
+
+## BibTeX
+
+```bibtex
+@article{RN4650,
+   author = {García, Cristina and Klein, Etienne K. and Jordano, Pedro and Garcia, Cristina and Klein, Etienne K. and Jordano, Pedro and Garc, Cristina and Klein, Etienne K. and Jordano, Pedro},
+   title = {Dispersal processes driving plant movement: challenges for understanding and predicting range shifts in a changing world},
+   journal = {Journal of Ecology},
+   volume = {105},
+   number = {1},
+   pages = {1–5},
+   abstract = {* Dispersal ecology is a broad topical discipline that tackles important conceptual and applied issues, such as the study of the ability of plants to transmit their propagules across fragmented and managed landscapes. * The relevance of dispersal for plant populations is threefold because: (i) dispersal processes scale from genes and individuals that disperse (or produce propagules to be dispersed) to population dynamics and both local and regional distribution patterns; (ii) by dispersing propagules or individuals and the genes they carry, dispersal inherently links demographic and genetic dynamics across the landscape; and (iii) dispersal elicits key ecological and evolutionary processes that sustain biodiversity, such as species assembly in species-rich communities. The steady improvement of tracking devices and molecular tools that trace the movement or infer provenance of organisms and the pressing need to address conservation issues have expanded the disciplinary boundaries of dispersal ecology. * The discussion on the main advances on and challenges for dispersal ecology was the main motivation for the organization of a thematic topic session entitled Dispersal processes driving plant movement: challenges for understanding and predicting range shifts in a changing world at the Annual Meeting of the British Ecological Society (2015, Edinburgh). This session brought together researchers with different types of expertise and interests on dispersal processes and their contributions are now included in this special feature together with a few additional articles. * Synthesis. Overall, this special feature illustrates that dispersal ecology spans a broad range of research topics by integrating eight contributions that cover key aspects of this discipline: from conceptual and methodological advances to the study of the ecological and evolutionary outcomes.},
+   keywords = {migration
+long-distance dispersal
+dispersal kernels
+anthropocene
+distribution range shifts},
+   ISSN = {1365-2745},
+   DOI = {10.1111/1365-2745.12705},
+   year = {2017},
+   type = {Journal Article}
+}
+```

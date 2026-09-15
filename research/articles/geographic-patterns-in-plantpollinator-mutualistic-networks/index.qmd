@@ -21,3 +21,43 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1890/0012-9658(2002)083[2416:gpippm]2.0.co;2) | [PDF](http://hdl.handle.net/10261/42356) | [OpenAlex](https://openalex.org/W2165779374)
+
+## BibTeX
+
+```bibtex
+@article{RN27784,
+   author = {Olesen, J.M. M and Jordano, Pedro},
+   title = {Geographic patterns in plant-pollinator mutualistic networks},
+   journal = {Ecology},
+   volume = {83},
+   number = {9},
+   pages = {2416–2424},
+   abstract = {Recent reviews of plant-pollinator mutualistic networks showed that generalization is a common pattern in this type of interaction. Here we examine the ecological correlates of generalization patterns in plant-pollinator networks. especially how interaction patterns covary with latitude, elevation, and insularity. We review the few published analyses of whole networks and include unpublished material, analyzing 29 complete plant-pollinator networks that encompass arctic, alpine, temperate, Mediterranean, and subtropical-tropical areas. The number of interactions observed (1) was a linear function of network size (M) the maximum number of interactions: In I = 0.575 + 0.61 In M; R-2 = 0.946. The connectance (C), the fraction of observed interactions relative to the total possible. decreased exponentially with species richness, the SLIM of animal and plant species in each community (A + P): C = 13.83 exp[-0.003(A + P)]. After controlling for species richness, the residual connectance was significantly lower in highland (>1500 in elevation) than in lowland networks and differed marginally among biogeographic regions, with both alpine and tropical networks showing a trend for lower residual connectance. The two Mediterranean networks showed the highest residual connectance. After correcting for variation in network size, plant species were shown to be more generalized at higher latitude and lowland habitats, but showed increased specialization on islands. Oceanic island networks showed an impoverishment of potential animal pollinators (lower ratio of animal to plant species. A : P. compared to mainland networks) associated with this trend of increased specialization. Plants, but not their flower-visiting animals, supported the often-repeated statements about higher specificity in the tropics than at higher latitudes. The pattern of interaction buildup as diversity increases in pollination networks does not differ appreciably from other mutualisms, such as plant-seed disperser networks or more complex food webs.},
+   keywords = {❓ Multiple DOI
+Pollination
+Mutualism
+Systems
+Networks
+Ecology
+Community
+Specialization
+Biology
+Insects
+Food Web
+Sarawak
+Food web
+Insect
+Plant-Animal Interaction
+Plant-animal interaction
+Dipterocarp Forest
+World
+Geographic Variation
+Geographic variation
+Food-Web Properties
+Interaction-web connectance
+Interaction-Web Connectance},
+   DOI = {10.2307/3071803},
+   year = {2002},
+   type = {Journal Article}
+}
+```

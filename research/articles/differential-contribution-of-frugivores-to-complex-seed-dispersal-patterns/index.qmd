@@ -21,3 +21,33 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1073/pnas.0606793104) | [PDF](https://idus.us.es/handle/11441/50439) | [OpenAlex](https://openalex.org/W2131707414)
+
+## BibTeX
+
+```bibtex
+@article{RN14499,
+   author = {Jordano, Pedro and Garcia, C and Godoy, J A and Garcia-Castano, J L},
+   title = {Differential contribution of frugivores to complex seed dispersal patterns},
+   journal = {Proceedings of the National Academy of Sciences USA},
+   volume = {104},
+   pages = {3278–3282},
+   abstract = {Frugivores are highly variable in their contribution to fruit removal in plant populations. However, data are lacking on species-specific variation in two central aspects of seed dispersal, distance of dispersal and probability of dispersal among populations through long-distance transport. We used DNA-based genotyping techniques on Prunus mahaleb seeds dispersed by birds (small- and medium-sized passerines) and carnivorous mammals to infer each seed's source tree, dispersal distance, and the probability of having originated from outside the study population. Small passerines dispersed most seeds short distances (50% dispersed < 51 m from source trees) and into covered microhabitats. Mammals and medium-sized birds dispersed seeds long distances (50% of mammals dispersed seeds > 495 m, and 50% of medium-sized birds dispersed seeds to > 110 m) and mostly into open microhabitats. Thus, dispersal distance and microhabitat of seed deposition were linked through the contrasting behaviors of different frugivores. When the quantitative contribution to fruit removal was accounted for, mammals were responsible for introducing two-thirds of the immigrant seeds into the population, whereas birds accounted for one-third. Our results demonstrate that frugivores differ widely in their effects on seed-mediated gene flow. Despite highly diverse coteries of mutualistic frugivores dispersing seeds, critical long-distance dispersal events might rely on a small subset of large species. Population declines of these key frugivore species may seriously impair seed-mediated gene flow in fragmented landscapes by truncating the long-distance events and collapsing seed arrival to a restricted subset of available microsites.},
+   keywords = {Long-Distance Dispersal
+Recruitment
+Spatial-Patterns
+Rain-Forest
+Tree
+Birds
+Population
+Hornbills
+Identification
+Fragmented Landscapes
+Prunus-Mahaleb
+Dispersal Vectors
+Frugivorous Vertebrates
+Seed Dispersal Kernel},
+   DOI = {10.1073/pnas.0606793104},
+   year = {2007},
+   type = {Journal Article}
+}
+```

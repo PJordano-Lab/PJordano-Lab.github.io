@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.3389/fevo.2021.698885) | [PDF](https://www.frontiersin.org/articles/10.3389/fevo.2021.698885/pdf) | [OpenAlex](https://openalex.org/W3196220087)
+
+## BibTeX
+
+```bibtex
+@article{RN11952,
+   author = {Rehling, Finn and Jaroszewicz, Bogdan and Braasch, Leonie Victoria and Albrecht, Jörg and Jordano, Pedro and Schlautmann, Jan and Farwig, Nina and Schabo, Dana G.},
+   title = {Within-species trait variation can lead to size limitations in seed dispersal of small-fruited plants},
+   journal = {Frontiers in Ecology and Evolution},
+   volume = {9},
+   pages = {698885},
+   abstract = {The inability of small-gaped animals to consume very large fruits may limit seed dispersal of the respective plants. This has often been shown for large-fruited plant species that remain poorly dispersed when large-gaped animal species are lost due to anthropogenic pressure. Little is known about whether gape-size limitations similarly influence seed dispersal of small-fruited plant species that can show a large variation in fruit size within species. In this study, fruit sizes of 15 plant species were compared with the gape sizes of their 41 animal dispersers in the temperate, old-growth Białowieża Forest, Poland. The effect of gape-size limitations on fruit consumption was assessed at the plant species level, and for a subset of nine plant species, also at the individual level, and subindividual level (i.e., fruits of the same plant individual). In addition, for the species subset, fruit-seed trait relationships were investigated to determine whether a restricted access of small-gaped animals to large fruits results in the dispersal of fewer or smaller seeds per fruit. Fruit sizes widely varied among plant species (74.2%), considerably at the subindividual level (17.1%), and to the smallest extent among plant individuals (8.7%). Key disperser species should be able to consume fruits of all plant species and all individuals (except those of the largest-fruited plant species), even if they are able to consume only 28-55% of available fruits. Fruit and seed traits were positively correlated in eight out of nine plant species, indicating that gape size limitations will result in 49% fewer (in one) or 16–21% smaller seeds (in three plant species) dispersed per fruit by small-gaped than by large-gaped main dispersers, respectively. Our results show that a large subindividual variation in fruit size is characteristic for small-fruited plant species, and increases their connectedness with frugivores at the level of plants species and individuals. Simultaneously, however, the large variation in fruit size leads to gape-size limitations that may induce selective pressures on fruit size if large-gaped dispersers become extinct. This study emphasizes the mechanisms by which gape-size limitation at the species, individual and subindividual level shape plant-frugivore interactions and the co-evolution of small-fruited plants.},
+   DOI = {10.3389/fevo.2021.698885},
+   year = {2021},
+   type = {Journal Article}
+}
+```

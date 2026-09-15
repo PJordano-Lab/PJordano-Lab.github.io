@@ -19,3 +19,31 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.14280) | [OpenAlex](https://openalex.org/W4391941361)
+
+## BibTeX
+
+```bibtex
+@article{RN29894,
+   author = {Isla, Jorge and Jácome-Flores, Miguel and Rigueiro, Cristina and Arroyo, Juan Miguel and Jordano, Pedro and García, Cristina},
+   title = {Animal-mediated seed dispersal and the demo-genetic configuration across plant colonization gradients},
+   journal = {Journal of Ecology},
+   volume = {112},
+   number = {5},
+   pages = {1013–1025},
+   abstract = {Ecologists have long recognized that seed dispersal mutualisms trigger natural regeneration and range expansion of animal-dispersed trees. Yet we lack empirical studies addressing whether frugivore activity influences founder effects, which reduce genetic diversity at the colonization front of expanding populations. Here, we evaluate the contribution, from both demographic and genetic perspectives, of animal frugivores dispersing seeds across an expansion gradient. We used DNA barcoding for frugivores identification and highly polymorphic genetic markers (SSRs) for maternal analysis of juniper seeds to investigate how (1) stand maturity, (2) microhabitat types and (3) foraging patterns shape the distribution of the maternal progenies along this gradient. We expect both reduced seed rain density and low numbers of source trees contributing to the seed rain at the colonization front, with limited availability of local fruiting trees. We also anticipated that large-sized frugivore species would promote maternally rich seed rain due to their ability to mix seed progenies during digestive processing and move further distances across the landscape. Contrary to our expectations, we found that all identified frugivores produced dense and genetically diverse seed rains across the expansion gradient, even at the colonization front, characterized by scarce fruiting trees. Synthesis: Our findings shed light on the fundamental and applied implications of plant–frugivore interactions in shaping highly diverse second-growth forests. These results emphasize the necessity of preserving plant–animal mutualistic interactions to ensure the persistence and expansion of natural tree populations, particularly in formerly fragmented landscapes},
+   keywords = {seed dispersal
+seed rain
+natural regeneration
+microhabitat
+maternal progenies
+Mediterranean forests
+plant–animal mutualisms
+frugivore's forging patterns
+second-growth expanding forest
+stand maturity},
+   ISSN = {1365-2745},
+   DOI = {10.1111/1365-2745.14280},
+   year = {2024},
+   type = {Journal Article}
+}
+```

@@ -21,3 +21,22 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1002/ecm.70031) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecm.70031) | [OpenAlex](https://openalex.org/W4414733271)
+
+## BibTeX
+
+```bibtex
+@article{RN30704,
+   author = {Arroyo‐Correa, Blanca and Bartomeus, Ignasi and Jordano, Pedro and Cagua, E. Fernando and Stouffer, Daniel B.},
+   title = {Bridging the gap between individual specialization and species persistence in mutualistic communities},
+   journal = {Ecological Monographs},
+   volume = {95},
+   number = {3},
+   pages = {e70031},
+   abstract = {Abstract
+            Mutualistic interactions among organisms are fundamental to the origin and maintenance of biodiversity. Yet, the study of community dynamics often relies on values averaged at the species level, ignoring how intraspecific variation can affect those dynamics. We developed a theoretical approach to evaluate the extent to which variation within populations, in terms of interactions, can influence structural stability, a robust measure of species' likelihood of persistence in mutualistic systems. Next, we examine how intraspecific variation in mutualistic interactions affects species' persistence theoretically in a simplified community, which provides a solid foundation for contextualizing empirical results. This theoretical exploration revealed that differences in the benefits received by different individual types by mutualistic partners, as driven by the way interactions are distributed among those types due to individual specialization, strongly influence species persistence. Building on these insights, we move beyond the theoretical framework and work through an empirical case study involving three co‐occurring plant species. Drawing from detailed field data on plant–pollinator interactions and plant fitness, we quantify intraspecific variation in the mutualistic benefits received by plants and incorporate this variation into estimations of structural stability. Through explicit consideration of this facet of intraspecific variation, we found that, for all three focal plant species, populations composed of individuals specialized in pollinator use promote the persistence of the plant species they belong to and their associated pollinator community, only in the absence of heterospecific plant competitors. However, more importantly, these positive effects do not hold when plant species compete with a broader, diverse plant community. In this case, two of the focal plant populations are more vulnerable when they comprise more specialized individuals and therefore are less likely to persist. By integrating the proposed theoretical approach with empirical data, this study highlights the importance of individual variation in promoting species persistence in mutualistic systems. In doing so, it not only advances our understanding of basic mechanisms that foster biodiversity maintenance but also provides practical insights for biodiversity conservation in the face of changing environmental conditions.},
+   ISSN = {0012-9615, 1557-7015},
+   DOI = {10.1002/ecm.70031},
+   year = {2025},
+   type = {Journal Article}
+}
+```

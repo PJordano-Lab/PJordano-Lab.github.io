@@ -17,3 +17,32 @@ format:
 ## Links
 
 [OpenAlex](https://openalex.org/W2185268743)
+
+## BibTeX
+
+```bibtex
+@article{RN57986,
+   author = {Arroyo, J. M. and Rigueiro, C. and Rodriguez, R. and Hampe, A. and Valido, A. and Rodriguez-Sanchez, F. and Jordano, P.},
+   title = {Isolation and characterization of 20 microsatellite loci for laurel species (Laurus, Lauraceae)},
+   journal = {American Journal of Botany},
+   volume = {97},
+   number = {5},
+   pages = {E26–E30},
+   note = {589uo
+Times Cited:6
+Cited References Count:10},
+   abstract = {Premise of the study: Microsatellite primers were developed for the evergreen tree Laurus to investigate population genetic structure and patterns of gene flow via animal-dispersed pollen and seeds.
+Methods and Results: Twenty polymorphic nuclear microsatellite markers were developed using CA, GA, AAC, and ATG n-enriched genomic libraries. Given the tetraploidy of the sampled populations, we analyzed our data both as dominant loci and as codominant genotypic data to calculate allele frequencies and genetic diversity. A total of 196 and 222 alleles were found in 37 Mediterranean (L. nobilis) and 26 Macaronesian islands (L. azorica) individuals, respectively.
+Conclusions: Levels of polymorphism of the reported markers are adequate for studies of diversity and parentage in natural populations of this Tertiary relict tree.},
+   keywords = {genetic diversity
+laurus azorica
+laurus nobilis
+polyploidy
+ssr},
+   ISSN = {0002-9122},
+   DOI = {10.3732/ajb.1000069},
+   url = {<Go to ISI>://WOS:000277179900020},
+   year = {2010},
+   type = {Journal Article}
+}
+```

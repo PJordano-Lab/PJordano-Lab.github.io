@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1073/pnas.2302440120) | [PDF](https://doi.org/10.1073/pnas.2302440120) | [OpenAlex](https://openalex.org/W4387871737)
+
+## BibTeX
+
+```bibtex
+@article{RN29955,
+   author = {González-Varo, Juan P. and Albrecht, Jörg and Arroyo, Juan M. and Bueno, Rafael S. and Burgos, Tamara and Escribano-Ávila, Gema and Farwig, Nina and García, Daniel and Illera, Juan C. and Jordano, Pedro and Kurek, Przemysław and Rösner, Sascha and Virgós, Emilio and Sutherland, William J.},
+   title = {Frugivore-mediated seed dispersal in fragmented landscapes: Compositional and functional turnover from forest to matrix},
+   journal = {Proceedings of the National Academy of Sciences USA},
+   volume = {120},
+   number = {44},
+   pages = {e2302440120},
+   abstract = {Seed dispersal by frugivores is a fundamental function for plant community dynamics in fragmented landscapes, where forest remnants are typically embedded in a matrix of anthropogenic habitats. Frugivores can mediate both connectivity among forest remnants and plant colonization of the matrix. However, it remains poorly understood how frugivore communities change from forest to matrix due to the loss or replacement of species with traits that are less advantageous in open habitats and whether such changes ultimately influence the composition and traits of dispersed plants via species interactions. Here, we close this gap by using a unique dataset of seed-dispersal networks that were sampled in forest patches and adjacent matrix habitats of seven fragmented landscapes across Europe. We found a similar diversity of frugivores, plants, and interactions contributing to seed dispersal in forest and matrix, but a high turnover (replacement) in all these components. The turnover of dispersed seeds was smaller than that of frugivore communities because different frugivore species provided complementary seed dispersal in forest and matrix. Importantly, the turnover involved functional changes toward larger and more mobile frugivores in the matrix, which dispersed taller, larger-seeded plants with later fruiting periods. Our study provides a trait-based understanding of frugivore-mediated seed dispersal through fragmented landscapes, uncovering nonrandom shifts that can have cascading consequences for the composition of regenerating plant communities. Our findings also highlight the importance of forest remnants and frugivore faunas for ecosystem resilience, demonstrating a high potential for passive forest restoration of unmanaged lands in the matrix.},
+   ISSN = {0027-8424, 1091-6490},
+   DOI = {10.1073/pnas.2302440120},
+   year = {2023},
+   type = {Journal Article}
+}
+```

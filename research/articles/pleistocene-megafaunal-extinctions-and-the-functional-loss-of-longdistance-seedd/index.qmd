@@ -19,3 +19,33 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/ecog.03163) | [OpenAlex](https://openalex.org/W2725236051)
+
+## BibTeX
+
+```bibtex
+@article{RN57542,
+   author = {Pires, M. M. and Guimaraes, P. R. and Galetti, M. and Jordano, P.},
+   title = {Pleistocene megafaunal extinctions and the functional loss of long-distance seed-dispersal services},
+   journal = {Ecography},
+   volume = {41},
+   number = {1},
+   pages = {153–163},
+   note = {Fr4raTimes Cited:3Cited References Count:102},
+   abstract = {Pleistocene extinctions affected mainly large-bodied animals, determining the loss or changes in numerous ecological functions. Evidence points to a central role of many extinct megafauna herbivores as seed dispersers. An important step in understanding the legacy of extinct mutualistic interactions is to evaluate the roles and effectiveness of megafauna herbivores in seed dispersal. Here we use morphological and ecophysiological allometries to estimate both quantitative and qualitative aspects of seed-dispersal services likely provided by extinct megafauna. We developed a mechanistic model that encompasses four stages of seed dispersal - seed ingestion, gut retention, animal movement, and seed deposition. We estimate seed-dispersal kernels through simulations to infer the role of Pleistocene megafauna in promoting long-distance dispersal and examine how seed dispersal was affected by extinctions. Simulations suggest extinct large-bodied frugivores would frequently disperse large seeds over a thousand meters, whereas smaller-bodied frugivores are more likely to deposit the seeds over a few hundred meters. Moreover, events of long-distance seed dispersal by the extinct megafauna would be up to ten times longer than long-distance dispersal by smaller-sized extant mammals. By estimating the combined distribution of seed dispersal distances considering all large-bodied mammalian frugivores in specific South American Pleistocene assemblages we found that long-distance dispersal contracted by at least two thirds after the megafauna died out. The disruption of long-distance dispersal is expected to have consequences for recruitment, spatial and genetic structure of plant populations, population persistence and community composition. Promoting long-distance seed dispersal was one among other salient features of extinct Pleistocene megafauna that reveal their influence on natural ecosystems. Modeling the consequences of megafaunal extinctions can offer quantitative predictions on the consequences of ongoing defaunation to plant populations and ecological communities.},
+   keywords = {mammalian herbivores
+body-size
+biodiversity conservation
+anthropocene defaunation
+search strategies
+retention time
+tropical palm
+tree
+patterns
+forest},
+   ISSN = {0906-7590},
+   DOI = {10.1111/ecog.03163},
+   url = {<Go to ISI>://WOS:000419052200014},
+   year = {2018},
+   type = {Journal Article}
+}
+```

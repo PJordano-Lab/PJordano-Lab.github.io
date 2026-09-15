@@ -21,3 +21,21 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1016/b978-0-12-396992-7.00002-2) | [PDF](http://hdl.handle.net/10261/64172) | [OpenAlex](https://openalex.org/W1680689898)
+
+## BibTeX
+
+```bibtex
+@article{RN57990,
+   author = {Hagen, Melanie and Kissling, W. Daniel and Rasmussen, Claus and De Aguiar, Marcus A M and Brown, Lee E. and Carstensen, Daniel W. and Alves-Dos-Santos, Isabel and Dupont, Yoko L. and Edwards, Francois K. and Genini, Julieta and Guimarães Jr., Paulo R. and Jenkins, Gareth B. and Jordano, Pedro and Kaiser-Bunbury, Christopher N. and Ledger, Mark E. and Maia, Kate P. and Marquitti, Flavia M Darcie and Mclaughlin, ??rla and Morellato, L. Patricia C and O'Gorman, Eoin J. and Trojelsgaard, Kristian and Tylianakis, Jason M. and Vidal, Mariana Morais and Woodward, Guy and Olesen, Jens M.},
+   title = {Biodiversity, species interactions and ecological networks in a fragmented world},
+   journal = {Advances in Ecological Research},
+   volume = {46},
+   pages = {89–120},
+   abstract = {Biodiversity is organised into complex ecological networks of interacting species in local ecosystems, but our knowledge about the effects of habitat fragmentation on such systems remains limited. We consider the effects of this key driver of both local and global change on both mutualistic and antagonistic systems at different levels of biological organisation and spatiotemporal scales.There is a complex interplay of patterns and processes related to the variation and influence of spatial, temporal and biotic drivers in ecological networks. Species traits (e.g. body size, dispersal ability) play an important role in determining how networks respond to fragment size and isolation, edge shape and permeability, and the quality of the surrounding landscape matrix. Furthermore, the perception of spatial scale (e.g. environmental grain) and temporal effects (time lags, extinction debts) can differ markedly among species, network modules and trophic levels, highlighting the need to develop a more integrated perspective that considers not just nodes, but the structural role and strength of species interactions (e.g. as hubs, spatial couplers and determinants of connectance, nestedness and modularity) in response to habitat fragmentation.Many challenges remain for improving our understanding: the likely importance of specialisation, functional redundancy and trait matching has been largely overlooked. The potentially critical effects of apex consumers, abundant species and super-generalists on network changes and evolutionary dynamics also need to be addressed in future research. Ultimately, spatial and ecological networks need to be combined to explore the effects of dispersal, colonisation, extinction and habitat fragmentation on network structure and coevolutionary dynamics. Finally, we need to embed network approaches more explicitly within applied ecology in general, because they offer great potential for improving on the current species-based or habitat-centric approaches to our management and conservation of biodiversity in the face of environmental change. ?? 2012 Elsevier Ltd.},
+   ISSN = {9780123969927},
+   DOI = {10.1016/B978-0-12-396992-7.00002-2},
+   url = {https://ac.els-cdn.com/B9780123969927000022/1-s2.0-B9780123969927000022-main.pdf?_tid=2458bf81-3b96-45e9-b237-3db09d45b2cf&acdnat=1530986734_506e361498b4ba9a4da7da12275f72f5},
+   year = {2012},
+   type = {Journal Article}
+}
+```

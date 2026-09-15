@@ -19,3 +19,50 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2656.70280) | [OpenAlex](https://openalex.org/W7162190302)
+
+## BibTeX
+
+```bibtex
+@article{RN31325,
+   author = {Miguel, M. F. and Jordano, P. and Burkle, L. A. and Emer, C. and Vazquez, D. P.},
+   title = {Species loss alters the mesoscale structure of mutualistic networks},
+   journal = {Journal of Animal Ecology},
+   volume = {95},
+   number = {7},
+   pages = {1235–1247},
+   note = {Miguel, M Florencia
+Jordano, Pedro
+Burkle, Laura A
+Emer, Carine
+Vazquez, Diego P
+eng
+Consejo Nacional de Investigaciones Cientificas y Tecnicas, CONICET postdoctoral scholarship/
+PICT-2018-1272/Fondo para la Investigacion Cientifica y Tecnologica/
+England
+2026/05/23
+J Anim Ecol. 2026 Jul;95(7):1235-1247. doi: 10.1111/1365-2656.70280. Epub 2026 May 22.},
+   abstract = {Species extinctions represent one of the most alarming signs of the biodiversity crisis in the Anthropocene, with multiple impacts on ecosystems and human well-being. Local extinctions can trigger widespread changes in biotic communities by reshaping species composition and the structure of ecological interaction networks. However, we still know little about how species extinction alters the internal structure of ecological networks. We analysed how the loss of resource specialist animal species triggered by anthropogenic drivers affects frequencies of motifs-interaction patterns among small groups of species-and species positions within motifs in plant-pollinator and plant-seed disperser networks. Our results show that both motif frequencies and species positions changed after species loss in both systems, with variation primarily driven by a subset of large motifs involving five or six species, indicating that structural changes are concentrated in more complex interaction configurations. In plant-pollinator networks, variation in species positions was related to changes in species-level specialization, whereas in plant-seed disperser networks, motif frequencies varied with plant and animal species richness across sites. These findings indicate that species loss is accompanied by non-random structural reorganization at the mesoscale, and that these responses depend on ecological context and constraints on species interactions. By revealing patterns not captured by macroscale network descriptors, our study highlights the importance of considering intermediate levels of organization to understand how biodiversity loss reshapes ecological networks under ongoing environmental change.},
+   keywords = {Animals
+*Pollination
+*Symbiosis
+*Biodiversity
+*Extinction, Biological
+*Seed Dispersal
+*Insecta/physiology
+Plants
+Models, Biological
+Ecosystem
+Anthropocene
+ecological networks
+motifs
+mutualistic networks
+species loss
+species roles},
+   ISSN = {1365-2656 (Electronic)
+0021-8790 (Linking)},
+   DOI = {10.1111/1365-2656.70280},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/42175561},
+   year = {2026},
+   type = {Journal Article}
+}
+```

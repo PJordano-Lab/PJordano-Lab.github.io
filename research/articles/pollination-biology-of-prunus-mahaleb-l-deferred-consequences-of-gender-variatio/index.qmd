@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1095-8312.1993.tb00919.x) | [PDF](http://hdl.handle.net/10261/42654) | [OpenAlex](https://openalex.org/W2105374023)
+
+## BibTeX
+
+```bibtex
+@article{RN17168,
+   author = {Jordano, P},
+   title = {Pollination biology of Prunus mahaleb L.: deferred consequences of gender variation for fecundity and seed size},
+   journal = {Biological Journal of the Linnean Society},
+   volume = {50},
+   pages = {65–84},
+   DOI = {10.1111/j.1095-8312.1993.tb00919.x},
+   year = {1993},
+   type = {Journal Article}
+}
+```

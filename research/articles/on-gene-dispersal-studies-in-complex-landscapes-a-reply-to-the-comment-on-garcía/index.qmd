@@ -21,3 +21,30 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1365-294x.2009.04393.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-294X.2009.04393.x) | [OpenAlex](https://openalex.org/W2110170987)
+
+## BibTeX
+
+```bibtex
+@article{RN57540,
+   author = {Garcia, Cristina and Godoy, Jose A and Jordano, Pedro},
+   title = {On gene dispersal studies in complex landscapes: a reply to the comment on Garcia et al. (2005,2007)},
+   journal = {Molecular Ecology},
+   volume = {18},
+   pages = {4536–4540},
+   keywords = {Computer-Program
+Distance
+Exact Identification
+Natural-Populations
+Patterns
+Plants
+Pollen Flow
+Prunus-Mahaleb
+Seed Dispersal
+Success},
+   DOI = {10.1111/j.1365-294X.2009.04393.x},
+   url = {<Go to ISI>://WOS:000271468800005
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-294X.2009.04393.x},
+   year = {2009},
+   type = {Journal Article}
+}
+```

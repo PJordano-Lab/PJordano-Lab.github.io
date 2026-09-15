@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1461-0248.2011.01649.x) | [PDF](http://hdl.handle.net/10261/40441) | [OpenAlex](https://openalex.org/W2111661781)
+
+## BibTeX
+
+```bibtex
+@article{RN57558,
+   author = {Guimarães Jr, Paulo R and Jordano, Pedro and Thompson, John N},
+   title = {Evolution and coevolution in mutualistic networks},
+   journal = {Ecology Letters},
+   volume = {14},
+   pages = {877–885},
+   DOI = {10.1111/j.1461-0248.2011.01649.x},
+   url = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1461-0248.2011.01649.x},
+   year = {2011},
+   type = {Journal Article}
+}
+```

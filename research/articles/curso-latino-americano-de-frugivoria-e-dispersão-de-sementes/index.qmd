@@ -19,3 +19,25 @@ format:
 ## Links
 
 [PDF](http://hdl.handle.net/10261/36390) | [OpenAlex](https://openalex.org/W1582813124)
+
+## BibTeX
+
+```bibtex
+@article{RN4053,
+   author = {Jordano, P and Galetti, M},
+   title = {Curso Latino Americano de Frugivoria e Dispersão de Sementes},
+   journal = {Ecosistemas},
+   volume = {19},
+   number = {3},
+   pages = {89–93},
+   keywords = {Animales frugívoros
+Cursos
+Dispersión de semillas
+Ecología
+info:eu-repo/semantics/article
+Interacciones planta-animal},
+   DOI = {10.7818/re.2014.19-3.00},
+   year = {2010},
+   type = {Journal Article}
+}
+```
