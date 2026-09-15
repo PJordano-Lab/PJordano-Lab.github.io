@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.20350/digitalcsic/13718) | [PDF](http://hdl.handle.net/10261/227595) | [OpenAlex](https://openalex.org/W3128449392)
+
+## BibTeX
+
+```bibtex
+@misc{Ordovs_2020,
+  doi = {10.20350/DIGITALCSIC/13718},
+  url = {https://digital.csic.es/handle/10261/227595},
+  author = {Ordovás, José M. and Esteban, Mariano and García-Retamero, Rocío and González López Valcárcel, Beatriz and Gordaliza, Alfonso and Inzitari, Marco and Jordano, Pedro and Lecuona, Itziar De and Lechuga, Laura M. and López De Mántaras, Ramón and Molero, José and Portela, Agustín and Puga, Diego and Ramasco, José J. and Sánchez-Madrid, Francisco and Valencia, Alfonso and {Grupo De Trabajo Multidisciplinar (GTM)} and Fumadó, Victoria and Alsina, Laia and Sánchez-Ramón, Silvia and Nieto García, Antonio and Cámara, Carmen},
+  language = {es},
+  title = {Informe sobre inmunidad pediátrica y la reapertura del sistema escolar en la época del COVID-19},
+  publisher = {Ministerio de Ciencia e Innovación (España)},
+  year = {2020},
+  copyright = {openAccess}
+}
+```

@@ -19,3 +19,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1093/biolinnean/blx059) | [OpenAlex](https://openalex.org/W2625191500)
+
+## BibTeX
+
+```bibtex
+@article{Fagundes_2017, title={Differences among ant species in plant protection are related to production of extrafloral nectar and degree of leaf herbivory}, volume={122}, ISSN={1095-8312}, url={http://dx.doi.org/10.1093/biolinnean/blx059}, DOI={10.1093/biolinnean/blx059}, number={1}, journal={Biological Journal of the Linnean Society}, publisher={Oxford University Press (OUP)}, author={Fagundes, R and Dáttilo, W and Ribeiro, S P and Rico-Gray, V and Jordano, P and Del-Claro, K}, year={2017}, month=June, pages={71–83} }
+```

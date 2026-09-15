@@ -21,3 +21,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/ele.13918/v3/response1) | [PDF](https://doi.org/10.1111/ele.13918/v3/response1) | [OpenAlex](https://openalex.org/W3214104544)
+
+## BibTeX
+
+```bibtex
+@misc{Lisieux_Fuzessy_2021, title={Author response for “Phylogenetic congruence between Neotropical primates and plants is driven by frugivory”}, url={http://dx.doi.org/10.1111/ele.13918/v3/response1}, DOI={10.1111/ele.13918/v3/response1}, publisher={Wiley}, author={Lisieux Fuzessy and Fernando A. O. Silveira and Laurence Culot and Pedro Jordano and Miguel Verdú}, year={2021}, month=Oct }
+```

@@ -19,3 +19,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.14260/v2/response1) | [OpenAlex](https://openalex.org/W4391128224)
+
+## BibTeX
+
+```bibtex
+@misc{Elena_Quintero_2023, title={Author response for “Lasting effects of avian‐frugivore interactions on seed dispersal and seedling establishment”}, url={http://dx.doi.org/10.1111/1365-2745.14260/v2/response1}, DOI={10.1111/1365-2745.14260/v2/response1}, publisher={Wiley}, author={Elena Quintero and Juan Miguel Arroyo and Rodolfo Dirzo and Pedro Jordano and Francisco Rodríguez‐Sánchez}, year={2023}, month=Nov }
+```

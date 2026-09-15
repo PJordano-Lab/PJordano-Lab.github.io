@@ -19,3 +19,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/ele.14163/v2/response1) | [OpenAlex](https://openalex.org/W4317770585)
+
+## BibTeX
+
+```bibtex
+@misc{Blanca_Arroyo_Correa_2022, title={Author response for “Intraspecific variation in species interactions promotes the feasibility of mutualistic assemblages”}, url={http://dx.doi.org/10.1111/ele.14163/v2/response1}, DOI={10.1111/ele.14163/v2/response1}, publisher={Wiley}, author={Blanca Arroyo‐Correa and Pedro Jordano and Ignasi Bartomeus}, year={2022}, month=Nov }
+```

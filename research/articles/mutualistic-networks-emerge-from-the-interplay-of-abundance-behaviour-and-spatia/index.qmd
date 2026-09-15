@@ -21,3 +21,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2656.70324) | [PDF](https://repositorio.comillas.edu/bitstreams/7308141c-cd06-4469-b723-5ccab91c3aab/download) | [OpenAlex](https://openalex.org/W7172501010)
+
+## BibTeX
+
+```bibtex
+@article{Arroyo_Correa_2026, title={Mutualistic networks emerge from the interplay of abundance, behaviour and spatial constraints}, ISSN={1365-2656}, url={http://dx.doi.org/10.1111/1365-2656.70324}, DOI={10.1111/1365-2656.70324}, journal={Journal of Animal Ecology}, publisher={Wiley}, author={Arroyo‐Correa, Blanca and Bartomeus, Ignasi and Jordano, Pedro and Castro, Mario and Galeano, Javier}, year={2026}, month=Aug }
+```

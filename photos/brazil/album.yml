@@ -1,0 +1,75 @@
+# Per-image metadata for the photo-gallery extension.
+# Keys are filenames; title/description/alt override what EXIF
+# provides, and `date: YYYY-MM-DD` overrides the capture date.
+images:
+  "brazil-001.jpg":
+    title: "- !Stacks Image 1741"
+    alt: "- !Stacks Image 1741"
+  "brazil-002.jpg":
+    title: "- !Stacks Image 1742"
+    alt: "- !Stacks Image 1742"
+  "brazil-003.jpg":
+    title: "- !Stacks Image 1753"
+    alt: "- !Stacks Image 1753"
+  "brazil-004.jpg":
+    title: "- !Stacks Image 1754"
+    alt: "- !Stacks Image 1754"
+  "brazil-005.jpg":
+    title: "- !Stacks Image 1755"
+    alt: "- !Stacks Image 1755"
+  "brazil-006.jpg":
+    title: "- Next"
+    alt: "- Next"
+  "cardoso-001.jpg":
+    title: "Photo from GoogleEarth, centered on Ilha do Cardoso"
+    alt: "Photo from GoogleEarth, centered on Ilha do Cardoso"
+  "cardoso-002.jpg":
+    title: "View when approaching from Cananéia"
+    alt: "View when approaching from Cananéia"
+  "cardoso-003.jpg":
+    title: "The beach"
+    alt: "The beach"
+  "cardoso-004.jpg":
+    title: "View from the tower, facing SW"
+    alt: "View from the tower, facing SW"
+  "cardoso-005.jpg":
+    title: "View from the tower, facing SW; restinga forest with the planicie and encosta behind"
+    alt: "View from the tower, facing SW; restinga forest with the planicie and encosta behind"
+  "cardoso-006.jpg":
+    title: "View from the tower, facing SW; Pico Dos Irmaõs"
+    description: "Planicie and encosta forest"
+    alt: "View from the tower, facing SW; Pico Dos Irmaõs. Planicie and encosta forest"
+  "cardoso-007.jpg":
+    title: "View from the tower, facing SW"
+    alt: "View from the tower, facing SW"
+  "cardoso-008.jpg":
+    title: "View from the tower, facing SW"
+    alt: "View from the tower, facing SW"
+  "cardoso-009.jpg":
+    title: "Professors at the 2004 Frugivory and Seed Dispersal course"
+    description: "Left to right: Marco Aurelio Pizo, Mauro Galetti, Rodrigo Medel, Wilson Spironello, Wesley Silva, Regino Zamora, and Pedro Jordano"
+    alt: "Professors at the 2004 Frugivory and Seed Dispersal course. Left to right: Marco Aurelio Pizo, Mauro Galetti, Rodrigo Medel, Wilson Spironello, Wesley Silva, Re"
+  "cardoso-010.jpg":
+    title: "View of the coast, Cananéia"
+    alt: "View of the coast, Cananéia"
+  "cardoso-011.jpg":
+    title: "View from the tower, facing SW"
+    alt: "View from the tower, facing SW"
+  "cardoso-012.jpg":
+    title: "Mangrove and restinga forest"
+    alt: "Mangrove and restinga forest"
+  "cardoso-013.jpg":
+    title: "View from the tower, facing SW"
+    alt: "View from the tower, facing SW"
+  "cardoso-014.jpg":
+    title: "View from the tower, facing SW"
+    alt: "View from the tower, facing SW"
+  "cardoso-015.jpg":
+    title: "View from the tower, facing SW"
+    alt: "View from the tower, facing SW"
+  "cardoso-016.jpg":
+    title: "Pico Dos Irmaõs"
+    alt: "Pico Dos Irmaõs"
+  "cardoso-017.jpg":
+    title: "Mangrove"
+    alt: "Mangrove"

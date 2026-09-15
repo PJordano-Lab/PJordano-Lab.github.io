@@ -99,7 +99,11 @@ def insert_block(text, raw):
     """Put the BibTeX section right after the Links section."""
     block = bib_block(raw)
     # replace an existing BibTeX section (idempotent re-runs)
-    existing = re.search(rf"(?ms)^{HEADING}\s*\n.*?(?=^## |\Z)", text)
+    # Bound the replacement to the heading plus its fenced code block. A
+    # heading-to-next-heading span would overrun any fenced div that follows
+    # (callout titles are written as '## ' headings inside such divs).
+    existing = re.search(
+        rf"(?ms)^{HEADING}\s*\n+```bibtex\n.*?\n```[ \t]*\n?", text)
     if existing:
         return text[:existing.start()] + block + text[existing.end():]
 

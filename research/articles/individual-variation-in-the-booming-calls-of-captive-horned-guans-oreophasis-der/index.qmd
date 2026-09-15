@@ -19,3 +19,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1080/09524622.2016.1233513) | [OpenAlex](https://openalex.org/W2521142089)
+
+## BibTeX
+
+```bibtex
+@article{Gonz_lez_Garc_a_2016, title={Individual variation in the booming calls of captive Horned Guans (<i>Oreophasis derbianus</i>): an endangered Neotropical mountain bird}, volume={26}, ISSN={2165-0586}, url={http://dx.doi.org/10.1080/09524622.2016.1233513}, DOI={10.1080/09524622.2016.1233513}, number={2}, journal={Bioacoustics}, publisher={Informa UK Limited}, author={González-García, Fernando and Sosa-López, J. Roberto and Ornelas, Juan Francisco and Jordano, Pedro and Rico-Gray, Victor and Urios Moliner, Vicente}, year={2016}, month=Sept, pages={185–198} }
+```

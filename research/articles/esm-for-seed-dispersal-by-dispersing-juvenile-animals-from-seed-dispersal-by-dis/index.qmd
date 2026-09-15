@@ -21,3 +21,17 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.6084/m9.figshare.8311511.v1) | [PDF](https://doi.org/10.6084/m9.figshare.8311511.v1) | [OpenAlex](https://openalex.org/W2949626307)
+
+## BibTeX
+
+```bibtex
+@article{GonzlezVaro_2019,
+  doi = {10.6084/M9.FIGSHARE.8311511.V1},
+  url = {https://rs.figshare.com/articles/journal_contribution/ESM_for_Seed_dispersal_by_dispersing_juvenile_animals_from_Seed_dispersal_by_dispersing_juvenile_animals_a_source_of_functional_connectivity_in_fragmented_landscapes/8311511/1},
+  author = {P. González-Varo, Juan and Díaz-García, Sarah and Arroyo, Juan M. and Jordano, Pedro},
+  title = {ESM for Seed dispersal by dispersing juvenile animals from Seed dispersal by dispersing juvenile animals: a source of functional connectivity in fragmented landscapes},
+  publisher = {The Royal Society},
+  year = {2019},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```

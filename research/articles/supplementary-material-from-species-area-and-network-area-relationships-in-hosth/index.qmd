@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.6084/m9.figshare.c.5345000.v2) | [PDF](https://doi.org/10.6084/m9.figshare.c.5345000.v2) | [OpenAlex](https://openalex.org/W3185171428)
+
+## BibTeX
+
+```bibtex
+@misc{Dallas_2021,
+  doi = {10.6084/M9.FIGSHARE.C.5345000.V2},
+  url = {https://rs.figshare.com/collections/Supplementary_material_from_Species-area_and_network-area_relationships_in_host_helminth_interactions_/5345000/2},
+  author = {Dallas, Tad A and Jordano, Pedro},
+  keywords = {Ecology, FOS: Biological sciences, FOS: Biological sciences},
+  title = {Supplementary material from "Species-area and network-area relationships in host–helminth interactions"},
+  publisher = {The Royal Society},
+  year = {2021},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```

@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.6084/m9.figshare.3562767) | [PDF](https://doi.org/10.6084/m9.figshare.3562767) | [OpenAlex](https://openalex.org/W4394525037)
+
+## BibTeX
+
+```bibtex
+@misc{RodrguezRodrguez_2016,
+  doi = {10.6084/M9.FIGSHARE.3562767},
+  url = {https://wiley.figshare.com/articles/dataset/Appendix_E_Detailed_description_of_spatial_point_pattern_analyses_plus_additional_results_from_univariate_and_bivariate_analyses_of_plant_animal_interaction_strengths_and_plant_characteristics_/3562767},
+  author = {Rodríguez-Rodríguez, María C. and Jordano, Pedro and Valido, Alfredo},
+  keywords = {Environmental Science, Ecology, FOS: Biological sciences, FOS: Biological sciences},
+  title = {Appendix E. Detailed description of spatial point pattern analyses, plus additional results from univariate and bivariate analyses of plant–animal interaction strengths and plant characteristics.},
+  publisher = {Wiley},
+  year = {2016},
+  copyright = {Creative Commons Zero v1.0 Universal}
+}
+```

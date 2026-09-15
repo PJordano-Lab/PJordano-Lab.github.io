@@ -19,3 +19,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.23943/princeton/9780691131269.003.0007) | [OpenAlex](https://openalex.org/W4237930164)
+
+## BibTeX
+
+```bibtex
+@inbook{Bascompte_2013, title={Epilogue}, ISBN={9781400848720}, url={http://dx.doi.org/10.23943/princeton/9780691131269.003.0007}, DOI={10.23943/princeton/9780691131269.003.0007}, booktitle={Mutualistic Networks}, publisher={Princeton University Press}, author={Bascompte, Jordi and Jordano, Pedro}, year={2013}, month=Dec }
+```

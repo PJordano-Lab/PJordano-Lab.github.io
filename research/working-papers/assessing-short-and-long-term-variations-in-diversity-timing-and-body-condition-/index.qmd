@@ -10,8 +10,13 @@ format:
     toc: true
 ---
 
-::: {.callout-warning}
-## Preprint
+<!-- full-citation:start -->
+## Full citation
+
+Campo-Celada, M., Mendoza, I., Benítez-López, A., Gutiérrez-Expósito, C., Rabadán-González, J. and Jordano, P. 2020. Assessing short- and long-term variations in diversity, timing, and body condition of migratory frugivorous birds. – bioRxiv.
+<!-- full-citation:end -->
+
+::: {.callout-warning title="Preprint"}
 This is a preprint and has not undergone peer review. Interpret findings with caution.
 :::
 

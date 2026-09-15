@@ -1,0 +1,65 @@
+# Per-image metadata for the photo-gallery extension.
+# Keys are filenames; title/description/alt override what EXIF
+# provides, and `date: YYYY-MM-DD` overrides the capture date.
+images:
+  "megafauna-001.jpg":
+    title: "Fruits from Fazenda Rio Negro, Pantanal, Brazil"
+    alt: "Fruits from Fazenda Rio Negro, Pantanal, Brazil."
+  "megafauna-002.jpg":
+    title: "Pouteria macrocarpa"
+    description: "Sapotaceae"
+    alt: "Pouteria macrocarpa. Sapotaceae"
+  "megafauna-003.jpg":
+    title: "Pouteria ucucui"
+    description: "Sapotaceae"
+    alt: "Pouteria ucucui. Sapotaceae"
+  "megafauna-004.jpg":
+    title: "Theobroma speciosa"
+    description: "Malvaceae"
+    alt: "Theobroma speciosa. Malvaceae"
+  "megafauna-005.jpg":
+    title: "Lecythidaceae"
+    alt: "Lecythidaceae"
+  "megafauna-006.jpg":
+    title: "Raphia vinifera"
+    description: "Arecaceae"
+    alt: "Raphia vinifera. Arecaceae"
+  "megafauna-007.jpg":
+    title: "Lacunaria jemmani"
+    description: "Quiinaceae"
+    alt: "Lacunaria jemmani. Quiinaceae"
+  "megafauna-008.jpg":
+    title: "Parinari montana"
+    description: "Chrysobalanaceae"
+    alt: "Parinari montana. Chrysobalanaceae"
+  "megafauna-009.jpg":
+    title: "Licania macrophyla"
+    description: "Chrysobalanaceae"
+    alt: "Licania macrophyla. Chrysobalanaceae"
+  "megafauna-010.jpg":
+    title: "Pouteria pariry"
+    description: "Sapotaceae"
+    alt: "Pouteria pariry. Sapotaceae"
+  "megafauna-011.jpg":
+    title: "Theobroma grandiflora"
+    description: "Malvaceae"
+    alt: "Theobroma grandiflora. Malvaceae"
+  "megafauna-012.jpg":
+    title: "Theobroma grandiflora"
+    description: "Malvaceae"
+    alt: "Theobroma grandiflora. Malvaceae"
+  "megafauna-013.jpg":
+    title: "Scheelea martiana"
+    description: "Arecaceae"
+    alt: "Scheelea martiana. Arecaceae"
+  "megafauna-014.jpg":
+    title: "Orbignya phalerata"
+    description: "Arecaceae"
+    alt: "Orbignya phalerata. Arecaceae"
+  "megafauna-015.jpg":
+    title: "Phytelephas macrocarpa"
+    description: "Arecaceae"
+    alt: "Phytelephas macrocarpa. Arecaceae"
+  "megafauna-016.jpg":
+    title: "Megafauna fruits from Pantanal (Fazenda Rio Negro), Brazil"
+    alt: "Megafauna fruits from Pantanal (Fazenda Rio Negro), Brazil."

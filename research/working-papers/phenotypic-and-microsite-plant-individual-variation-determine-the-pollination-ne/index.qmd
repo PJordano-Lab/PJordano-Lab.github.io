@@ -10,8 +10,13 @@ format:
     toc: true
 ---
 
-::: {.callout-warning}
-## Preprint
+<!-- full-citation:start -->
+## Full citation
+
+Arroyo-Correa, B., Bartomeus, I. and Jordano, P. 2020. Phenotypic and microsite plant individual variation determine the pollination network structure and its functional consequences. – bioRxiv.
+<!-- full-citation:end -->
+
+::: {.callout-warning title="Preprint"}
 This is a preprint and has not undergone peer review. Interpret findings with caution.
 :::
 

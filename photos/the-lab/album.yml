@@ -1,0 +1,441 @@
+# Per-image metadata for the photo-gallery extension.
+# Keys are filenames; title/description/alt override what EXIF
+# provides, and `date: YYYY-MM-DD` overrides the capture date.
+images:
+  "ieg-001.jpg":
+    title: "The gang, Mar 2006; Science paper accepted!"
+    alt: "The gang, Mar 2006; Science paper accepted!"
+  "ieg-002.jpg":
+    title: "Lolo and Pedro"
+    alt: "Lolo and Pedro"
+  "ieg-003.jpg":
+    title: "At Malakoff with Godo, Arndt and Rémy Petit"
+    alt: "At Malakoff with Godo, Arndt and Rémy Petit"
+  "ieg-004.jpg":
+    title: "Arndt at Malakoff, France"
+    description: "Feb 2007"
+    alt: "Arndt at Malakoff, France. Feb 2007"
+  "ieg-005.jpg":
+    title: "Diego helping with mist-netting"
+    description: "Cazorla, Aug 1990"
+    alt: "Diego helping with mist-netting. Cazorla, Aug 1990"
+  "ieg-006.jpg":
+    title: "Myriam"
+    description: "Hato Ratón, 1981"
+    alt: "Myriam. Hato Ratón, 1981"
+  "ieg-007.jpg":
+    title: "Hato Ratón house, June 1981"
+    alt: "Hato Ratón house, June 1981"
+  "ieg-008.jpg":
+    title: "Pedro and Myriam"
+    description: "Sierra Nevada, Aug 1985"
+    alt: "Pedro and Myriam. Sierra Nevada, Aug 1985"
+  "ieg-009.jpg":
+    title: "Pedro and Myriam, Sierra Nevada"
+    description: "May 1989"
+    alt: "Pedro and Myriam, Sierra Nevada. May 1989"
+  "ieg-010.jpg":
+    title: "Lolo and Pedro"
+    description: "Carzorla. 1989"
+    alt: "Lolo and Pedro. Carzorla. 1989"
+  "ieg-011.jpg":
+    title: "Pedro and Myriam"
+    description: "First trip to Robienhondo. July 1979"
+    alt: "Pedro and Myriam. First trip to Robienhondo. July 1979"
+  "ieg-012.jpg":
+    title: "Lolo, Geno and Leo"
+    alt: "Lolo, Geno and Leo"
+  "ieg-013.jpg":
+    title: "Thomas"
+    description: "Jens and Pedro. Discussion at Mallorca"
+    alt: "Thomas. Jens and Pedro. Discussion at Mallorca"
+  "ieg-014.jpg":
+    title: "Cris, Eva and Miguel Angel"
+    alt: "Cris, Eva and Miguel Angel"
+  "ieg-015.jpg":
+    title: "Cris, Abhay, and Miguel Angel"
+    alt: "Cris, Abhay, and Miguel Angel"
+  "ieg-016.jpg":
+    title: "Alfredo"
+    alt: "Alfredo"
+  "ieg-017.jpg":
+    title: "Laura and Miguel Angel"
+    alt: "Laura and Miguel Angel"
+  "ieg-018.jpg":
+    title: "Pedro at PN Teide, with fieldwork"
+    alt: "Pedro at PN Teide, with fieldwork"
+  "ieg-019.jpg":
+    title: "Pedro and Myriam, Reales Alcázares"
+    alt: "Pedro and Myriam, Reales Alcázares"
+  "ieg-020.jpg":
+    title: "Fran, Pedro, Myriam, Eva and Jordi at Relaes Alcázares, Sevilla"
+    description: "June 2006. (Photo, Begoña García)."
+    alt: "Fran, Pedro, Myriam, Eva and Jordi at Relaes Alcázares, Sevilla. June 2006. (Photo, Begoña García)."
+  "ieg-021.jpg":
+    title: "Pedro and John at Big Sur"
+    alt: "Pedro and John at Big Sur"
+  "ieg-022.jpg":
+    title: "With Victor Rico, 2006 noviembre 9 Casa de Campo"
+    alt: "With Victor Rico, 2006 noviembre 9 Casa de Campo"
+  "ieg-023.jpg":
+    title: "Bob, Victor, Paulo, Pedro and John"
+    description: "2006 noviembre 9 Casa de Campo"
+    alt: "Bob, Victor, Paulo, Pedro and John. 2006 noviembre 9 Casa de Campo"
+  "ieg-024.jpg":
+    title: "Pedro, Paulo, Alfredo, Arndt, Cris, Thomas, Jordi, and Pedro"
+    alt: "Pedro, Paulo, Alfredo, Arndt, Cris, Thomas, Jordi, and Pedro"
+  "ieg-025.jpg":
+    title: "John and Pedro birding at Mahuixtlan Nov 2006"
+    alt: "John and Pedro birding at Mahuixtlan Nov 2006"
+  "ieg-026.jpg":
+    title: "John, Bob, Paulo and Pedro Mahuixtlan, Nov 2006"
+    alt: "John, Bob, Paulo and Pedro Mahuixtlan, Nov 2006"
+  "ieg-027.jpg":
+    title: "Bob, Paulo Pedro and Fernando Mahuixtlan, Nov 2006"
+    alt: "Bob, Paulo Pedro and Fernando Mahuixtlan, Nov 2006"
+  "ieg-028.jpg":
+    title: "2006 noviembre 12 reunión en casa de Victor Rico en Coatepec"
+    alt: "2006 noviembre 12 reunión en casa de Victor Rico en Coatepec"
+  "ieg-029.jpg":
+    title: "Jens"
+    alt: "Jens"
+  "ieg-030.jpg":
+    title: "Con Manolo, Alfredo y Perico, Mar 1995"
+    alt: "Con Manolo, Alfredo y Perico, Mar 1995"
+  "ieg-031.jpg":
+    title: "Cristina García and Juan L García Castaño"
+    alt: "Cristina García and Juan L García Castaño"
+  "ieg-032.jpg":
+    title: "Gabi, Helena, Carina and Myriam getting ready a paella at home"
+    alt: "Gabi, Helena, Carina and Myriam getting ready a paella at home"
+  "ieg-033.jpg":
+    title: "At home, Carina, Pedro, Myriam, Helena and Enrico"
+    alt: "At home, Carina, Pedro, Myriam, Helena and Enrico"
+  "ieg-034.jpg":
+    title: "GLOBIMED meeting Jun 2007"
+    alt: "GLOBIMED meeting Jun 2007"
+  "ieg-035.jpg":
+    title: "John, Pedro, Jill, Jordi, Myriam and Eva at our place"
+    alt: "John, Pedro, Jill, Jordi, Myriam and Eva at our place"
+  "ieg-036.jpg":
+    title: "Gabi, Helena, Carina and Myriam getting ready a paella at home"
+    alt: "Gabi, Helena, Carina and Myriam getting ready a paella at home"
+  "ieg-037.jpg":
+    title: "At home, Carina, Pedro, Myriam, Helena and Enrico"
+    alt: "At home, Carina, Pedro, Myriam, Helena and Enrico"
+  "ieg-038.jpg":
+    title: "GLOBIMED meeting Jun 2007"
+    alt: "GLOBIMED meeting Jun 2007"
+  "ieg-039.jpg":
+    title: "Jordi, Pedro, Jofre and Miguel Angel"
+    description: "Feb 2006"
+    alt: "Jordi, Pedro, Jofre and Miguel Angel. Feb 2006"
+  "ieg-040.jpg":
+    title: "Pedro, Jordi and Beni"
+    alt: "Pedro, Jordi and Beni"
+  "ieg-041.jpg":
+    title: "IEG, with Beni"
+    description: "Feb 2006"
+    alt: "IEG, with Beni. Feb 2006"
+  "ieg-042.jpg":
+    title: "Miguel Angel wedding, 13 Aug 2006"
+    description: "Jordi, Alfredo, Helena, Pedro, Jessica, Laura, Miguel Angel, Cris, Eva, Enrico."
+    alt: "Miguel Angel wedding, 13 Aug 2006. Jordi, Alfredo, Helena, Pedro, Jessica, Laura, Miguel Angel, Cris, Eva, Enrico."
+  "ieg-043.jpg":
+    title: "Miguel Angel wedding, 13 Aug 2006"
+    description: "Pedro, Myriam, Abhay, Jessica, Pete, Eva, Jordi, Cris, Victor, Enrico, Helena."
+    alt: "Miguel Angel wedding, 13 Aug 2006. Pedro, Myriam, Abhay, Jessica, Pete, Eva, Jordi, Cris, Victor, Enrico, Helena."
+  "ieg-044.jpg":
+    title: "Stockholm, 31Aug2004; EURYI Award"
+    alt: "Stockholm, 31Aug2004; EURYI Award"
+  "ieg-045.jpg":
+    title: "Just another shot"
+    alt: "Just another shot"
+  "ieg-046.jpg":
+    title: "Pedro and Myriam, at Miguel A and Laura's wedding"
+    alt: "Pedro and Myriam, at Miguel A and Laura's wedding"
+  "ieg-047.jpg":
+    title: "Eva, John N and Jill Thompson, Myriam and Pedro at Jordi's for a paella"
+    alt: "Eva, John N and Jill Thompson, Myriam and Pedro at Jordi's for a paella"
+  "ieg-048.jpg":
+    title: "Miguel Angel, Alfredo, Cris, Enrico and Pedro"
+    alt: "Miguel Angel, Alfredo, Cris, Enrico and Pedro"
+  "ieg-049.jpg":
+    title: "Jordi and Lolo"
+    alt: "Jordi and Lolo"
+  "ieg-050.jpg":
+    title: "CYTED"
+    description: "Reunión Palma de Mallorca. Junio 2000."
+    alt: "CYTED. Reunión Palma de Mallorca. Junio 2000."
+  "ieg-051.jpg":
+    title: "Carina, Gabi e Mauro"
+    description: "Oct 2000."
+    alt: "Carina, Gabi e Mauro. Oct 2000."
+  "ieg-052.jpg":
+    title: "Mauro e Gabriela"
+    description: "25 Janeiro 2001."
+    alt: "Mauro e Gabriela. 25 Janeiro 2001."
+  "ieg-053.jpg":
+    title: "The usual suspects"
+    description: "22Feb2001"
+    alt: "The usual suspects. 22Feb2001"
+  "ieg-054.jpg":
+    title: "Jordi's blackboard"
+    description: "Mar 2001"
+    alt: "Jordi's blackboard. Mar 2001"
+  "ieg-055.jpg":
+    title: "With Bego, Jordi and Myriam, at Jordi's for an excellent paella"
+    description: "Mar 2001"
+    alt: "With Bego, Jordi and Myriam, at Jordi's for an excellent paella. Mar 2001"
+  "ieg-056.jpg":
+    title: "Jens, Pedro and Jordi"
+    alt: "Jens, Pedro and Jordi"
+  "ieg-057.jpg":
+    title: "At Jordi's place, Mar 2001, just before IEG's Space Odyssey"
+    alt: "At Jordi's place, Mar 2001, just before IEG's Space Odyssey."
+  "ieg-058.jpg":
+    title: "Jill and John N"
+    description: "Thompson in Doñana. Jan 2003"
+    alt: "Jill and John N. Thompson in Doñana. Jan 2003"
+  "ieg-059.jpg":
+    title: "Myiram en la casa de Roblehondo"
+    description: "Oct 1991"
+    alt: "Myiram en la casa de Roblehondo. Oct 1991"
+  "ieg-060.jpg":
+    title: "Mauro, Gabi e Carina"
+    alt: "Mauro, Gabi e Carina."
+  "ieg-061.jpg":
+    title: "Geno Schupp y Janis Boettinger en Nava de las Correhuelas, S"
+    description: "Cazorla. Marzo 2001."
+    alt: "Geno Schupp y Janis Boettinger en Nava de las Correhuelas, S. Cazorla. Marzo 2001."
+  "ieg-062.jpg":
+    title: "Integrative Ecology Group"
+    description: "Pabellón del Perú, Sevilla. Marzo 2002."
+    alt: "Integrative Ecology Group. Pabellón del Perú, Sevilla. Marzo 2002."
+  "ieg-063.jpg":
+    title: "Jordi Bascompte"
+    alt: "Jordi Bascompte"
+  "ieg-064.jpg":
+    title: "Pedro Jordano"
+    description: "This is the original photo I had when I first started the web page in Nov 1989!!"
+    alt: "Pedro Jordano. This is the original photo I had when I first started the web page in Nov 1989!!"
+  "ieg-065.jpg":
+    title: "With Geno Schupp at Saguaro Nat"
+    description: "Park; Tucson, AZ, EEUU. Agosto 2002."
+    alt: "With Geno Schupp at Saguaro Nat. Park; Tucson, AZ, EEUU. Agosto 2002."
+  "ieg-066.jpg":
+    title: "Geno Schupp y Janis Boettinger en Saguaro Nat"
+    description: "Park; Tucson, AZ, EEUU. Agosto 2002."
+    alt: "Geno Schupp y Janis Boettinger en Saguaro Nat. Park; Tucson, AZ, EEUU. Agosto 2002."
+  "ieg-067.jpg":
+    title: "Jens, Pedro and Jordi"
+    alt: "Jens, Pedro and Jordi"
+  "ieg-068.jpg":
+    title: "Paulo Guimaraes en el despacho de Mauro"
+    description: "Sep 2002."
+    alt: "Paulo Guimaraes en el despacho de Mauro. Sep 2002."
+  "ieg-069.jpg":
+    title: "En el despacho de Mauro, Sept 2002"
+    alt: "En el despacho de Mauro, Sept 2002."
+  "ieg-070.jpg":
+    title: "At Veropeso market, Belém, Para, BR"
+    alt: "At Veropeso market, Belém, Para, BR"
+  "ieg-071.jpg":
+    title: "Herbarium Museu Goeldi, measurong fruits and seeds"
+    alt: "Herbarium Museu Goeldi, measurong fruits and seeds."
+  "ieg-072.jpg":
+    title: "Mauro at Museu Goeldi"
+    alt: "Mauro at Museu Goeldi"
+  "ieg-073.jpg":
+    title: "Museu Goeldi, Belem, BR, measuring a tapir cranium"
+    alt: "Museu Goeldi, Belem, BR, measuring a tapir cranium"
+  "ieg-074.jpg":
+    title: "Arndt and Jordi in Alcornocales"
+    alt: "Arndt and Jordi in Alcornocales"
+  "ieg-075.jpg":
+    title: "Arndt and Jordi in Alcornocales"
+    alt: "Arndt and Jordi in Alcornocales"
+  "ieg-076.jpg":
+    title: "Myriam en Sª Aljibe"
+    alt: "Myriam en Sª Aljibe"
+  "ieg-077.jpg":
+    title: "Jordi watching a Taxus bacatta tree"
+    alt: "Jordi watching a Taxus bacatta tree"
+  "ieg-079.jpg":
+    title: "José A"
+    description: "Godoy en el mercado de navidad, Strasbourg"
+    alt: "José A. Godoy en el mercado de navidad, Strasbourg"
+  "ieg-080.jpg":
+    title: "Talking with John N Thompson, Pabellon del Perú, Jan 2003"
+    alt: "Talking with John N Thompson, Pabellon del Perú, Jan 2003"
+  "ieg-081.jpg":
+    title: "Xavi, Arndt and Abhay"
+    alt: "Xavi, Arndt and Abhay"
+  "ieg-082.jpg":
+    title: "IEG, Jan 2003"
+    alt: "IEG, Jan 2003"
+  "ieg-083.jpg":
+    title: "John N and Jill Thompson"
+    alt: "John N and Jill Thompson"
+  "ieg-084.jpg":
+    title: "Jordi and John N Thompson at Jordi's terrace"
+    alt: "Jordi and John N Thompson at Jordi's terrace"
+  "ieg-085.jpg":
+    title: "Jordi, John N and Jill Thompson, Myriam and Pedro at Jordi's for a paella"
+    alt: "Jordi, John N and Jill Thompson, Myriam and Pedro at Jordi's for a paella"
+  "ieg-086.jpg":
+    title: "Jofre at concert"
+    alt: "Jofre at concert"
+  "ieg-087.jpg":
+    title: "With Joel Cohen in Alcornocales, Cádiz"
+    alt: "With Joel Cohen in Alcornocales, Cádiz"
+  "ieg-088.jpg":
+    title: "In Alcornocales, with Diego, Eva, and Alberto García Saez"
+    alt: "In Alcornocales, with Diego, Eva, and Alberto García Saez"
+  "ieg-089.jpg":
+    title: "Fiesta in Pabellon del Peru, the lab people"
+    description: "JuanMi, Jose Maria, Pilar, Cris, etc."
+    alt: "Fiesta in Pabellon del Peru, the lab people. JuanMi, Jose Maria, Pilar, Cris, etc."
+  "ieg-090.jpg":
+    title: "Alcornocales, looking at a Psilotum patch"
+    alt: "Alcornocales, looking at a Psilotum patch"
+  "ieg-091.jpg":
+    title: "With Thomas and Jens, Palma de Mallorca meeting"
+    alt: "With Thomas and Jens, Palma de Mallorca meeting"
+  "ieg-092.jpg":
+    title: "Working in Ilha de Cardoso, Brazil"
+    alt: "Working in Ilha de Cardoso, Brazil"
+  "ieg-093.jpg":
+    title: "Working in Ilha de Cardoso, Brazil"
+    alt: "Working in Ilha de Cardoso, Brazil"
+  "ieg-094.jpg":
+    title: "With Paulo and Alê, Ilha de Cardoso, Brazil"
+    alt: "With Paulo and Alê, Ilha de Cardoso, Brazil"
+  "ieg-095.jpg":
+    title: "Pedro, Patricia e Paulo"
+    alt: "Pedro, Patricia e Paulo"
+  "ieg-096.jpg":
+    title: "The megafauna team, Mauro, Pedro, Paulo"
+    alt: "The megafauna team, Mauro, Pedro, Paulo"
+  "ieg-097.jpg":
+    title: "Field woirkm in Cazorla, Mar 2003"
+    alt: "Field woirkm in Cazorla, Mar 2003"
+  "ieg-098.jpg":
+    title: "Jordi, Eva, Bego, Fran and Myriam"
+    description: "Stockholm, Aug 2004"
+    alt: "Jordi, Eva, Bego, Fran and Myriam. Stockholm, Aug 2004"
+  "ieg-099.jpg":
+    title: "Dinner in Stockholm after EURYI Award, with Myriam and Eva, Jordi, Miquel and Quique"
+    alt: "Dinner in Stockholm after EURYI Award, with Myriam and Eva, Jordi, Miquel and Quique"
+  "ieg-100.jpg":
+    title: "Pedro, Cris, Lolo and Santi"
+    alt: "Pedro, Cris, Lolo and Santi"
+  "ieg-101.jpg":
+    title: "Rocka"
+    description: "GLOBIMED meeting, Nov 2004"
+    alt: "Rocka. GLOBIMED meeting, Nov 2004"
+  "ieg-102.jpg":
+    title: "Louis F Bersier, Goerge Sugihara, Jordi"
+    description: "Doñana"
+    alt: "Louis F Bersier, Goerge Sugihara, Jordi. Doñana"
+  "ieg-104.jpg":
+    title: "Mauro, Paulo, Pedro and Carol Horvitz"
+    description: "Campinas, after Paulo's defense of master"
+    alt: "Mauro, Paulo, Pedro and Carol Horvitz. Campinas, after Paulo's defense of master"
+  "ieg-105.jpg":
+    title: "In Alcornocales, with Diego, Eva, Arndt, Begoña, and Alberto García Saez"
+    alt: "In Alcornocales, with Diego, Eva, Arndt, Begoña, and Alberto García Saez"
+  "ieg-106.jpg":
+    title: "Jordi and Joel Cohen in Montera del Torero, Alcornocales"
+    alt: "Jordi and Joel Cohen in Montera del Torero, Alcornocales"
+  "ieg-107.jpg":
+    title: "Jordi and Joel Cohen in Montera del Torero, Alcornocales"
+    alt: "Jordi and Joel Cohen in Montera del Torero, Alcornocales"
+  "ieg-108.jpg":
+    title: "Paco with Laurus at Alcornocales"
+    alt: "Paco with Laurus at Alcornocales"
+  "ieg-109.jpg":
+    title: "Carlos Melián"
+    description: "Doñana"
+    alt: "Carlos Melián. Doñana"
+  "ieg-110.jpg":
+    title: "Mari Terakawa, Pedro, Dave Kelly, Anna Traveset and Harue Abe at Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+    alt: "Mari Terakawa, Pedro, Dave Kelly, Anna Traveset and Harue Abe at Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+  "ieg-111.jpg":
+    title: "Brisbane, Australia; Jul 2005"
+    alt: "Brisbane, Australia; Jul 2005"
+  "ieg-112.jpg":
+    title: "Anrew Dennis, Pedro and Pierre Michel Forget at Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+    alt: "Anrew Dennis, Pedro and Pierre Michel Forget at Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+  "ieg-113.jpg":
+    title: "Pedro and Mauro at Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+    alt: "Pedro and Mauro at Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+  "ieg-114.jpg":
+    title: "Pedro, Joe Wright and Pierre Michel Forget, Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+    alt: "Pedro, Joe Wright and Pierre Michel Forget, Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+  "ieg-115.jpg":
+    title: "Veronika and Martin Schaefer"
+    description: "Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+    alt: "Veronika and Martin Schaefer. Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+  "ieg-116.jpg":
+    title: "Geno, Brisbane, Australia"
+    description: "July 2005"
+    alt: "Geno, Brisbane, Australia. July 2005"
+  "ieg-117.jpg":
+    title: "Geno at Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+    alt: "Geno at Frugivory and Seed Dispersal Meeting, Brisbane, Australia, Jul 2005"
+  "ieg-118.jpg":
+    title: "Bego, Pedro and Wilson"
+    description: "CYTED meeting, Santiago Chile. Sept 2005"
+    alt: "Bego, Pedro and Wilson. CYTED meeting, Santiago Chile. Sept 2005"
+  "ieg-119.jpg":
+    title: "Mauro and Pedro, Pantanal"
+    description: "Oct 2005"
+    alt: "Mauro and Pedro, Pantanal. Oct 2005"
+  "ieg-120.jpg":
+    title: "Myriam and Perico"
+    description: "Cazorla, Jul 1989"
+    alt: "Myriam and Perico. Cazorla, Jul 1989"
+  "ieg-121.jpg":
+    title: "Paulo"
+    description: "Xalapa Art Museum, Nov 2005"
+    alt: "Paulo. Xalapa Art Museum, Nov 2005"
+  "ieg-122.jpg":
+    title: "Jordi at lab"
+    alt: "Jordi at lab"
+  "ieg-123.jpg":
+    title: "Jordi and John"
+    alt: "Jordi and John"
+  "ieg-124.jpg":
+    title: "The group with John and Jill Thompson"
+    alt: "The group with John and Jill Thompson"
+  "ieg-125.jpg":
+    title: "Jordi, John, Jill and Pedro"
+    description: "Italica, Sevilla"
+    alt: "Jordi, John, Jill and Pedro. Italica, Sevilla"
+  "ieg-126.jpg":
+    title: "ISI workshop"
+    description: "Torino, Jan 2006"
+    alt: "ISI workshop. Torino, Jan 2006"
+  "ieg-127.jpg":
+    title: "Myriam, Diego and Perico"
+    description: "Cazorla, Guadahornillos. Jul 1987"
+    alt: "Myriam, Diego and Perico. Cazorla, Guadahornillos. Jul 1987"
+  "ieg-128.jpg":
+    title: "Perico helping with mist-netting, 1994"
+    alt: "Perico helping with mist-netting, 1994"
+  "ieg-129.jpg":
+    title: "Cris, Alfredo and Jofre"
+    description: "Cazorla. Jan 2006"
+    alt: "Cris, Alfredo and Jofre. Cazorla. Jan 2006"
+  "ieg-130.jpg":
+    title: "Cris and Alfedo, Cazorla"
+    description: "Jan 2006"
+    alt: "Cris and Alfedo, Cazorla. Jan 2006"
+  "ieg-131.jpg":
+    title: "Alfredo"
+    alt: "Alfredo"
+  "ieg-132.jpg":
+    title: "Pedro"
+    description: "Stockholm. Jan 2006"
+    alt: "Pedro. Stockholm. Jan 2006"

@@ -10,8 +10,13 @@ format:
     toc: true
 ---
 
-::: {.callout-warning}
-## Preprint
+<!-- full-citation:start -->
+## Full citation
+
+Perea, A., Quintero, E., Isla, J., Acevedo-Limón, L., Arroyo-Correa, B., Calvo, G., Gutiérrez, P. H., Wiegand, T. and Jordano, P. 2025. Seed co-occurrence caused by shared frugivores leaves a long-lasting signal in the spatial co-occurrence among plants. – Authorea.
+<!-- full-citation:end -->
+
+::: {.callout-warning title="Preprint"}
 This is a preprint and has not undergone peer review. Interpret findings with caution.
 :::
 

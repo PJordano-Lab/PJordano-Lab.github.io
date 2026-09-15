@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.20350/digitalcsic/13712) | [PDF](https://doi.org/10.20350/digitalcsic/13712) | [OpenAlex](https://openalex.org/W3127893981)
+
+## BibTeX
+
+```bibtex
+@misc{Ordovs_2020,
+  doi = {10.20350/DIGITALCSIC/13712},
+  url = {https://digital.csic.es/handle/10261/227571},
+  author = {Ordovás, José M. and Esteban, Mariano and García-Retamero, Rocío and González López Valcárcel, Beatriz and Gordaliza, Alfonso and Inzitari, Marco and Jordano, Pedro and Lecuona, Itziar De and Lechuga, Laura M. and López De Mántaras, Ramón and Molero, José and Portela, Agustín and Puga, Diego and Ramasco, José J. and Sánchez-Madrid, Francisco and Valencia, Alfonso and {Grupo De Trabajo Multidisciplinar (GTM)} and Ugarte, Lola and Mateu, Jorge and Ballester, Ferrán and Doblas, Francisco and Bernardello, Raffaele and Pérez García-Pando, Carlos},
+  language = {es},
+  title = {Informe del GTM sobre Atmósfera y Covid-19},
+  publisher = {Ministerio de Ciencia e Innovación (España)},
+  year = {2020},
+  copyright = {openAccess}
+}
+```

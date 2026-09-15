@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.20350/digitalcsic/13719) | [PDF](http://hdl.handle.net/10261/227601) | [OpenAlex](https://openalex.org/W3129136825)
+
+## BibTeX
+
+```bibtex
+@misc{Ordovs_2020,
+  doi = {10.20350/DIGITALCSIC/13719},
+  url = {https://digital.csic.es/handle/10261/227601},
+  author = {Ordovás, José M. and Esteban, Mariano and García-Retamero, Rocío and González López Valcárcel, Beatriz and Gordaliza, Alfonso and Inzitari, Marco and Jordano, Pedro and Lecuona, Itziar De and Lechuga, Laura M. and López De Mántaras, Ramón and Molero, José and Portela, Agustín and Puga, Diego and Ramasco, José J. and {Sánchez-Madrid, Francisco;} and Valencia, Alfonso and {Grupo De Trabajo Multidisciplinar (GTM)} and Ruíz De Adana Santiago, Manuel and {Pastor Pérez, Paulino} and Villafruela, José Manuel and {Grupo De Termotecnia De La Universidad De Valladolid} and Aizega, Joxe Mari and Luis Aduriz, Andoni},
+  language = {es},
+  title = {Informe sobre COVID-19 en espacios interiores, en particular restaurantes},
+  publisher = {Ministerio de Ciencia e Innovación (España)},
+  year = {2020},
+  copyright = {openAccess}
+}
+```

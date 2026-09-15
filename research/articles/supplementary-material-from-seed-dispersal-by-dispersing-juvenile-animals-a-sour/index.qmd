@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.6084/m9.figshare.c.4551821.v1) | [PDF](https://doi.org/10.6084/m9.figshare.c.4551821.v1) | [OpenAlex](https://openalex.org/W2951481335)
+
+## BibTeX
+
+```bibtex
+@misc{GonzlezVaro_2019,
+  doi = {10.6084/M9.FIGSHARE.C.4551821.V1},
+  url = {https://rs.figshare.com/collections/Supplementary_material_from_Seed_dispersal_by_dispersing_juvenile_animals_a_source_of_functional_connectivity_in_fragmented_landscapes_/4551821/1},
+  author = {González-Varo, Juan P. and Díaz-García, Sarah and Arroyo, Juan M. and Jordano, Pedro},
+  keywords = {Ecology, FOS: Biological sciences, 60801 Animal Behaviour},
+  title = {Supplementary material from "Seed dispersal by dispersing juvenile animals: a source of functional connectivity in fragmented landscapes"},
+  publisher = {Figshare},
+  year = {2019},
+  copyright = {CC BY 4.0}
+}
+```

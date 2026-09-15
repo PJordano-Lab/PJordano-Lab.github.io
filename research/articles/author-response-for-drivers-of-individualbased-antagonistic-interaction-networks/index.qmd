@@ -19,3 +19,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.13942/v3/response1) | [OpenAlex](https://openalex.org/W4283315849)
+
+## BibTeX
+
+```bibtex
+@misc{Jorge_Isla_2022, title={Author response for “Drivers of individual‐based, antagonistic interaction networks during plant range expansion”}, url={http://dx.doi.org/10.1111/1365-2745.13942/v3/response1}, DOI={10.1111/1365-2745.13942/v3/response1}, publisher={Wiley}, author={Jorge Isla and Miguel E. Jácome‐Flores and Daniel Pareja and Pedro Jordano}, year={2022}, month=May }
+```

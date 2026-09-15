@@ -1,0 +1,103 @@
+# Per-image metadata for the photo-gallery extension.
+# Keys are filenames; title/description/alt override what EXIF
+# provides, and `date: YYYY-MM-DD` overrides the capture date.
+images:
+  "birds-001.jpg":
+    title: "Berthelot's Pipit Anthus berthelotii Bisbita Caminero"
+    alt: "Berthelot's Pipit Anthus berthelotii Bisbita Caminero"
+  "birds-002.jpg":
+    title: "Sanderling Calidris alba Correlimos Tridáctilo"
+    alt: "Sanderling Calidris alba Correlimos Tridáctilo"
+  "birds-003.jpg":
+    title: "Sanderling Calidris alba Correlimos Tridáctilo"
+    alt: "Sanderling Calidris alba Correlimos Tridáctilo"
+  "birds-004.jpg":
+    title: "Cattle Egret Bubulcus ibis Garcilla Bueyera"
+    alt: "Cattle Egret Bubulcus ibis Garcilla Bueyera"
+  "birds-005.jpg":
+    title: "Cattle Egret Bubulcus ibis Garcilla Bueyera"
+    alt: "Cattle Egret Bubulcus ibis Garcilla Bueyera"
+  "birds-006.jpg":
+    title: "Cattle Egret (ibis) Bubulcus ibis ibis Garcilla Bueyera"
+    alt: "Cattle Egret (ibis) Bubulcus ibis ibis Garcilla Bueyera"
+  "birds-007.jpg":
+    title: "Collared Pratincole Glareola pratincola Canastera Común"
+    alt: "Collared Pratincole Glareola pratincola Canastera Común"
+  "birds-008.jpg":
+    title: "Collared Pratincole Glareola pratincola Canastera Común"
+    alt: "Collared Pratincole Glareola pratincola Canastera Común"
+  "birds-009.jpg":
+    title: "Collared Pratincole Glareola pratincola Canastera Común"
+    alt: "Collared Pratincole Glareola pratincola Canastera Común"
+  "birds-010.jpg":
+    title: "Collared Pratincole Glareola pratincola Canastera Común"
+    alt: "Collared Pratincole Glareola pratincola Canastera Común"
+  "birds-011.jpg":
+    title: "Stonechat (European) Saxicola rubicola Tarabilla común"
+    alt: "Stonechat (European) Saxicola rubicola Tarabilla común"
+  "birds-012.jpg":
+    title: "Stonechat (European) Saxicola rubicola Tarabilla común"
+    alt: "Stonechat (European) Saxicola rubicola Tarabilla común"
+  "birds-013.jpg":
+    title: "Whinchat Saxicola rubicola Tarabilla común"
+    alt: "Whinchat Saxicola rubicola Tarabilla común"
+  "birds-014.jpg":
+    title: "Eurasian Spoonbill Platalea leucorodia Espátula Común"
+    alt: "Eurasian Spoonbill Platalea leucorodia Espátula Común"
+  "birds-015.jpg":
+    title: "Eurasian Spoonbill Platalea leucorodia Espátula Común"
+    alt: "Eurasian Spoonbill Platalea leucorodia Espátula Común"
+  "birds-016.jpg":
+    title: "European Bee-eater Merops apiaster Abejaruco Europeo"
+    alt: "European Bee-eater Merops apiaster Abejaruco Europeo"
+  "birds-017.jpg":
+    title: "European Bee-eater Merops apiaster Abejaruco Europeo"
+    alt: "European Bee-eater Merops apiaster Abejaruco Europeo"
+  "birds-018.jpg":
+    title: "Gray Heron Ardea cinerea Garza Real"
+    alt: "Gray Heron Ardea cinerea Garza Real"
+  "birds-019.jpg":
+    title: "Gray Heron Ardea cinerea Garza Real"
+    alt: "Gray Heron Ardea cinerea Garza Real"
+  "birds-020.jpg":
+    title: "Red-legged Partridge Alectoris rufa Perdiz Roja"
+    alt: "Red-legged Partridge Alectoris rufa Perdiz Roja"
+  "birds-021.jpg":
+    title: "Spanish Eagle Aquila adalberti Águila Imperial Ibérica"
+    alt: "Spanish Eagle Aquila adalberti Águila Imperial Ibérica"
+  "birds-022.jpg":
+    title: "Black Kite (Black) Milvus migrans [migrans Group] Milano negro"
+    alt: "Black Kite (Black) Milvus migrans [migrans Group] Milano negro"
+  "birds-023.jpg":
+    title: "Black Kite (Black) Milvus migrans [migrans Group] Milano negro"
+    alt: "Black Kite (Black) Milvus migrans [migrans Group] Milano negro"
+  "birds-024.jpg":
+    title: "Black Kite (Black) Milvus migrans [migrans Group] Milano negro"
+    alt: "Black Kite (Black) Milvus migrans [migrans Group] Milano negro"
+  "birds-025.jpg":
+    title: "White Stork Ciconia ciconia Cigüeña Blanca"
+    alt: "White Stork Ciconia ciconia Cigüeña Blanca"
+  "birds-026.jpg":
+    title: "White Stork Ciconia ciconia Cigüeña Blanca"
+    alt: "White Stork Ciconia ciconia Cigüeña Blanca"
+  "birds-027.jpg":
+    title: "White Stork Ciconia ciconia Cigüeña Blanca"
+    alt: "White Stork Ciconia ciconia Cigüeña Blanca"
+  "birds-028.jpg":
+    title: "White Stork Ciconia ciconia Cigüeña Blanca"
+    alt: "White Stork Ciconia ciconia Cigüeña Blanca"
+  "birds-029.jpg":
+    title: "White Stork Ciconia ciconia Cigüeña Blanca"
+    alt: "White Stork Ciconia ciconia Cigüeña Blanca"
+  "birds-030.jpg":
+    title: "Gull-billed Tern Gelochelidon nilotica Pagaza Piconegra"
+    alt: "Gull-billed Tern Gelochelidon nilotica Pagaza Piconegra"
+  "birds-031.jpg":
+    title: "Gull-billed Tern Gelochelidon nilotica Pagaza Piconegra"
+    alt: "Gull-billed Tern Gelochelidon nilotica Pagaza Piconegra"
+  "birds-032.jpg":
+    title: "Short-toed Eagle Circaetus gallicus Culebrera Europea"
+    alt: "Short-toed Eagle Circaetus gallicus Culebrera Europea"
+  "birds-033.jpg":
+    title: "Purple Swamphen Porphyrio porphyrio Calamón Común"
+    alt: "Purple Swamphen Porphyrio porphyrio Calamón Común"

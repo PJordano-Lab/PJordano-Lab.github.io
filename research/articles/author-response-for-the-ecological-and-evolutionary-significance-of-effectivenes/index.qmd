@@ -21,3 +21,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/ele.13939/v2/response1) | [PDF](https://doi.org/10.1111/ele.13939/v2/response1) | [OpenAlex](https://openalex.org/W4205270540)
+
+## BibTeX
+
+```bibtex
+@misc{Jos_Mar_a_G_mez_2021, title={Author response for “The ecological and evolutionary significance of effectiveness landscapes in mutualistic interactions”}, url={http://dx.doi.org/10.1111/ele.13939/v2/response1}, DOI={10.1111/ele.13939/v2/response1}, publisher={Wiley}, author={José María Gómez and Eugene W. Schupp and Pedro Jordano}, year={2021}, month=Oct }
+```

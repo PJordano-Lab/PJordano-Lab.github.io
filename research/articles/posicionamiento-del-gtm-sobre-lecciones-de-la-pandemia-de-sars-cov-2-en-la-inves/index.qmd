@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.20350/digitalcsic/13751) | [PDF](http://hdl.handle.net/10261/229807) | [OpenAlex](https://openalex.org/W3153558835)
+
+## BibTeX
+
+```bibtex
+@misc{Ordovs_2021,
+  doi = {10.20350/DIGITALCSIC/13751},
+  url = {https://digital.csic.es/handle/10261/229807},
+  author = {Ordovás, José M. and Esteban, Mariano and García-Retamero, Rocío and González López Valcárcel, Beatriz and Gordaliza, Alfonso and Inzitari, Marco and Jordano, Pedro and Lecuona, Itziar De and Lechuga, Laura M. and López De Mántaras, Ramón and Molero, José and Portela, Agustín and Puga, Diego and Ramasco, José J. and Sánchez-Madrid, Francisco and Valencia, Alfonso and {Grupo De Trabajo Multidisciplinar (GTM)}},
+  language = {es},
+  title = {Posicionamiento del GTM sobre Lecciones de la pandemia de SARS-CoV-2 en la investigación en Biomedicina: Una reflexión de las actuaciones realizadas para construir una nueva aproximación de futuro},
+  publisher = {Ministerio de Ciencia e Innovación (España)},
+  year = {2021},
+  copyright = {openAccess}
+}
+```

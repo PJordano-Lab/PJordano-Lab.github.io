@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.6084/m9.figshare.9977420) | [PDF](https://doi.org/10.6084/m9.figshare.9977420) | [OpenAlex](https://openalex.org/W4394404441)
+
+## BibTeX
+
+```bibtex
+@misc{Dallas_2021,
+  doi = {10.6084/M9.FIGSHARE.9977420},
+  url = {https://figshare.com/articles/dataset/Code_and_data_to_reproduce_the_analyses_in_Parasite_species_richness_and_host_range_are_not_spatially_conserved_/9977420},
+  author = {Dallas, Tad and Jordano, Pedro},
+  keywords = {60207 Population Ecology, FOS: Biological sciences, 60307 Host-Parasite Interactions},
+  title = {Code and data to reproduce the analyses in "Parasite species richness and host range are not spatially conserved"},
+  publisher = {figshare},
+  year = {2021},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```

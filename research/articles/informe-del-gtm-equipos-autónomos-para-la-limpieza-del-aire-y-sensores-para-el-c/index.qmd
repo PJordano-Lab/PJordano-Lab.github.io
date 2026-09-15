@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.20350/digitalcsic/13893) | [PDF](https://doi.org/10.20350/digitalcsic/13893) | [OpenAlex](https://openalex.org/W3173008015)
+
+## BibTeX
+
+```bibtex
+@misc{Ordovs_2021,
+  doi = {10.20350/DIGITALCSIC/13893},
+  url = {https://digital.csic.es/handle/10261/242479},
+  author = {Ordovás, José M. and Esteban, Mariano and García-Retamero, Rocío and González López Valcárcel, Beatriz and Gordaliza, Alfonso and Inzitari, Marco and Jordano, Pedro and Lecuona, Itziar De and Lechuga, Laura M. and López De Mántaras, Ramón and Molero, José and Portela, Agustín and Puga, Diego and Ramasco, José J. and Sánchez-Madrid, Francisco and Valencia, Alfonso and {Grupo De Trabajo Multidisciplinar (GTM)} and Ruiz De Adana, Manuel and Jiménez, Elena and Jiménez, José Luis and Minguillón, María Cruz and Ballester, Javier and Querol, Xavier},
+  language = {es},
+  title = {Informe del GTM: equipos autónomos para la limpieza del aire y sensores para el control de la transmisión de SARS-CoV-2 por aerosoles},
+  publisher = {Ministerio de Ciencia e Innovación (España)},
+  year = {2021},
+  copyright = {openAccess}
+}
+```

@@ -10,8 +10,13 @@ format:
     toc: true
 ---
 
-::: {.callout-warning}
-## Preprint
+<!-- full-citation:start -->
+## Full citation
+
+Ferreiro Arias, I., Philippe-Lesaffre, M., Santini, L., Peres, C., Haugaasen, T., Jordano, P., Revilla, E. and Benítez-López, A. 2026. Defaunation reshapes the distribution of biomass of tropical wild mammals. – Research Square.
+<!-- full-citation:end -->
+
+::: {.callout-warning title="Preprint"}
 This is a preprint and has not undergone peer review. Interpret findings with caution.
 :::
 

@@ -21,3 +21,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.13534/v2/response1) | [PDF](https://doi.org/10.1111/1365-2745.13534/v2/response1) | [OpenAlex](https://openalex.org/W3095276773)
+
+## BibTeX
+
+```bibtex
+@misc{Carolina_da_Silva_Carvalho_2020, title={Author response for “Extant fruit‐eating birds promote genetically diverse seed rain, but disperse to fewer sites in defaunated tropical forests”}, url={http://dx.doi.org/10.1111/1365-2745.13534/v2/response1}, DOI={10.1111/1365-2745.13534/v2/response1}, publisher={Wiley}, author={Carolina da Silva Carvalho and Cristina García and Marília Souza Lucas and Pedro Jordano and Marina Corrêa Côrtes}, year={2020}, month=Aug }
+```

@@ -10,8 +10,13 @@ format:
     toc: true
 ---
 
-::: {.callout-warning}
-## Preprint
+<!-- full-citation:start -->
+## Full citation
+
+Villalva, P. and Jordano, P. 2025. A Machine Learning Application to Camera-Traps: Robust Species Interactions Datasets for Analysis of Mutualistic Networks. – bioRxiv.
+<!-- full-citation:end -->
+
+::: {.callout-warning title="Preprint"}
 This is a preprint and has not undergone peer review. Interpret findings with caution.
 :::
 

@@ -1,0 +1,44 @@
+# Per-image metadata for the photo-gallery extension.
+# Keys are filenames; title/description/alt override what EXIF
+# provides, and `date: YYYY-MM-DD` overrides the capture date.
+images:
+  "equipo57-001.jpg":
+    title: "E-1E (1960-61)"
+    description: "Piedra natural.33,5 x 35 x 36 cms"
+    alt: "E-1E (1960-61). Piedra natural.33,5 x 35 x 36 cms"
+  "equipo57-002.jpg":
+    title: "E-1Ha (1963)"
+    description: "Bronce. 60 x 46 x 43 cms."
+    alt: "E-1Ha (1963). Bronce. 60 x 46 x 43 cms."
+  "equipo57-003.jpg":
+    title: "E-1Ch (1959)"
+    description: "Piedra natural. 34 x 43,5 x 43,5 cms."
+    alt: "E-1Ch (1959). Piedra natural. 34 x 43,5 x 43,5 cms."
+  "equipo57-004.jpg":
+    title: "E-1Dc (1960)"
+    description: "Piedra natural. 34 x 35 x 40 cms."
+    alt: "E-1Dc (1960). Piedra natural. 34 x 35 x 40 cms."
+  "equipo57-005.jpg":
+    title: "E-1Fa (1960)"
+    description: "Piedra natural. 50 x 42 x 32 cms. (Existe ejemplar en el Museo de Bellas Artes de Córdoba)."
+    alt: "E-1Fa (1960). Piedra natural. 50 x 42 x 32 cms. (Existe ejemplar en el Museo de Bellas Artes de Córdoba)."
+  "equipo57-006.jpg":
+    title: "T-1b (1960)"
+    description: "Alambre galvanizado. 57 x 75 x 75 cms. (Existe ejemplar en la Estación de Autobuses de Córdoba)"
+    alt: "T-1b (1960). Alambre galvanizado. 57 x 75 x 75 cms. (Existe ejemplar en la Estación de Autobuses de Córdoba)"
+  "equipo57-007.jpg":
+    title: "E-1O (1960"
+    description: "Reconstruida en 1993). Alambre galvanizado y yeso. 58,5 x 66,5 x 58,5 cms."
+    alt: "E-1O (1960. Reconstruida en 1993). Alambre galvanizado y yeso. 58,5 x 66,5 x 58,5 cms."
+  "equipo57-008.jpg":
+    title: "E-2m (1961"
+    description: "Reconstruida en 1993). Madera de pino. 22,5 x 44,5 x 23 cms"
+    alt: "E-2m (1961. Reconstruida en 1993). Madera de pino. 22,5 x 44,5 x 23 cms"
+  "equipo57-009.jpg":
+    title: "E-2c (1962-63"
+    description: "Reconstruida en 1990). Acero. 200 x 60 x 60 cms."
+    alt: "E-2c (1962-63. Reconstruida en 1990). Acero. 200 x 60 x 60 cms."
+  "equipo57-010.jpg":
+    title: "E-2n (1962-63"
+    description: "Reconstruida en 1988). Madera laminada. 99 x 70 x 73 cms"
+    alt: "E-2n (1962-63. Reconstruida en 1988). Madera laminada. 99 x 70 x 73 cms"

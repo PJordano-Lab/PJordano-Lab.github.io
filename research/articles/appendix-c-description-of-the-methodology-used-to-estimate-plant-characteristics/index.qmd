@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.6084/m9.figshare.3562776) | [PDF](https://doi.org/10.6084/m9.figshare.3562776) | [OpenAlex](https://openalex.org/W4394275708)
+
+## BibTeX
+
+```bibtex
+@misc{RodrguezRodrguez_2016,
+  doi = {10.6084/M9.FIGSHARE.3562776},
+  url = {https://wiley.figshare.com/articles/dataset/Appendix_C_Description_of_the_methodology_used_to_estimate_plant_characteristics_/3562776},
+  author = {Rodríguez-Rodríguez, María C. and Jordano, Pedro and Valido, Alfredo},
+  keywords = {Environmental Science, Ecology, FOS: Biological sciences, FOS: Biological sciences},
+  title = {Appendix C. Description of the methodology used to estimate plant characteristics.},
+  publisher = {Wiley},
+  year = {2016},
+  copyright = {Creative Commons Zero v1.0 Universal}
+}
+```

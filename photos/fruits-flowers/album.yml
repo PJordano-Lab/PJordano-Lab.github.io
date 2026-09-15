@@ -1,0 +1,196 @@
+# Per-image metadata for the photo-gallery extension.
+# Keys are filenames; title/description/alt override what EXIF
+# provides, and `date: YYYY-MM-DD` overrides the capture date.
+images:
+  "fruits-001.jpg":
+    title: "Corema album"
+    description: "Doñana, Huelva."
+    alt: "Corema album. Doñana, Huelva."
+  "fruits-002.jpg":
+    title: "Pistacia lentiscus"
+    description: "Cazorla, Jaén."
+    alt: "Pistacia lentiscus. Cazorla, Jaén."
+  "fruits-003.jpg":
+    title: "Berberis vulgaris"
+    description: "Cazorla, Jaén."
+    alt: "Berberis vulgaris. Cazorla, Jaén."
+  "fruits-004.jpg":
+    title: "Crataegus monogyna"
+    description: "beak-marked fruits. Cazorla, Jaén."
+    alt: "Crataegus monogyna. beak-marked fruits. Cazorla, Jaén."
+  "fruits-005.jpg":
+    title: "Crataegus monogyna"
+    description: "beak-marked fruits. Cazorla, Jaén."
+    alt: "Crataegus monogyna. beak-marked fruits. Cazorla, Jaén."
+  "fruits-006.jpg":
+    title: "Crataegus monogyna"
+    description: "Cazorla, Jaén."
+    alt: "Crataegus monogyna. Cazorla, Jaén."
+  "fruits-007.jpg":
+    title: "Crataegus monogyna"
+    description: "Cazorla, Jaén."
+    alt: "Crataegus monogyna. Cazorla, Jaén."
+  "fruits-008.jpg":
+    title: "Crataegus monogyna"
+    description: "Cazorla, Jaén."
+    alt: "Crataegus monogyna. Cazorla, Jaén."
+  "fruits-009.jpg":
+    title: "Crataegus monogyna"
+    description: "Cazorla, Jaén."
+    alt: "Crataegus monogyna. Cazorla, Jaén."
+  "fruits-010.jpg":
+    title: "Paeonia broteroi"
+    description: "Cazorla, Jaén."
+    alt: "Paeonia broteroi. Cazorla, Jaén."
+  "fruits-011.jpg":
+    title: "Paeonia broteroi"
+    description: "Cazorla, Jaén."
+    alt: "Paeonia broteroi. Cazorla, Jaén."
+  "fruits-012.jpg":
+    title: "Pistacia lentiscus"
+    description: "Seeds open to show partenocarpic, aborted, and filled seeds."
+    alt: "Pistacia lentiscus. Seeds open to show partenocarpic, aborted, and filled seeds."
+  "fruits-013.jpg":
+    title: "Paeonia broteroi"
+    description: "Cazorla, Jaén."
+    alt: "Paeonia broteroi. Cazorla, Jaén."
+  "fruits-014.jpg":
+    title: "Paeonia broteroi"
+    description: "Cazorla, Jaén."
+    alt: "Paeonia broteroi. Cazorla, Jaén."
+  "fruits-015.jpg":
+    title: "Paeonia broteroi"
+    description: "Cazorla, Jaén."
+    alt: "Paeonia broteroi. Cazorla, Jaén."
+  "fruits-016.jpg":
+    title: "Paeonia broteroi"
+    description: "Cazorla, Jaén."
+    alt: "Paeonia broteroi. Cazorla, Jaén."
+  "fruits-017.jpg":
+    title: "Solanum sodomaeum"
+    description: "Alanterra, Cádiz."
+    alt: "Solanum sodomaeum. Alanterra, Cádiz."
+  "fruits-018.jpg":
+    title: "Ruscus hypophyllum"
+    description: "Alcornocales, Cádiz."
+    alt: "Ruscus hypophyllum. Alcornocales, Cádiz."
+  "fruits-019.jpg":
+    title: "Prunus lusitanica"
+    description: "Villuercas, Cáceres."
+    alt: "Prunus lusitanica. Villuercas, Cáceres."
+  "fruits-020.jpg":
+    title: "Rhamnus myrtifolius"
+    description: "Cazorla, Jaén."
+    alt: "Rhamnus myrtifolius. Cazorla, Jaén."
+  "fruits-021.jpg":
+    title: "Prunus prostrata"
+    description: "Cazorla, Jaén."
+    alt: "Prunus prostrata. Cazorla, Jaén."
+  "fruits-022.jpg":
+    title: "Prunus prostrata"
+    description: "Cazorla, Jaén."
+    alt: "Prunus prostrata. Cazorla, Jaén."
+  "fruits-023.jpg":
+    title: "Pyrus bourgaeana"
+    description: "Hato Ratón, Sevilla"
+    alt: "Pyrus bourgaeana. Hato Ratón, Sevilla"
+  "fruits-024.jpg":
+    title: "Prunus mahaleb"
+    description: "Cazorla, Jaén."
+    alt: "Prunus mahaleb. Cazorla, Jaén."
+  "fruits-025.jpg":
+    title: "Atropa baetica"
+    description: "Cazorla, Jaén."
+    alt: "Atropa baetica. Cazorla, Jaén."
+  "fruits-026.jpg":
+    title: "Rosa sicula"
+    description: "Cazorla, Jaén."
+    alt: "Rosa sicula. Cazorla, Jaén."
+  "fruits-027.jpg":
+    title: "Juniperus sabina"
+    description: "Cazorla, Jaén."
+    alt: "Juniperus sabina. Cazorla, Jaén."
+  "fruits-029.jpg":
+    title: "Juniperus communis"
+    alt: "Juniperus communis"
+  "fruits-030.jpg":
+    title: "Crataegus laciniata"
+    alt: "Crataegus laciniata"
+  "fruits-032.jpg":
+    title: "Sorbus aria"
+    alt: "Sorbus aria"
+  "fruits-033.jpg":
+    title: "Cotoneaster granatensis"
+    alt: "Cotoneaster granatensis"
+  "fruits-034.jpg":
+    title: "Osyris quadripartita"
+    description: "Atlanterra, Cádiz."
+    alt: "Osyris quadripartita. Atlanterra, Cádiz."
+  "fruits-035.jpg":
+    title: "Lonicera splendida"
+    alt: "Lonicera splendida"
+  "fruits-036.jpg":
+    title: "Juniperus phoenicea"
+    alt: "Juniperus phoenicea"
+  "fruits-038.jpg":
+    title: "Rubus ulmifolius"
+    alt: "Rubus ulmifolius"
+  "fruits-039.jpg":
+    title: "Lonicera implexa"
+    alt: "Lonicera implexa"
+  "fruits-041.jpg":
+    title: "Euonymus latifolius"
+    alt: "Euonymus latifolius"
+  "fruits-042.jpg":
+    title: "Sorbus aria"
+    alt: "Sorbus aria"
+  "fruits-043.jpg":
+    title: "Juniperus thurifera"
+    alt: "Juniperus thurifera"
+  "fruits-044.jpg":
+    title: "Sambucus ebulus"
+    alt: "Sambucus ebulus"
+  "fruits-045.jpg":
+    title: "Juniperus phoenicea"
+    description: "Atlanterra, Cádiz"
+    alt: "Juniperus phoenicea. Atlanterra, Cádiz"
+  "fruits-046.jpg":
+    title: "Rhus coriaria"
+    alt: "Rhus coriaria"
+  "fruits-047.jpg":
+    title: "Lonicera arborea"
+    description: "Cazorla, Jaén."
+    alt: "Lonicera arborea. Cazorla, Jaén."
+  "fruits-048.jpg":
+    title: "Taxus bacatta"
+    description: "Cazorla, Jaén."
+    alt: "Taxus bacatta. Cazorla, Jaén."
+  "fruits-049.jpg":
+    title: "Taxus bacatta"
+    description: "Cazorla, Jaén."
+    alt: "Taxus bacatta. Cazorla, Jaén."
+  "fruits-050.jpg":
+    title: "Polygonatum odoratum"
+    alt: "Polygonatum odoratum"
+  "fruits-051.jpg":
+    title: "Ilex aquifolium"
+    alt: "Ilex aquifolium"
+  "fruits-052.jpg":
+    title: "Pyrus communis"
+    alt: "Pyrus communis"
+  "fruits-053.jpg":
+    title: "Sorbus domestica"
+    alt: "Sorbus domestica"
+  "fruits-054.jpg":
+    title: "Olea europaea, var"
+    description: "sylvestris. Hato Ratón, Sevilla"
+    alt: "Olea europaea, var. sylvestris. Hato Ratón, Sevilla"
+  "fruits-055.jpg":
+    title: "Arbutus unedo ripe fruits"
+    alt: "Arbutus unedo ripe fruits"
+  "fruits-056.jpg":
+    title: "Arbutus unedo ripe fruits"
+    alt: "Arbutus unedo ripe fruits"
+  "fruits-057.jpg":
+    title: "Pistacia lentiscus, ripe fruits"
+    alt: "Pistacia lentiscus, ripe fruits"

@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.6084/m9.figshare.3544472) | [PDF](https://doi.org/10.6084/m9.figshare.3544472) | [OpenAlex](https://openalex.org/W4394498099)
+
+## BibTeX
+
+```bibtex
+@misc{DazCastelazo_2016,
+  doi = {10.6084/M9.FIGSHARE.3544472},
+  url = {https://wiley.figshare.com/articles/dataset/Appendix_C_Dissimilarity_dendrograms_for_plant_species_for_Networks_1990_and_2000_/3544472},
+  author = {Díaz-Castelazo, Cecilia and Guimarães, Paulo R. and Jordano, Pedro and Thompson, John N. and Marquis, Robert J. and Rico-Gray, Víctor},
+  keywords = {Environmental Science, Ecology, FOS: Biological sciences, FOS: Biological sciences},
+  title = {Appendix C. Dissimilarity dendrograms for plant species for Networks 1990 and 2000.},
+  publisher = {Wiley},
+  year = {2016},
+  copyright = {Creative Commons Zero v1.0 Universal}
+}
+```

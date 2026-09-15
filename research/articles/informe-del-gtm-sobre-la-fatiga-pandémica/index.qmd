@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.20350/digitalcsic/13891) | [PDF](http://hdl.handle.net/10261/242465) | [OpenAlex](https://openalex.org/W3168377366)
+
+## BibTeX
+
+```bibtex
+@misc{Ordovs_2021,
+  doi = {10.20350/DIGITALCSIC/13891},
+  url = {https://digital.csic.es/handle/10261/242465},
+  author = {Ordovás, José M. and Esteban, Mariano and García-Retamero, Rocío and González López Valcárcel, Beatriz and Gordaliza, Alfonso and Inzitari, Marco and Jordano, Pedro and Lecuona, Itziar De and Lechuga, Laura M. and López De Mántaras, Ramón and Molero, José and Portela, Agustín and Puga, Diego and Ramasco, José J. and Sánchez-Madrid, Francisco and Valencia, Alfonso and {Grupo De Trabajo Multidisciplinar (GTM)} and Macip, Salvador and Cerdà Pifarré, Anna},
+  language = {es},
+  title = {Informe del GTM sobre la fatiga pandémica},
+  publisher = {Ministerio de Ciencia e Innovación (España)},
+  year = {2021},
+  copyright = {openAccess}
+}
+```

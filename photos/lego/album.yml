@@ -1,0 +1,8 @@
+# Per-image metadata for the photo-gallery extension.
+# Drop JPEGs into this folder, then list any you want to annotate:
+#
+# images:
+#   my-build-001.jpg:
+#     title: "Model name"
+#     description: "Notes"
+#     date: 2025-01-31

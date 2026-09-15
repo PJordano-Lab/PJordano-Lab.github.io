@@ -10,8 +10,13 @@ format:
     toc: true
 ---
 
-::: {.callout-warning}
-## Preprint
+<!-- full-citation:start -->
+## Full citation
+
+Emer, C., Jordano, P., Pizo, M. A., Ribeiro, M. C., da Silva, F. R. and Galetti, M. 2019. Seed-dispersal networks in tropical forest fragments: area effects, remnant species, and interaction diversity. – bioRxiv.
+<!-- full-citation:end -->
+
+::: {.callout-warning title="Preprint"}
 This is a preprint and has not undergone peer review. Interpret findings with caution.
 :::
 

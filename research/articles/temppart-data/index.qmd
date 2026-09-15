@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.6084/m9.figshare.14376473) | [PDF](https://doi.org/10.6084/m9.figshare.14376473) | [OpenAlex](https://openalex.org/W4394538475)
+
+## BibTeX
+
+```bibtex
+@misc{Arias_2021,
+  doi = {10.6084/M9.FIGSHARE.14376473},
+  url = {https://figshare.com/articles/dataset/TempPart_Data/14376473},
+  author = {Arias, Iago Ferreiro and López, Ana Benítez and Jordano, Pedro and Isla, Jorge},
+  keywords = {60801 Animal Behaviour, FOS: Biological sciences, FOS: Biological sciences, 60201 Behavioural Ecology, 60202 Community Ecology (excl. Invasive Species Ecology), 60304 Ethology and Sociobiology, Zoology},
+  title = {TempPart Data},
+  publisher = {figshare},
+  year = {2021},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```

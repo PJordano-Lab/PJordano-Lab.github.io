@@ -21,3 +21,17 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.5281/zenodo.376763) | [PDF](https://zenodo.org/record/376763) | [OpenAlex](https://openalex.org/W3205449798)
+
+## BibTeX
+
+```bibtex
+@misc{Jordano_2017,
+  doi = {10.5281/ZENODO.376763},
+  url = {https://zenodo.org/record/376763},
+  author = {Jordano, Pedro and Rodriguez-Sanchez, Francisco},
+  title = {pedroj/effectiveness_pckg: R package: effect.lndscp v.0.2},
+  publisher = {Zenodo},
+  year = {2017},
+  copyright = {Open Access}
+}
+```

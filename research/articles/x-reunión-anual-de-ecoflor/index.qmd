@@ -21,3 +21,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.7818/ecos.2013.22-2.20) | [PDF](https://www.revistaecosistemas.net/index.php/ecosistemas/article/download/769/736) | [OpenAlex](https://openalex.org/W3189191290)
+
+## BibTeX
+
+```bibtex
+@article{Santos_Gally_2013, title={X Reunión anual de Ecoflor}, volume={22}, ISSN={1697-2473}, url={http://dx.doi.org/10.7818/ecos.2013.22-2.20}, DOI={10.7818/ecos.2013.22-2.20}, number={2}, journal={Ecosistemas}, publisher={Asociacion Espanola de Ecologia Terrestre (AEET)}, author={Santos-Gally, Rocío and Pérez-Barrales, Rocío and Arroyo, Juan and Jordano, Pedro and Valido, Alfredo and Picó, Xavier and Narbona, Eduardo}, year={2013}, month=Aug, pages={125–125} }
+```

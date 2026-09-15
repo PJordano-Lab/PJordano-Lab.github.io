@@ -19,3 +19,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/1365-2745.14280/v2/response1) | [OpenAlex](https://openalex.org/W4391953338)
+
+## BibTeX
+
+```bibtex
+@misc{Jorge_Isla_2024, title={Author response for “Animal‐mediated seed dispersal and the demo‐genetic configuration across plant colonization gradients”}, url={http://dx.doi.org/10.1111/1365-2745.14280/v2/response1}, DOI={10.1111/1365-2745.14280/v2/response1}, publisher={Wiley}, author={Jorge Isla and Miguel Jácome‐Flores and Cristina Rigueiro and Juan Miguel Arroyo and Pedro Jordano and Cristina García}, year={2024}, month=Jan }
+```

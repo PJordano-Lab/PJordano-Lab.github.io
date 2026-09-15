@@ -21,3 +21,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1890/0012-9623-91.3.367) | [PDF](http://hdl.handle.net/10261/36431) | [OpenAlex](https://openalex.org/W1983437890)
+
+## BibTeX
+
+```bibtex
+@article{Bascompte_2010, title={Symposium 6: Mutualistic Networks}, volume={91}, ISSN={2327-6096}, url={http://dx.doi.org/10.1890/0012-9623-91.3.367}, DOI={10.1890/0012-9623-91.3.367}, number={3}, journal={The Bulletin of the Ecological Society of America}, publisher={Wiley}, author={Bascompte, Jordi and Aizen, Marcelo and Fontaine, Colin and Fortuna, Miguel A. and Jordano, Pedro and Lewinsohn, Thomas M. and Memmott, Jane and Olesen, Jens M. and Petanidou, Theodora and Rico-Gray, Victor and Thompson, John N.}, year={2010}, month=July, pages={367–370} }
+```

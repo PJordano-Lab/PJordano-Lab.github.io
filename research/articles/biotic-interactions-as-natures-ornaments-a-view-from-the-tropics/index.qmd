@@ -21,3 +21,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1093/biosci/biu081) | [PDF](https://academic.oup.com/bioscience/article-pdf/64/7/630/8718787/biu081.pdf) | [OpenAlex](https://openalex.org/W2118433593)
+
+## BibTeX
+
+```bibtex
+@article{Jordano_2014, title={Biotic Interactions as Nature’s Ornaments: A View from the Tropics}, volume={64}, ISSN={1525-3244}, url={http://dx.doi.org/10.1093/biosci/biu081}, DOI={10.1093/biosci/biu081}, number={7}, journal={BioScience}, publisher={Oxford University Press (OUP)}, author={Jordano, Pedro}, year={2014}, month=June, pages={630–631} }
+```

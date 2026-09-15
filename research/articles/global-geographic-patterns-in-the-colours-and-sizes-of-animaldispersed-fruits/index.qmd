@@ -19,3 +19,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/geb.12801) | [OpenAlex](https://openalex.org/W2898264394)
+
+## BibTeX
+
+```bibtex
+@article{Sinnott_Armstrong_2018, title={Global geographic patterns in the colours and sizes of animal‐dispersed fruits}, volume={27}, ISSN={1466-8238}, url={http://dx.doi.org/10.1111/geb.12801}, DOI={10.1111/geb.12801}, number={11}, journal={Global Ecology and Biogeography}, publisher={Wiley}, author={Sinnott‐Armstrong, Miranda A. and Downie, Alexander E. and Federman, Sarah and Valido, Alfredo and Jordano, Pedro and Donoghue, Michael J.}, year={2018}, month=Oct, pages={1339–1351} }
+```

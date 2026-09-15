@@ -19,3 +19,9 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.2173/bow-on.100006) | [OpenAlex](https://openalex.org/W3015336192)
+
+## BibTeX
+
+```bibtex
+@article{Jordano_2013, title={6. Status of the Northern Bald Ibis in southern Spain}, url={http://dx.doi.org/10.2173/bow-on.100006}, DOI={10.2173/bow-on.100006}, journal={Ornithological Notes}, publisher={Cornell Laboratory of Ornithology}, author={Jordano, Pedro}, year={2013}, month=July }
+```

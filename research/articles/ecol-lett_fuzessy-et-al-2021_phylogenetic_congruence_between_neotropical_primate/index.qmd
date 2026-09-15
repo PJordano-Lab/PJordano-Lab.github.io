@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.5281/zenodo.5578594) | [PDF](https://zenodo.org/record/5578594) | [OpenAlex](https://openalex.org/W4393765873)
+
+## BibTeX
+
+```bibtex
+@misc{Fuzessy_2021,
+  doi = {10.5281/ZENODO.5578594},
+  url = {https://zenodo.org/record/5578594},
+  author = {Fuzessy, LF and Silveira, FAO and Culot, L and Jordano, P and Verdú, M},
+  keywords = {seed dispersal, congruent evolution, cophylogenetic signal, macroevolution, coevolutionary history, evolution},
+  title = {Ecol-Lett_Fuzessy-et-al-2021_Phylogenetic_congruence_between_Neotropical_primates_and_plants},
+  publisher = {Zenodo},
+  year = {2021},
+  copyright = {Restricted Access}
+}
+```

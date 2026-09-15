@@ -589,5 +589,5 @@ if __name__ == "__main__":
     syncer = FilteredOpenAlexSync()
     syncer.sync_author_works(
         orcid="0000-0003-2142-9116",
-        limit=500
+        limit=50
     )

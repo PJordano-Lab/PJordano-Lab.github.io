@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.5281/zenodo.31880) | [PDF](https://doi.org/10.5281/zenodo.31880) | [OpenAlex](https://openalex.org/W2319352831)
+
+## BibTeX
+
+```bibtex
+@misc{Bello_2015,
+  doi = {10.5281/ZENODO.31880},
+  url = {https://zenodo.org/record/31880},
+  author = {Bello, Carolina and Galetti, Mauro and Pizo, Marco A. and Magnago, Luiz Fernando S. and Ferreira Rocha, Mariana and Lima, Renato A.F. and Peres, Carlos A. and Ovaskainen, Otso and Jordano, Pedro},
+  keywords = {seed dispersal, frugivory, defaunation, tropical rainforest, conservation biology, carbon storage},
+  title = {Supplemental Information, Code, And Data For The Ms:  Defaunation Impacts Carbon Storage In Tropical Forests.},
+  publisher = {Zenodo},
+  year = {2015},
+  copyright = {Creative Commons Attribution-NonCommercial-NoDerivatives}
+}
+```

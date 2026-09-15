@@ -21,3 +21,18 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.6084/m9.figshare.3562782) | [PDF](https://doi.org/10.6084/m9.figshare.3562782) | [OpenAlex](https://openalex.org/W4394438032)
+
+## BibTeX
+
+```bibtex
+@misc{RodrguezRodrguez_2016,
+  doi = {10.6084/M9.FIGSHARE.3562782},
+  url = {https://wiley.figshare.com/articles/dataset/Appendix_A_Description_of_animal_mutualists_and_antagonists_included_in_the_study_/3562782},
+  author = {Rodríguez-Rodríguez, María C. and Jordano, Pedro and Valido, Alfredo},
+  keywords = {Environmental Science, Ecology, FOS: Biological sciences, FOS: Biological sciences},
+  title = {Appendix A. Description of animal mutualists and antagonists included in the study.},
+  publisher = {Wiley},
+  year = {2016},
+  copyright = {Creative Commons Zero v1.0 Universal}
+}
+```

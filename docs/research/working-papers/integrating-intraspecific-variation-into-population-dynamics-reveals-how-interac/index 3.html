@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-ee86c88f7866c99c5b29dd9fb11d7cde.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-d0d523c87fad3e77510e7e087ef7154e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,13 +72,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- Dark Mode Toggle -->
 <style>
   .theme-toggle {
-    background: rgba(0, 0, 0, 0.06);
-    border: 1px solid rgba(0, 0, 0, 0.15);
+    background: rgba(255, 255, 255, 0.10);
+    border: 1px solid rgba(255, 255, 255, 0.28);
     border-radius: 2rem;
     padding: 0.35rem 0.75rem;
     cursor: pointer;
     transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
-    color: #1e293b;
+    color: #f8f7f4;
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
@@ -89,57 +89,82 @@ ul.task-list li input[type="checkbox"] {
   }
 
   .theme-toggle:hover {
-    background: rgba(0, 0, 0, 0.12);
-    border-color: rgba(0, 0, 0, 0.25);
+    background: rgba(255, 255, 255, 0.20);
+    border-color: rgba(255, 255, 255, 0.45);
   }
 
   .theme-toggle i {
-    font-size: 0.85rem;
+    font-size: 1rem;
+  }
+
+  /* keep it clear of the social icons */
+  .quarto-navbar-tools .theme-toggle {
+    margin-left: 0.6rem;
   }
 </style>
 
 <script>
   (function() {
-    function applyTheme(theme) {
-      document.documentElement.setAttribute('data-theme', theme);
-      localStorage.setItem('theme', theme);
-      if (theme === 'dark') {
-        document.body.classList.remove('quarto-light');
-        document.body.classList.add('quarto-dark');
-      } else {
-        document.body.classList.remove('quarto-dark');
-        document.body.classList.add('quarto-light');
-      }
-      var btn = document.getElementById('theme-toggle-btn');
-      if (btn) {
-        btn.innerHTML = theme === 'dark'
-          ? '<i class="bi bi-sun-fill"></i> Light'
-          : '<i class="bi bi-moon-stars-fill"></i> Dark';
-        btn.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+    var BTN_HTML = {
+      dark:  '<i class="bi bi-sun-fill"></i> Light',
+      light: '<i class="bi bi-moon-stars-fill"></i> Dark'
+    };
+
+    function currentTheme() {
+      return document.documentElement.getAttribute('data-theme') || 'light';
+    }
+
+    // Body classes can only be set once <body> exists. This script sits in
+    // <head>, so during first parse document.body is still null - touching it
+    // there threw a TypeError that killed the rest of this IIFE, which is why
+    // no toggle button was ever injected.
+    function applyBodyClasses(theme) {
+      if (!document.body) return;
+      document.body.classList.toggle('quarto-dark', theme === 'dark');
+      document.body.classList.toggle('quarto-light', theme !== 'dark');
+    }
+
+    function refreshButtons(theme) {
+      var label = theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
+      var buttons = document.querySelectorAll('.theme-toggle');
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].innerHTML = BTN_HTML[theme === 'dark' ? 'dark' : 'light'];
+        buttons[i].setAttribute('aria-label', label);
+        buttons[i].setAttribute('title', label);
       }
     }
 
-    var saved = localStorage.getItem('theme') || 'dark';
-    applyTheme(saved);
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      try { localStorage.setItem('theme', theme); } catch (e) {}
+      applyBodyClasses(theme);
+      refreshButtons(theme);
+    }
+
+    // Set the attribute before first paint so there is no flash of the wrong
+    // theme; the body/button work happens once the DOM is ready.
+    var saved = 'dark';
+    try { saved = localStorage.getItem('theme') || 'dark'; } catch (e) {}
+    document.documentElement.setAttribute('data-theme', saved);
 
     window.toggleTheme = function() {
-      var current = document.documentElement.getAttribute('data-theme') || 'light';
-      applyTheme(current === 'dark' ? 'light' : 'dark');
+      applyTheme(currentTheme() === 'dark' ? 'light' : 'dark');
     };
 
     function addToggleButton() {
-      var navbarTools = document.querySelector('.quarto-navbar-tools');
-      if (!navbarTools || document.getElementById('theme-toggle-btn')) return;
-      var btn = document.createElement('button');
-      btn.id = 'theme-toggle-btn';
-      btn.className = 'theme-toggle';
-      btn.onclick = toggleTheme;
-      var current = document.documentElement.getAttribute('data-theme') || 'light';
-      btn.innerHTML = current === 'dark'
-        ? '<i class="bi bi-sun-fill"></i> Light'
-        : '<i class="bi bi-moon-stars-fill"></i> Dark';
-      btn.setAttribute('aria-label', current === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
-      navbarTools.appendChild(btn);
+      var theme = currentTheme();
+      var containers = document.querySelectorAll('.quarto-navbar-tools');
+      for (var i = 0; i < containers.length; i++) {
+        if (containers[i].querySelector('.theme-toggle')) continue;
+        var btn = document.createElement('button');
+        btn.id = i === 0 ? 'theme-toggle-btn' : 'theme-toggle-btn-' + i;
+        btn.className = 'theme-toggle';
+        btn.type = 'button';
+        btn.addEventListener('click', window.toggleTheme);
+        containers[i].appendChild(btn);
+      }
+      applyBodyClasses(theme);
+      refreshButtons(theme);
     }
 
     if (document.readyState === 'loading') {
@@ -236,7 +261,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#publication-details" id="toc-publication-details" class="nav-link active" data-scroll-target="#publication-details">Publication Details</a></li>
+  <li><a href="#full-citation" id="toc-full-citation" class="nav-link active" data-scroll-target="#full-citation">Full citation</a></li>
+  <li><a href="#publication-details" id="toc-publication-details" class="nav-link" data-scroll-target="#publication-details">Publication Details</a></li>
   <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
   </ul>
 </nav>
@@ -283,7 +309,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-default callout-warning callout-titled">
+<!-- full-citation:start -->
+<section id="full-citation" class="level2">
+<h2 class="anchored" data-anchor-id="full-citation">Full citation</h2>
+<p>Arroyo-Correa, B., Bartomeus, I., Jordano, P., Cagua, E. F. and Stouffer, D. B. 2024. Integrating intraspecific variation into population dynamics reveals how interacting species persist in mutualistic communities. – bioRxiv. <!-- full-citation:end --></p>
+<div class="callout callout-style-default callout-warning callout-titled" title="Preprint">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -296,6 +326,7 @@ Preprint
 <p>This is a preprint and has not undergone peer review. Interpret findings with caution.</p>
 </div>
 </div>
+</section>
 <section id="publication-details" class="level2">
 <h2 class="anchored" data-anchor-id="publication-details">Publication Details</h2>
 <p><strong>Published in:</strong> bioRxiv (Cold Spring Harbor Laboratory)</p>

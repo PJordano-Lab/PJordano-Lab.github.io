@@ -10,8 +10,13 @@ format:
     toc: true
 ---
 
-::: {.callout-warning}
-## Preprint
+<!-- full-citation:start -->
+## Full citation
+
+Arroyo-Correa, B., Bartomeus, I., Jordano, P., Cagua, E. F. and Stouffer, D. B. 2024. Integrating intraspecific variation into population dynamics reveals how interacting species persist in mutualistic communities. – bioRxiv.
+<!-- full-citation:end -->
+
+::: {.callout-warning title="Preprint"}
 This is a preprint and has not undergone peer review. Interpret findings with caution.
 :::
 
