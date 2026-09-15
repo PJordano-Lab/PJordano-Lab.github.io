@@ -20,4 +20,23 @@ format:
 
 ## Links
 
-[DOI Link](https://doi.org/10.1086/285735) | [PDF](http://hdl.handle.net/10261/42645) | [OpenAlex](https://openalex.org/W2095563661)
+[DOI Link](https://doi.org/10.1086/285735) \|
+[PDF](http://hdl.handle.net/10261/42645) \|
+[OpenAlex](https://openalex.org/W2095563661)
+
+## BibTeX
+
+``` bibtex
+@article{RN3705,
+   author = {Jordano, Pedro},
+   title = {Angiosperm fleshy fruits and seed dispersers: a comparative analysis of adaptation and constraints in plant-animal interactions},
+   journal = {American Naturalist},
+   volume = {145},
+   pages = {163–191},
+   abstract = {Variation in phenotypic traits of angiosperm fleshy fruits has been explained as the result of adaptations to their mutualistic seed dispersers. By analyzing the information available on fleshy fruit characteristics of 910 angiosperm species, I assess the hypothesis of evolutionary association between fruit phenotypic traits and type of seed disperser (birds, mammals, and mixed dispersers) and address explicitly and quantitatively alternative null hypotheses about phylogenetic effects. Phylogenetic affinity among plant taxa is accounted for by comparative methods including nested ANOVA, phylogenetic autocorrelation, and independent contrasts. Averaging over the 16 fruit traits examined, phylogenetic effects down to genus level explain 61% of total variance. Phylogenetic autocorrelations are strong among close relatives, reaching significance for 11 of the 16 fruit traits examined. When assessed by independent contrast methods, correlated evolution between type of disperser and fruit traits is confined to fruit diameter. Differences among dispersal syndromes in other traits vanish after accounting for phylogenetic effects. These analyses reveal that seed dispersal syndromes are not entirely inter- pretable as current adaptations to seed dispersers. Their status as exaptations can be assessed by combining experimental studies of natural selection on fruit size and rigorous comparative and cladistic tests of adaptational hypotheses.},
+   ISSN = {0003-0147},
+   DOI = {10.1086/285735},
+   year = {1995},
+   type = {Journal Article}
+}
+```

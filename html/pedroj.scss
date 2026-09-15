@@ -925,3 +925,164 @@ blockquote {
   .person-row.nophoto .person-text { grid-column: 1; }
   .person-row img { max-width: 110px; }
 }
+
+/* ── datasets.qmd: figure / description rows with inline badges ────────── */
+
+.dataset-row {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 1.5rem;
+  align-items: start;
+  padding: 1.2rem 0;
+  border-bottom: 1px solid var(--color-border, rgba(128, 128, 128, 0.18));
+}
+
+.dataset-row:last-of-type { border-bottom: none; }
+
+.dataset-row.nofigure { grid-template-columns: 200px 1fr; }
+.dataset-row.nofigure .dataset-text { grid-column: 2; }
+
+.dataset-row > p { margin: 0; }
+
+.dataset-row > p > img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 0;
+}
+
+.dataset-text > p { margin: 0; line-height: 1.55; }
+
+.dataset-text img.inline-icon {
+  display: inline;
+  height: 1.05em;
+  width: auto;
+  vertical-align: -0.15em;
+  margin: 0 0.35em 0 0;
+  border-radius: 2px;
+}
+
+@media (max-width: 640px) {
+  .dataset-row,
+  .dataset-row.nofigure {
+    grid-template-columns: 1fr;
+    gap: 0.8rem;
+  }
+
+  .dataset-row.nofigure .dataset-text { grid-column: 1; }
+}
+
+/* ── resources.qmd: figure / link-list rows ────────────────────────────── */
+
+.resource-row {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 1.5rem;
+  align-items: start;
+  padding: 1.2rem 0;
+  border-bottom: 1px solid var(--color-border, rgba(128, 128, 128, 0.18));
+}
+
+.resource-row:last-of-type { border-bottom: none; }
+
+.resource-row.nofigure { grid-template-columns: 200px 1fr; }
+.resource-row.nofigure .resource-text { grid-column: 2; }
+
+.resource-row > p { margin: 0; }
+
+.resource-row > p > img,
+.resource-row > p > a > img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 0;
+}
+
+.resource-text > p,
+.resource-text > ul { margin: 0 0 0.6rem; line-height: 1.55; }
+.resource-text > :last-child { margin-bottom: 0; }
+.resource-text ul { padding-left: 1.1rem; }
+.resource-text li { margin-bottom: 0.3rem; }
+
+.resource-text img.inline-icon {
+  display: inline;
+  height: 1.2em;
+  width: auto;
+  vertical-align: -0.25em;
+  margin: 0 0.3em 0 0;
+  border-radius: 2px;
+}
+
+@media (max-width: 640px) {
+  .resource-row,
+  .resource-row.nofigure {
+    grid-template-columns: 1fr;
+    gap: 0.8rem;
+  }
+
+  .resource-row.nofigure .resource-text { grid-column: 1; }
+}
+
+/* ── BibTeX blocks on article pages ────────────────────────────────────────
+   Scoped to `bibtex` code cells so R/Python blocks elsewhere keep the
+   default highlighting. Field names (.dt: author, title, journal …) stay
+   red; the record's values, @article and the citation key take the body
+   colour of each theme.                                                    */
+
+$bibtex-light-bg:    #ececec;
+$bibtex-light-text:  #3f4650;
+$bibtex-light-field: #b32424;
+$bibtex-dark-bg:     #9ca3ad;
+$bibtex-dark-text:   #10203f;
+$bibtex-dark-field:  #8f1d1d;
+
+div.sourceCode:has(> pre.bibtex),
+pre.sourceCode.bibtex {
+  background-color: $bibtex-light-bg !important;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 6px;
+}
+
+pre.sourceCode.bibtex,
+pre.sourceCode.bibtex code,
+pre.sourceCode.bibtex code span {
+  color: $bibtex-light-text !important;
+}
+
+pre.sourceCode.bibtex code span.dt {
+  color: $bibtex-light-field !important;
+  font-weight: 600;
+}
+
+pre.sourceCode.bibtex code span.va,
+pre.sourceCode.bibtex code span.ot {
+  color: $bibtex-light-text !important;
+  font-weight: 600;
+}
+
+[data-theme="dark"] {
+  div.sourceCode:has(> pre.bibtex),
+  pre.sourceCode.bibtex {
+    background-color: $bibtex-dark-bg !important;
+    border-color: rgba(0, 0, 0, 0.35);
+  }
+
+  pre.sourceCode.bibtex,
+  pre.sourceCode.bibtex code,
+  pre.sourceCode.bibtex code span {
+    color: $bibtex-dark-text !important;
+  }
+
+  pre.sourceCode.bibtex code span.dt {
+    color: $bibtex-dark-field !important;
+  }
+
+  pre.sourceCode.bibtex code span.va,
+  pre.sourceCode.bibtex code span.ot {
+    color: $bibtex-dark-text !important;
+  }
+
+  /* line-number gutter links and the copy button on the grey field */
+  pre.sourceCode.bibtex a { color: $bibtex-dark-text !important; }
+  div.sourceCode:has(> pre.bibtex) .code-copy-button { color: $bibtex-dark-text; }
+}

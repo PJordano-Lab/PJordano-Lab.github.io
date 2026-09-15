@@ -58,6 +58,8 @@ gene flow
 ::: section-heading-row
 ## Recent Work {.section-heading}
 
+[More details →](pedro.qmd){.section-link}
+
 [All publications →](research.qmd){.section-link}
 :::
 

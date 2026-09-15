@@ -32,7 +32,7 @@ Scholar](https://scholar.google.es/citations?user=TrKYqaEAAAAJ&hl=en) ·
 
 ### [Papers — Pedro Jordano](research.html "Papers_Pedro")
 
--------------------------------------------
+--------------------------------------------------------------------------------
 
 ### Highlighted papers
 
@@ -62,11 +62,12 @@ coevolutionary networks of plant-animal interactions. *Ecology Letters* 6:
 :::
 
 ::: paper-row
-[![](static/images/Pedro_files__thumbnail_image_0-5896.jpg){fig-alt="Cover of Mutualistic Networks"}](static/images/Pedro_files__full_size_image_0-5896.jpg)
+[![Stacks Image
+4988](static/images/papers__files__stacks-image-fc79856-274x428.jpg){fig-alt="Cover of Mutualistic Networks"}](static/images/Pedro_files__full_size_image_0-5896.jpg)
 
 J. Bascompte and P. Jordano. 2013. *Mutualistic networks*. Monographs in
 Population Biology, Princeton University Press, NJ. [Chapter
 1](http://press.princeton.edu/chapters/s10161.pdf).
 :::
 
--------------------------------------------
+--------------------------------------------------------------------------------

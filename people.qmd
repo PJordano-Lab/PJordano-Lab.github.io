@@ -1,14 +1,13 @@
 ---
 title: "People"
-author: Pedro Jordano
-description: "Members and alumni of the Jordano Lab at Estacion Biologica de Donana, CSIC."
+description: "Members and alumni of the Jordano Lab at Estación Biológica de Doñana, CSIC."
 title-block-banner: "#1a1c20"
 hand-edited: true   # layout reworked by hand; _tools/convert-hugo-content.py skips this file
 ---
 
 ![](static/images/people__files__stacks-image-00f351f-800x268.jpg)
 
-## Pedro Jordano
+-----------------------------------------------
 
 :::: person-row
 ![](static/images/people__files__stacks-image-4e25f50-118x152.jpg){fig-alt="Pedro Jordano"}

@@ -2,7 +2,7 @@ source("open-alex.R")
 
 # Configuration
 AUTHOR_ID <- "a5024471517"  # Replace with your OpenAlex ID
-EMAIL <- "sbwatts@txstate.edu"  # Optional but recommended
+EMAIL <- "jordano@ebd.csic.es"  # Optional but recommended
 CACHE_FILE <- "data/publications.rds"
 
 # Create data directory if it doesn't exist

@@ -19,3 +19,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/nph.12539) | [OpenAlex](https://openalex.org/W2045425159)
+
+## BibTeX
+
+```bibtex
+@article{RN57497,
+   author = {Renoult, Julien P and Valido, Alfredo and Jordano, Pedro and Schaefer, H Martin},
+   title = {Adaptation of flower and fruit colours to multiple, distinct mutualists},
+   journal = {New Phytologist},
+   volume = {201},
+   pages = {678–686},
+   DOI = {10.1111/nph.12539},
+   url = {https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.12539},
+   year = {2013},
+   type = {Journal Article}
+}
+```

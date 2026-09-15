@@ -21,3 +21,34 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/ele.12764) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.12764) | [OpenAlex](https://openalex.org/W2602713794)
+
+## BibTeX
+
+```bibtex
+@article{RN11632,
+   author = {Schupp, Eugene W and Jordano, Pedro and Gómez, José María},
+   title = {A general framework for effectiveness concepts in mutualisms},
+   journal = {Ecology Letters},
+   volume = {20},
+   pages = {577–590},
+   abstract = {Abstract A core interest in studies of mutualistic interactions is the ‘effectiveness’ of mutualists in providing benefits to their partners. In plant-animal mutualisms it is widely accepted that the total effect of a mutualist on its partner is estimated as (1) a ‘quantity’ component multiplied by (2) a ‘quality’ component, although the meanings of ‘effectiveness,’ ‘quantity,’ and ‘quality’ and which terms are applied to these metrics vary greatly across studies. In addition, a similar quantity 9 quality = to- tal effect approach has not been applied to other types of mutualisms, although it could be infor- mative. Lastly, when a total effect approach has been applied, it has invariably been from a phytocentric perspective, focussing on the effects of animal mutualists on their plant partner. This lack of a common framework of ‘effectiveness’ of mutualistic interactions limits generalisation and the development of a broader understanding of the ecology and evolution of mutualisms. In this paper, we propose a general framework and demonstrate its utility by applying it to both partners in five different types of mutualisms: pollination, seed dispersal, plant protection, rhizo- bial, and mycorrhizal mutualisms. We then briefly discuss the flexibility of the framework, poten- tial limitations, and relationship to other approaches.},
+   keywords = {ecology letters
+2017
+577
+20
+Mutualism effectiveness
+mycorrhizal mutualisms
+plant protection mutualisms
+pollination mutualisms
+rhizobial mutualisms
+seed dispersal mutualisms
+590
+alisms
+mutualism effectiveness
+pollination mutu-},
+   ISSN = {1972952943},
+   DOI = {10.1111/ele.12764},
+   year = {2017},
+   type = {Journal Article}
+}
+```

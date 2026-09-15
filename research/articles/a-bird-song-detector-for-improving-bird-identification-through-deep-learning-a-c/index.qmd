@@ -21,3 +21,19 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1016/j.ecoinf.2025.103254) | [PDF](https://doi.org/10.1016/j.ecoinf.2025.103254) | [OpenAlex](https://openalex.org/W4411957310)
+
+## BibTeX
+
+```bibtex
+@article{RN30594,
+   author = {Márquez-Rodríguez, Alba and Mohedano-Munoz, Miguel Ángel and Marín-Jiménez, Manuel J. and Santamaría-García, Eduardo and Bastianelli, Giulia and Jordano, Pedro and Mendoza, Irene},
+   title = {A bird song detector for improving bird identification through deep learning: A case study from Doñana},
+   journal = {Ecological Informatics},
+   volume = {90},
+   pages = {103254},
+   ISSN = {1574-9541},
+   DOI = {10.1016/j.ecoinf.2025.103254},
+   year = {2025},
+   type = {Journal Article}
+}
+```

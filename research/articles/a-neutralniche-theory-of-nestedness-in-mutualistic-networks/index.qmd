@@ -21,3 +21,30 @@ format:
 ## Links
 
 [DOI Link](https://doi.org/10.1111/j.1600-0706.2008.16540.x) | [PDF](http://hdl.handle.net/10261/38396) | [OpenAlex](https://openalex.org/W2009996112)
+
+## BibTeX
+
+```bibtex
+@article{RN57561,
+   author = {Krishna, Abhay and Guimaraes, Paulo R and Jordano, Pedro and Bascompte, Jordi},
+   title = {A neutral-niche theory of nestedness in mutualistic networks},
+   journal = {Oikos},
+   volume = {117},
+   pages = {1609–1618},
+   abstract = {Recently, there has been a vigorous interest in community ecology about the structure of mutualistic networks and its importance for species persistence and coevolution. However, the mechanisms shaping mutualistic networks have been rarely explored. Here we extend for the first time the neutral theory of biodiversity to a multi trophic system. We focus on nestedness, a distinctive pattern of mutualistic community assembly showing two characteristics, namely, asymmetrical specialization (specialists interacting with generalists) and a generalist core (generalists interacting with generalists). We investigate the importance of relative species abundance (RSA) for the nested assembly of plant-animal mutualistic networks. Our results show that neutral mutualistic communities give rise to networks considerably more nested than real communities. RSA explains 60-70% of nested patterns in two real communities studied here, while 30-40% of nestedness is still unexplained. The nested pattern in real communities is better explained when we introduce interaction-specific species traits such as forbidden links and intensity of dependence (relative importance of fruits for the diet of a frugivore) in our analysis. The fact that neutral mutualistic communities exhibit a perfectly nested structure and do not show a random or compartmentalized structure, underlines the importance of RSA in the assembly of mutualistic networks.},
+   keywords = {Asymmetries
+Biodiversity Theory
+Ecology
+Plant
+Pollination
+Prunus Mahaleb
+Sampling Formula
+Size
+Specialization
+Species Abundance},
+   DOI = {10.1111/j.1600-0706.2008.16540.x},
+   url = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1600-0706.2008.16540.x},
+   year = {2008},
+   type = {Journal Article}
+}
+```
