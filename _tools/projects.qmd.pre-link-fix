@@ -323,26 +323,26 @@ examining the patterns through a phylogeny of the group.
 
 +---------------------------------------+---------------------------------------+
 | ![][proj-08]{fig-align="center" width=| Our previous work on this topic has   |
-|                                       | concentrated on analyses for the whole|
-|                                       | Angiosperm clade. Recently we are     |
-|                                       | collaborating with Mauro Galetti and  |
-|                                       | Marco Pizo, involving comparative     |
+|                                       | concentrated on analyses for the      |
+|                                       | whole Angiosperm clade. Recently we   |
+|                                       | are collaborating with Mauro Galetti  |
+|                                       | and Marco Pizo, involving comparative |
 |                                       | analyses restricted to the tropical   |
 |                                       | families Palmae and Myrtaceae.        |
 |                                       | Together with Paulo R. Guimarães Jr., |
 |                                       | Mauro and Mathias Pires we are also   |
 |                                       | analyzing the comparative ecology of  |
 |                                       | the so-called [anachronic seed        |
-|                                       | dispersal systems][link-01], i.e.,    |
-|                                       | plant species with extremely large    |
-|                                       | fruits supposedly dispersed by an     |
-|                                       | extinct megafauna and having          |
+|                                       | dispersal syste                       |
+|                                       | ms](gallery.html "Megafauna fruits"), |
+|                                       | i.e., plant species with extremely    |
+|                                       | large fruits supposedly dispersed by  |
+|                                       | an extinct megafauna and having       |
 |                                       | present-day interactions with         |
 |                                       | surrogate frugivorous animals. The    |
 |                                       | dataset, and additional information,  |
 |                                       | for this study is available           |
-|                                       | [here][link-02].                      |
-|                                       |                                       |
+|                                       | [here](datasets.html "Datasets").     |
 +---------------------------------------+---------------------------------------+
 
 --------------------------------------------------------------------------------
@@ -360,24 +360,32 @@ examining the patterns through a phylogeny of the group.
 |                                       | plants in terms of fitness variation  |
 |                                       | and has deep influences in fruit      |
 |                                       | traits evolution. Together with       |
-|                                       | Alfredo Valido and [H. Martin Schaefer|
-|                                       | ][link-03] we are investigating how   |
-|                                       | fruit traits covary and define fruit  |
-|                                       | displays: i.e., sets of correlated    |
-|                                       | fruit traits that mediate in the      |
-|                                       | interaction with mutualistic          |
-|                                       | frugivores. We have a bilateral       |
-|                                       | agreement between                     |
+|                                       | Alfredo Valido and [H. Martin Scha e  |
+|                                       | fer                                   |
+|                                       | ](http://www.biologie.uni-freibu%2%20 |
+|                                       | 0rg.de/data/bio1/schaefer/index.html) |
+|                                       | we are investigating how fruit traits |
+|                                       | covary and define fruit displays:     |
+|                                       | i.e., sets of correlated fruit traits |
+|                                       | that mediate in the interaction with  |
+|                                       | mutualistic frugivores. We have a     |
+|                                       | bilateral agreement between           |
 |                                       | [CSIC](http://www.csic.es/) and the   |
 |                                       | [Deutscher Academischer Austausch     |
-|                                       | Dienst][link-04] that funds this      |
-|                                       | collaboration. In addition, we        |
-|                                       | collaborate with Mauro Galetti’s      |
-|                                       | [Laboratório de Biologia da           |
-|                                       | Conservação][link-05] in Brazil to    |
-|                                       | study fruit characteristics of Mata   |
-|                                       | Atlantica and Pantanal fruit species. |
-|                                       | This research is funded by            |
+|                                       | Diens                                 |
+|                                       | t](http://www.daad.de/en/index.html)  |
+|                                       | that funds this collaboration.        |
+|                                       |                                       |
+|                                       | In addition, we collaborate with      |
+|                                       | Mauro Galetti’s [Laboratório de       |
+|                                       | Biologia da                           |
+|                                       | C                                     |
+|                                       | onservação](http://www.rc.unesp.%2%20 |
+|                                       | 0br/ib/ecologia/fenologia/index.html) |
+|                                       | in Brazil to study fruit              |
+|                                       | characteristics of Mata Atlantica and |
+|                                       | Pantanal fruit species. This research |
+|                                       | is funded by                          |
 |                                       | [CSIC](http://www.csic.es/) and       |
 |                                       | [CNPq](http://www.cnpq.br/) and it    |
 |                                       | covers an exchange plan between our   |
@@ -385,14 +393,6 @@ examining the patterns through a phylogeny of the group.
 |                                       | labs has also benefited from          |
 |                                       | [CYTED](http://www.cyted.org/)        |
 |                                       | funding.                              |
-|                                       |                                       |
-|                                       |                                       |
-|                                       |                                       |
-|                                       |                                       |
-|                                       |                                       |
-|                                       |                                       |
-|                                       |                                       |
-|                                       |                                       |
 +---------------------------------------+---------------------------------------+
 
 --------------------------------------------------------------------------------
@@ -561,9 +561,4 @@ disturbance regimes.
 [proj-11]: static/images/projects__files__stacks-image-6c15a50.png
 [proj-12]: static/images/projects__files__stacks-image-7055046-310x420.jpg
 [proj-13]: static/images/projects__files__stacks-image-23f0d91-208x376.png
-[link-01]: gallery.html "Megafauna fruits"
-[link-02]: datasets.html "Datasets"
-[link-03]: http://www.biologie.uni-freiburg.de/data/bio1/schaefer/index.html
-[link-04]: http://www.daad.de/en/index.html
-[link-05]: http://www.rc.unesp.br/ib/ecologia/fenologia/index.html
 <!-- image-refs:end -->
