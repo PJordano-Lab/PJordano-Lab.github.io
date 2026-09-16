@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Jekyll-based static academic website for Pedro Jordano (Research Professor, Estación Biológica de Doñana, CSIC, and Assoc. Professor, Univ. Sevilla), built with the [al-folio](https://github.com/alshedivat/al-folio) theme and deployed via GitHub Actions to https://PJordano-Lab.github.io.
+Jekyll-based static academic website for Pedro Jordano (Research Professor, Estación Biológica de Doñana, CSIC, and Assoc. Professor, Univ. Sevilla), built with the [al-folio](https://github.com/alshedivat/al-folio) theme and deployed via GitHub Actions to https://pjordanolab.github.io.
 
 ## Commands
 

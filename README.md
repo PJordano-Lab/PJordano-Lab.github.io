@@ -1,10 +1,10 @@
-# PJordano-Lab.github.io
+# pjordanolab.github.io
 
 Personal academic website for Pedro Jordano — Research Professor, Estación Biológica de Doñana, CSIC, and Assoc. Professor, Univ. Sevilla.
 
 Built with [Quarto](https://quarto.org/), deployed via [GitHub Actions](https://github.com/features/actions) to GitHub Pages.
 
-**Live site:** [https://PJordano-Lab.github.io](https://PJordano-Lab.github.io)
+**Live site:** [https://pjordanolab.github.io](https://pjordanolab.github.io)
 ## Project Structure
 
 ```

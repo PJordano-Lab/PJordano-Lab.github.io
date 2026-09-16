@@ -1,1 +1,1 @@
-Sitemap: https://PJordano-Lab.github.io/sitemap.xml
+Sitemap: https://pjordanolab.github.io/sitemap.xml

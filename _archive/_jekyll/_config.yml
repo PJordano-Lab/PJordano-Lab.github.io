@@ -5,9 +5,9 @@ title                    : "Pedro Jordano Lab"
 title_separator          : "-"
 name                     : &name "Pedro Jordano"
 description              : &description "Assistant Professor, School of Criminal Justice and Criminology, Texas State University"
-url                      : "https://PJordano-Lab.github.io"
+url                      : "https://pjordanolab.github.io"
 baseurl                  : ""
-repository               : "pedroj/PJordano-Lab.github.io"
+repository               : "pedroj/pjordanolab.github.io"
 
 # Site Author
 author:

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Quarto-based static academic website for Pedor Jordano (Research Professor, Estación Biológica de Doñana, CSIC, and Assoc. Professor, Univ. Sevilla), deployed via GitHub Actions to https://PJordano-Lab.github.io.
+Quarto-based static academic website for Pedor Jordano (Research Professor, Estación Biológica de Doñana, CSIC, and Assoc. Professor, Univ. Sevilla), deployed via GitHub Actions to https://pjordanolab.github.io.
 
 ## Commands
 
