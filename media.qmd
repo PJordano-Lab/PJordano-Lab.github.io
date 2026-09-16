@@ -14,14 +14,14 @@ releases, radio interviews and others.
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 Plenary talk at the XX International Botanic Congress, Madrid. July 2024.
 "[*Cryptic disruptions of plant animal mutualisms in the
 Anthropocene*](https://www.youtube.com/@IBC-of3vo/videos)".
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 [Comment](http://pjordanolab.ebd.csic.es/media_press/Eds_Choice_Science_2011_1201.pdf)
 in the [Editor's Choice
 section](http://www.sciencemag.org/content/333/6047/twil.full) of Science
@@ -31,7 +31,7 @@ on evolution and coevolution in mutualistic networks.
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 Highlights of our [PNAS paper](static/pdfs/Olesen_etal_2007_PNAS_Modularity.pdf)
 on modularity in pollination networks. This is a [newspaper article in
 Publico](http://ebd10.ebd.csic.es/media_press/PUBLICO-07.pdf). Here is the
@@ -40,19 +40,19 @@ CSIC-Prensa.
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 <a href="http://pjordanolab.ebd.csic.es/ebd10/Media_files/RNM.pdf" target="_blank" rel="noopener"></a>
 Highlight of our Excellence Project on animal-mediated plant dispersal. 2010.
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 <a href="http://ebd10.ebd.csic.es/ebd10/Media_files/http-%3A%3Awww.andaluciainvestiga.com%3Aespanol%3Anoticias%3A2%3A8890.asp.pdf" target="_blank" rel="noopener">
 Press interview for Andalucía Investiga. 10 January 2010.
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 [Radio interview at Radio Exterior de
 España](http://ebd10.ebd.csic.es/media_press/REE_Pedro%20Jordano_Dispersion%20de%20semillas.mp3).
 About our [2007 PNAS
@@ -61,7 +61,7 @@ March 2007. (Large file).
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 Highlights of our [PNAS
 paper](http://ebd10.ebd.csic.es/mywork/abstr/diff_contrib_abs.html) on seed
 dispersal by frugivores. Comment published in
@@ -72,13 +72,13 @@ Biology](http://ebd10.ebd.csic.es/media_press/Pannell_2007_CurrBiol.pdf).
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 [Highlight](http://www.andaluciainvestiga.com/espanol/noticias/10/rnm212_2985.asp)
 in Andalucía Investiga. 23 May 2006.
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 [Talk at Fundación Juan
 March](http://pjordanolab.ebd.csic.es/media_press/Pedro@Fund_juan_March_04May2006.mp3),
 Madrid. "Ecología y genes: nuevos retos para la conservación de la
@@ -86,13 +86,13 @@ biodiversidad" (in Spanish). 4 May 2006.
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 [Text in FECYT book highlighting top research groups in
 Spain](http://pjordanolab.ebd.csic.es/media_press/Frugivoros_y_semillas_Imagenes_FECYT2004.pdf).
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 EBD [Exhibition](http://pjordanolab.ebd.csic.es/media_press/S1a_PT.jpg).
 Material at the Estación Biológica de Doñana exhibit commemorating 40 years.
 [Poster about dispersal and gene
@@ -102,7 +102,7 @@ networks](http://pjordanolab.ebd.csic.es/media_press/EBD_Expo_IEG_Poster_screen.
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 [Science
 Magazine](http://pjordanolab.ebd.csic.es/media_press/Science-Magazine.pdf).
 About our [2006 Science
@@ -112,7 +112,7 @@ The CSIC press note is
 
 --------------------------------------------------------------------------------
 
-![bullet_pp_2](static/images/teaching__files__bullet_pp_2-2.png){alt="bullet_pp_2"}
+![](static/images/icons/bullet_pp.png)
 [Article for general public in Red
 Life](http://pjordanolab.ebd.csic.es/media_press/RedLife132.pdf), May 2006.
 About our [2006 Science

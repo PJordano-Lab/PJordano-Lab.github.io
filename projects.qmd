@@ -45,11 +45,9 @@ change would affect plant communities in terms of dispersal and adaptation.
 
 ### Molecular ecology of seed and pollen dissemination by animals
 
-![Stacks Image
-2322](static/images/projects__files__stacks-image-15421d5.png){fig-align="center"}
+![](static/images/projects__files__stacks-image-15421d5.png){fig-align="center"}
 
-![Stacks Image
-2315](static/images/projects__files__stacks-image-36f5592-408x306.png){fig-align="center"}
+![](static/images/projects__files__stacks-image-36f5592-408x306.png){fig-align="center"}
 
 Plants stand still, but their genes move- rephrasing the title of a BES
 symposium held in Aug 2000. And for many plant species this movement is the
@@ -62,8 +60,8 @@ been considered an unavoidable limitation of the research field and precluded a
 robust analysis of the direct consequences of zoochory.
 
 +---------------------------------------+---------------------------------------+
-| ![](static/images/ongf                | Together with José A. Godoy and       |
-| igs/endocarp.jpg){fig-align="center"} | Cristina García, we are using the     |
+| ![][proj-01]{fig-align="center"}      | Together with José A. Godoy and       |
+|                                       | Cristina García, we are using the     |
 |                                       | multilocus genotype at SSR            |
 |                                       | (microsatellite) loci of the woody    |
 |                                       | endocarp, a seed tissue of maternal   |
@@ -84,10 +82,10 @@ robust analysis of the direct consequences of zoochory.
 +---------------------------------------+---------------------------------------+
 
 +---------------------------------------+---------------------------------------+
-| ![](static/images/                    | Identification of the source tree for |
-| projects__files__stacks-image-06af6df | *Prunus mahaleb* seeds dispersed by   |
-| -374x530.png){alt="Stacks Image 2302" | frugivores revealed a marked          |
-| fig-align="center"}                   | heterogeneity in the genetic          |
+| ![][proj-02]{fig-align="center"}      | Identification of the source tree for |
+|                                       | *Prunus mahaleb* seeds dispersed by   |
+|                                       | frugivores revealed a marked          |
+|                                       | heterogeneity in the genetic          |
 |                                       | composition of the seed rain in       |
 |                                       | different microhabitats, with a range |
 |                                       | of 1-5 distinct maternal trees        |
@@ -112,11 +110,11 @@ robust analysis of the direct consequences of zoochory.
 +---------------------------------------+---------------------------------------+
 
 +---------------------------------------+---------------------------------------+
-| ![Quercus pubescens                   | Together with Arndt Hampe and Rémy    |
-| acorns](static/images/                | Petit we are investigating how seed   |
-| projects__files__stacks-image-8fda077 | dispersal by animals influences plant |
-| -390x292.jpg){alt="Stacks Image 2297" | population genetic structure and its  |
-| fig-align="center"}                   | geographic patterns. We have a        |
+| ![][proj-03]{fig-align="center"}      | Together with Arndt Hampe and Rémy    |
+|                                       | Petit we are investigating how seed   |
+|                                       | dispersal by animals influences plant |
+|                                       | population genetic structure and its  |
+|                                       | geographic patterns. We have a        |
 |                                       | bilateral agreement between MEC and   |
 |                                       | the INRA that funds this              |
 |                                       | collaboration, including an exchange  |
@@ -138,10 +136,10 @@ robust analysis of the direct consequences of zoochory.
 
 +---------------------------------------+---------------------------------------+
 | ![*Gallotia* lizards. Canary          | New projects directed by Alfredo      |
-| Islands.](static/                     | Valido investigate the consequences   |
-| images/papers__files__stacks-image-ca | of dispersal processes- especially    |
-| fb49a-642x430.png){fig-align="center" | seed dispersal- for endemic Canary    |
-| width="450"}                          | Island plant species. In the Canary   |
+| Islands.][proj-04]{fig-align="center" | Valido investigate the consequences   |
+| width="450"}                          | of dispersal processes- especially    |
+|                                       | seed dispersal- for endemic Canary    |
+|                                       | Island plant species. In the Canary   |
 |                                       | Islands, many fleshy-fruited plants   |
 |                                       | depend on lizards for their           |
 |                                       | successful dispersal and recruitment. |
@@ -219,10 +217,10 @@ different species has deep implications for the stability and persistence of the
 whole system.
 
 +---------------------------------------+---------------------------------------+
-| ![](static                            | Together with [Jordi                  |
-| /images/projects__files__stacks-image | Bascompte](http://bascompte.net/) and |
-| -f507099.png){alt="Stacks Image 2329" | [Jens M.                              |
-| fig-align="center" width="406"}       | Olesen                                |
+| ![][proj-05]{fig-align="center"       | Together with [Jordi                  |
+| width="406"}                          | Bascompte](http://bascompte.net/) and |
+|                                       | [Jens M.                              |
+|                                       | Olesen                                |
 |                                       | ](http://mit.biology.au.dk/~biojmo/), |
 |                                       | we are examining the topology of      |
 |                                       | networks of mutualists                |
@@ -249,10 +247,10 @@ and what are the consequences of species extinctions, fragmentation, and overall
 stability for the evolution and persistence of the mutualistic interactions.
 
 +---------------------------------------+---------------------------------------+
-| ![](static/images/                    | Our most recent project deals with    |
-| projects__files__stacks-image-04f12d7 | the analysis of multiple interaction  |
-| -382x202.png){alt="Stacks Image 2388" | types that conform a special type of  |
-| fig-align="center"}                   | multilayer networks called multiplex  |
+| ![][proj-06]{fig-align="center"}      | Our most recent project deals with    |
+|                                       | the analysis of multiple interaction  |
+|                                       | types that conform a special type of  |
+|                                       | multilayer networks called multiplex  |
 |                                       | networks. This allows us to           |
 |                                       | understand the combined effects of    |
 |                                       | multiple types of interactions        |
@@ -272,9 +270,9 @@ stability for the evolution and persistence of the mutualistic interactions.
 
 +---------------------------------------+---------------------------------------+
 | ![*Juniperus                          | A recent project deals with the       |
-| phoenicea*](sta                       | analysis of individual-based          |
-| tic/images/projects__files__stacks-im | interaction networks. We aim to       |
-| age-b63545c-408x272.jpg){width="514"} | understand how different individuals  |
+| phoenicea*][proj-07]{width="514"}     | analysis of individual-based          |
+|                                       | interaction networks. We aim to       |
+|                                       | understand how different individuals  |
 |                                       | within populations "organize" the     |
 |                                       | diversity of ecological interactions  |
 |                                       | with mutualists and antagonists,      |
@@ -314,8 +312,7 @@ interaction. We are using comparative methods based on the analysis of
 phylogenetically independent contrasts to test adaptive hypotheses about
 correlated evolution between fruit traits and disperser types.
 
-![Stacks Image
-2364](static/images/projects__files__stacks-image-30f8cca.jpg){fig-align="center"
+![](static/images/projects__files__stacks-image-30f8cca.jpg){fig-align="center"
 width="80%"}
 
 Suppose that a particular difference in, say, fruit diameter or pulp lipid
@@ -325,19 +322,18 @@ trait and contrasts in the proportions of frugivore types will show up when
 examining the patterns through a phylogeny of the group.
 
 +---------------------------------------+---------------------------------------+
-| ![Stacks Image                        | Our previous work on this topic has   |
-| 2334](static/images/                  | concentrated on analyses for the      |
-| projects__files__stacks-image-7387749 | whole Angiosperm clade. Recently we   |
-| -248x186.png){alt="Stacks Image 2334" | are collaborating with Mauro Galetti  |
-| fig-align="center" width="79%"}       | and Marco Pizo, involving comparative |
+| ![][proj-08]{fig-align="center" width=| Our previous work on this topic has   |
+|                                       | concentrated on analyses for the      |
+|                                       | whole Angiosperm clade. Recently we   |
+|                                       | are collaborating with Mauro Galetti  |
+|                                       | and Marco Pizo, involving comparative |
 |                                       | analyses restricted to the tropical   |
 |                                       | families Palmae and Myrtaceae.        |
 |                                       | Together with Paulo R. Guimarães Jr., |
 |                                       | Mauro and Mathias Pires we are also   |
 |                                       | analyzing the comparative ecology of  |
 |                                       | the so-called [anachronic seed        |
-|                                       | dispersal                             |
-|                                       | syste                                 |
+|                                       | dispersal syste                       |
 |                                       | ms](gallery.html "Megafauna fruits"), |
 |                                       | i.e., plant species with extremely    |
 |                                       | large fruits supposedly dispersed by  |
@@ -354,19 +350,19 @@ examining the patterns through a phylogeny of the group.
 ### The evolution of fruit traits
 
 +---------------------------------------+---------------------------------------+
-| ![*Crataegus monogyna* fruits with    | Fruits are complex structures with a  |
-| beak                                  | high integration of characteristics:  |
-| marks.](sta%20t                       | morphology, nutrient content of the   |
-| ic/images/projects__files__stacks-i%2 | pulp, and fruit color influence how   |
-| 0mage-e5ed7a5.png){fig-align="center" | frugivorous animals detect, handle,   |
-| width="373"}                          | ingest, and digest the fruits. This   |
+| ![Crataegus monogyna fruits with      | Fruits are complex structures with a  |
+| beak marks.][proj-09]{width="100%"}   | high integration of characteristics:  |
+|                                       | morphology, nutrient content of the   |
+|                                       | pulp, and fruit color influence how   |
+|                                       | frugivorous animals detect, handle,   |
+|                                       | ingest, and digest the fruits. This   |
 |                                       | has immediate consequences for the    |
 |                                       | plants in terms of fitness variation  |
 |                                       | and has deep influences in fruit      |
 |                                       | traits evolution. Together with       |
-|                                       | Alfredo Valido and [H. Martin Scha    |
-|                                       | e                                     |
-|                                       | fer](http://www.biologie.uni-freibu%2 |
+|                                       | Alfredo Valido and [H. Martin Scha e  |
+|                                       | fer                                   |
+|                                       | ](http://www.biologie.uni-freibu%2%20 |
 |                                       | 0rg.de/data/bio1/schaefer/index.html) |
 |                                       | we are investigating how fruit traits |
 |                                       | covary and define fruit displays:     |
@@ -383,7 +379,8 @@ examining the patterns through a phylogeny of the group.
 |                                       | In addition, we collaborate with      |
 |                                       | Mauro Galetti’s [Laboratório de       |
 |                                       | Biologia da                           |
-|                                       | Conservação](http://www.rc.unesp.%2   |
+|                                       | C                                     |
+|                                       | onservação](http://www.rc.unesp.%2%20 |
 |                                       | 0br/ib/ecologia/fenologia/index.html) |
 |                                       | in Brazil to study fruit              |
 |                                       | characteristics of Mata Atlantica and |
@@ -413,10 +410,10 @@ survival for these seeds in particular microhabitat patches that differ in
 quality for recruitment after dispersal.
 
 +---------------------------------------+---------------------------------------+
-| ![Stacks Image                        | The figure illustrates an structural  |
-| 2344](s                               | equation model fitted to the          |
-| tatic/i%20mages/projects__files__stac | sequential probabilities of           |
-| ks-image-%205f9677f.jpg){width="547"} | recruitment of *Phillyrea latifolia*  |
+| ![][proj-10]{width="547"}             | The figure illustrates an structural  |
+|                                       | equation model fitted to the          |
+|                                       | sequential probabilities of           |
+|                                       | recruitment of *Phillyrea latifolia*  |
 |                                       | in Mediterranean montane scrubland,   |
 |                                       | SE Spain. The path model depicts the  |
 |                                       | multiple and delayed influences, both |
@@ -438,10 +435,10 @@ quality for recruitment after dispersal.
 ### Spatial patterns and plant-animal interactions
 
 +------------------------------+-----------------------------------------------+
-| ![Stacks Image               | Spatial patterns in dispersed seeds and       |
-| 2366](static/images/proje    | established seedlings are direct outcomes of  |
-| cts__%20files__stacks-image- | frugivore activity and the concatenated       |
-| 6c15a50.%20png){width="481"} | series of demographic stages after dispersal. |
+| ![][proj-11]{width="481"}    | Spatial patterns in dispersed seeds and       |
+|                              | established seedlings are direct outcomes of  |
+|                              | frugivore activity and the concatenated       |
+|                              | series of demographic stages after dispersal. |
 |                              | In collaboration with Cris García, We’ve been |
 |                              | exploring the spatial consequences of seed    |
 |                              | dispersal by animals in *Prunus mahaleb*.     |
@@ -456,10 +453,10 @@ quality for recruitment after dispersal.
 +------------------------------+-----------------------------------------------+
 
 +---------------------------------------+---------------------------------------+
-| ![Stacks Image                        | The balance between mutualistic and   |
-| 2349](static/image%20s                | antagonistic plant–animal             |
-| /projects__files__stacks-image-7055%2 | interactions and their spatial        |
-| 0046-310x420.jpg){fig-align="center"} | variation results in a highly dynamic |
+| ![][proj-12]                          | The balance between mutualistic and   |
+|                                       | antagonistic plant–animal             |
+|                                       | interactions and their spatial        |
+|                                       | variation results in a highly dynamic |
 |                                       | mosaic of reproductive success within |
 |                                       | plant populations. Yet, the           |
 |                                       | ecological drivers of this            |
@@ -513,10 +510,10 @@ disturbance regimes.
 
 ### Pollination biology
 
-+---------------------------------------+---------------------------------------+
-| ![Stacks Image                        | Together with Alfredo Valido, we are  |
-| 2358](static/images/projects__file%2  | studying the pollination biology of   |
-| 0s__stacks-image-23f0d91-208x376.png) | Canary Islands plants. Specifically   |
++:-------------------------------------:+---------------------------------------+
+| ![][proj-13]{width="240"}             | Together with Alfredo Valido, we are  |
+|                                       | studying the pollination biology of   |
+|                                       | Canary Islands plants. Specifically   |
 |                                       | we are interested in the evolution of |
 |                                       | bird pollination in the islands and   |
 |                                       | this is the main subject of Cande     |
@@ -549,3 +546,19 @@ disturbance regimes.
 +---------------------------------------+---------------------------------------+
 
 --------------------------------------------------------------------------------
+
+<!-- image-refs:start -->
+[proj-01]: static/images/ongfigs/endocarp.jpg
+[proj-02]: static/images/projects__files__stacks-image-06af6df-374x530.png
+[proj-03]: static/images/projects__files__stacks-image-8fda077-390x292.jpg
+[proj-04]: static/images/papers__files__stacks-image-cafb49a-642x430.png
+[proj-05]: static/images/projects__files__stacks-image-f507099.png
+[proj-06]: static/images/projects__files__stacks-image-04f12d7-382x202.png
+[proj-07]: static/images/projects__files__stacks-image-b63545c-408x272.jpg
+[proj-08]: static/images/projects__files__stacks-image-7387749-248x186.png
+[proj-09]: static/images/projects__files__stacks-image-e5ed7a5.png
+[proj-10]: static/images/projects__files__stacks-image-5f9677f.jpg
+[proj-11]: static/images/projects__files__stacks-image-6c15a50.png
+[proj-12]: static/images/projects__files__stacks-image-7055046-310x420.jpg
+[proj-13]: static/images/projects__files__stacks-image-23f0d91-208x376.png
+<!-- image-refs:end -->

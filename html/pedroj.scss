@@ -1218,21 +1218,26 @@ div.sourceCode:has(> pre.bibtex) .code-copy-button {
   padding: 0.35rem 0.5rem;
 }
 
-/* year | authors | title | journal | vol | pages | doi */
+/* year | authors | title | journal | vol | pages | doi
+   All widths are percentages summing to exactly 100, so the table can never
+   exceed its grid column and slide under the floating TOC - mixing rem values
+   in was what left the earlier layout able to overflow. Title is the widest
+   column by a wide margin (52%, up from 34%), which is roughly 3.7x the next
+   widest; volume, pages and DOI are trimmed to pay for it. */
 .quarto-listing-table table th:nth-child(1),
-.quarto-listing-table table td:nth-child(1) { width: 4.5rem; }
+.quarto-listing-table table td:nth-child(1) { width: 5%; }    /* year    */
 .quarto-listing-table table th:nth-child(2),
-.quarto-listing-table table td:nth-child(2) { width: 22%; }
+.quarto-listing-table table td:nth-child(2) { width: 14%; }   /* authors */
 .quarto-listing-table table th:nth-child(3),
-.quarto-listing-table table td:nth-child(3) { width: 34%; }
+.quarto-listing-table table td:nth-child(3) { width: 52%; }   /* title   */
 .quarto-listing-table table th:nth-child(4),
-.quarto-listing-table table td:nth-child(4) { width: 15%; }
+.quarto-listing-table table td:nth-child(4) { width: 11%; }   /* journal */
 .quarto-listing-table table th:nth-child(5),
-.quarto-listing-table table td:nth-child(5) { width: 3.5rem; }
+.quarto-listing-table table td:nth-child(5) { width: 3.5%; }  /* vol.    */
 .quarto-listing-table table th:nth-child(6),
-.quarto-listing-table table td:nth-child(6) { width: 5.5rem; }
+.quarto-listing-table table td:nth-child(6) { width: 5.5%; }  /* pages   */
 .quarto-listing-table table th:nth-child(7),
-.quarto-listing-table table td:nth-child(7) { width: 15%; }
+.quarto-listing-table table td:nth-child(7) { width: 9%; }    /* doi     */
 
 /* DOIs have no spaces to break on */
 .quarto-listing-table table td:nth-child(7) {
@@ -1255,8 +1260,10 @@ div.sourceCode:has(> pre.bibtex) .code-copy-button {
 
 @media (max-width: 992px) {
   .quarto-listing-table table { font-size: 0.78rem; }
-  .quarto-listing-table table th:nth-child(2),
-  .quarto-listing-table table td:nth-child(2) { width: 20%; }
+  /* DOI is dropped here, so its 9% goes to the title rather than being
+     redistributed across every column */
+  .quarto-listing-table table th:nth-child(3),
+  .quarto-listing-table table td:nth-child(3) { width: 61%; }
   .quarto-listing-table table th:nth-child(7),
   .quarto-listing-table table td:nth-child(7) { display: none; }
 }
