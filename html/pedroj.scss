@@ -1280,3 +1280,127 @@ div.sourceCode:has(> pre.bibtex) .code-copy-button {
   word-break: break-word;
   overflow-wrap: anywhere;
 }
+
+/* ── projects.qmd: figure / description rows ───────────────────────────────
+   Replaces the pandoc grid tables this page was exported as. Those cells were
+   a fixed 39 characters wide, so long image paths and URLs got wrapped across
+   cell lines and pandoc rejoined them with a space - the recurring
+   "static/images/ongf igs/..." 404s. A CSS grid imposes no width on the
+   source, so the fault cannot recur.
+
+   Same shape as .dataset-row, with a wider figure column: these are portrait
+   and landscape figures rather than 200 px dataset thumbnails. The figure is
+   the row's first child paragraph; the description follows. */
+
+.project-row {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 1.6rem;
+  align-items: start;
+  padding: 1.3rem 0;
+  border-bottom: 1px solid var(--color-border, rgba(128, 128, 128, 0.18));
+}
+
+.project-row:last-of-type { border-bottom: none; }
+
+/* a row with no figure keeps its text in the second column, so descriptions
+   stay aligned down the page */
+.project-row.nofigure .project-text,
+.project-row.nofigure > p { grid-column: 2; }
+
+.project-row > p { margin: 0; line-height: 1.55; }
+
+.project-row > p:first-child > img,
+.project-row > figure:first-child img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 0;
+}
+
+.project-row > figure:first-child { margin: 0; }
+
+.project-row figcaption {
+  font-size: 0.82rem;
+  opacity: 0.75;
+  margin-top: 0.3rem;
+}
+
+@media (max-width: 640px) {
+  .project-row,
+  .project-row.nofigure {
+    grid-template-columns: 1fr;
+    gap: 0.9rem;
+  }
+
+  .project-row.nofigure .project-text,
+  .project-row.nofigure > p { grid-column: 1; }
+}
+
+/* ── gallery.qmd: tabset tabs ──────────────────────────────────────────────
+   The photo-collection tabs are a Bootstrap nav-tabs list emitted by Quarto:
+   .panel-tabset > ul.nav-tabs > li.nav-item > a.nav-link, with .active on the
+   selected one. Default styling is a bare underline, which disappears against
+   both the white page in light mode and the near-black page in dark mode.
+
+   The palette is deliberately THEME-INDEPENDENT - one medium grey that reads
+   on either background. Earlier theme-scoped rules on this site fell through
+   to the base theme whenever their selector root was not live, which is the
+   bug that kept the BibTeX card black; an unconditional rule cannot fail that
+   way. Measured contrast: ink #1c2126 on the idle grey 6.15:1, white on the
+   active grey 6.08:1, and the greys sit at 2.6:1 / 3.1:1 against the light and
+   dark page backgrounds respectively, so the tab strip reads as a surface in
+   both modes.
+
+   Keep :has() and other relational selectors out of these selector lists - a
+   browser that cannot parse one discards the whole rule. */
+
+$tab-idle:    #9aa0a8;   /* medium grey: the resting tab            */
+$tab-hover:   #aeb4bb;   /* one step lighter                        */
+$tab-active:  #5c636c;   /* selected tab, inverted so it stands out */
+$tab-ink:     #1c2126;
+$tab-ink-on-active: #ffffff;
+$tab-edge:    rgba(92, 99, 108, 0.55);
+
+.panel-tabset > ul.nav-tabs {
+  gap: 0.25rem;
+  border-bottom: 2px solid $tab-edge;
+  margin-bottom: 1.1rem;
+  flex-wrap: wrap;
+}
+
+.panel-tabset > ul.nav-tabs > li.nav-item {
+  margin-bottom: 0;
+}
+
+.panel-tabset > ul.nav-tabs > li.nav-item > a.nav-link {
+  background-color: $tab-idle;
+  color: $tab-ink;
+  border: 1px solid $tab-edge;
+  border-bottom-color: transparent;
+  border-radius: 6px 6px 0 0;
+  padding: 0.4rem 0.85rem;
+  font-size: 0.86rem;
+  font-weight: 500;
+  line-height: 1.25;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.panel-tabset > ul.nav-tabs > li.nav-item > a.nav-link:hover {
+  background-color: $tab-hover;
+  color: $tab-ink;
+}
+
+.panel-tabset > ul.nav-tabs > li.nav-item > a.nav-link.active {
+  background-color: $tab-active;
+  color: $tab-ink-on-active;
+  border-color: $tab-edge;
+  border-bottom-color: $tab-active;
+}
+
+/* the sub-album headings inside Study sites are h3, not tabs - keep them
+   clearly subordinate to the tab strip */
+.panel-tabset .tab-pane > h3 {
+  font-size: 1.05rem;
+  margin: 1.4rem 0 0.6rem;
+}
