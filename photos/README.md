@@ -16,7 +16,22 @@ photos/<group>/
   thumbs/           written by the extension on render (git-ignored)
 ```
 
-Keep images directly in the group folder — the extension does not recurse.
+Keep images directly in the group folder — **the extension does not recurse**.
+To split a gallery by location, make each location its own album and give it a
+`parent` in the `GROUPS` table of `_tools/build-photo-gallery.py`; the page
+then renders them as sub-galleries inside the parent's tab. `study-sites` works
+this way:
+
+```
+photos/study-sites/alcornocales/{*.jpg, album.yml, thumbs/}
+photos/study-sites/correhuelas/...
+photos/study-sites/guadahornillos/...
+photos/study-sites/donana/        (empty - awaiting photos)
+photos/study-sites/canarias/      (empty - awaiting photos)
+```
+
+Thumbnails must sit in `thumbs/` **inside each album**; the path is hardcoded
+in the extension's `process_gallery.py` and cannot be pointed elsewhere.
 
 ## album.yml
 
@@ -32,6 +47,14 @@ images:
 `title`, `description` and `alt` override whatever the file carries; `date`
 overrides the EXIF capture date. Camera, lens focal length, aperture, shutter
 and ISO always come from EXIF and are not settable here.
+
+## Captions when an album has none
+
+`python _tools/build-photo-gallery.py --titles-from-folder` gives every
+untitled photo its album's display name, so a tile reads "Los Alcornocales"
+rather than "alcornocales-001.jpg" (the extension's fallback is the filename).
+It appends only — captions harvested from the exports and anything you edit by
+hand are left alone.
 
 ## Adding photos
 
@@ -62,6 +85,10 @@ folder and re-run:
     python _tools/resource-originals.py --search /path/to/exported_originals
 
 ## Regenerating the tree
+
+After rearranging `photos/` by hand, run
+`python _tools/build-photo-gallery.py --page-only`: it rewrites `gallery.qmd`
+from what is actually on disk and copies nothing.
 
 `python _tools/build-photo-gallery.py --out /tmp/photos_stage` rebuilds the folders from the export
 sets under `static/images/{galleries,newgalleries}` and rewrites `gallery.qmd`.

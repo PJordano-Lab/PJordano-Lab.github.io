@@ -1,9 +1,50 @@
 # Per-image metadata for the photo-gallery extension.
-# Uncomment and fill in as needed; EXIF supplies camera, lens,
-# ISO and capture date on its own.
-#
-# images:
-#   networks-001.jpg:
-#     title: "Species name"
-#     description: "Locality, notes"
-#     date: 2024-05-17
+# Titles default to the album name; replace any with something
+# specific, and add `description:` or `date:` as needed.
+images:
+  "networks-001.jpg":
+    title: "Networks"
+  "networks-002.jpg":
+    title: "Networks"
+  "networks-003.jpg":
+    title: "Networks"
+  "networks-004.jpg":
+    title: "Networks"
+  "networks-005.jpg":
+    title: "Networks"
+  "networks-006.jpg":
+    title: "Networks"
+  "networks-007.jpg":
+    title: "Networks"
+  "networks-008.jpg":
+    title: "Networks"
+  "networks-009.jpg":
+    title: "Networks"
+  "networks-010.jpg":
+    title: "Networks"
+  "networks-011.jpg":
+    title: "Networks"
+  "networks-012.jpg":
+    title: "Networks"
+  "networks-013.jpg":
+    title: "Networks"
+  "networks-014.jpg":
+    title: "Networks"
+  "networks-015.jpg":
+    title: "Networks"
+  "networks-016.jpg":
+    title: "Networks"
+  "networks-017.jpg":
+    title: "Networks"
+  "networks-018.jpg":
+    title: "Networks"
+  "networks-019.jpg":
+    title: "Networks"
+  "networks-020.jpg":
+    title: "Networks"
+  "networks-021.jpg":
+    title: "Networks"
+  "networks-022.jpg":
+    title: "Networks"
+  "networks-023.jpg":
+    title: "Networks"

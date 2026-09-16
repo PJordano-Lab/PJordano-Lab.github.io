@@ -1,0 +1,68 @@
+# Per-image metadata for the photo-gallery extension.
+# Titles default to the album name; replace any with something
+# specific, and add `description:` or `date:` as needed.
+images:
+  "alcornocales-015.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-001.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-002.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-003.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-004.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-005.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-006.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-007.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-008.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-009.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-010.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-011.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-012.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-013.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-014.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-015.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-016.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-017.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-018.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-019.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-020.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-021.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-022.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-023.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-024.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-025.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-026.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-027.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-028.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-029.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-030.jpg":
+    title: "Las Correhuelas"
+  "correhuelas-031.jpg":
+    title: "Las Correhuelas"

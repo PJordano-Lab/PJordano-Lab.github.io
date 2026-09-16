@@ -38,7 +38,27 @@ EXIF metadata.
 
 ## Study sites
 
-{{< photo-gallery photos/study-sites id=study-sites >}}
+### Los Alcornocales
+
+{{< photo-gallery photos/study-sites/alcornocales id=study-sites-alcornocales >}}
+
+### Las Correhuelas
+
+{{< photo-gallery photos/study-sites/correhuelas id=study-sites-correhuelas >}}
+
+### Nava de las Correhuelas / Guadahornillos
+
+{{< photo-gallery photos/study-sites/guadahornillos id=study-sites-guadahornillos >}}
+
+### Doñana
+
+Photographs for this gallery are not online yet. Drop JPEGs into
+`photos/study-sites/donana/` and they will appear on the next render.
+
+### Islas Canarias
+
+Photographs for this gallery are not online yet. Drop JPEGs into
+`photos/study-sites/canarias/` and they will appear on the next render.
 
 ## Networks
 

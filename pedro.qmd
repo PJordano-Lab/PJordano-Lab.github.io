@@ -37,37 +37,54 @@ Scholar](https://scholar.google.es/citations?user=TrKYqaEAAAAJ&hl=en) ·
 ### Highlighted papers
 
 ::: paper-row
-[![](static/images/Pedro_files__thumbnail_image_0-5887.png){fig-alt="First page of González-Varo et al. 2014"}](static/images/Pedro_files__full_size_image_0-5887.png)
+[![](static/images/papers_covers/AREES_2026_Interactome.png){fig-alt="First page of Jordano 2026"}](static/images/papers_covers/AREES_2026_Interactome.png)
+
+Jordano, P. (2026). The ecological interactome: understanding Biodiversity 
+through patterns of interactions. Annual Review of Ecology, Evolution, and 
+Systematics, 57, 51–76.       
+doi: [10.1146/annurev-ecolsys-102824-110132](https://doi.org/10.1146/annurev-ecolsys-102824-110132)
+:::
+
+::: paper-row
+[![](static/images/papers_covers/MolEcol_2014_Who-dispersed.png){fig-alt="First page of González-Varo et al. 2014"}](static/images/papers_covers/MolEcol_2014_Who-dispersed.png)
 
 González-Varo, J.P., Arroyo, J.M., and Jordano, P. 2014. Who dispersed the
 seeds? The use of DNA barcoding in frugivory and seed dispersal studies.
-*Methods in Ecology and Evolution* 5: 806–814. doi:
-[10.1111/2041-210X.12212](https://doi.org/10.1111/2041-210X.12212)
+*Methods in Ecology and Evolution* 5: 806–814.       
+doi: [10.1111/2041-210X.12212](https://doi.org/10.1111/2041-210X.12212)
 :::
 
 ::: paper-row
-[![](static/images/Pedro_files__thumbnail_image_0-5890.png){fig-alt="First page of Bascompte & Jordano 2007"}](static/images/Pedro_files__full_size_image_0-5890.png)
+[![](static/images/papers_covers/CABI_2014_Fruits_frug.png){fig-alt="First page of Jordano 2014"}](static/images/papers_covers/CABI_2014_Fruits_frug.png)
+
+Jordano, P. (2014). Fruits and frugivory. In: Seeds: the ecology of regeneration in plant communities (ed. Gallagher, RS). Commonwealth Agricultural Bureau International Wallingford, England, pp. 18–61.
+
+:::
+
+::: paper-row
+[![](static/images/papers_covers/AREES_2007_Mutualistic-networks.png){fig-alt="First page of Bascompte & Jordano 2007"}](static/images/papers_covers/AREES_2007_Mutualistic-networks.png)
 
 Bascompte, J. and P. Jordano. 2007. The structure of plant-animal mutualistic
 networks: the architecture of biodiversity. *Annual Review of Ecology,
-Evolution, and Systematics* 38: 567–593.
+Evolution, and Systematics* 38: 567–593.      
+doi: [10.1146/annurev.ecolsys.38.091206.095818](https://doi.org/10.1146/annurev.ecolsys.38.091206.095818)
 :::
 
 ::: paper-row
-[![](static/images/Pedro_files__thumbnail_image_0-5893.png){fig-alt="First page of Jordano et al. 2003"}](static/images/Pedro_files__full_size_image_0-5893.png)
+[![](static/images/papers_covers/EcolLett_2003_Invariant-properties.png){fig-alt="First page of Jordano et al. 2003"}](static/images/papers_covers/EcolLett_2003_Invariant-properties.png)
 
 Jordano, P., J. Bascompte and J.M. Olesen. 2003. Invariant properties in
 coevolutionary networks of plant-animal interactions. *Ecology Letters* 6:
-69–81.
+69–81.      
+doi: [10.1046/j.1461-0248.2003.00403.x](https://doi.org/10.1046/j.1461-0248.2003.00403.x)
 :::
 
 ::: paper-row
-[![Stacks Image
-4988](static/images/papers__files__stacks-image-fc79856-274x428.jpg){fig-alt="Cover of Mutualistic Networks"}](static/images/Pedro_files__full_size_image_0-5896.jpg)
+[![](static/images/papers__files__stacks-image-fc79856-274x428.jpg){fig-alt="Cover of Mutualistic Networks"}](static/images/Pedro_files__full_size_image_0-5896.jpg)
 
 J. Bascompte and P. Jordano. 2013. *Mutualistic networks*. Monographs in
-Population Biology, Princeton University Press, NJ. [Chapter
-1](http://press.princeton.edu/chapters/s10161.pdf).
+Population Biology, Princeton University Press, NJ.    
+[Chapter 1](http://press.princeton.edu/chapters/s10161.pdf).
 :::
 
 --------------------------------------------------------------------------------

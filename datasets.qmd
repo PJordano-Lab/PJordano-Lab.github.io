@@ -6,11 +6,11 @@ title-block-banner: "#1a1c20"
 hand-edited: true   # layout reworked by hand; _tools/convert-hugo-content.py skips this file
 ---
 
-:::: {.dataset-row .nofigure}
-::: dataset-text
+<!-- :::: {.dataset-row .nofigure} -->
+<!-- ::: dataset-text -->
 ![](static/images/datasets__files__stacks-image-2b61f52.png){.inline-icon}
 ![](static/images/datasets__files__stacks-image-bbf8f27.png){.inline-icon}
-GitHub. We maintain a [GitHub Lab-repository](https://github.com/PJordano-Lab)
+We maintain a [GitHub Lab-repository](https://github.com/PJordano-Lab)
 and [Pedro's GitHub repository](https://github.com/pedroj) for code and
 projects, as well as [GitHub pages](http://pedroj.github.io/) explaining in
 detail different aspects of specific analyses and data resources. In addition to
@@ -19,10 +19,10 @@ manuscripts we maintain the [main datasets](https://github.com/pedroj/datasets),
 and specific ones, e.g., [FRUBASE](https://github.com/pedroj/FRUBASE), [network
 data](https://github.com/pedroj/datasets_networks) (now in maintenance), etc.
 Please read the README files for each repository.
-:::
-::::
+<!-- ::: -->
+<!-- :::: -->
 
------------------------------------------------------
+--------------------------------------------------------------------------------
 
 :::: dataset-row
 ![](static/images/datasets__files__stacks-image-fdcce92.jpg){fig-alt="The FRUBASE database"}
@@ -136,4 +136,4 @@ extinction of birds drives rapid evolutionary changes in seed size. *Science*,
 :::
 ::::
 
-------------------------------------------------------------------------
+--------------------------------------------------------------------------------

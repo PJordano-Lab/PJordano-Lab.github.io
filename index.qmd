@@ -33,12 +33,12 @@ fig-align="center"}
 
 • [More details →](pedro.qmd)
 
--------------------------------------------
+--------------------------------------------------------------------------------
 
 ::: research-chips
-Ecology • Conservation Biology • Complex networks • Ecological interactions •
-Biodiversity • Tropical ecology • Mutualisms • Plant-animal interactions •
-Dispersal and gene flow
+|  |  |
+|------------|--------------------------------------------------------------------|
+| ![](static/images/icons/22885.png) | Ecology • Conservation Biology • Complex networks • Ecological interactions • Biodiversity • Tropical ecology • Mutualisms • Plant-animal interactions • Dispersal and gene flow |
 :::
 
 ```{=html}
@@ -59,11 +59,9 @@ Dispersal and gene flow
 
 <hr class="section-divider">
 
-::: section-heading-row
 ## Recent Work  {.section-heading}
 
 [All publications →](research.qmd){.section-link}
-:::
 
 ::: {#articles}
 :::

@@ -1,0 +1,9 @@
+# Per-image metadata for the photo-gallery extension.
+# Uncomment and fill in as needed; EXIF supplies camera, lens,
+# ISO and capture date on its own.
+#
+# images:
+#   guadahornillos-001.jpg:
+#     title: "Species name"
+#     description: "Locality, notes"
+#     date: 2024-05-17

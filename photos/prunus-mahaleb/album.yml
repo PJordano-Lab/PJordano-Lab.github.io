@@ -1,9 +1,168 @@
 # Per-image metadata for the photo-gallery extension.
-# Uncomment and fill in as needed; EXIF supplies camera, lens,
-# ISO and capture date on its own.
-#
-# images:
-#   prunus-001.jpg:
-#     title: "Species name"
-#     description: "Locality, notes"
-#     date: 2024-05-17
+# Titles default to the album name; replace any with something
+# specific, and add `description:` or `date:` as needed.
+images:
+  "prunus-001.jpg":
+    title: "Prunus mahaleb"
+  "prunus-002.jpg":
+    title: "Prunus mahaleb"
+  "prunus-003.jpg":
+    title: "Prunus mahaleb"
+  "prunus-004.jpg":
+    title: "Prunus mahaleb"
+  "prunus-005.jpg":
+    title: "Prunus mahaleb"
+  "prunus-006.jpg":
+    title: "Prunus mahaleb"
+  "prunus-007.jpg":
+    title: "Prunus mahaleb"
+  "prunus-008.jpg":
+    title: "Prunus mahaleb"
+  "prunus-009.jpg":
+    title: "Prunus mahaleb"
+  "prunus-010.jpg":
+    title: "Prunus mahaleb"
+  "prunus-011.jpg":
+    title: "Prunus mahaleb"
+  "prunus-012.jpg":
+    title: "Prunus mahaleb"
+  "prunus-013.jpg":
+    title: "Prunus mahaleb"
+  "prunus-014.jpg":
+    title: "Prunus mahaleb"
+  "prunus-015.jpg":
+    title: "Prunus mahaleb"
+  "prunus-016.jpg":
+    title: "Prunus mahaleb"
+  "prunus-017.jpg":
+    title: "Prunus mahaleb"
+  "prunus-018.jpg":
+    title: "Prunus mahaleb"
+  "prunus-019.jpg":
+    title: "Prunus mahaleb"
+  "prunus-020.jpg":
+    title: "Prunus mahaleb"
+  "prunus-021.jpg":
+    title: "Prunus mahaleb"
+  "prunus-022.jpg":
+    title: "Prunus mahaleb"
+  "prunus-023.jpg":
+    title: "Prunus mahaleb"
+  "prunus-024.jpg":
+    title: "Prunus mahaleb"
+  "prunus-025.jpg":
+    title: "Prunus mahaleb"
+  "prunus-026.jpg":
+    title: "Prunus mahaleb"
+  "prunus-027.jpg":
+    title: "Prunus mahaleb"
+  "prunus-028.jpg":
+    title: "Prunus mahaleb"
+  "prunus-029.jpg":
+    title: "Prunus mahaleb"
+  "prunus-030.jpg":
+    title: "Prunus mahaleb"
+  "prunus-031.jpg":
+    title: "Prunus mahaleb"
+  "prunus-032.jpg":
+    title: "Prunus mahaleb"
+  "prunus-033.jpg":
+    title: "Prunus mahaleb"
+  "prunus-034.jpg":
+    title: "Prunus mahaleb"
+  "prunus-035.jpg":
+    title: "Prunus mahaleb"
+  "prunus-036.jpg":
+    title: "Prunus mahaleb"
+  "prunus-037.jpg":
+    title: "Prunus mahaleb"
+  "prunus-038.jpg":
+    title: "Prunus mahaleb"
+  "prunus-039.jpg":
+    title: "Prunus mahaleb"
+  "prunus-040.jpg":
+    title: "Prunus mahaleb"
+  "prunus-042.jpg":
+    title: "Prunus mahaleb"
+  "prunus-043.jpg":
+    title: "Prunus mahaleb"
+  "prunus-044.jpg":
+    title: "Prunus mahaleb"
+  "prunus-045.jpg":
+    title: "Prunus mahaleb"
+  "prunus-046.jpg":
+    title: "Prunus mahaleb"
+  "prunus-047.jpg":
+    title: "Prunus mahaleb"
+  "prunus-048.jpg":
+    title: "Prunus mahaleb"
+  "prunus-049.jpg":
+    title: "Prunus mahaleb"
+  "prunus-050.jpg":
+    title: "Prunus mahaleb"
+  "prunus-051.jpg":
+    title: "Prunus mahaleb"
+  "prunus-052.jpg":
+    title: "Prunus mahaleb"
+  "prunus-053.jpg":
+    title: "Prunus mahaleb"
+  "prunus-054.jpg":
+    title: "Prunus mahaleb"
+  "prunus-055.jpg":
+    title: "Prunus mahaleb"
+  "prunus-056.jpg":
+    title: "Prunus mahaleb"
+  "prunus-057.jpg":
+    title: "Prunus mahaleb"
+  "prunus-058.jpg":
+    title: "Prunus mahaleb"
+  "prunus-059.jpg":
+    title: "Prunus mahaleb"
+  "prunus-060.jpg":
+    title: "Prunus mahaleb"
+  "prunus-061.jpg":
+    title: "Prunus mahaleb"
+  "prunus-062.jpg":
+    title: "Prunus mahaleb"
+  "prunus-063.jpg":
+    title: "Prunus mahaleb"
+  "prunus-064.jpg":
+    title: "Prunus mahaleb"
+  "prunus-065.jpg":
+    title: "Prunus mahaleb"
+  "prunus-066.jpg":
+    title: "Prunus mahaleb"
+  "prunus-067.jpg":
+    title: "Prunus mahaleb"
+  "prunus-068.jpg":
+    title: "Prunus mahaleb"
+  "prunus-069.jpg":
+    title: "Prunus mahaleb"
+  "prunus-070.jpg":
+    title: "Prunus mahaleb"
+  "prunus-071.jpg":
+    title: "Prunus mahaleb"
+  "prunus-072.jpg":
+    title: "Prunus mahaleb"
+  "prunus-073.jpg":
+    title: "Prunus mahaleb"
+  "prunus-074.jpg":
+    title: "Prunus mahaleb"
+  "prunus-075.jpg":
+    title: "Prunus mahaleb"
+  "prunus-076.jpg":
+    title: "Prunus mahaleb"
+  "prunus-077.jpg":
+    title: "Prunus mahaleb"
+  "prunus-078.jpg":
+    title: "Prunus mahaleb"
+  "prunus-079.jpg":
+    title: "Prunus mahaleb"
+  "prunus-080.jpg":
+    title: "Prunus mahaleb"
+  "prunus-081.jpg":
+    title: "Prunus mahaleb"
+  "prunus-082.jpg":
+    title: "Prunus mahaleb"
+  "prunus-083.jpg":
+    title: "Prunus mahaleb"

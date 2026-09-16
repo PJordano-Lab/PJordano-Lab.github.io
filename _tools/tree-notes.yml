@@ -1,0 +1,31 @@
+# path: comment   (paths are relative to the tree's root)
+index.qmd: Home page
+pedro.qmd: Bio and profile (two-column layout)
+research.qmd: Publications listing (R chunks, freeze on)
+people.qmd: Lab members
+datasets.qmd: Published datasets
+resources.qmd: Software, tutorials, links
+gallery.qmd: Photo galleries (photo-gallery extension)
+projects.qmd: Projects overview
+teaching.qmd: Courses
+media.qmd: Press and outreach
+papers-figures.qmd: Figures from papers
+_quarto.yml: Quarto config - navbar, theme, output dir
+_bibliography: BibTeX list used by the article pages
+_exclude_works.yml: OpenAlex IDs misattributed to another P. Jordano
+_extensions: Installed Quarto extensions (photo-gallery)
+_tools: Build and maintenance scripts
+_archive: Superseded Jekyll/Hugo sources
+content: Legacy Hugo markdown (source for the converter)
+data: publications.csv and scholar_stats.yml
+files: Includes, e.g. the dark-mode toggle
+html: pedroj.scss - the live theme
+photos: Gallery albums, one folder per group
+research/articles: Individual article pages (generated)
+research/working-papers: Preprint pages with Oikos citations
+static: Images and PDFs served as-is
+open-alex.py: Fetches publications from OpenAlex
+fetch-scholar-stats.py: Google Scholar citation stats
+save_pubs.R: Generates article pages from publications.csv
+styles.css: Not referenced by _quarto.yml - has no effect
+CNAME: Custom domain for GitHub Pages

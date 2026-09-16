@@ -1,0 +1,48 @@
+# Per-image metadata for the photo-gallery extension.
+# Titles default to the album name; replace any with something
+# specific, and add `description:` or `date:` as needed.
+images:
+  "alcornocales-001.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-002.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-003.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-004.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-005.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-006.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-007.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-008.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-009.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-010.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-011.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-012.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-013.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-014.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-016.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-017.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-018.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-019.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-020.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-021.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-022.jpg":
+    title: "Los Alcornocales"
+  "alcornocales-023.jpg":
+    title: "Los Alcornocales"

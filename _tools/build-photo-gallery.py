@@ -53,11 +53,22 @@ GROUPS = [
     ("prunus-mahaleb", "Prunus mahaleb", [
         ("galleries/prunus/pictures", "prunus"),
     ]),
-    ("study-sites", "Study sites", [
+    # Study sites is a CONTAINER: the photos live in one album per locality,
+    # because the extension reads a single flat folder per gallery. Each entry
+    # below carries the parent slug in the 4th field, which puts it inside the
+    # Study sites tab as its own sub-gallery.
+    ("study-sites", "Study sites", [], None),
+    ("study-sites/alcornocales", "Los Alcornocales", [
         ("newgalleries/sites/alcornocales/pictures", "alcornocales"),
+    ], "study-sites"),
+    ("study-sites/correhuelas", "Las Correhuelas", [
         ("newgalleries/sites/correhuelas/pictures", "correhuelas"),
+    ], "study-sites"),
+    ("study-sites/guadahornillos", "Nava de las Correhuelas / Guadahornillos", [
         ("newgalleries/sites/guadahornillos/pictures", "guadahornillos"),
-    ]),
+    ], "study-sites"),
+    ("study-sites/donana", "Doñana", [], "study-sites"),
+    ("study-sites/canarias", "Islas Canarias", [], "study-sites"),
     ("networks", "Networks", [
         ("newgalleries/networks/pictures", "networks"),
     ]),
@@ -293,7 +304,9 @@ def build(dry_run=False, out_root=None):
     qmd_caps = gallery_qmd_captions()
     summary = []
 
-    for slug, title, sources in GROUPS:
+    for entry in GROUPS:
+        slug, title, sources = entry[0], entry[1], entry[2]
+        parent = entry[3] if len(entry) > 3 else None
         dest = PHOTOS / slug
         if not dry_run:
             dest.mkdir(parents=True, exist_ok=True)
@@ -360,7 +373,64 @@ def build(dry_run=False, out_root=None):
                 "# provides, and `date: YYYY-MM-DD` overrides the capture date.\n"
                 + dump_album(album),
                 encoding="utf-8")
-        summary.append((slug, title, n, captioned, repaired))
+        summary.append((slug, title, n, captioned, repaired, parent))
+    return summary
+
+
+def seed_folder_titles():
+    """Title every uncaptioned photo with its album's display name.
+
+    The extension falls back to the bare filename when album.yml has no title,
+    which reads badly on the field-site albums (none of those exports carried
+    captions). New entries are APPENDED: captions harvested from the exports
+    are never touched, and neither is any title edited by hand.
+    """
+    for entry in GROUPS:
+        slug, title = entry[0], entry[1]
+        d = PHOTOS / slug
+        if not d.is_dir():
+            continue
+        imgs = sorted(p.name for p in d.iterdir()
+                      if p.is_file() and p.suffix.lower() in EXT)
+        if not imgs:
+            continue
+        album = d / "album.yml"
+        existing = album.read_text(encoding="utf-8") if album.exists() else ""
+        have = set(re.findall(r'^\s{2}"?([^"\n:]+\.[a-zA-Z]+)"?:', existing, re.M))
+        new = [n for n in imgs if n not in have]
+        if not new:
+            continue
+        block = "".join(f'  {yaml_quote(n)}:\n    title: {yaml_quote(title)}\n' for n in new)
+        if re.search(r'^images:\s*$', existing, re.M):
+            album.write_text(existing.rstrip("\n") + "\n" + block, encoding="utf-8")
+        else:
+            album.write_text(
+                "# Per-image metadata for the photo-gallery extension.\n"
+                "# Titles default to the album name; replace any with something\n"
+                "# specific, and add `description:` or `date:` as needed.\n"
+                "images:\n" + block, encoding="utf-8")
+        print(f"  titled {len(new):>3} photos in {slug}")
+
+
+def survey():
+    """Summarise photos/ as it stands on disk, without copying anything.
+
+    Used after the tree has been rearranged by hand: the page is rebuilt to
+    match reality instead of the GROUPS source table.
+    """
+    summary = []
+    for entry in GROUPS:
+        slug, title, sources = entry[0], entry[1], entry[2]
+        parent = entry[3] if len(entry) > 3 else None
+        d = PHOTOS / slug
+        imgs = ([p for p in d.iterdir()
+                 if p.is_file() and p.suffix.lower() in EXT] if d.is_dir() else [])
+        album = d / "album.yml"
+        captioned = 0
+        if album.exists():
+            captioned = sum(1 for line in album.read_text(encoding="utf-8").split("\n")
+                            if line.startswith("    title:"))
+        summary.append((slug, title, len(imgs), captioned, 0, parent))
     return summary
 
 
@@ -397,10 +467,16 @@ def write_page(summary, dry_run=False):
         "::: {.panel-tabset}",
         "",
     ]
-    for slug, title, n, *_ in summary:
-        out += [f"## {title}", ""]
+    for slug, title, n, captioned, repaired, parent in summary:
+        if parent is None:
+            out += [f"## {title}", ""]
+        else:
+            out += [f"### {title}", ""]
         if n:
-            out += [f"{{{{< photo-gallery photos/{slug} id={slug} >}}}}", ""]
+            out += [f"{{{{< photo-gallery photos/{slug} id={slug.replace('/', '-')} >}}}}", ""]
+        elif any(p == slug for *_, p in summary):
+            # container heading: its sub-galleries follow
+            continue
         else:
             out += [
                 "Photographs for this gallery are not online yet. Drop JPEGs into",
@@ -415,16 +491,31 @@ def write_page(summary, dry_run=False):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--titles-from-folder", action="store_true",
+                    help="for albums whose photos have no caption, write album.yml "
+                         "titles from the album's display name, so tiles read "
+                         "'Los Alcornocales' instead of 'alcornocales-001.jpg'")
+    ap.add_argument("--page-only", action="store_true",
+                    help="rewrite gallery.qmd from what is on disk, copying nothing "
+                         "(use after rearranging photos/ by hand)")
     ap.add_argument("--out", help="write the tree here instead of photos/ "
                                   "(use a non-iCloud path to avoid sync-conflict copies, "
                                   "then move it into place in one pass)")
     args = ap.parse_args()
 
-    summary = build(args.dry_run, args.out)
-    for slug, title, n, captioned, repaired in summary:
+    if args.titles_from_folder:
+        seed_folder_titles()
+    if args.page_only:
+        summary = survey()
+    else:
+        summary = build(args.dry_run, args.out)
+    for slug, title, n, captioned, repaired, parent in summary:
+        if not n and any(p == slug for *_, p in summary):
+            print(f"  {title:<18} photos/{slug:<28} container")
+            continue
         state = (f"{n:>3} photos, {captioned:>3} captioned, {repaired:>3} EXIF repaired"
                  if n else "no photos yet")
-        print(f"  {title:<18} photos/{slug:<17} {state}")
+        print(f"  {'  ' + title if parent else title:<18} photos/{slug:<28} {state}")
     write_page(summary, args.dry_run)
     total = sum(s[2] for s in summary)
     print(f"\ngroups: {len(summary)} | images: {total} | "
