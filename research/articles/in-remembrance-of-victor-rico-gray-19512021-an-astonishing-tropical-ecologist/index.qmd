@@ -4,6 +4,7 @@ authors: "Wesley Dáttilo, Juan Carlos Serio‐Silva, John N. Thompson et al."
 date: '2021-06-26'
 pub-journal: "Biotropica"
 volume-pages: "Vol. 53: 1238–1243"
+citation-detail: "2021, 53: 1238–1243"
 pages: "1238–1243"
 volume: "53"
 year: "2021"

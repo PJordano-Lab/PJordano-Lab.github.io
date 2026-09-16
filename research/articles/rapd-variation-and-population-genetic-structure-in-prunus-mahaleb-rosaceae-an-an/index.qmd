@@ -4,6 +4,7 @@ authors: "Pedro Jordano, José A. Godoy"
 date: '2000-09-01'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 9: 1293–1305"
+citation-detail: "2000, 9: 1293–1305"
 pages: "1293–1305"
 volume: "9"
 year: "2000"

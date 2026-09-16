@@ -4,6 +4,7 @@ authors: "Marco A. R. Mello, Natália Oliveira Leiner, Paulo R. Guimarães et al
 date: '2005-06-01'
 pub-journal: "Acta Chiropterologica"
 volume-pages: "Vol. 7: 179–182"
+citation-detail: "2005, 7: 179–182"
 pages: "179–182"
 volume: "7"
 year: "2005"

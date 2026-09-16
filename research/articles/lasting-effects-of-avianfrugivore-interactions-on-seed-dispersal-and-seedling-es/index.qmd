@@ -4,6 +4,7 @@ authors: "Elena Quintero, Juan Arroyo, Rodolfo Dirzo et al."
 date: '2024-01-21'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 112: 656–672"
+citation-detail: "2024, 112: 656–672"
 pages: "656–672"
 volume: "112"
 year: "2024"

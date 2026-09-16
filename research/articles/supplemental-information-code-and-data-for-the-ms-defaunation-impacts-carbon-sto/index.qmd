@@ -3,6 +3,7 @@ title: "Supplemental Information, Code, And Data For The Ms: Defaunation Impacts
 authors: "Carolina Bello, Mauro Galetti, Marco A. Pizo et al."
 date: '2015-10-06'
 pub-journal: "Zenodo (CERN European Organization for Nuclear Research)"
+citation-detail: "2015"
 year: "2015"
 doi: 10.5281/zenodo.31880
 citation-url: https://doi.org/10.5281/zenodo.31880

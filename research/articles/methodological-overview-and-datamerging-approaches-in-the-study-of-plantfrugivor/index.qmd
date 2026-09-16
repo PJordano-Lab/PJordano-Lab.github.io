@@ -4,6 +4,7 @@ authors: "Elena Quintero, Jorge Isla, Pedro Jordano"
 date: '2021-07-05'
 pub-journal: "Oikos"
 volume-pages: "Vol. 2022: oik.08379"
+citation-detail: "2022, 2022: oik.08379"
 pages: "oik.08379"
 volume: "2022"
 year: "2022"

@@ -4,6 +4,7 @@ authors: "Juan Luis García‐Castaño, Johannes Kollmann, Pedro Jordano"
 date: '2006-09-01'
 pub-journal: "Seed Science Research"
 volume-pages: "Vol. 16: 213–222"
+citation-detail: "2006, 16: 213–222"
 pages: "213–222"
 volume: "16"
 year: "2006"

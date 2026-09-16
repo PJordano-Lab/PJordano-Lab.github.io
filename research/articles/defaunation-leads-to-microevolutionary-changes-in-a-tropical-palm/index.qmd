@@ -4,6 +4,7 @@ authors: "Carolina da Silva Carvalho, Mauro Galetti, R Colevatti et al."
 date: '2016-08-18'
 pub-journal: "Scientific Reports"
 volume-pages: "Vol. 6: 31957"
+citation-detail: "2016, 6: 31957"
 pages: "31957"
 volume: "6"
 year: "2016"

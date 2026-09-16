@@ -4,6 +4,7 @@ authors: "Elena Quintero, Marco Aurélio Pizo, Pedro Jordano"
 date: '2020-01-08'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 108: 1358–1372"
+citation-detail: "2020, 108: 1358–1372"
 pages: "1358–1372"
 volume: "108"
 year: "2020"

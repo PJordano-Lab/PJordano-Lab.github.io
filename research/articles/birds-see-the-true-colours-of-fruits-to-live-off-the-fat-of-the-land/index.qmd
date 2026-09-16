@@ -4,6 +4,7 @@ authors: "H. Martin Schaefer, Alfredo Valido, Pedro Jordano"
 date: '2014-01-08'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
 volume-pages: "Vol. 281: 20132516"
+citation-detail: "2014, 281: 20132516–20132516"
 pages: "20132516–20132516"
 volume: "281"
 year: "2014"

@@ -3,6 +3,7 @@ title: "Assessing short- and long-term variations in diversity, timing, and body
 authors: "María Campo‐Celada, Irene Mendoza, Ana Benítez‐López et al."
 date: '2020-10-27'
 pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+citation-detail: "2020"
 year: "2020"
 doi: 10.1101/2020.10.27.356709
 citation-url: https://doi.org/10.1101/2020.10.27.356709

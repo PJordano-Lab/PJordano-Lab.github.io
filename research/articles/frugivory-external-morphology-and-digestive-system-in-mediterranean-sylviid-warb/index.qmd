@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1987-01-01'
 pub-journal: "Ibis"
 volume-pages: "Vol. 129: 175–189"
+citation-detail: "1987, 129: 175–189"
 pages: "175–189"
 volume: "129"
 year: "1987"

@@ -4,6 +4,7 @@ authors: "Jofre Carnicer, Pedro Jordano, Carlos J. Melián"
 date: '2009-07-01'
 pub-journal: "Ecology"
 volume-pages: "Vol. 90: 1958–1970"
+citation-detail: "2009, 90: 1958–1970"
 pages: "1958–1970"
 volume: "90"
 year: "2009"

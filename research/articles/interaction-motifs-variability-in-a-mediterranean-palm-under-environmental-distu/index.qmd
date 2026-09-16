@@ -4,6 +4,7 @@ authors: "Miguel E. Jácome‐Flores, Pedro Jordano, Miguel Delibes et al."
 date: '2019-11-21'
 pub-journal: "Oikos"
 volume-pages: "Vol. 129: 367–379"
+citation-detail: "2020, 129: 367–379"
 pages: "367–379"
 volume: "129"
 year: "2020"

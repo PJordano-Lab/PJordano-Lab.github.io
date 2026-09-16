@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2010-03-24'
 pub-journal: "Heredity"
 volume-pages: "Vol. 105: 329–330"
+citation-detail: "2010, 105: 329–330"
 pages: "329–330"
 volume: "105"
 year: "2010"

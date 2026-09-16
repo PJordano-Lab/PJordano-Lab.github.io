@@ -4,6 +4,7 @@ authors: "Mauro Galetti, Marcos Moleón, Pedro Jordano et al."
 date: '2017-10-09'
 pub-journal: "Biological reviews/Biological reviews of the Cambridge Philosophical Society"
 volume-pages: "Vol. 93: 845–862"
+citation-detail: "2018, 93: 845–862"
 pages: "845–862"
 volume: "93"
 year: "2018"

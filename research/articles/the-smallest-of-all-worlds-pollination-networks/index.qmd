@@ -4,6 +4,7 @@ authors: "Jens M. Olesen, Jordi Bascompte, Yoko Luise Dupont et al."
 date: '2005-11-08'
 pub-journal: "Journal of Theoretical Biology"
 volume-pages: "Vol. 240: 270–276"
+citation-detail: "2006, 240: 270–276"
 pages: "270–276"
 volume: "240"
 year: "2006"

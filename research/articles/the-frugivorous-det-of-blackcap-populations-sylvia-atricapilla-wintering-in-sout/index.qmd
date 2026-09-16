@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Carlos M. Herrera"
 date: '1981-10-01'
 pub-journal: "Ibis"
 volume-pages: "Vol. 123: 502–507"
+citation-detail: "1981, 123: 502–507"
 pages: "502–507"
 volume: "123"
 year: "1981"

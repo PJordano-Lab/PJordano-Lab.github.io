@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1995-12-01'
 pub-journal: "Ecology"
 volume-pages: "Vol. 76: 2627"
+citation-detail: "1995, 76: 2627–2627"
 pages: "2627–2627"
 volume: "76"
 year: "1995"

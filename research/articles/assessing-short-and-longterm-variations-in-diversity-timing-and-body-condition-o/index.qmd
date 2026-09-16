@@ -4,6 +4,7 @@ authors: "María Campo‐Celada, Pedro Jordano, Ana Benítez‐López et al."
 date: '2022-01-03'
 pub-journal: "Oikos"
 volume-pages: "Vol. 2022: oik.08387"
+citation-detail: "2022, 2022: oik.08387"
 pages: "oik.08387"
 volume: "2022"
 year: "2022"

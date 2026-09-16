@@ -4,6 +4,7 @@ authors: "Lisieux Fuzessy, Gisela Sobral, Daiane Carreira et al."
 date: '2022-01-30'
 pub-journal: "Biotropica"
 volume-pages: "Vol. 54: 444–454"
+citation-detail: "2022, 54: 444–454"
 pages: "444–454"
 volume: "54"
 year: "2022"

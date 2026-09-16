@@ -4,6 +4,7 @@ authors: "María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido"
 date: '2017-01-30'
 pub-journal: "Ecology"
 volume-pages: "Vol. 98: 1266–1276"
+citation-detail: "2017, 98: 1266–1276"
 pages: "1266–1276"
 volume: "98"
 year: "2017"

@@ -3,6 +3,7 @@ title: "Individual variation in the booming calls of captive Horned Guans (Oreop
 authors: "Fernando González‐García, J. Roberto Sosa‐López, Juan Francisco Ornelas et al."
 date: '2016-09-20'
 pub-journal: "Bioacoustics"
+citation-detail: "2016"
 year: "2016"
 doi: 10.1080/09524622.2016.1233513
 citation-url: https://doi.org/10.1080/09524622.2016.1233513

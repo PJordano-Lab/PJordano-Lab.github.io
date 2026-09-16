@@ -3,6 +3,7 @@ title: 'Author response for "The ecological and evolutionary significance of eff
 authors: "José M. Gómez, Eugene W. Schupp, Pedro Jordano"
 date: '2021-10-11'
 pub-journal: ""
+citation-detail: "2021"
 year: "2021"
 doi: 10.1111/ele.13939/v2/response1
 citation-url: https://doi.org/10.1111/ele.13939/v2/response1

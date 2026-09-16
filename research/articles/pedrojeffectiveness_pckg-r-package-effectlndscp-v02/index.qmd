@@ -3,6 +3,7 @@ title: "pedroj/effectiveness_pckg: R package: effect.lndscp v.0.2"
 authors: "Pedro Jordano, Francisco Rodríguez‐Sánchez"
 date: '2017-03-11'
 pub-journal: "Zenodo (CERN European Organization for Nuclear Research)"
+citation-detail: "2017"
 year: "2017"
 doi: 10.5281/zenodo.376763
 citation-url: https://doi.org/10.5281/zenodo.376763

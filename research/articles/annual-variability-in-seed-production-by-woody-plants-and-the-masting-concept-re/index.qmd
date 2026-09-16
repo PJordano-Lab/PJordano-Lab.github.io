@@ -4,6 +4,7 @@ authors: "Carlos M. Herrera, Pedro Jordano, Javier Guitián et al."
 date: '1998-10-01'
 pub-journal: "The American Naturalist"
 volume-pages: "Vol. 152: 576–594"
+citation-detail: "1998, 152: 576–594"
 pages: "576–594"
 volume: "152"
 year: "1998"

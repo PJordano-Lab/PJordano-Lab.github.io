@@ -4,6 +4,7 @@ authors: "Alfredo Valido, María C. Rodríguez‐Rodríguez, Pedro Jordano"
 date: '2019-03-18'
 pub-journal: "Scientific Reports"
 volume-pages: "Vol. 9: 4711"
+citation-detail: "2019, 9: 4711"
 pages: "4711"
 volume: "9"
 year: "2019"

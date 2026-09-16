@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1984-07-01'
 pub-journal: "Oikos"
 volume-pages: "Vol. 43: 149–153"
+citation-detail: "1984, 43: 149–153"
 pages: "149–153"
 volume: "43"
 year: "1984"

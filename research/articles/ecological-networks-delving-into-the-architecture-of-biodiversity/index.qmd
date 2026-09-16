@@ -4,6 +4,7 @@ authors: "Rúben Heleno, Cristina García, Pedro Jordano et al."
 date: '2014-01-01'
 pub-journal: "Biology Letters"
 volume-pages: "Vol. 10: 20131000"
+citation-detail: "2014, 10: 20131000"
 pages: "20131000"
 volume: "10"
 year: "2014"

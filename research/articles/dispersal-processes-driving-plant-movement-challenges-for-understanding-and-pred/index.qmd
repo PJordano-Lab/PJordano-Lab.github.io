@@ -4,6 +4,7 @@ authors: "Cristina García, Etienne K. Klein, Pedro Jordano"
 date: '2016-12-16'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 105: 1–5"
+citation-detail: "2017, 105: 1–5"
 pages: "1–5"
 volume: "105"
 year: "2017"

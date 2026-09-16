@@ -4,6 +4,7 @@ authors: "Juan Arroyo, José S. Carrión, Arndt Hampe et al."
 date: '2004-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "pp. 27–68"
+citation-detail: "2004, 27–68"
 pages: "27–68"
 year: "2004"
 format:

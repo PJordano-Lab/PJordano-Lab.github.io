@@ -4,6 +4,7 @@ authors: "Javier Valverde, Carolina da Silva Carvalho, Pedro Jordano et al."
 date: '2020-10-25'
 pub-journal: "Biotropica"
 volume-pages: "Vol. 53: 286–295"
+citation-detail: "2021, 53: 286–295"
 pages: "286–295"
 volume: "53"
 year: "2021"

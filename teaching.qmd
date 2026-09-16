@@ -4,6 +4,8 @@ description: "Courses, workshops and teaching materials."
 title-block-banner: "#1a1c20"
 ---
 
+![](static/images/banners/banner2.jpg){fig-align="center"}
+
 #### Upcoming Talks
 
 Talk: Upcoming.
@@ -12,22 +14,21 @@ Talk: Upcoming.
 
 ### Courses
 
-![](static/images/icons/bullet_pp.png)
-  [Master en Biodiversidad y Biología de la
+![](static/images/icons/bullet_pp.png)   [Master en Biodiversidad y Biología de
+la
 Conservación.](https://biologia.us.es/es/estudios/master-universitario-en-biologia-avanzada-investigacion-y-aplicacion)
 Universidad de Sevilla, Sevilla, 2025-2026.
 
-![](static/images/icons/bullet_pp.png)   [Master en
-Biodiversidad y Biología de la
+![](static/images/icons/bullet_pp.png)   [Master en Biodiversidad y Biología de
+la
 Conservación.](http://www.upo.es/postgrado/Master-Oficial-Biodiversidad-y-Biologia-de-la-Conservacion)
 13ª edición. Universidad Pablo de Olavide, Sevilla, 2024-2025.
 
-![](static/images/icons/bullet_pp.png)  [16th Latin
-American Course on Frugivory and Seed Dispersal September
+![](static/images/icons/bullet_pp.png)  [16th Latin American Course on Frugivory
+and Seed Dispersal September
 2027](http://www.rc.unesp.br/ib/ecologia/eco2011/cursofrugivoria/index.php).
 
-![](static/images/icons/bullet_pp.png) 
-[Curso de Posgraduação em Ecologia e
+![](static/images/icons/bullet_pp.png)  [Curso de Posgraduação em Ecologia e
 Biodiversidade](http://www.rc.unesp.br/ib/ecologia/posbiodiversidade/index.php).
 A recently launched PhD course at UNESP, Brazil, where PJ participates as
 professor. Started August, 2013.
@@ -36,19 +37,17 @@ professor. Started August, 2013.
 “Ecologia dos mutualismos animal-planta”, August 2013.\
 “Frugivoria e dispersão de sementes-Introdução”, December 2013.
 
-![](static/images/icons/bullet_pp.png) 
-Curso “Análisis estadístico con R”. Estación Biológica de Doñana, CSIC. Sevilla,
-Julio 2011.
+![](static/images/icons/bullet_pp.png)  Curso “Análisis estadístico con R”.
+Estación Biológica de Doñana, CSIC. Sevilla, Julio 2011.
 
-![](static/images/icons/bullet_pp.png) 
-[Plant Ecology and Evolution](#0) Seminars 1994-2007 (Titles and abstracts)
+![](static/images/icons/bullet_pp.png)  [Plant Ecology and Evolution](#0)
+Seminars 1994-2007 (Titles and abstracts)
 
-![](static/images/icons/bullet_pp.png) 
-[Biogeografía y evolución](http://ebd10.ebd.csic.es/evol/cursobioevo.html)
-2001-2005
+![](static/images/icons/bullet_pp.png)  [Biogeografía y
+evolución](http://ebd10.ebd.csic.es/evol/cursobioevo.html) 2001-2005
 
-![](static/images/icons/bullet_pp.png) 
-[Téc. moleculares en ecología](http://ebd10.ebd.csic.es/evol/tecmol.html)
+![](static/images/icons/bullet_pp.png)  [Téc. moleculares en
+ecología](http://ebd10.ebd.csic.es/evol/tecmol.html)
 
 --------------------------------------------------------------------------------
 

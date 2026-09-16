@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1989-07-01'
 pub-journal: "Oikos"
 volume-pages: "Vol. 55: 375–386"
+citation-detail: "1989, 55: 375–386"
 pages: "375–386"
 volume: "55"
 year: "1989"

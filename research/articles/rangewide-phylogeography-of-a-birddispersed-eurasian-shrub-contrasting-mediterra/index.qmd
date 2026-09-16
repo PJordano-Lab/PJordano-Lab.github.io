@@ -4,6 +4,7 @@ authors: "Arndt Hampe, Juan Arroyo, Pedro Jordano et al."
 date: '2003-10-28'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 12: 3415–3426"
+citation-detail: "2003, 12: 3415–3426"
 pages: "3415–3426"
 volume: "12"
 year: "2003"

@@ -4,6 +4,7 @@ authors: "Jérôme Duminil, Silvia Fineschi, Arndt Hampe et al."
 date: '2007-04-06'
 pub-journal: "The American Naturalist"
 volume-pages: "Vol. 169: 662–672"
+citation-detail: "2007, 169: 662–672"
 pages: "662–672"
 volume: "169"
 year: "2007"

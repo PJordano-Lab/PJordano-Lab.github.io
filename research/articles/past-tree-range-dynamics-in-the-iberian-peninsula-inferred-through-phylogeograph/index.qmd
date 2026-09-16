@@ -4,6 +4,7 @@ authors: "Francisco Rodríguez‐Sánchez, Arndt Hampe, Pedro Jordano et al."
 date: '2010-04-17'
 pub-journal: "Review of Palaeobotany and Palynology"
 volume-pages: "Vol. 162: 507–521"
+citation-detail: "2010, 162: 507–521"
 pages: "507–521"
 volume: "162"
 year: "2010"

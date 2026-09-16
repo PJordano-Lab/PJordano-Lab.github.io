@@ -4,6 +4,7 @@ authors: "Carlos M. Herrera, Pedro Jordano"
 date: '1981-06-01'
 pub-journal: "Ecological Monographs"
 volume-pages: "Vol. 51: 203–218"
+citation-detail: "1981, 51: 203–218"
 pages: "203–218"
 volume: "51"
 year: "1981"

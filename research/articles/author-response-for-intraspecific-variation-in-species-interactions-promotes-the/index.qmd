@@ -3,6 +3,7 @@ title: 'Author response for "Intraspecific variation in species interactions pro
 authors: "Blanca Arroyo‐Correa, Pedro Jordano, Ígnasi Bartomeus"
 date: '2022-11-16'
 pub-journal: ""
+citation-detail: "2022"
 year: "2022"
 doi: 10.1111/ele.14163/v2/response1
 citation-url: https://doi.org/10.1111/ele.14163/v2/response1

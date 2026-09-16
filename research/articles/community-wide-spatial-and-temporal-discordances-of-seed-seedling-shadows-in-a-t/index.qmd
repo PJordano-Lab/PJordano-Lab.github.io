@@ -4,6 +4,7 @@ authors: "Débora Cristina Rother, Marco Aurélio Pizo, Tadeu Siqueira et al."
 date: '2015-04-09'
 pub-journal: "PLoS ONE"
 volume-pages: "Vol. 10: e0123346"
+citation-detail: "2015, 10: e0123346"
 pages: "e0123346"
 volume: "10"
 year: "2015"

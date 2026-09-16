@@ -4,6 +4,7 @@ authors: "Jorge Isla, Miguel E. Jácome‐Flores, Juan Arroyo et al."
 date: '2023-05-24'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
 volume-pages: "Vol. 290: 20222547"
+citation-detail: "2023, 290: 20222547"
 pages: "20222547"
 volume: "290"
 year: "2023"

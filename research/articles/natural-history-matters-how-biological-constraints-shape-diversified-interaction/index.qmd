@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2016-10-19'
 pub-journal: "Journal of Animal Ecology"
 volume-pages: "Vol. 85: 1423–1426"
+citation-detail: "2016, 85: 1423–1426"
 pages: "1423–1426"
 volume: "85"
 year: "2016"

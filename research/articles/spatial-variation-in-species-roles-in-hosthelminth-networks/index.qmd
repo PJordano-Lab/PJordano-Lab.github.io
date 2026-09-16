@@ -4,6 +4,7 @@ authors: "Tad Dallas, Pedro Jordano"
 date: '2021-09-20'
 pub-journal: "Philosophical Transactions of the Royal Society B Biological Sciences"
 volume-pages: "Vol. 376: 20200361"
+citation-detail: "2021, 376: 20200361"
 pages: "20200361"
 volume: "376"
 year: "2021"

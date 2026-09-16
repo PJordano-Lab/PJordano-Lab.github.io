@@ -4,6 +4,7 @@ authors: "Diego P. Vázquez, William F. Morris, Pedro Jordano"
 date: '2005-09-08'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 8: 1088–1094"
+citation-detail: "2005, 8: 1088–1094"
 pages: "1088–1094"
 volume: "8"
 year: "2005"

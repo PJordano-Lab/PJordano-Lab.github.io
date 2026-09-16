@@ -4,6 +4,7 @@ authors: "Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al."
 date: '2024-02-19'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 112: 1013–1025"
+citation-detail: "2024, 112: 1013–1025"
 pages: "1013–1025"
 volume: "112"
 year: "2024"

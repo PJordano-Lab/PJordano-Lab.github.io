@@ -4,6 +4,7 @@ authors: "Eugene W. Schupp, Pedro Jordano, José M. Gómez"
 date: '2017-03-28'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 20: 577–590"
+citation-detail: "2017, 20: 577–590"
 pages: "577–590"
 volume: "20"
 year: "2017"

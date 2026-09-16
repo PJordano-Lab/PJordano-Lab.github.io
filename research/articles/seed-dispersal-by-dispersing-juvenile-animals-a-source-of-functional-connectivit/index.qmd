@@ -4,6 +4,7 @@ authors: "Juan P. González‐Varo, Sarah Díaz-García, Juan Arroyo et al."
 date: '2019-07-01'
 pub-journal: "Biology Letters"
 volume-pages: "Vol. 15: 20190264"
+citation-detail: "2019, 15: 20190264"
 pages: "20190264"
 volume: "15"
 year: "2019"

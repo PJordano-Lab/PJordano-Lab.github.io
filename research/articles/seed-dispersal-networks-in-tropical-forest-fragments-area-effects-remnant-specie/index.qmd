@@ -4,6 +4,7 @@ authors: "Carine Emer, Pedro Jordano, Marco Aurélio Pizo et al."
 date: '2019-12-16'
 pub-journal: "Biotropica"
 volume-pages: "Vol. 52: 81–89"
+citation-detail: "2020, 52: 81–89"
 pages: "81–89"
 volume: "52"
 year: "2020"

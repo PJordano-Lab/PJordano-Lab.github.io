@@ -3,6 +3,7 @@ title: "Fig-seed predation and dispersal by birds [Ficus cotinifolia]."
 authors: "Pedro Jordano"
 date: '1983-01-01'
 pub-journal: "Biotropica"
+citation-detail: "1983"
 year: "1983"
 format:
   html:

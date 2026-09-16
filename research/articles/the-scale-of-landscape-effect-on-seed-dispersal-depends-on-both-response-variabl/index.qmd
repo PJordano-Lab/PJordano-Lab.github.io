@@ -4,6 +4,7 @@ authors: "Miriam San‐José, Víctor Arroyo‐Rodríguez, Pedro Jordano et al."
 date: '2019-04-30'
 pub-journal: "Landscape Ecology"
 volume-pages: "Vol. 34: 1069–1080"
+citation-detail: "2019, 34: 1069–1080"
 pages: "1069–1080"
 volume: "34"
 year: "2019"

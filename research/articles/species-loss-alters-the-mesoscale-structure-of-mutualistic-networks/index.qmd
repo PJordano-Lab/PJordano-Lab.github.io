@@ -4,6 +4,7 @@ authors: "M. Florencia Miguel, Pedro Jordano, Laura A. Burkle et al."
 date: '2026-05-22'
 pub-journal: "Journal of Animal Ecology"
 volume-pages: "Vol. 95: 1235–1247"
+citation-detail: "2026, 95: 1235–1247"
 pages: "1235–1247"
 volume: "95"
 year: "2026"

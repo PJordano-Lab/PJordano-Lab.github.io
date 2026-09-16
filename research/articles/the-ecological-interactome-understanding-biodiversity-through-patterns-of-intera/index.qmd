@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2026-06-22'
 pub-journal: "Annual Review of Ecology Evolution and Systematics"
 volume-pages: "Vol. 57: 51–76"
+citation-detail: "2026, 57: 51–76"
 pages: "51–76"
 volume: "57"
 year: "2026"

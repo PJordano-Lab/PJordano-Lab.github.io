@@ -4,6 +4,7 @@ authors: "Jens M. Olesen, Jordi Bascompte, Yoko Luise Dupont et al."
 date: '2010-09-15'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
 volume-pages: "Vol. 278: 725–732"
+citation-detail: "2011, 278: 725–732"
 pages: "725–732"
 volume: "278"
 year: "2011"

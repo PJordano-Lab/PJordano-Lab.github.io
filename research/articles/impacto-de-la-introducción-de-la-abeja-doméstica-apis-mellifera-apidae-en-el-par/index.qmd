@@ -4,6 +4,7 @@ authors: "A. Valido, M.C. Rodríguez-Rodríguez, Pedro Jordano"
 date: '2014-01-01'
 pub-journal: "DOAJ (DOAJ: Directory of Open Access Journals)"
 volume-pages: "Vol. 23: 58–59"
+citation-detail: "2014, 23: 58–59"
 pages: "58–59"
 volume: "23"
 year: "2014"

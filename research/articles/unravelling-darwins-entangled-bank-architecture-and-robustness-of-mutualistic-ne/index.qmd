@@ -4,6 +4,7 @@ authors: "Wesley Dáttilo, Nubia Zoe Lara-Rodríguez, Pedro Jordano et al."
 date: '2016-11-24'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
 volume-pages: "Vol. 283: 20161564"
+citation-detail: "2016, 283: 20161564"
 pages: "20161564"
 volume: "283"
 year: "2016"

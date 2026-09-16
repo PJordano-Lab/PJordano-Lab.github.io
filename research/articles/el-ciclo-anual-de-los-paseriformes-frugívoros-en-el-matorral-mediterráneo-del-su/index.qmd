@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1985-06-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "Vol. 32: 69–94"
+citation-detail: "1985, 32: 69–94"
 pages: "69–94"
 volume: "32"
 year: "1985"

@@ -4,6 +4,7 @@ authors: "Thomas M. Lewinsohn, Paulo Inácio Prado, Pedro Jordano et al."
 date: '2006-02-17'
 pub-journal: "Oikos"
 volume-pages: "Vol. 113: 174–184"
+citation-detail: "2006, 113: 174–184"
 pages: "174–184"
 volume: "113"
 year: "2006"

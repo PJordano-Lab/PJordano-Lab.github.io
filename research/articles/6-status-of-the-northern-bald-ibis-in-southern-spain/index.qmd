@@ -3,6 +3,7 @@ title: "6. Status of the Northern Bald Ibis in southern Spain"
 authors: "Pedro Jordano"
 date: '2013-07-10'
 pub-journal: "Ornithological Notes"
+citation-detail: "2013"
 year: "2013"
 doi: 10.2173/bow-on.100006
 citation-url: https://doi.org/10.2173/bow-on.100006

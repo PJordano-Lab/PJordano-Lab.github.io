@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1993-09-01'
 pub-journal: "Biological Journal of the Linnean Society"
 volume-pages: "Vol. 50: 65–84"
+citation-detail: "1993, 50: 65–84"
 pages: "65–84"
 volume: "50"
 year: "1993"

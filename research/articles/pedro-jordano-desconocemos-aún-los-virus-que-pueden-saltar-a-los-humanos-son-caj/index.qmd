@@ -3,6 +3,7 @@ title: 'Pedro Jordano: "Desconocemos aún los virus que pueden saltar a los huma
 authors: "Pedro Jordano, Raúl Rejón"
 date: '2020-04-24'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+citation-detail: "2020"
 year: "2020"
 format:
   html:

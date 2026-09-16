@@ -4,6 +4,7 @@ authors: "Jens M. Olesen, Jordi Bascompte, Heidi Elberling et al."
 date: '2008-05-30'
 pub-journal: "Ecology"
 volume-pages: "Vol. 89: 1573–1582"
+citation-detail: "2008, 89: 1573–1582"
 pages: "1573–1582"
 volume: "89"
 year: "2008"

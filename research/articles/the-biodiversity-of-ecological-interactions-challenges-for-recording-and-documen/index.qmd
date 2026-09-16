@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2021-09-21'
 pub-journal: "Biodiversity Information Science and Standards"
 volume-pages: "Vol. 5: e75564"
+citation-detail: "2021, 5: e75564"
 pages: "e75564"
 volume: "5"
 year: "2021"

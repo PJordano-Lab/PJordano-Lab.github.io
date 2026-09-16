@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Diego de San Pedro"
 date: '1981-01-01'
 pub-journal: ""
 volume-pages: "Vol. 8: 103–124"
+citation-detail: "1981, 8: 103–124"
 pages: "103–124"
 volume: "8"
 year: "1981"

@@ -4,6 +4,7 @@ authors: "Paulo R. Guimarães, Pedro Jordano, John N. Thompson"
 date: '2011-07-12'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 14: 877–885"
+citation-detail: "2011, 14: 877–885"
 pages: "877–885"
 volume: "14"
 year: "2011"

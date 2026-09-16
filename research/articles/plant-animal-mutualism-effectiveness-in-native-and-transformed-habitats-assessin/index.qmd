@@ -4,6 +4,7 @@ authors: "Francisco E. Fontúrbel, Pedro Jordano, Rodrigo Medel"
 date: '2017-09-18'
 pub-journal: "Perspectives in Plant Ecology Evolution and Systematics"
 volume-pages: "Vol. 28: 87–95"
+citation-detail: "2017, 28: 87–95"
 pages: "87–95"
 volume: "28"
 year: "2017"

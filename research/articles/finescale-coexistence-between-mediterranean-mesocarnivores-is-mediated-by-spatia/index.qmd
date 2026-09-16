@@ -4,6 +4,7 @@ authors: "Iago Ferreiro‐Arias, Jorge Isla, Pedro Jordano et al."
 date: '2021-11-01'
 pub-journal: "Ecology and Evolution"
 volume-pages: "Vol. 11: 15520–15533"
+citation-detail: "2021, 11: 15520–15533"
 pages: "15520–15533"
 volume: "11"
 year: "2021"

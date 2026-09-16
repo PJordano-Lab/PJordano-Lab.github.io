@@ -3,6 +3,7 @@ title: "Informe del GTM sobre Atmósfera y Covid-19"
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2020-06-08'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+citation-detail: "2020"
 year: "2020"
 doi: 10.20350/digitalcsic/13712
 citation-url: https://doi.org/10.20350/digitalcsic/13712

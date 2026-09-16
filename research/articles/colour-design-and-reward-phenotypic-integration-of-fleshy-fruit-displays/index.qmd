@@ -4,6 +4,7 @@ authors: "Alfredo Valido, H. Martin Schaefer, Pedro Jordano"
 date: '2011-01-24'
 pub-journal: "Journal of Evolutionary Biology"
 volume-pages: "Vol. 24: 751–760"
+citation-detail: "2011, 24: 751–760"
 pages: "751–760"
 volume: "24"
 year: "2011"

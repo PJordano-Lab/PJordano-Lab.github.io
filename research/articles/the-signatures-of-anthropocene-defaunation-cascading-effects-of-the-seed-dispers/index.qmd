@@ -4,6 +4,7 @@ authors: "Néstor Pérez‐Méndez, Pedro Jordano, Cristina García et al."
 date: '2016-04-19'
 pub-journal: "Scientific Reports"
 volume-pages: "Vol. 6: 24820"
+citation-detail: "2016, 6: 24820–24820"
 pages: "24820–24820"
 volume: "6"
 year: "2016"

@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Mauro Galetti, Pizo et al."
 date: '2006-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "pp. 411–436"
+citation-detail: "2006, 411–436"
 pages: "411–436"
 year: "2006"
 format:

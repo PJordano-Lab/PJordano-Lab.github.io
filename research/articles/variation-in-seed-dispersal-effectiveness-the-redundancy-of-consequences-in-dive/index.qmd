@@ -4,6 +4,7 @@ authors: "Débora Cristina Rother, Marco Aurélio Pizo, Pedro Jordano"
 date: '2015-09-08'
 pub-journal: "Oikos"
 volume-pages: "Vol. 125: 336–342"
+citation-detail: "2016, 125: 336–342"
 pages: "336–342"
 volume: "125"
 year: "2016"

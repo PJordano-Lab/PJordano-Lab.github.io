@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Carlos M. Herrera"
 date: '1995-01-01'
 pub-journal: "Ecoscience"
 volume-pages: "Vol. 2: 230–237"
+citation-detail: "1995, 2: 230–237"
 pages: "230–237"
 volume: "2"
 year: "1995"

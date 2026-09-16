@@ -4,6 +4,7 @@ authors: "D. Matthias Dehling, Till Töpfer, H. Martin Schaefer et al."
 date: '2014-05-26'
 pub-journal: "Global Ecology and Biogeography"
 volume-pages: "Vol. 23: 1085–1093"
+citation-detail: "2014, 23: 1085–1093"
 pages: "1085–1093"
 volume: "23"
 year: "2014"

@@ -4,6 +4,7 @@ authors: "Cristina García, José A. Godoy, Pedro Jordano"
 date: '2009-10-16'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 18: 4536–4540"
+citation-detail: "2009, 18: 4536–4540"
 pages: "4536–4540"
 volume: "18"
 year: "2009"

@@ -3,6 +3,7 @@ title: "A General Framework for Analyzing Sustainability of Social-Ecological Sy
 authors: "Charles Darwin, John Murray, Jane E. Cohen et al."
 date: '2009-01-01'
 pub-journal: ""
+citation-detail: "2009"
 year: "2009"
 format:
   html:

@@ -4,6 +4,7 @@ authors: "Juan Arroyo, Cristina Rigueiro, Arndt Hampe et al."
 date: '2010-01-01'
 pub-journal: ""
 volume-pages: "Vol. 97: E26–E30"
+citation-detail: "2010, 97: E26–E30"
 pages: "E26–E30"
 volume: "97"
 year: "2010"

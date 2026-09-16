@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Fernando Pulido, Juan Arroyo Marín et al."
 date: '2004-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "pp. 229–248"
+citation-detail: "2004, 229–248"
 pages: "229–248"
 year: "2004"
 format:

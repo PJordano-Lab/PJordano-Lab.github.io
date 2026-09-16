@@ -4,6 +4,7 @@ authors: "Eugene W. Schupp, Pedro Jordano"
 date: '2011-09-26'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 20: 3953–3955"
+citation-detail: "2011, 20: 3953–3955"
 pages: "3953–3955"
 volume: "20"
 year: "2011"

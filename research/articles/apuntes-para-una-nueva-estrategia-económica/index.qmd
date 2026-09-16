@@ -3,6 +3,7 @@ title: "Apuntes para una nueva estrategia económica"
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2020-08-11'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+citation-detail: "2020"
 year: "2020"
 doi: 10.20350/digitalcsic/13717
 citation-url: https://doi.org/10.20350/digitalcsic/13717

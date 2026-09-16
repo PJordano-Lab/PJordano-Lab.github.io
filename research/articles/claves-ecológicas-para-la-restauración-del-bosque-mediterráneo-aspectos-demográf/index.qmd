@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Regino Zamora, Teodoro Marañón et al."
 date: '2002-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "Vol. 10: 1–13"
+citation-detail: "2005, 10: 1–13"
 pages: "1–13"
 volume: "10"
 year: "2005"

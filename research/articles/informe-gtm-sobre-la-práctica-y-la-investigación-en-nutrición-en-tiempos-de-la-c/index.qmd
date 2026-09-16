@@ -3,6 +3,7 @@ title: "Informe GTM sobre la Práctica y la Investigación en Nutrición en Tiem
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2020-10-28'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+citation-detail: "2020"
 year: "2020"
 doi: 10.20350/digitalcsic/13720
 citation-url: https://doi.org/10.20350/digitalcsic/13720

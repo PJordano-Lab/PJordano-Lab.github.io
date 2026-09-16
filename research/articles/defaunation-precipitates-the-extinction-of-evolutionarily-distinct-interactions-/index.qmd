@@ -4,6 +4,7 @@ authors: "Carine Emer, Mauro Galetti, Marco Aurélio Pizo et al."
 date: '2019-06-01'
 pub-journal: "Science Advances"
 volume-pages: "Vol. 5: eaav6699"
+citation-detail: "2019, 5: eaav6699"
 pages: "eaav6699"
 volume: "5"
 year: "2019"

@@ -4,6 +4,7 @@ authors: "Carolina Bello, Mauro Galetti, Marco Aurélio Pizo et al."
 date: '2015-12-04'
 pub-journal: "Science Advances"
 volume-pages: "Vol. 1: e1501105"
+citation-detail: "2015, 1: e1501105–e1501105"
 pages: "e1501105–e1501105"
 volume: "1"
 year: "2015"

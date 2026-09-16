@@ -4,6 +4,7 @@ authors: "Alfonso Valiente‐Banuet, Marcelo A. Aizen, Julio M. Alcántara et al
 date: '2014-11-28'
 pub-journal: "Functional Ecology"
 volume-pages: "Vol. 29: 299–307"
+citation-detail: "2015, 29: 299–307"
 pages: "299–307"
 volume: "29"
 year: "2015"

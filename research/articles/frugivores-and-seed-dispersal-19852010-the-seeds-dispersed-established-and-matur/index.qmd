@@ -4,6 +4,7 @@ authors: "Pierre‐Michel Forget, Pedro Jordano, Joanna E. Lambert et al."
 date: '2011-10-22'
 pub-journal: "Acta Oecologica"
 volume-pages: "Vol. 37: 517–520"
+citation-detail: "2011, 37: 517–520"
 pages: "517–520"
 volume: "37"
 year: "2011"

@@ -3,6 +3,7 @@ title: "Symposium 6: Mutualistic Networks"
 authors: "Jordi Bascompte, Marcelo A. Aizen, Colin Fontaine et al."
 date: '2010-07-01'
 pub-journal: "Bulletin of the Ecological Society of America"
+citation-detail: "2010"
 year: "2010"
 doi: 10.1890/0012-9623-91.3.367
 citation-url: https://doi.org/10.1890/0012-9623-91.3.367

@@ -4,6 +4,7 @@ authors: "Néstor Pérez‐Méndez, Pedro Jordano, Alfredo Valido"
 date: '2017-08-12'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 106: 936–947"
+citation-detail: "2018, 106: 936–947"
 pages: "936–947"
 volume: "106"
 year: "2018"

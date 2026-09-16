@@ -4,6 +4,7 @@ authors: "Paulo R. Guimarães, Mathias M. Pires, Pedro Jordano et al."
 date: '2017-10-01'
 pub-journal: "Nature"
 volume-pages: "Vol. 550: 511–514"
+citation-detail: "2017, 550: 511–514"
 pages: "511–514"
 volume: "550"
 year: "2017"

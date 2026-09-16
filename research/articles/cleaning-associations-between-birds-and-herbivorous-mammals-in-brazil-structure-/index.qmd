@@ -4,6 +4,7 @@ authors: "Cristina Sazima, Pedro Jordano, Paulo R. Guimarães et al."
 date: '2012-01-01'
 pub-journal: "The Auk"
 volume-pages: "Vol. 129: 36–43"
+citation-detail: "2012, 129: 36–43"
 pages: "36–43"
 volume: "129"
 year: "2012"

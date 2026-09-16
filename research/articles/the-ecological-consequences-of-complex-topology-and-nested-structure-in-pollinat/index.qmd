@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Jordi Bascompte, Jens M. Olesen"
 date: '2006-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "pp. 173–199"
+citation-detail: "2006, 173–199"
 pages: "173–199"
 year: "2006"
 format:

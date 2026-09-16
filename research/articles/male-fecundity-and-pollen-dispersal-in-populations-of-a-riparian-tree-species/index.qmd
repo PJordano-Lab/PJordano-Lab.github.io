@@ -3,6 +3,7 @@ title: "Male fecundity and pollen dispersal in populations of a riparian tree sp
 authors: "Sylvie Muratorio, Etienne K. Klein, Arndt Hampe et al."
 date: '2011-01-01'
 pub-journal: "HAL (Le Centre pour la Communication Scientifique Directe)"
+citation-detail: "2011"
 year: "2011"
 format:
   html:

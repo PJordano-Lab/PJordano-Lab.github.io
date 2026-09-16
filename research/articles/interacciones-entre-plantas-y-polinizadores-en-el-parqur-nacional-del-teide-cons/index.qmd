@@ -3,6 +3,7 @@ title: "Interacciones entre plantas y polinizadores en el Parqur Nacional del Te
 authors: "Alfredo Valido, María C. Rodríguez‐Rodríguez, Pedro Jordano"
 date: '2011-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+citation-detail: "2011"
 year: "2011"
 format:
   html:

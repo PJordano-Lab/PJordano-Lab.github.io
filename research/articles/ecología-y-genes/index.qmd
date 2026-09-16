@@ -3,6 +3,7 @@ title: "Ecología y genes"
 authors: "Pedro Jordano"
 date: '2009-02-02'
 pub-journal: "Revista Ecosistemas"
+citation-detail: "2009"
 year: "2009"
 format:
   html:

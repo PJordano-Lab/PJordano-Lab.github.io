@@ -4,6 +4,7 @@ authors: "Mauro Galetti, Camila I. Donatti, Alexandra S. Pires et al."
 date: '2006-05-01'
 pub-journal: "Botanical Journal of the Linnean Society"
 volume-pages: "Vol. 151: 141–149"
+citation-detail: "2006, 151: 141–149"
 pages: "141–149"
 volume: "151"
 year: "2006"

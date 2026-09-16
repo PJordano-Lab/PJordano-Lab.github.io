@@ -4,6 +4,7 @@ authors: "Tad Dallas, Pedro Jordano"
 date: '2022-01-25'
 pub-journal: "Global Ecology and Biogeography"
 volume-pages: "Vol. 31: 663–671"
+citation-detail: "2022, 31: 663–671"
 pages: "663–671"
 volume: "31"
 year: "2022"

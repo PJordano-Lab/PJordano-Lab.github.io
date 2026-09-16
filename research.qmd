@@ -16,13 +16,11 @@ listing:
     page-size: 100
     sort-ui: true
     filter-ui: true
-    fields: [year, authors, title, pub-journal, volume, pages, doi]
+    fields: [authors, title, pub-journal, citation-detail, doi]
     field-display-names:
-      year: "Year"
       authors: "Authors"
       pub-journal: "Journal"
-      volume: "Vol."
-      pages: "Pages"
+      citation-detail: "Year, vol: pages"
       doi: "DOI"
 
   - id: working-papers
@@ -32,11 +30,11 @@ listing:
     page-size: 100
     sort-ui: false
     filter-ui: false
-    fields: [year, authors, title, pub-journal, doi]
+    fields: [authors, title, pub-journal, citation-detail, doi]
     field-display-names:
-      year: "Year"
       authors: "Authors"
       pub-journal: "Venue"
+      citation-detail: "Year"
       doi: "DOI"
 
 date-format: "YYYY"

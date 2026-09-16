@@ -3,6 +3,7 @@ title: "Differences among ant species in plant protection are related to product
 authors: "Roberth Fagundes, Wesley Dáttilo, Sérvio Pontes Ribeiro et al."
 date: '2017-05-09'
 pub-journal: "Biological Journal of the Linnean Society"
+citation-detail: "2017"
 year: "2017"
 doi: 10.1093/biolinnean/blx059
 citation-url: https://doi.org/10.1093/biolinnean/blx059

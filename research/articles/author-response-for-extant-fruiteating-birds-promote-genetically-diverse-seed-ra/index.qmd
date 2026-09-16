@@ -3,6 +3,7 @@ title: 'Author response for "Extant fruit‐eating birds promote genetically div
 authors: "Carolina da Silva Carvalho, Cristina García, Marília Souza Lucas et al."
 date: '2020-08-19'
 pub-journal: ""
+citation-detail: "2020"
 year: "2020"
 doi: 10.1111/1365-2745.13534/v2/response1
 citation-url: https://doi.org/10.1111/1365-2745.13534/v2/response1

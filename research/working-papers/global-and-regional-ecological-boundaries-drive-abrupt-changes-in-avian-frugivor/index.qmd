@@ -3,6 +3,7 @@ title: "Global and regional ecological boundaries drive abrupt changes in avian 
 authors: "Lucas Pereira Martins, Daniel B. Stouffer, Pedro G. Blendinger et al."
 date: '2021-09-20'
 pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+citation-detail: "2021"
 year: "2021"
 doi: 10.1101/2021.09.18.460873
 citation-url: https://doi.org/10.1101/2021.09.18.460873

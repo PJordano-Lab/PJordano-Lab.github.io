@@ -4,6 +4,7 @@ authors: "Paulo R. Guimarães, Marcus A. M. de Aguiar, Jordi Bascompte et al."
 date: '2005-03-18'
 pub-journal: "Physical Review E"
 volume-pages: "Vol. 71: 37101"
+citation-detail: "2005, 71: 37101–37101"
 pages: "37101–37101"
 volume: "71"
 year: "2005"

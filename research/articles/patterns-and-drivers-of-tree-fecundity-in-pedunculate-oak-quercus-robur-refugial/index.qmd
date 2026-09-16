@@ -3,6 +3,7 @@ title: "Patterns and drivers of tree fecundity in Pedunculate oak (Quercus robur
 authors: "Eva Moracho, Pedro Jordano, Arndt Hampe"
 date: '2017-01-01'
 pub-journal: "HAL (Le Centre pour la Communication Scientifique Directe)"
+citation-detail: "2017"
 year: "2017"
 format:
   html:

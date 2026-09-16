@@ -4,6 +4,7 @@ authors: "Julien P. Renoult, Alfredo Valido, Pedro Jordano et al."
 date: '2013-10-08'
 pub-journal: "New Phytologist"
 volume-pages: "Vol. 201: 678–686"
+citation-detail: "2013, 201: 678–686"
 pages: "678–686"
 volume: "201"
 year: "2013"

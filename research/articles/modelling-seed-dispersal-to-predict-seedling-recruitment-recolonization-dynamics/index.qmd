@@ -4,6 +4,7 @@ authors: "Fabrice Sagnard, Christian Pichot, Philippe Dreyfus et al."
 date: '2007-01-25'
 pub-journal: "Ecological Modelling"
 volume-pages: "Vol. 203: 464–474"
+citation-detail: "2007, 203: 464–474"
 pages: "464–474"
 volume: "203"
 year: "2007"

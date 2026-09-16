@@ -4,6 +4,7 @@ authors: "Jens M. Olesen, Jordi Bascompte, Yoko Luise Dupont et al."
 date: '2007-12-04'
 pub-journal: "Proceedings of the National Academy of Sciences"
 volume-pages: "Vol. 104: 19891–19896"
+citation-detail: "2007, 104: 19891–19896"
 pages: "19891–19896"
 volume: "104"
 year: "2007"

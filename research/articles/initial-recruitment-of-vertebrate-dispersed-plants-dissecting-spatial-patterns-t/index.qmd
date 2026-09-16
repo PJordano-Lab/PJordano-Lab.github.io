@@ -3,6 +3,7 @@ title: "Initial Recruitment of Vertebrate-Dispersed Plants: Dissecting Spatial P
 authors: "Eugene W. Schupp, Arndt Hampe, Juan Luis García‐Castaño et al."
 date: '2005-01-01'
 pub-journal: "Digital Commons - USU (Utah State University)"
+citation-detail: "2005"
 year: "2005"
 format:
   html:

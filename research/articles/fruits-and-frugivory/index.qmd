@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2000-01-01'
 pub-journal: "CABI Publishing eBooks"
 volume-pages: "pp. 18–61"
+citation-detail: "2014, 18–61"
 pages: "18–61"
 year: "2014"
 doi: 10.1079/9780851994321.0125

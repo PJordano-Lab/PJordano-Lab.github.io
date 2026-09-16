@@ -4,6 +4,7 @@ authors: "Marcial Escudero, Juan Arroyo, Santiago Sánchez‐Ramírez et al."
 date: '2023-07-03'
 pub-journal: "Annals of Botany"
 volume-pages: "Vol. 133: 871–882"
+citation-detail: "2024, 133: 871–882"
 pages: "871–882"
 volume: "133"
 year: "2024"

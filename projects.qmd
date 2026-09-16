@@ -322,7 +322,7 @@ trait and contrasts in the proportions of frugivore types will show up when
 examining the patterns through a phylogeny of the group.
 
 +---------------------------------------+---------------------------------------+
-| ![][proj-08]{fig-align="center" width=| Our previous work on this topic has   |
+| ![][proj-13]{fig-align="center"}      | Our previous work on this topic has   |
 |                                       | concentrated on analyses for the whole|
 |                                       | Angiosperm clade. Recently we are     |
 |                                       | collaborating with Mauro Galetti and  |
@@ -343,6 +343,7 @@ examining the patterns through a phylogeny of the group.
 |                                       | for this study is available           |
 |                                       | [here][link-02].                      |
 |                                       |                                       |
+|                                       |                                       |
 +---------------------------------------+---------------------------------------+
 
 --------------------------------------------------------------------------------
@@ -350,8 +351,8 @@ examining the patterns through a phylogeny of the group.
 ### The evolution of fruit traits
 
 +---------------------------------------+---------------------------------------+
-| ![Crataegus monogyna fruits with      | Fruits are complex structures with a  |
-| beak marks.][proj-09]{width="100%"}   | high integration of characteristics:  |
+| ![Crataegus monogyna fruits with beak | Fruits are complex structures with a  |
+| mark s.][proj-08]{width="100%"}       | high integration of characteristics:  |
 |                                       | morphology, nutrient content of the   |
 |                                       | pulp, and fruit color influence how   |
 |                                       | frugivorous animals detect, handle,   |
@@ -360,17 +361,17 @@ examining the patterns through a phylogeny of the group.
 |                                       | plants in terms of fitness variation  |
 |                                       | and has deep influences in fruit      |
 |                                       | traits evolution. Together with       |
-|                                       | Alfredo Valido and [H. Martin Schaefer|
-|                                       | ][link-03] we are investigating how   |
-|                                       | fruit traits covary and define fruit  |
-|                                       | displays: i.e., sets of correlated    |
-|                                       | fruit traits that mediate in the      |
-|                                       | interaction with mutualistic          |
+|                                       | Alfredo Valido and [H. Martin Sc      |
+|                                       | haefer][link-03] we are investigating |
+|                                       | how fruit traits covary and define    |
+|                                       | fruit displays: i.e., sets of         |
+|                                       | correlated fruit traits that mediate  |
+|                                       | in the interaction with mutualistic   |
 |                                       | frugivores. We have a bilateral       |
 |                                       | agreement between                     |
 |                                       | [CSIC](http://www.csic.es/) and the   |
-|                                       | [Deutscher Academischer Austausch     |
-|                                       | Dienst][link-04] that funds this      |
+|                                       | [Deutscher Academischer Austausch Dien|
+|                                       | st][link-04] that funds this          |
 |                                       | collaboration. In addition, we        |
 |                                       | collaborate with Mauro Galetti’s      |
 |                                       | [Laboratório de Biologia da           |
@@ -385,9 +386,6 @@ examining the patterns through a phylogeny of the group.
 |                                       | labs has also benefited from          |
 |                                       | [CYTED](http://www.cyted.org/)        |
 |                                       | funding.                              |
-|                                       |                                       |
-|                                       |                                       |
-|                                       |                                       |
 |                                       |                                       |
 |                                       |                                       |
 |                                       |                                       |
@@ -410,7 +408,7 @@ survival for these seeds in particular microhabitat patches that differ in
 quality for recruitment after dispersal.
 
 +---------------------------------------+---------------------------------------+
-| ![][proj-10]{width="547"}             | The figure illustrates an structural  |
+| ![][proj-09]{width="547"}             | The figure illustrates an structural  |
 |                                       | equation model fitted to the          |
 |                                       | sequential probabilities of           |
 |                                       | recruitment of *Phillyrea latifolia*  |
@@ -435,7 +433,7 @@ quality for recruitment after dispersal.
 ### Spatial patterns and plant-animal interactions
 
 +------------------------------+-----------------------------------------------+
-| ![][proj-11]{width="481"}    | Spatial patterns in dispersed seeds and       |
+| ![][proj-10]{width="481"}    | Spatial patterns in dispersed seeds and       |
 |                              | established seedlings are direct outcomes of  |
 |                              | frugivore activity and the concatenated       |
 |                              | series of demographic stages after dispersal. |
@@ -453,7 +451,7 @@ quality for recruitment after dispersal.
 +------------------------------+-----------------------------------------------+
 
 +---------------------------------------+---------------------------------------+
-| ![][proj-12]                          | The balance between mutualistic and   |
+| ![][proj-11]                          | The balance between mutualistic and   |
 |                                       | antagonistic plant–animal             |
 |                                       | interactions and their spatial        |
 |                                       | variation results in a highly dynamic |
@@ -511,7 +509,7 @@ disturbance regimes.
 ### Pollination biology
 
 +:-------------------------------------:+---------------------------------------+
-| ![][proj-13]{width="240"}             | Together with Alfredo Valido, we are  |
+| ![][proj-12]{width="240"}             | Together with Alfredo Valido, we are  |
 |                                       | studying the pollination biology of   |
 |                                       | Canary Islands plants. Specifically   |
 |                                       | we are interested in the evolution of |
@@ -555,12 +553,12 @@ disturbance regimes.
 [proj-05]: static/images/projects__files__stacks-image-f507099.png
 [proj-06]: static/images/projects__files__stacks-image-04f12d7-382x202.png
 [proj-07]: static/images/projects__files__stacks-image-b63545c-408x272.jpg
-[proj-08]: static/images/projects__files__stacks-image-7387749-248x186.png
-[proj-09]: static/images/projects__files__stacks-image-e5ed7a5.png
-[proj-10]: static/images/projects__files__stacks-image-5f9677f.jpg
-[proj-11]: static/images/projects__files__stacks-image-6c15a50.png
-[proj-12]: static/images/projects__files__stacks-image-7055046-310x420.jpg
-[proj-13]: static/images/projects__files__stacks-image-23f0d91-208x376.png
+[proj-08]: static/images/projects__files__stacks-image-e5ed7a5.png
+[proj-09]: static/images/projects__files__stacks-image-5f9677f.jpg
+[proj-10]: static/images/projects__files__stacks-image-6c15a50.png
+[proj-11]: static/images/projects__files__stacks-image-7055046-310x420.jpg
+[proj-12]: static/images/projects__files__stacks-image-23f0d91-208x376.png
+[proj-13]: static/images/projects__files__stacks-image-7387749-248x186.png
 [link-01]: gallery.html "Megafauna fruits"
 [link-02]: datasets.html "Datasets"
 [link-03]: http://www.biologie.uni-freiburg.de/data/bio1/schaefer/index.html

@@ -4,6 +4,7 @@ authors: "Eva Moracho, Gerardo Moreno, Pedro Jordano et al."
 date: '2016-05-05'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 25: 3319–3331"
+citation-detail: "2016, 25: 3319–3331"
 pages: "3319–3331"
 volume: "25"
 year: "2016"

@@ -4,6 +4,7 @@ authors: "Enrico L. Rezende, Pedro Jordano, Jordi Bascompte"
 date: '2007-11-01'
 pub-journal: "Oikos"
 volume-pages: "Vol. 116: 1919–1929"
+citation-detail: "2007, 116: 1919–1929"
 pages: "1919–1929"
 volume: "116"
 year: "2007"

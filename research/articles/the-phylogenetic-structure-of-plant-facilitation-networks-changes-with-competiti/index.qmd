@@ -4,6 +4,7 @@ authors: "Miguel Verdú, Pedro Jordano, Alfonso Valiente‐Banuet"
 date: '2010-09-14'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 98: 1454–1461"
+citation-detail: "2010, 98: 1454–1461"
 pages: "1454–1461"
 volume: "98"
 year: "2010"

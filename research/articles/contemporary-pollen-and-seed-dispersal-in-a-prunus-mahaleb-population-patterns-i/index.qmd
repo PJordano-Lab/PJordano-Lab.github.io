@@ -4,6 +4,7 @@ authors: "Cristina García, Pedro Jordano, José A. Godoy"
 date: '2007-04-13'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 16: 1947–1955"
+citation-detail: "2007, 16: 1947–1955"
 pages: "1947–1955"
 volume: "16"
 year: "2007"

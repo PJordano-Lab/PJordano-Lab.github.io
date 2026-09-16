@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1990-01-01'
 pub-journal: "Dialnet (Universidad de la Rioja)"
 volume-pages: "Vol. 48: 31–52"
+citation-detail: "1990, 48: 31–52"
 pages: "31–52"
 volume: "48"
 year: "1990"

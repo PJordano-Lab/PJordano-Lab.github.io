@@ -4,6 +4,7 @@ authors: "Abhay Krishna, Paulo R. Guimarães, Pedro Jordano et al."
 date: '2008-10-28'
 pub-journal: "Oikos"
 volume-pages: "Vol. 117: 1609–1618"
+citation-detail: "2008, 117: 1609–1618"
 pages: "1609–1618"
 volume: "117"
 year: "2008"

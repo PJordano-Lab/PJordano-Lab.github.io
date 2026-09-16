@@ -3,6 +3,7 @@ title: "Global geographic patterns in the colours and sizes of animal‐disperse
 authors: "Miranda Sinnott‐Armstrong, Alexander E. Downie, Sarah Federman et al."
 date: '2018-10-11'
 pub-journal: "Global Ecology and Biogeography"
+citation-detail: "2018"
 year: "2018"
 doi: 10.1111/geb.12801
 citation-url: https://doi.org/10.1111/geb.12801

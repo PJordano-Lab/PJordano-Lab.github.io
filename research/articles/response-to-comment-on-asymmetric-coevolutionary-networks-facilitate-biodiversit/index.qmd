@@ -4,6 +4,7 @@ authors: "Jordi Bascompte, Pedro Jordano, Jens M. Olesen"
 date: '2006-09-28'
 pub-journal: "Science"
 volume-pages: "Vol. 313: ––"
+citation-detail: "2006, 313: ––"
 pages: "––"
 volume: "313"
 year: "2006"

@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Diego Ezequiel Vázquez, Jordi Bascompte"
 date: '2009-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "pp. 17–41"
+citation-detail: "2009, 17–41"
 pages: "17–41"
 year: "2009"
 format:

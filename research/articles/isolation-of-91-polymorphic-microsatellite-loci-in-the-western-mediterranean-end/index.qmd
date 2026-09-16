@@ -4,6 +4,7 @@ authors: "Juan Arroyo, Marcial Escudero, Pedro Jordano"
 date: '2016-01-01'
 pub-journal: "Applications in Plant Sciences"
 volume-pages: "Vol. 4"
+citation-detail: "2016, 4"
 volume: "4"
 year: "2016"
 doi: 10.3732/apps.1500085

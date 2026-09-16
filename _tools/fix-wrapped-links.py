@@ -106,6 +106,8 @@ def main():
             for (cs, ce) in spans:
                 cell = [lines[n][cs:ce] if len(lines[n]) > cs else "" for n in body]
                 joined = " ".join(c.strip() for c in cell)
+                if "![" in joined:
+                    continue          # images belong to fix-grid-table-images.py
                 if not ARTIFACT.search(joined) and not re.search(r"\]\([^)]*\s[^)]*\)", joined):
                     continue
                 text = repair_text(joined)
@@ -153,6 +155,11 @@ def main():
                                         break_long_words=False)
                 if len(wrapped) > len(body):
                     print(f"  SKIPPED a cell: needs {len(wrapped)} lines, has {len(body)}")
+                    continue
+                too_wide = [w for w in wrapped if len(w) + 1 > width]
+                if too_wide:
+                    print(f"  SKIPPED a cell: {len(too_wide[0]) + 1} chars will not fit "
+                          f"in {width}; left untouched")
                     continue
                 for k, n in enumerate(body):
                     line = lines[n].ljust(max(len(lines[n]), ce))

@@ -28,6 +28,21 @@ def format_page_range(first_page=None, last_page=None):
     return fp or lp
 
 
+def format_citation_detail(year=None, volume=None, pages=None):
+    """One compact column for the listing table: '2017, 20: 577-590'.
+
+    Degrades cleanly: year alone -> '2017'; year and pagination but no volume
+    -> '2017, 391-406'; volume with no year -> '20: 577-590'.
+    """
+    year = str(year).strip() if year not in (None, "") else ""
+    volume = str(volume).strip() if volume not in (None, "") else ""
+    pages = str(pages).strip() if pages not in (None, "") else ""
+    tail = f"{volume}: {pages}" if volume and pages else (volume or pages)
+    if year and tail:
+        return f"{year}, {tail}"
+    return year or tail
+
+
 def format_volume_pages(volume=None, first_page=None, last_page=None, pages=None):
     """Combined citation-detail string, e.g. 'Vol. 64: 1021-1035' (en dash).
 
@@ -437,7 +452,8 @@ class OpenAlexArticleSync:
             'title', 'authors', 'author_count', 'year', 'publication_date',
             'journal', 'publisher', 'type', 'is_oa', 'doi', 'doi_url',
             'pdf_url', 'openalex_id', 'pmid', 'cited_by_count',
-            'volume', 'issue', 'first_page', 'last_page', 'pages', 'volume_pages'
+            'volume', 'issue', 'first_page', 'last_page', 'pages', 'volume_pages',
+            'citation_detail'
         ]
 
         with open(output_path, 'w', newline='', encoding='utf-8') as f:
@@ -467,6 +483,10 @@ class OpenAlexArticleSync:
                     'pages': a.get('pages', '') or format_page_range(
                         a.get('first_page'), a.get('last_page')),
                     'volume_pages': a.get('volume_pages', ''),
+                    'citation_detail': format_citation_detail(
+                        a.get('year'), a.get('volume'),
+                        a.get('pages') or format_page_range(
+                            a.get('first_page'), a.get('last_page'))),
                 })
 
         print(f"Wrote {len(articles)} entries to {output_path}")
@@ -534,6 +554,9 @@ class OpenAlexArticleSync:
         page_range = format_page_range(article.get('first_page'), article.get('last_page'))
         if page_range:
             lines.append(f'pages: "{page_range}"')
+        detail = format_citation_detail(year, article.get('volume'), page_range)
+        if detail:
+            lines.append(f'citation-detail: "{detail}"')
         vol_pages = article.get('volume_pages') or format_volume_pages(
             article.get('volume'), article.get('first_page'), article.get('last_page'))
         if vol_pages:

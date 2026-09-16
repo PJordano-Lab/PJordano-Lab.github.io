@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2026-04-29'
 pub-journal: "Oikos"
 volume-pages: "Vol. 2026: e11991"
+citation-detail: "2026, 2026: e11991"
 pages: "e11991"
 volume: "2026"
 year: "2026"

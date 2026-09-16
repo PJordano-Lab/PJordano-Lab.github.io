@@ -4,6 +4,7 @@ authors: "Eva Moracho, Pedro Jordano, Arndt Hampe"
 date: '2017-05-08'
 pub-journal: "Plant Biology"
 volume-pages: "Vol. 20: 195–202"
+citation-detail: "2018, 20: 195–202"
 pages: "195–202"
 volume: "20"
 year: "2018"

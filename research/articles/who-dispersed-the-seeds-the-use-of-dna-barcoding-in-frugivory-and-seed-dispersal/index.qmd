@@ -4,6 +4,7 @@ authors: "Juan P. González‐Varo, Juan Arroyo, Pedro Jordano"
 date: '2014-06-07'
 pub-journal: "Methods in Ecology and Evolution"
 volume-pages: "Vol. 5: 806–814"
+citation-detail: "2014, 5: 806–814"
 pages: "806–814"
 volume: "5"
 year: "2014"

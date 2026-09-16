@@ -4,6 +4,7 @@ authors: "Jofre Carnicer, Peter A. Abrams, Pedro Jordano"
 date: '2008-04-28'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 11: 802–808"
+citation-detail: "2008, 11: 802–808"
 pages: "802–808"
 volume: "11"
 year: "2008"

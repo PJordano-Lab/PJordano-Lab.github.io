@@ -4,6 +4,7 @@ authors: "Cristina García, J. M. ARROY, José A. Godoy et al."
 date: '2005-04-12'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 14: 1821–1830"
+citation-detail: "2005, 14: 1821–1830"
 pages: "1821–1830"
 volume: "14"
 year: "2005"

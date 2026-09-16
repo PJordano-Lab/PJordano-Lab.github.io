@@ -4,6 +4,7 @@ authors: "Juan P. González‐Varo, Beatriz Rumeu, Jörg Albrecht et al."
 date: '2021-06-23'
 pub-journal: "Nature"
 volume-pages: "Vol. 595: 75–79"
+citation-detail: "2021, 595: 75–79"
 pages: "75–79"
 volume: "595"
 year: "2021"

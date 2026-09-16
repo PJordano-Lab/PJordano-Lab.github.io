@@ -3,6 +3,7 @@ title: "Variación de la dieta frugívora otoño-invernal del Petirrojo (Erithac
 authors: "Pedro Jordano"
 date: '1989-12-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+citation-detail: "1989"
 year: "1989"
 format:
   html:

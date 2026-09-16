@@ -4,6 +4,7 @@ authors: "Néstor Pérez‐Méndez, Pedro Jordano, Alfredo Valido"
 date: '2014-12-23'
 pub-journal: "Perspectives in Plant Ecology Evolution and Systematics"
 volume-pages: "Vol. 17: 151–159"
+citation-detail: "2015, 17: 151–159"
 pages: "151–159"
 volume: "17"
 year: "2015"

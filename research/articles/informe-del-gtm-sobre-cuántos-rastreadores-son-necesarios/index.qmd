@@ -3,6 +3,7 @@ title: "Informe del GTM sobre ¿cuántos rastreadores son necesarios?"
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2021-03-26'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+citation-detail: "2021"
 year: "2021"
 doi: 10.20350/digitalcsic/13890
 citation-url: https://doi.org/10.20350/digitalcsic/13890

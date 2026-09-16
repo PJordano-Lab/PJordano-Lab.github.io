@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1993-06-01'
 pub-journal: "Vegetatio"
 volume-pages: "Vol. 107-108: 85–104"
+citation-detail: "1993, 107-108: 85–104"
 pages: "85–104"
 volume: "107-108"
 year: "1993"

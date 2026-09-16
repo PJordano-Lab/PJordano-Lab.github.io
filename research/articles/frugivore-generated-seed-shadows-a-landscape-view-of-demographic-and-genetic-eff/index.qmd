@@ -4,6 +4,7 @@ authors: "Pedro Jordano, José A. Godoy"
 date: '2002-01-01'
 pub-journal: "CABI Publishing eBooks"
 volume-pages: "pp. 305–321"
+citation-detail: "2002, 305–321"
 pages: "305–321"
 year: "2002"
 doi: 10.1079/9780851995250.0305

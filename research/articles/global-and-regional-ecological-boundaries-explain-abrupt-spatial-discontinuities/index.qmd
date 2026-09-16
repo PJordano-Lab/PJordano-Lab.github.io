@@ -4,6 +4,7 @@ authors: "Lucas Pereira Martins, Daniel B. Stouffer, Pedro G. Blendinger et al."
 date: '2022-11-14'
 pub-journal: "Nature Communications"
 volume-pages: "Vol. 13: 6943"
+citation-detail: "2022, 13: 6943"
 pages: "6943"
 volume: "13"
 year: "2022"

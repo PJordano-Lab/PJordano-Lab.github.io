@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1995-02-01'
 pub-journal: "The American Naturalist"
 volume-pages: "Vol. 145: 163–191"
+citation-detail: "1995, 145: 163–191"
 pages: "163–191"
 volume: "145"
 year: "1995"

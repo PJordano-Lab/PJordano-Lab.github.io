@@ -4,6 +4,7 @@ authors: "Enrico L. Rezende, Jessica E. Lavabre, Paulo R. Guimarães et al."
 date: '2007-08-01'
 pub-journal: "Nature"
 volume-pages: "Vol. 448: 925–U6"
+citation-detail: "2007, 448: 925–U6"
 pages: "925–U6"
 volume: "448"
 year: "2007"

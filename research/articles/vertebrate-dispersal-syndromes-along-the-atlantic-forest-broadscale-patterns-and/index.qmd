@@ -4,6 +4,7 @@ authors: "Mário Almeida‐Neto, Flávia Campassi, Mauro Galetti et al."
 date: '2008-03-13'
 pub-journal: "Global Ecology and Biogeography"
 volume-pages: "Vol. 17: 503–513"
+citation-detail: "2008, 17: 503–513"
 pages: "503–513"
 volume: "17"
 year: "2008"

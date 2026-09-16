@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2007-01-01'
 pub-journal: "CABI eBooks"
 volume-pages: "pp. 229–251"
+citation-detail: "2007, 229–251"
 pages: "229–251"
 year: "2007"
 doi: 10.1079/9781845931650.0229

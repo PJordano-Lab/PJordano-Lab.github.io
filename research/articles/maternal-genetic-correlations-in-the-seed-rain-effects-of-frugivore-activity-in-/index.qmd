@@ -4,6 +4,7 @@ authors: "Cristina García, Pedro Jordano, Juan Arroyo et al."
 date: '2009-09-18'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 97: 1424–1435"
+citation-detail: "2009, 97: 1424–1435"
 pages: "1424–1435"
 volume: "97"
 year: "2009"

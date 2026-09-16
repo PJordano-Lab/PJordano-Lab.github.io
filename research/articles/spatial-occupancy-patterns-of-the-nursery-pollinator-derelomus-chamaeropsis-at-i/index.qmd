@@ -4,6 +4,7 @@ authors: "Miguel Moreno, Miguel E. Jácome‐Flores, Pedro Jordano et al."
 date: '2025-03-30'
 pub-journal: "Journal of Pollination Ecology"
 volume-pages: "Vol. 38: 82–96"
+citation-detail: "2025, 38: 82–96"
 pages: "82–96"
 volume: "38"
 year: "2025"

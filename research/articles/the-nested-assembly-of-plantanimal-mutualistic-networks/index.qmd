@@ -4,6 +4,7 @@ authors: "Jordi Bascompte, Pedro Jordano, Carlos J. Melián et al."
 date: '2003-07-24'
 pub-journal: "Proceedings of the National Academy of Sciences"
 volume-pages: "Vol. 100: 9383–9387"
+citation-detail: "2003, 100: 9383–9387"
 pages: "9383–9387"
 volume: "100"
 year: "2003"

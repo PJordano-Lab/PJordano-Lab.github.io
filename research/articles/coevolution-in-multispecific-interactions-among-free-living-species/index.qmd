@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2009-12-28'
 pub-journal: "Evolution Education and Outreach"
 volume-pages: "Vol. 3: 40–46"
+citation-detail: "2010, 3: 40–46"
 pages: "40–46"
 volume: "3"
 year: "2010"

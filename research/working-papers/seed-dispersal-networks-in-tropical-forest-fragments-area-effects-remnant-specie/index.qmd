@@ -3,6 +3,7 @@ title: "Seed-dispersal networks in tropical forest fragments: area effects, remn
 authors: "Carine Emer, Pedro Jordano, Marco Aurélio Pizo et al."
 date: '2019-07-14'
 pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+citation-detail: "2019"
 year: "2019"
 doi: 10.1101/701730
 citation-url: https://doi.org/10.1101/701730

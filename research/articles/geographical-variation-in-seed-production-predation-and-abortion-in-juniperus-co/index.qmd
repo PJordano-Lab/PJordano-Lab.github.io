@@ -4,6 +4,7 @@ authors: "Daniel Garcı́a, Regino Zamora, José M. Gómez et al."
 date: '2000-06-01'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 88: 436–446"
+citation-detail: "2000, 88: 436–446"
 pages: "436–446"
 volume: "88"
 year: "2000"

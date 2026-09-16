@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1981-12-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "Vol. 28: 67–88"
+citation-detail: "2006, 28: 67–88"
 pages: "67–88"
 volume: "28"
 year: "2006"

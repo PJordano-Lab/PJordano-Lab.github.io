@@ -3,6 +3,7 @@ title: "Análisis del informe de la Academia de las Ciencias de Alemania y su po
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2020-05-21'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+citation-detail: "2020"
 year: "2020"
 doi: 10.20350/digitalcsic/13725
 citation-url: https://doi.org/10.20350/digitalcsic/13725

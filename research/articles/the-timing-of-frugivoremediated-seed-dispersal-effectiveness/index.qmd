@@ -4,6 +4,7 @@ authors: "Juan P. González‐Varo, Juan Arroyo, Pedro Jordano"
 date: '2018-08-29'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 28: 219–231"
+citation-detail: "2019, 28: 219–231"
 pages: "219–231"
 volume: "28"
 year: "2019"

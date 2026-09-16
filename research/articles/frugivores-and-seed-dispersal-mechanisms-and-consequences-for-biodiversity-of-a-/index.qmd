@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Pierre‐Michel Forget, Joanna E. Lambert et al."
 date: '2010-11-17'
 pub-journal: "Biology Letters"
 volume-pages: "Vol. 7: 321–323"
+citation-detail: "2011, 7: 321–323"
 pages: "321–323"
 volume: "7"
 year: "2011"

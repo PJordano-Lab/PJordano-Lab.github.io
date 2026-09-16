@@ -4,6 +4,7 @@ authors: "Juan P. González‐Varo, Carolina da Silva Carvalho, Juan Arroyo et a
 date: '2017-05-14'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 26: 4309–4321"
+citation-detail: "2017, 26: 4309–4321"
 pages: "4309–4321"
 volume: "26"
 year: "2017"

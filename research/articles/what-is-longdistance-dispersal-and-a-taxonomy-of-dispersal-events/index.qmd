@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2016-12-16'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 105: 75–84"
+citation-detail: "2017, 105: 75–84"
 pages: "75–84"
 volume: "105"
 year: "2017"

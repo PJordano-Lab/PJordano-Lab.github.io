@@ -4,6 +4,7 @@ authors: "Marco A. R. Mello, Flávia Maria Darcie Marquitti, Paulo R. Guimarães
 date: '2011-04-08'
 pub-journal: "Oecologia"
 volume-pages: "Vol. 167: 131–140"
+citation-detail: "2011, 167: 131–140"
 pages: "131–140"
 volume: "167"
 year: "2011"

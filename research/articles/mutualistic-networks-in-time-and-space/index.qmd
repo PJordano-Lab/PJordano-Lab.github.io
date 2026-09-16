@@ -3,6 +3,7 @@ title: "Mutualistic Networks in Time and Space"
 authors: "Jordi Bascompte, Pedro Jordano"
 date: '2013-12-08'
 pub-journal: "Princeton University Press eBooks"
+citation-detail: "2013"
 year: "2013"
 doi: 10.23943/princeton/9780691131269.003.0005
 citation-url: https://doi.org/10.23943/princeton/9780691131269.003.0005

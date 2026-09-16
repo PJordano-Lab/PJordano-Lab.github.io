@@ -4,6 +4,7 @@ authors: "Finn Rehling, Bogdan Jaroszewicz, Leonie Victoria Braasch et al."
 date: '2021-08-16'
 pub-journal: "Frontiers in Ecology and Evolution"
 volume-pages: "Vol. 9: 698885"
+citation-detail: "2021, 9: 698885"
 pages: "698885"
 volume: "9"
 year: "2021"

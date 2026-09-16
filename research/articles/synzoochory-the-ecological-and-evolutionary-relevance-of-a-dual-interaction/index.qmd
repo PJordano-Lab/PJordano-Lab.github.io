@@ -4,6 +4,7 @@ authors: "José M. Gómez, Eugene W. Schupp, Pedro Jordano"
 date: '2018-11-22'
 pub-journal: "Biological reviews/Biological reviews of the Cambridge Philosophical Society"
 volume-pages: "Vol. 94: 874–902"
+citation-detail: "2019, 94: 874–902"
 pages: "874–902"
 volume: "94"
 year: "2019"

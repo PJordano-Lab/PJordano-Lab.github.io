@@ -4,6 +4,7 @@ authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano et al."
 date: '2025-08-01'
 pub-journal: "Ecological Monographs"
 volume-pages: "Vol. 95: e70031"
+citation-detail: "2025, 95: e70031"
 pages: "e70031"
 volume: "95"
 year: "2025"

@@ -4,6 +4,7 @@ authors: "Kristian Trøjelsgaard, Pedro Jordano, Daniel Carstensen et al."
 date: '2015-01-28'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
 volume-pages: "Vol. 282: 192–211"
+citation-detail: "2015, 282: 192–211"
 pages: "192–211"
 volume: "282"
 year: "2015"

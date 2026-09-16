@@ -4,6 +4,7 @@ authors: "Rafael Villar, Erik J. Veneklaas, Pedro Jordano et al."
 date: '1998-11-01'
 pub-journal: "New Phytologist"
 volume-pages: "Vol. 140: 425–437"
+citation-detail: "1998, 140: 425–437"
 pages: "425–437"
 volume: "140"
 year: "1998"

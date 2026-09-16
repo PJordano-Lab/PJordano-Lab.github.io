@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2016-09-13'
 pub-journal: "Functional Ecology"
 volume-pages: "Vol. 30: 1883–1893"
+citation-detail: "2016, 30: 1883–1893"
 pages: "1883–1893"
 volume: "30"
 year: "2016"

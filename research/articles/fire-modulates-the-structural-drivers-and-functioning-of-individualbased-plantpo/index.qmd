@@ -4,6 +4,7 @@ authors: "Larissa Alves-de-Lima, Diego Anjos, Blanca Arroyo‐Correa et al."
 date: '2026-05-01'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 114: e70348"
+citation-detail: "2026, 114: e70348"
 pages: "e70348"
 volume: "114"
 year: "2026"

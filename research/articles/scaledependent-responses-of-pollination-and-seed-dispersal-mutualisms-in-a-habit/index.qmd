@@ -4,6 +4,7 @@ authors: "Francisco E. Fontúrbel, Pedro Jordano, Rodrigo Medel"
 date: '2015-06-27'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 103: 1334–1343"
+citation-detail: "2015, 103: 1334–1343"
 pages: "1334–1343"
 volume: "103"
 year: "2015"

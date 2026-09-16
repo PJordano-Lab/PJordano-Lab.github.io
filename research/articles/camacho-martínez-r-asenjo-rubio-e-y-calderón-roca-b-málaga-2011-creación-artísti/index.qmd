@@ -3,6 +3,7 @@ title: "CAMACHO MARTÍNEZ, R.; ASENJO RUBIO, E. y CALDERÓN ROCA, B. (Málaga, 2
 authors: "Pedro Jordano, María Ángeles"
 date: '2012-01-01'
 pub-journal: ""
+citation-detail: "2012"
 year: "2012"
 format:
   html:

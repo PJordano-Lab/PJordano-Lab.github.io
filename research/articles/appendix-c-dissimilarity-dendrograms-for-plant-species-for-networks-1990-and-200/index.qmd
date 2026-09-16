@@ -3,6 +3,7 @@ title: "Appendix C. Dissimilarity dendrograms for plant species for Networks 199
 authors: "Cecilia Díaz‐Castelazo, Paulo R. Guimarães, Pedro Jordano et al."
 date: '2016-01-01'
 pub-journal: "Figshare"
+citation-detail: "2016"
 year: "2016"
 doi: 10.6084/m9.figshare.3544472
 citation-url: https://doi.org/10.6084/m9.figshare.3544472

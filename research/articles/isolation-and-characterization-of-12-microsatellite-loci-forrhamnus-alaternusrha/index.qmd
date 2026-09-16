@@ -4,6 +4,7 @@ authors: "Juan Arroyo, Rocío Rodríguez‐Arcos, Cristina Rigueiro et al."
 date: '2009-03-20'
 pub-journal: "Molecular Ecology Resources"
 volume-pages: "Vol. 9: 1216–1218"
+citation-detail: "2009, 9: 1216–1218"
 pages: "1216–1218"
 volume: "9"
 year: "2009"

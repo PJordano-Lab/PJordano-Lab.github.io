@@ -4,6 +4,7 @@ authors: "Eva Moracho, Etienne K. Klein, Sylvie Oddou‐Muratorio et al."
 date: '2024-01-30'
 pub-journal: "Molecular Ecology"
 volume-pages: "pp. e17285"
+citation-detail: "2024, e17285"
 pages: "e17285"
 year: "2024"
 doi: 10.1111/mec.17285

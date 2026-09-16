@@ -4,6 +4,7 @@ authors: "Marco A. R. Mello, Flávia Maria Darcie Marquitti, Paulo R. Guimarães
 date: '2011-02-28'
 pub-journal: "PLoS ONE"
 volume-pages: "Vol. 6: e17395"
+citation-detail: "2011, 6: e17395–e17395"
 pages: "e17395–e17395"
 volume: "6"
 year: "2011"

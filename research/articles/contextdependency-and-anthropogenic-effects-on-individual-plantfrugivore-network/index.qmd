@@ -4,6 +4,7 @@ authors: "M. Florencia Miguel, Pedro Jordano, Solana Tabeni et al."
 date: '2018-02-09'
 pub-journal: "Oikos"
 volume-pages: "Vol. 127: 1045–1059"
+citation-detail: "2018, 127: 1045–1059"
 pages: "1045–1059"
 volume: "127"
 year: "2018"

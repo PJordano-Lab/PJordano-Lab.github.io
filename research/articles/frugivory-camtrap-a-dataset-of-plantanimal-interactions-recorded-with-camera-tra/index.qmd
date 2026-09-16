@@ -4,6 +4,7 @@ authors: "Pablo Villalva, Blanca Arroyo‐Correa, Gemma Calvo et al."
 date: '2024-09-16'
 pub-journal: "Ecology"
 volume-pages: "Vol. 105: e4424"
+citation-detail: "2024, 105: e4424"
 pages: "e4424"
 volume: "105"
 year: "2024"

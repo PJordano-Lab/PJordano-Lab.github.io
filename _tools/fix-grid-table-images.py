@@ -92,7 +92,11 @@ def main():
     existing = []
     block = re.search(re.escape(START) + r"(.*?)" + re.escape(END), raw, re.S)
     if block:
-        existing = re.findall(r"^\[([^\]]+)\]:\s*(\S+)\s*$", block.group(1), re.M)
+        # a definition may carry a quoted title ([lab]: url "Title"), so the
+        # target is not always a single whitespace-free token - matching only
+        # \S+ silently dropped those definitions on rewrite
+        existing = re.findall(r"^\[([^\]]+)\]:\s*(\S+(?:\s+\"[^\"]*\")?)\s*$",
+                              block.group(1), re.M)
     by_target = {tgt: lab for lab, tgt in existing}
     next_n = 1 + max((int(m.group(1)) for lab, _ in existing
                       if (m := re.match(r"proj-(\d+)$", lab))), default=0)
@@ -115,8 +119,23 @@ def main():
                 md = normalise(joined)
                 m = re.match(r"^!\[([^\]]*)\]\(([^)]+)\)(\{[^}]*\})?\s*$", md)
                 if not m:
-                    continue
-                alt, target, attrs = m.group(1), m.group(2), m.group(3) or ""
+                    # One cell's attribute block is truncated in the export
+                    # ('{fig-align="center" width=' - no value, no closing
+                    # brace), so the strict pattern rejects it. Salvage the
+                    # complete key="value" pairs and drop the dangling
+                    # fragment; its value is not recoverable from the file.
+                    loose = re.match(r'^!\[([^\]]*)\]\(([^)]+)\)\s*\{(.*)$', md)
+                    if not loose:
+                        continue
+                    pairs = re.findall(r'[\w-]+="[^"]*"', loose.group(3))
+                    dangling = re.sub(r'[\w-]+="[^"]*"', "", loose.group(3)).strip(" }")
+                    if dangling:
+                        print(f"  salvaged a truncated attribute block; "
+                              f"dropped {dangling!r}")
+                    alt, target = loose.group(1), loose.group(2)
+                    attrs = "{" + " ".join(pairs) + "}" if pairs else ""
+                else:
+                    alt, target, attrs = m.group(1), m.group(2), m.group(3) or ""
                 label = by_target.get(target)
                 if label is None:
                     label = f"proj-{next_n:02d}"

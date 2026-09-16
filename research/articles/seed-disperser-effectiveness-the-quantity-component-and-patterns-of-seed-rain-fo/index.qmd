@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Eugene W. Schupp"
 date: '2000-11-01'
 pub-journal: "Ecological Monographs"
 volume-pages: "Vol. 70: 591–615"
+citation-detail: "2000, 70: 591–615"
 pages: "591–615"
 volume: "70"
 year: "2000"

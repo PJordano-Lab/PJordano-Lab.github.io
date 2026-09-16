@@ -3,6 +3,7 @@ title: "Importancia de la estructura de la vegetación en la selección del háb
 authors: "Pedro Jordano, J.A. Torres"
 date: '1981-12-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+citation-detail: "1981"
 year: "1981"
 format:
   html:

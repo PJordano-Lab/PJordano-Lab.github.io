@@ -4,6 +4,7 @@ authors: "Pâmela Friedemann, Marina Corrêa Côrtes, Everaldo Rodrigo de Castro
 date: '2021-12-22'
 pub-journal: "Oikos"
 volume-pages: "Vol. 2022: oik.08384"
+citation-detail: "2022, 2022: oik.08384"
 pages: "oik.08384"
 volume: "2022"
 year: "2022"

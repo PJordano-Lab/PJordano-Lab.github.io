@@ -4,6 +4,7 @@ authors: "Pablo Villalva, Elena Quintero, Jorge Isla et al."
 date: '2024-11-25'
 pub-journal: "Bulletin of the Ecological Society of America"
 volume-pages: "Vol. 106: e02197"
+citation-detail: "2024, 106: e02197"
 pages: "e02197"
 volume: "106"
 year: "2024"

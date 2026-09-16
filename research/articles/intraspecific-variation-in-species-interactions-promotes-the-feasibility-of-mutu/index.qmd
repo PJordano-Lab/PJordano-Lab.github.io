@@ -4,6 +4,7 @@ authors: "Blanca Arroyo‐Correa, Pedro Jordano, Ígnasi Bartomeus"
 date: '2023-01-23'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 26: 448–459"
+citation-detail: "2023, 26: 448–459"
 pages: "448–459"
 volume: "26"
 year: "2023"

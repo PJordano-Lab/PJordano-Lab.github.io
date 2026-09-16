@@ -4,6 +4,7 @@ authors: "Elena Quintero, Blanca Arroyo‐Correa, Jorge Isla et al."
 date: '2025-02-12'
 pub-journal: "Proceedings of the National Academy of Sciences"
 volume-pages: "Vol. 122: e2402342122"
+citation-detail: "2025, 122: e2402342122"
 pages: "e2402342122"
 volume: "122"
 year: "2025"

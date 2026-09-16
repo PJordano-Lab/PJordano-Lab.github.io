@@ -3,6 +3,7 @@ title: "Spatial and Temporal Dynamics of Seed Rain and Seedling Emergence in Ani
 authors: "Eugene W. Schupp, Arndt Hampe, Juan Luis García‐Castaño et al."
 date: '2005-01-01'
 pub-journal: "Digital Commons - USU (Utah State University)"
+citation-detail: "2005"
 year: "2005"
 format:
   html:

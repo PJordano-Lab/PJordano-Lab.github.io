@@ -4,6 +4,7 @@ authors: "Matthew C. Hutchinson, Bernat Bramon Mora, Shai Pilosof et al."
 date: '2018-11-09'
 pub-journal: "Functional Ecology"
 volume-pages: "Vol. 33: 206–217"
+citation-detail: "2018, 33: 206–217"
 pages: "206–217"
 volume: "33"
 year: "2018"

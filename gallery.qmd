@@ -23,7 +23,7 @@ extensions:
 ---
 
 ![Whinchat *Saxicola rubetra* Tarabilla
-Norteñai](static/images/banners/banner8.jpg){fig-align="center"}
+Norteña](static/images/banners/banner8.jpg){fig-align="center"}
 
 Photographs from our study systems, field sites and lab. Click any image to open
 it full size; camera details and capture date come from the files' own EXIF
@@ -90,4 +90,6 @@ Photographs for this gallery are not online yet. Drop JPEGs into
 
 Photographs for this gallery are not online yet. Drop JPEGs into `photos/lego/`
 and they will appear on the next render.
+
+![](static/images/icons/barrier.gif){fig-align="center"}
 :::

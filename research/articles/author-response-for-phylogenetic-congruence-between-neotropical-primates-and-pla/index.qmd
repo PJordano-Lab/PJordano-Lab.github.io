@@ -3,6 +3,7 @@ title: 'Author response for "Phylogenetic congruence between Neotropical primate
 authors: "Lisieux Fuzessy, Fernando A. O. Silveira, Laurence Culot et al."
 date: '2021-10-18'
 pub-journal: ""
+citation-detail: "2021"
 year: "2021"
 doi: 10.1111/ele.13918/v3/response1
 citation-url: https://doi.org/10.1111/ele.13918/v3/response1

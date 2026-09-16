@@ -4,6 +4,7 @@ authors: "Elena Valdés‐Correcher, Gemma Calvo, Cristina Rigueiro et al."
 date: '2025-09-15'
 pub-journal: "Plant Biology"
 volume-pages: "pp. plb.70115"
+citation-detail: "2025, plb.70115"
 pages: "plb.70115"
 year: "2025"
 doi: 10.1111/plb.70115

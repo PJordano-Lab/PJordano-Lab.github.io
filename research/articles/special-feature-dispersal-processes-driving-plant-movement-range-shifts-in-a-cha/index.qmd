@@ -3,6 +3,7 @@ title: "Special Feature: Dispersal processes driving plant movement: range shift
 authors: "Carolina García, Etienne K. Klein, Pedro Jordano"
 date: '2017-01-01'
 pub-journal: ""
+citation-detail: "2017"
 year: "2017"
 format:
   html:

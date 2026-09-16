@@ -4,6 +4,7 @@ authors: "Jofre Carnicer, Lluís Brotons, Daniel Sol et al."
 date: '2007-05-15'
 pub-journal: "Global Ecology and Biogeography"
 volume-pages: "Vol. 16: 709–719"
+citation-detail: "2007, 16: 709–719"
 pages: "709–719"
 volume: "16"
 year: "2007"

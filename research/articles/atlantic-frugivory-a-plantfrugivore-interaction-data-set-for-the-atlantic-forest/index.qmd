@@ -4,6 +4,7 @@ authors: "Carolina Bello, Mauro Galetti, Denise Montan et al."
 date: '2017-03-20'
 pub-journal: "Ecology"
 volume-pages: "Vol. 98: 1729"
+citation-detail: "2017, 98: 1729–1729"
 pages: "1729–1729"
 volume: "98"
 year: "2017"

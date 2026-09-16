@@ -3,6 +3,7 @@ title: "Seed co-occurrence caused by shared frugivores leaves a long-lasting sig
 authors: "Antonio J. Perea, Elena Quintero, Jorge Isla et al."
 date: '2025-07-15'
 pub-journal: ""
+citation-detail: "2025"
 year: "2025"
 doi: 10.22541/au.175259887.75717703/v1
 citation-url: https://doi.org/10.22541/au.175259887.75717703/v1

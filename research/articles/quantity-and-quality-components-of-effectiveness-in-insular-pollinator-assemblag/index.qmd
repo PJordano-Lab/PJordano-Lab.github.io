@@ -4,6 +4,7 @@ authors: "María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido"
 date: '2013-02-12'
 pub-journal: "Oecologia"
 volume-pages: "Vol. 173: 179–190"
+citation-detail: "2013, 173: 179–190"
 pages: "179–190"
 volume: "173"
 year: "2013"

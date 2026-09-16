@@ -4,6 +4,7 @@ authors: "Eugene W. Schupp, Pedro Jordano, José M. Gómez"
 date: '2010-07-28'
 pub-journal: "New Phytologist"
 volume-pages: "Vol. 188: 333–353"
+citation-detail: "2010, 188: 333–353"
 pages: "333–353"
 volume: "188"
 year: "2010"

@@ -4,6 +4,7 @@ authors: "Carlos J. Melián, Jordi Bascompte, Pedro Jordano et al."
 date: '2008-11-06'
 pub-journal: "Oikos"
 volume-pages: "Vol. 118: 122–130"
+citation-detail: "2009, 118: 122–130"
 pages: "122–130"
 volume: "118"
 year: "2009"

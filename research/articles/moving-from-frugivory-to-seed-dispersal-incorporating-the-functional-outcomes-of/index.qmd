@@ -4,6 +4,7 @@ authors: "Benno I. Simmons, William J. Sutherland, Lynn V. Dicks et al."
 date: '2018-03-31'
 pub-journal: "Journal of Animal Ecology"
 volume-pages: "Vol. 87: 995–1007"
+citation-detail: "2018, 87: 995–1007"
 pages: "995–1007"
 volume: "87"
 year: "2018"

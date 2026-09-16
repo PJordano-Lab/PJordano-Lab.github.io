@@ -4,6 +4,7 @@ authors: "Elena Quintero, Francisco Rodríguez‐Sánchez, Pedro Jordano"
 date: '2022-11-30'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 26: 132–146"
+citation-detail: "2023, 26: 132–146"
 pages: "132–146"
 volume: "26"
 year: "2023"

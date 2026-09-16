@@ -4,6 +4,7 @@ authors: "Carine Emer, Mauro Galetti, Marco Aurélio Pizo et al."
 date: '2018-01-24'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 21: 484–493"
+citation-detail: "2018, 21: 484–493"
 pages: "484–493"
 volume: "21"
 year: "2018"

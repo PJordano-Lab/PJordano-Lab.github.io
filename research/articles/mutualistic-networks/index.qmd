@@ -4,6 +4,7 @@ authors: "Jordi Bascompte, Pedro Jordano"
 date: '2013-12-31'
 pub-journal: "Princeton University Press eBooks"
 volume-pages: "pp. 1"
+citation-detail: "2014, 1"
 pages: "1"
 year: "2014"
 doi: 10.1515/9781400848720

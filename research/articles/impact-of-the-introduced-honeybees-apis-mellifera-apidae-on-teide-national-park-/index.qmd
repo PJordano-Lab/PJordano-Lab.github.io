@@ -3,6 +3,7 @@ title: "Impact of the introduced honeybees (Apis mellifera, Apidae) on Teide Nat
 authors: "Alfredo Valido, María C. Rodríguez‐Rodríguez, Pedro Jordano"
 date: '2014-12-23'
 pub-journal: "Ecosistemas"
+citation-detail: "2014"
 year: "2014"
 doi: 10.7818/ecos.2014.23-3.08
 citation-url: https://doi.org/10.7818/ecos.2014.23-3.08

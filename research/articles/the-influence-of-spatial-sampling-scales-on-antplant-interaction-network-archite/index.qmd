@@ -4,6 +4,7 @@ authors: "Wesley Dáttilo, Jeferson Vizentin‐Bugoni, Vanderlei J. Debastiani e
 date: '2019-03-18'
 pub-journal: "Journal of Animal Ecology"
 volume-pages: "Vol. 88: 903–914"
+citation-detail: "2019, 88: 903–914"
 pages: "903–914"
 volume: "88"
 year: "2019"

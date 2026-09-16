@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1994-12-01'
 pub-journal: "Oikos"
 volume-pages: "Vol. 71: 479–491"
+citation-detail: "1994, 71: 479–491"
 pages: "479–491"
 volume: "71"
 year: "1994"

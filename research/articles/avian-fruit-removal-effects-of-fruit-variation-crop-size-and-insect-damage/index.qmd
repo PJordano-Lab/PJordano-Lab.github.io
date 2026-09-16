@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1987-12-01'
 pub-journal: "Ecology"
 volume-pages: "Vol. 68: 1711–1723"
+citation-detail: "1987, 68: 1711–1723"
 pages: "1711–1723"
 volume: "68"
 year: "1987"

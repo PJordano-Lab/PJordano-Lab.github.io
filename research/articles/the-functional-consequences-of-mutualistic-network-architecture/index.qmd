@@ -4,6 +4,7 @@ authors: "José M. Gómez, Francisco Perfectti, Pedro Jordano"
 date: '2011-01-25'
 pub-journal: "PLoS ONE"
 volume-pages: "Vol. 6: e16143"
+citation-detail: "2011, 6: e16143–e16143"
 pages: "e16143–e16143"
 volume: "6"
 year: "2011"

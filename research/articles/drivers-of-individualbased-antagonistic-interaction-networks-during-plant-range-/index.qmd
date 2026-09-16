@@ -4,6 +4,7 @@ authors: "Jorge Isla, Miguel E. Jácome‐Flores, Daniel Pareja et al."
 date: '2022-06-08'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 110: 2190–2204"
+citation-detail: "2022, 110: 2190–2204"
 pages: "2190–2204"
 volume: "110"
 year: "2022"

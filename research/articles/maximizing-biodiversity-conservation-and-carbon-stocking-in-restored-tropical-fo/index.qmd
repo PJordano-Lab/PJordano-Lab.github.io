@@ -4,6 +4,7 @@ authors: "Pedro H. S. Brancalion, Carolina Bello, Robin L. Chazdon et al."
 date: '2018-04-16'
 pub-journal: "Conservation Letters"
 volume-pages: "Vol. 11"
+citation-detail: "2018, 11"
 volume: "11"
 year: "2018"
 doi: 10.1111/conl.12454

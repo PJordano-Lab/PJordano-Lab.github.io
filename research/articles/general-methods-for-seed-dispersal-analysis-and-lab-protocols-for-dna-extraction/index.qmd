@@ -3,6 +3,7 @@ title: "General methods for seed dispersal analysis and lab protocols for DNA ex
 authors: "Pedro Jordano, José A. Godoy"
 date: '2010-01-01'
 pub-journal: ""
+citation-detail: "2010"
 year: "2010"
 format:
   html:

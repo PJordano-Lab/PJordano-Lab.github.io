@@ -4,6 +4,7 @@ authors: "Scott L. Nuismer, Pedro Jordano, Jordi Bascompte"
 date: '2012-09-18'
 pub-journal: "Evolution"
 volume-pages: "Vol. 67: 338–354"
+citation-detail: "2013, 67: 338–354"
 pages: "338–354"
 volume: "67"
 year: "2013"

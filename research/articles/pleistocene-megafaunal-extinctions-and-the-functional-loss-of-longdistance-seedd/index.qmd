@@ -4,6 +4,7 @@ authors: "Mathias M. Pires, Paulo R. Guimarães, Mauro Galetti et al."
 date: '2017-06-28'
 pub-journal: "Ecography"
 volume-pages: "Vol. 41: 153–163"
+citation-detail: "2018, 41: 153–163"
 pages: "153–163"
 volume: "41"
 year: "2018"

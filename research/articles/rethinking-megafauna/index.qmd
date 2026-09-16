@@ -4,6 +4,7 @@ authors: "Marcos Moleón, José A. Sánchez‐Zapata, José A. Donázar et al."
 date: '2020-03-04'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
 volume-pages: "Vol. 287: 20192643"
+citation-detail: "2020, 287: 20192643"
 pages: "20192643"
 volume: "287"
 year: "2020"

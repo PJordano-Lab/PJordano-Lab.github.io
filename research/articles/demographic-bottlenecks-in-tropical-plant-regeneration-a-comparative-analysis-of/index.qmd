@@ -4,6 +4,7 @@ authors: "Débora Cristina Rother, Pedro Jordano, Ricardo Ribeiro Rodrigues et a
 date: '2013-01-08'
 pub-journal: "Perspectives in Plant Ecology Evolution and Systematics"
 volume-pages: "Vol. 15: 86–96"
+citation-detail: "2013, 15: 86–96"
 pages: "86–96"
 volume: "15"
 year: "2013"

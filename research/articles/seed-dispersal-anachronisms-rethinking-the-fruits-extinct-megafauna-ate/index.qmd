@@ -4,6 +4,7 @@ authors: "Paulo R. Guimarães, Mauro Galetti, Pedro Jordano"
 date: '2008-03-04'
 pub-journal: "PLoS ONE"
 volume-pages: "Vol. 3: e1745"
+citation-detail: "2008, 3: e1745"
 pages: "e1745"
 volume: "3"
 year: "2008"

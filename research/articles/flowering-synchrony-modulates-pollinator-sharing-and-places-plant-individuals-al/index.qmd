@@ -4,6 +4,7 @@ authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano"
 date: '2024-02-27'
 pub-journal: "Oikos"
 volume-pages: "Vol. 2024: e10477"
+citation-detail: "2024, 2024: e10477"
 pages: "e10477"
 volume: "2024"
 year: "2024"

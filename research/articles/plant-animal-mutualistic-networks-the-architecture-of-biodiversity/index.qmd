@@ -4,6 +4,7 @@ authors: "Jordi Bascompte, Pedro Jordano"
 date: '2007-12-01'
 pub-journal: "Annual Review of Ecology Evolution and Systematics"
 volume-pages: "Vol. 38: 567–593"
+citation-detail: "2007, 38: 567–593"
 pages: "567–593"
 volume: "38"
 year: "2007"

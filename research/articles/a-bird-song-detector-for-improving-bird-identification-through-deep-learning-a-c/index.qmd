@@ -4,6 +4,7 @@ authors: "Alba Márquez‐Rodríguez, Miguel A. Mohedano-Muñoz, Manuel J. Marí
 date: '2025-07-02'
 pub-journal: "Ecological Informatics"
 volume-pages: "Vol. 90: 103254"
+citation-detail: "2025, 90: 103254"
 pages: "103254"
 volume: "90"
 year: "2025"

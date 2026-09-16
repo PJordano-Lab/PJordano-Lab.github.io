@@ -3,6 +3,7 @@ title: "Appendix E. Detailed description of spatial point pattern analyses, plus
 authors: "María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido"
 date: '2016-01-01'
 pub-journal: "Figshare"
+citation-detail: "2016"
 year: "2016"
 doi: 10.6084/m9.figshare.3562767
 citation-url: https://doi.org/10.6084/m9.figshare.3562767

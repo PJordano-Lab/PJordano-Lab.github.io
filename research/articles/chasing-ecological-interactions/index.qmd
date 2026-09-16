@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '2016-09-15'
 pub-journal: "PLoS Biology"
 volume-pages: "Vol. 14: e1002559"
+citation-detail: "2016, 14: e1002559"
 pages: "e1002559"
 volume: "14"
 year: "2016"

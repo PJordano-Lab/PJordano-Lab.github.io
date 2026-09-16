@@ -4,6 +4,7 @@ authors: "Cecilia Díaz‐Castelazo, Paulo R. Guimarães, Pedro Jordano et al."
 date: '2010-03-01'
 pub-journal: "Ecology"
 volume-pages: "Vol. 91: 793–801"
+citation-detail: "2010, 91: 793–801"
 pages: "793–801"
 volume: "91"
 year: "2010"

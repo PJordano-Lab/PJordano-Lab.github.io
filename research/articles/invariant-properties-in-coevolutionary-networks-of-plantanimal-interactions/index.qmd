@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Jordi Bascompte, Jens M. Olesen"
 date: '2002-12-13'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 6: 69–81"
+citation-detail: "2003, 6: 69–81"
 pages: "69–81"
 volume: "6"
 year: "2003"

@@ -3,6 +3,7 @@ title: "X Reunión anual de Ecoflor"
 authors: "Rocío Santos‐Gally, Rocío Pérez‐Barrales, Juan Arroyo et al."
 date: '2013-08-26'
 pub-journal: "Ecosistemas"
+citation-detail: "2013"
 year: "2013"
 doi: 10.7818/ecos.2013.22-2.20
 citation-url: https://doi.org/10.7818/ecos.2013.22-2.20

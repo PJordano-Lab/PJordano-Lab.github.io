@@ -4,6 +4,7 @@ authors: "Camila I. Donatti, Mauro Galetti, Marco Aurélio Pizo et al."
 date: '2007-01-01'
 pub-journal: "CABI eBooks"
 volume-pages: "pp. 104–123"
+citation-detail: "2007, 104–123"
 pages: "104–123"
 year: "2007"
 doi: 10.1079/9781845931650.0104

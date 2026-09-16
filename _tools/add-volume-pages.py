@@ -28,18 +28,18 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 DIRS = [ROOT / "research" / "articles", ROOT / "research" / "working-papers"]
 
 
-def load_formatter():
-    """Import format_volume_pages from open-alex.py without its dependencies.
+def load_formatter(name="format_volume_pages"):
+    """Import a formatter from open-alex.py without pulling in its dependencies.
 
     The module imports `requests` at top level, which need not be installed to
     run this script, so the single function is exec'd out of the source.
     """
     src = (ROOT / "open-alex.py").read_text(encoding="utf-8")
-    start = src.index("def format_volume_pages")
+    start = src.index("def format_citation_detail")
     end = src.index("class OpenAlexArticleSync")
     ns = {"re": re}
     exec(src[start:end], ns)
-    return ns["format_volume_pages"]
+    return ns[name]
 
 
 def bibtex_fields(text, names=("volume", "pages", "year", "journal", "doi")):
@@ -138,7 +138,8 @@ def main():
     args = ap.parse_args()
 
     fmt = load_formatter()
-    counts = {"year": 0, "volume": 0, "pages": 0, "reference": 0}
+    detail_fmt = load_formatter("format_citation_detail")
+    counts = {"year": 0, "volume": 0, "pages": 0, "reference": 0, "detail": 0}
     no_bib = 0
     samples = []
 
@@ -172,6 +173,13 @@ def main():
             combined = fmt(bib.get("volume"), pages=bib.get("pages"))
             if combined:
                 new = apply(new, "volume-pages", combined)
+            # one compact column for the listing: year, volume and pages
+            pages_norm = re.sub(r"\s*(?:--|-|\u2010|\u2012|\u2014)\s*", "\u2013",
+                                bib.get("pages", "") or "")
+            detail = detail_fmt(bib.get("year"), bib.get("volume"), pages_norm)
+            if detail:
+                new = apply(new, "citation-detail", detail)
+                counts["detail"] = counts.get("detail", 0) + 1
 
             # a page that already shows an Oikos-style citation does not need a
             # second rendered reference
@@ -190,7 +198,8 @@ def main():
     for s_ in samples:
         print("  " + s_[:150])
     print(f"\nyear: {counts['year']} | volume: {counts['volume']} | "
-          f"pages: {counts['pages']} | reference blocks: {counts['reference']} | "
+          f"pages: {counts['pages']} | citation-detail: {counts['detail']} | "
+          f"reference blocks: {counts['reference']} | "
           f"no BibTeX block: {no_bib}"
           f"{' (dry run, nothing written)' if args.dry_run else ''}")
     return 0

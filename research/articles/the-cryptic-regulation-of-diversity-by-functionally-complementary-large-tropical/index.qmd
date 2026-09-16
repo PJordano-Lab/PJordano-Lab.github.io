@@ -4,6 +4,7 @@ authors: "Nacho Villar, Tadeu Siqueira, Valesca Zipparro et al."
 date: '2019-08-14'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 108: 279–290"
+citation-detail: "2020, 108: 279–290"
 pages: "279–290"
 volume: "108"
 year: "2020"

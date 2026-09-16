@@ -4,6 +4,7 @@ authors: "Arndt Hampe, Juan Luis García‐Castaño, Eugene W. Schupp et al."
 date: '2008-06-10'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 96: 668–678"
+citation-detail: "2008, 96: 668–678"
 pages: "668–678"
 volume: "96"
 year: "2008"

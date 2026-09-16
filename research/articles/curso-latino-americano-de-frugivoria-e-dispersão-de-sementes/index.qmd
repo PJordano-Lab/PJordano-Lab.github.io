@@ -4,6 +4,7 @@ authors: "Pedro Jordano, Mauro Galetti"
 date: '2010-09-23'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "Vol. 19: 89–93"
+citation-detail: "2010, 19: 89–93"
 pages: "89–93"
 volume: "19"
 year: "2010"

@@ -4,6 +4,7 @@ authors: "Pedro Jordano"
 date: '1991-12-01'
 pub-journal: "Botanical Gazette"
 volume-pages: "Vol. 152: 476–485"
+citation-detail: "1991, 152: 476–485"
 pages: "476–485"
 volume: "152"
 year: "1991"

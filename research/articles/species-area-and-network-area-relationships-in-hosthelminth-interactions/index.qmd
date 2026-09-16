@@ -4,6 +4,7 @@ authors: "Tad Dallas, Pedro Jordano"
 date: '2021-03-24'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
 volume-pages: "Vol. 288: 20203143"
+citation-detail: "2021, 288: 20203143"
 pages: "20203143"
 volume: "288"
 year: "2021"

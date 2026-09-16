@@ -3,6 +3,7 @@ title: "Informe del GTM sobre actividades empresariales innovadoras distintas de
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2021-05-02'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+citation-detail: "2021"
 year: "2021"
 doi: 10.20350/digitalcsic/13980
 citation-url: https://doi.org/10.20350/digitalcsic/13980
