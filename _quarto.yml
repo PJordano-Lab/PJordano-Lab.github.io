@@ -81,7 +81,7 @@ website:
       - icon: envelope
         href: mailto:jordano@ebd.csic.es
 
-  site-url: https://pjordanolab.github.io/
+  site-url: https://PJordano-Lab.github.io/
 
 format:
   html:

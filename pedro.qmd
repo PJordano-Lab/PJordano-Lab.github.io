@@ -19,7 +19,7 @@ wireframe of biodiversity, yet we are far from understanding how they evolve and
 coevolve. My main research tools to address this fascinating theme include field
 ecology, molecular genetics, and theoretical ecology.
 
-[Summary CV](http://pjordanolab.ebd.csic.es/markdown/ "CV") · [Google
+[Summary CV](http://PJordano-Lab.ebd.csic.es/markdown/ "CV") · [Google
 Scholar](https://scholar.google.es/citations?user=TrKYqaEAAAAJ&hl=en) ·
 [ResearchGate](https://www.researchgate.net/profile/Pedro_Jordano) ·
 [WordPress](https://pedrojordano.wordpress.com/) ·

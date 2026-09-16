@@ -1,6 +1,6 @@
-[submodule "PJordanoLab/themes/paper"]
-	path = PJordanoLab/themes/paper
+[submodule "PJordano-Lab/themes/paper"]
+	path = PJordano-Lab/themes/paper
 	url = https://github.com/nanxiaobei/hugo-paper
-[submodule "PJordanoLab/themes/hugo-theme-cleanwhite"]
-	path = PJordanoLab/themes/hugo-theme-cleanwhite
+[submodule "PJordano-Lab/themes/hugo-theme-cleanwhite"]
+	path = PJordano-Lab/themes/hugo-theme-cleanwhite
 	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git

@@ -97,7 +97,7 @@ Statistics & R tutorials by\
 ::::
 
 :::: resource-row
-[![](static/images/resources__files__stacks-image-b27a63f.jpg){fig-alt="Media"}](http://pjordanolab.ebd.csic.es/outreach/)
+[![](static/images/resources__files__stacks-image-b27a63f.jpg){fig-alt="Media"}](http://PJordano-Lab.ebd.csic.es/outreach/)
 
 ::: resource-text
 [Media](media.html "Media")
