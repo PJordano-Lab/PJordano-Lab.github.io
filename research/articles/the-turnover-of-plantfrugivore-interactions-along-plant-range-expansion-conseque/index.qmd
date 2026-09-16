@@ -3,6 +3,7 @@ title: "The turnover of plant–frugivore interactions along plant range expansi
 authors: "Jorge Isla, Miguel E. Jácome‐Flores, Juan Arroyo et al."
 date: '2023-05-24'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
+volume-pages: "Vol. 290: 20222547"
 doi: 10.1098/rspb.2022.2547
 citation-url: https://doi.org/10.1098/rspb.2022.2547
 format:

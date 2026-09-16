@@ -3,6 +3,7 @@ title: "Rangewide phylogeography of a bird‐dispersed Eurasian shrub: contrasti
 authors: "Arndt Hampe, Juan Arroyo, Pedro Jordano et al."
 date: '2003-10-28'
 pub-journal: "Molecular Ecology"
+volume-pages: "Vol. 12: 3415–3426"
 doi: 10.1046/j.1365-294x.2003.02006.x
 citation-url: https://doi.org/10.1046/j.1365-294x.2003.02006.x
 format:

@@ -3,6 +3,7 @@ title: "Large herbivores regulate the spatial recruitment of a hyperdominant Neo
 authors: "Javier Valverde, Carolina da Silva Carvalho, Pedro Jordano et al."
 date: '2020-10-25'
 pub-journal: "Biotropica"
+volume-pages: "Vol. 53: 286–295"
 doi: 10.1111/btp.12873
 citation-url: https://doi.org/10.1111/btp.12873
 format:

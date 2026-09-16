@@ -3,6 +3,7 @@ title: "Highly clustered mating networks in naturally fragmented riparian tree p
 authors: "Eva Moracho, Etienne K. Klein, Sylvie Oddou‐Muratorio et al."
 date: '2024-01-30'
 pub-journal: "Molecular Ecology"
+volume-pages: "pp. e17285"
 doi: 10.1111/mec.17285
 citation-url: https://doi.org/10.1111/mec.17285
 format:

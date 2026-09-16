@@ -3,6 +3,7 @@ title: "RAPD variation and population genetic structure in Prunus mahaleb (Rosac
 authors: "Pedro Jordano, José A. Godoy"
 date: '2000-09-01'
 pub-journal: "Molecular Ecology"
+volume-pages: "Vol. 9: 1293–1305"
 doi: 10.1046/j.1365-294x.2000.01009.x
 citation-url: https://doi.org/10.1046/j.1365-294x.2000.01009.x
 format:

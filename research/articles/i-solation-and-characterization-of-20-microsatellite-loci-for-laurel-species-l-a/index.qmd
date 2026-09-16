@@ -3,6 +3,7 @@ title: "I SOLATION AND CHARACTERIZATION OF 20 MICROSATELLITE LOCI FOR LAUREL SPE
 authors: "Juan Arroyo, Cristina Rigueiro, Arndt Hampe et al."
 date: '2010-01-01'
 pub-journal: ""
+volume-pages: "Vol. 97: E26–E30"
 format:
   html:
     toc: true

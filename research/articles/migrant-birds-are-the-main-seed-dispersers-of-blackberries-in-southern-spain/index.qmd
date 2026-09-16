@@ -3,6 +3,7 @@ title: "Migrant Birds Are the Main Seed Dispersers of Blackberries in Southern S
 authors: "Pedro Jordano"
 date: '1982-03-01'
 pub-journal: "Oikos"
+volume-pages: "Vol. 38: 183–193"
 doi: 10.2307/3544018
 citation-url: https://doi.org/10.2307/3544018
 format:

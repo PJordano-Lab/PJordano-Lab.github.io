@@ -3,6 +3,7 @@ title: "The ecological consequences of complex topology and nested structure in 
 authors: "Pedro Jordano, Jordi Bascompte, Jens M. Olesen"
 date: '2006-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+volume-pages: "pp. 173–199"
 format:
   html:
     toc: true

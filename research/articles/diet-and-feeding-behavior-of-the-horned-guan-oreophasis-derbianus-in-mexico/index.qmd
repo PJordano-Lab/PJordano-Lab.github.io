@@ -3,6 +3,7 @@ title: "Diet and Feeding Behavior of the Horned Guan ( Oreophasis derbianus ) In
 authors: "Fernando González‐García, Eduardo Santana-C., Pedro Jordano et al."
 date: '2017-12-01'
 pub-journal: "The Wilson Journal of Ornithology"
+volume-pages: "Vol. 129: 771–782"
 doi: 10.1676/16-041.1
 citation-url: https://doi.org/10.1676/16-041.1
 format:

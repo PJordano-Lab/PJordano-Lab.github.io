@@ -3,6 +3,7 @@ title: "Community‐based processes behind species richness gradients: contrasti
 authors: "Jofre Carnicer, Lluís Brotons, Daniel Sol et al."
 date: '2007-05-15'
 pub-journal: "Global Ecology and Biogeography"
+volume-pages: "Vol. 16: 709–719"
 doi: 10.1111/j.1466-8238.2007.00324.x
 citation-url: https://doi.org/10.1111/j.1466-8238.2007.00324.x
 format:

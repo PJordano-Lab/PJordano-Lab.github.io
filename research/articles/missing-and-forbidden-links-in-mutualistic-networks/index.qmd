@@ -3,6 +3,7 @@ title: "Missing and forbidden links in mutualistic networks"
 authors: "Jens M. Olesen, Jordi Bascompte, Yoko Luise Dupont et al."
 date: '2010-09-15'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
+volume-pages: "Vol. 278: 725–732"
 doi: 10.1098/rspb.2010.1371
 citation-url: https://doi.org/10.1098/rspb.2010.1371
 format:

@@ -3,6 +3,7 @@ title: "Context‐dependency and anthropogenic effects on individual plant–fru
 authors: "M. Florencia Miguel, Pedro Jordano, Solana Tabeni et al."
 date: '2018-02-09'
 pub-journal: "Oikos"
+volume-pages: "Vol. 127: 1045–1059"
 doi: 10.1111/oik.04978
 citation-url: https://doi.org/10.1111/oik.04978
 format:

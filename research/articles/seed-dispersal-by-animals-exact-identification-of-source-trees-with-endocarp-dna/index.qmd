@@ -3,6 +3,7 @@ title: "Seed dispersal by animals: exact identification of source trees with end
 authors: "José A. Godoy, Pedro Jordano"
 date: '2001-09-01'
 pub-journal: "Molecular Ecology"
+volume-pages: "Vol. 10: 2275–2283"
 doi: 10.1046/j.0962-1083.2001.01342.x
 citation-url: https://doi.org/10.1046/j.0962-1083.2001.01342.x
 format:

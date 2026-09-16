@@ -3,6 +3,7 @@ title: "Spatial variation of post-dispersal seed removal by rodents in highland 
 authors: "Juan Luis García‐Castaño, Johannes Kollmann, Pedro Jordano"
 date: '2006-09-01'
 pub-journal: "Seed Science Research"
+volume-pages: "Vol. 16: 213–222"
 doi: 10.1079/ssr2006245
 citation-url: https://doi.org/10.1079/ssr2006245
 format:

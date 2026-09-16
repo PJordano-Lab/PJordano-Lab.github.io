@@ -3,6 +3,7 @@ title: "Procesos de limitación demográfica"
 authors: "Pedro Jordano, Fernando Pulido, Juan Arroyo Marín et al."
 date: '2004-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+volume-pages: "pp. 229–248"
 format:
   html:
     toc: true

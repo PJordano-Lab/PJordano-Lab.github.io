@@ -3,6 +3,7 @@ title: "Fleshy‐Fruit Consumption in Doñana"
 authors: "Pablo Villalva, Elena Quintero, Jorge Isla et al."
 date: '2024-11-25'
 pub-journal: "Bulletin of the Ecological Society of America"
+volume-pages: "Vol. 106: e02197"
 doi: 10.1002/bes2.2197
 citation-url: https://doi.org/10.1002/bes2.2197
 format:

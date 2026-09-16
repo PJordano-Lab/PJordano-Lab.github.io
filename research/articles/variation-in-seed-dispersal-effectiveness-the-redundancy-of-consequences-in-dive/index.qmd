@@ -3,6 +3,7 @@ title: "Variation in seed dispersal effectiveness: the redundancy of consequence
 authors: "Débora Cristina Rother, Marco Aurélio Pizo, Pedro Jordano"
 date: '2015-09-08'
 pub-journal: "Oikos"
+volume-pages: "Vol. 125: 336–342"
 doi: 10.1111/oik.02629
 citation-url: https://doi.org/10.1111/oik.02629
 format:

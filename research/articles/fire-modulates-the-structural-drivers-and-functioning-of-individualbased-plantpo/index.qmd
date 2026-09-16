@@ -3,6 +3,7 @@ title: "Fire modulates the structural drivers and functioning of individual‐ba
 authors: "Larissa Alves-de-Lima, Diego Anjos, Blanca Arroyo‐Correa et al."
 date: '2026-05-01'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 114: e70348"
 doi: 10.1111/1365-2745.70348
 citation-url: https://doi.org/10.1111/1365-2745.70348
 format:

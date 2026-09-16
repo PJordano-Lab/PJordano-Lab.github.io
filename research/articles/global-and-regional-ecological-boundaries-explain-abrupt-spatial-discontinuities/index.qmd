@@ -3,6 +3,7 @@ title: "Global and regional ecological boundaries explain abrupt spatial discont
 authors: "Lucas Pereira Martins, Daniel B. Stouffer, Pedro G. Blendinger et al."
 date: '2022-11-14'
 pub-journal: "Nature Communications"
+volume-pages: "Vol. 13: 6943"
 doi: 10.1038/s41467-022-34355-w
 citation-url: https://doi.org/10.1038/s41467-022-34355-w
 format:

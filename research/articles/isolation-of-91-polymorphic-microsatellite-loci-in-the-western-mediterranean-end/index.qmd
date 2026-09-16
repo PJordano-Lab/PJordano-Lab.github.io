@@ -3,6 +3,7 @@ title: "Isolation of 91 polymorphic microsatellite loci in the western Mediterra
 authors: "Juan Arroyo, Marcial Escudero, Pedro Jordano"
 date: '2016-01-01'
 pub-journal: "Applications in Plant Sciences"
+volume-pages: "Vol. 4"
 doi: 10.3732/apps.1500085
 citation-url: https://doi.org/10.3732/apps.1500085
 format:

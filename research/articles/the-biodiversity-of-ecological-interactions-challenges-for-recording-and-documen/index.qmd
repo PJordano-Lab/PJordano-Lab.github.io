@@ -3,6 +3,7 @@ title: "The Biodiversity of Ecological Interactions: Challenges for recording an
 authors: "Pedro Jordano"
 date: '2021-09-21'
 pub-journal: "Biodiversity Information Science and Standards"
+volume-pages: "Vol. 5: e75564"
 doi: 10.3897/biss.5.75564
 citation-url: https://doi.org/10.3897/biss.5.75564
 format:

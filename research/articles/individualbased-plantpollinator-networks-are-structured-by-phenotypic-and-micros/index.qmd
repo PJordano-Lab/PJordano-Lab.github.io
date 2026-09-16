@@ -3,6 +3,7 @@ title: "Individual‐based plant–pollinator networks are structured by phenoty
 authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano"
 date: '2021-05-17'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 109: 2832–2844"
 doi: 10.1111/1365-2745.13694
 citation-url: https://doi.org/10.1111/1365-2745.13694
 format:

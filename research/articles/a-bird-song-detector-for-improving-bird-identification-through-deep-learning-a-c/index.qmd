@@ -3,6 +3,7 @@ title: "A bird song detector for improving bird identification through deep lear
 authors: "Alba Márquez‐Rodríguez, Miguel A. Mohedano-Muñoz, Manuel J. Marín‐Jiménez et al."
 date: '2025-07-02'
 pub-journal: "Ecological Informatics"
+volume-pages: "Vol. 90: 103254"
 doi: 10.1016/j.ecoinf.2025.103254
 citation-url: https://doi.org/10.1016/j.ecoinf.2025.103254
 format:

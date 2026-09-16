@@ -3,6 +3,7 @@ title: "A neutral‐niche theory of nestedness in mutualistic networks"
 authors: "Abhay Krishna, Paulo R. Guimarães, Pedro Jordano et al."
 date: '2008-10-28'
 pub-journal: "Oikos"
+volume-pages: "Vol. 117: 1609–1618"
 doi: 10.1111/j.1600-0706.2008.16540.x
 citation-url: https://doi.org/10.1111/j.1600-0706.2008.16540.x
 format:

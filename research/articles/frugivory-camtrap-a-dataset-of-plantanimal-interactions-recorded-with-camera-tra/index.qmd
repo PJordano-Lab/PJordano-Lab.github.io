@@ -3,6 +3,7 @@ title: "FRUGIVORY CAMTRAP : A dataset of plant–animal interactions recorded wi
 authors: "Pablo Villalva, Blanca Arroyo‐Correa, Gemma Calvo et al."
 date: '2024-09-16'
 pub-journal: "Ecology"
+volume-pages: "Vol. 105: e4424"
 doi: 10.1002/ecy.4424
 citation-url: https://doi.org/10.1002/ecy.4424
 format:

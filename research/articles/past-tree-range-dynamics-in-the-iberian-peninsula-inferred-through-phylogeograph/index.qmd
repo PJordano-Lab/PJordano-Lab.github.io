@@ -3,6 +3,7 @@ title: "Past tree range dynamics in the Iberian Peninsula inferred through phylo
 authors: "Francisco Rodríguez‐Sánchez, Arndt Hampe, Pedro Jordano et al."
 date: '2010-04-17'
 pub-journal: "Review of Palaeobotany and Palynology"
+volume-pages: "Vol. 162: 507–521"
 doi: 10.1016/j.revpalbo.2010.03.008
 citation-url: https://doi.org/10.1016/j.revpalbo.2010.03.008
 format:

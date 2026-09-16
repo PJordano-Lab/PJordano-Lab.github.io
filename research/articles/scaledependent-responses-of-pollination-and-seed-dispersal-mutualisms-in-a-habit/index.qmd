@@ -3,6 +3,7 @@ title: "Scale‐dependent responses of pollination and seed dispersal mutualisms
 authors: "Francisco E. Fontúrbel, Pedro Jordano, Rodrigo Medel"
 date: '2015-06-27'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 103: 1334–1343"
 doi: 10.1111/1365-2745.12443
 citation-url: https://doi.org/10.1111/1365-2745.12443
 format:

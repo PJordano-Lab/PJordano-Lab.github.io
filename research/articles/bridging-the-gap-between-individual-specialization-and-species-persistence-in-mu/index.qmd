@@ -3,6 +3,7 @@ title: "Bridging the gap between individual specialization and species persisten
 authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano et al."
 date: '2025-08-01'
 pub-journal: "Ecological Monographs"
+volume-pages: "Vol. 95: e70031"
 doi: 10.1002/ecm.70031
 citation-url: https://doi.org/10.1002/ecm.70031
 format:

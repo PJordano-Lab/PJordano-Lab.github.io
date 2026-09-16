@@ -3,6 +3,7 @@ title: "Functional roles of frugivores and plants shape hyper‐diverse mutualis
 authors: "Lisieux Fuzessy, Gisela Sobral, Daiane Carreira et al."
 date: '2022-01-30'
 pub-journal: "Biotropica"
+volume-pages: "Vol. 54: 444–454"
 doi: 10.1111/btp.13065
 citation-url: https://doi.org/10.1111/btp.13065
 format:

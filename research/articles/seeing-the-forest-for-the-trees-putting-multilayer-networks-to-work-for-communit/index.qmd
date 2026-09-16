@@ -3,6 +3,7 @@ title: "Seeing the forest for the trees: Putting multilayer networks to work for
 authors: "Matthew C. Hutchinson, Bernat Bramon Mora, Shai Pilosof et al."
 date: '2018-11-09'
 pub-journal: "Functional Ecology"
+volume-pages: "Vol. 33: 206–217"
 doi: 10.1111/1365-2435.13237
 citation-url: https://doi.org/10.1111/1365-2435.13237
 format:

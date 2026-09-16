@@ -3,6 +3,7 @@ title: "Geographical variation in seed production, predation and abortion in Jun
 authors: "Daniel Garcı́a, Regino Zamora, José M. Gómez et al."
 date: '2000-06-01'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 88: 436–446"
 doi: 10.1046/j.1365-2745.2000.00459.x
 citation-url: https://doi.org/10.1046/j.1365-2745.2000.00459.x
 format:

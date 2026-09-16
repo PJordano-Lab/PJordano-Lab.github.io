@@ -3,6 +3,7 @@ title: "Founder events and subsequent genetic bottlenecks underlie karyotype evo
 authors: "Marcial Escudero, Juan Arroyo, Santiago Sánchez‐Ramírez et al."
 date: '2023-07-03'
 pub-journal: "Annals of Botany"
+volume-pages: "Vol. 133: 871–882"
 doi: 10.1093/aob/mcad087
 citation-url: https://doi.org/10.1093/aob/mcad087
 format:

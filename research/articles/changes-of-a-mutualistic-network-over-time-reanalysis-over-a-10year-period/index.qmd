@@ -3,6 +3,7 @@ title: "Changes of a mutualistic network over time: reanalysis over a 10‐year 
 authors: "Cecilia Díaz‐Castelazo, Paulo R. Guimarães, Pedro Jordano et al."
 date: '2010-03-01'
 pub-journal: "Ecology"
+volume-pages: "Vol. 91: 793–801"
 doi: 10.1890/08-1883.1
 citation-url: https://doi.org/10.1890/08-1883.1
 format:

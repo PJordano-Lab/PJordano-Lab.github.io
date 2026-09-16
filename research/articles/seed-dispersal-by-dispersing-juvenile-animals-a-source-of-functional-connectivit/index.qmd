@@ -3,6 +3,7 @@ title: "Seed dispersal by dispersing juvenile animals: a source of functional co
 authors: "Juan P. González‐Varo, Sarah Díaz-García, Juan Arroyo et al."
 date: '2019-07-01'
 pub-journal: "Biology Letters"
+volume-pages: "Vol. 15: 20190264"
 doi: 10.1098/rsbl.2019.0264
 citation-url: https://doi.org/10.1098/rsbl.2019.0264
 format:

@@ -3,6 +3,7 @@ title: "Unravelling seed dispersal through fragmented landscapes: Frugivore spec
 authors: "Juan P. González‐Varo, Carolina da Silva Carvalho, Juan Arroyo et al."
 date: '2017-05-14'
 pub-journal: "Molecular Ecology"
+volume-pages: "Vol. 26: 4309–4321"
 doi: 10.1111/mec.14181
 citation-url: https://doi.org/10.1111/mec.14181
 format:

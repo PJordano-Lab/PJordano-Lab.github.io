@@ -3,6 +3,7 @@ title: "Alimentación y relaciones tróficas entre los paseriformes en paso oto�
 authors: "Pedro Jordano, Diego de San Pedro"
 date: '1981-01-01'
 pub-journal: ""
+volume-pages: "Vol. 8: 103–124"
 format:
   html:
     toc: true

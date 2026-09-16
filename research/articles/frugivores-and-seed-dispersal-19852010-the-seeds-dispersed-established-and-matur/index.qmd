@@ -3,6 +3,7 @@ title: "Frugivores and seed dispersal (1985–2010); the ‘seeds’ dispersed, 
 authors: "Pierre‐Michel Forget, Pedro Jordano, Joanna E. Lambert et al."
 date: '2011-10-22'
 pub-journal: "Acta Oecologica"
+volume-pages: "Vol. 37: 517–520"
 doi: 10.1016/j.actao.2011.09.008
 citation-url: https://doi.org/10.1016/j.actao.2011.09.008
 format:

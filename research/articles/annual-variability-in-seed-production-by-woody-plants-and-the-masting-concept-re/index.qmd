@@ -3,6 +3,7 @@ title: "Annual Variability in Seed Production by Woody Plants and the Masting Co
 authors: "Carlos M. Herrera, Pedro Jordano, Javier Guitián et al."
 date: '1998-10-01'
 pub-journal: "The American Naturalist"
+volume-pages: "Vol. 152: 576–594"
 doi: 10.1086/286191
 citation-url: https://doi.org/10.1086/286191
 format:

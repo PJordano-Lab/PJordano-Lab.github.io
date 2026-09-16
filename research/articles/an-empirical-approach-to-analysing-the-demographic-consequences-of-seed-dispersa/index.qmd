@@ -3,6 +3,7 @@ title: "An empirical approach to analysing the demographic consequences of seed 
 authors: "Héctor Godínez–Álvarez, Pedro Jordano"
 date: '2007-01-01'
 pub-journal: "CABI eBooks"
+volume-pages: "pp. 391–406"
 doi: 10.1079/9781845931650.0391
 citation-url: https://doi.org/10.1079/9781845931650.0391
 format:

@@ -3,6 +3,7 @@ title: "Frugivore-mediated seed dispersal in fragmented landscapes: Compositiona
 authors: "Juan P. González‐Varo, Jörg Albrecht, Juan Arroyo et al."
 date: '2023-10-23'
 pub-journal: "Proceedings of the National Academy of Sciences"
+volume-pages: "Vol. 120: e2302440120"
 doi: 10.1073/pnas.2302440120
 citation-url: https://doi.org/10.1073/pnas.2302440120
 format:

@@ -3,6 +3,7 @@ title: "Spatio‐temporal dynamics and local hotspots of initial recruitment in 
 authors: "Arndt Hampe, Juan Luis García‐Castaño, Eugene W. Schupp et al."
 date: '2008-06-10'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 96: 668–678"
 doi: 10.1111/j.1365-2745.2008.01364.x
 citation-url: https://doi.org/10.1111/j.1365-2745.2008.01364.x
 format:

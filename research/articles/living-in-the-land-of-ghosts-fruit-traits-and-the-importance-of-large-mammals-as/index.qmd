@@ -3,6 +3,7 @@ title: "Living in the land of ghosts: fruit traits and the importance of large m
 authors: "Camila I. Donatti, Mauro Galetti, Marco Aurélio Pizo et al."
 date: '2007-01-01'
 pub-journal: "CABI eBooks"
+volume-pages: "pp. 104–123"
 doi: 10.1079/9781845931650.0104
 citation-url: https://doi.org/10.1079/9781845931650.0104
 format:

@@ -3,6 +3,7 @@ title: "Unusually limited pollen dispersal and connectivity of P edunculate oak 
 authors: "Eva Moracho, Gerardo Moreno, Pedro Jordano et al."
 date: '2016-05-05'
 pub-journal: "Molecular Ecology"
+volume-pages: "Vol. 25: 3319–3331"
 doi: 10.1111/mec.13692
 citation-url: https://doi.org/10.1111/mec.13692
 format:

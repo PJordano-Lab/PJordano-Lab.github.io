@@ -3,6 +3,7 @@ title: "Spatial and Temporal Variation in the Avian-Frugivore Assemblage of Prun
 authors: "Pedro Jordano"
 date: '1994-12-01'
 pub-journal: "Oikos"
+volume-pages: "Vol. 71: 479–491"
 doi: 10.2307/3545836
 citation-url: https://doi.org/10.2307/3545836
 format:

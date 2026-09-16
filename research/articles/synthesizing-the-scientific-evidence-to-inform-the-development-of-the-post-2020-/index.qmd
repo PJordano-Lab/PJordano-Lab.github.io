@@ -3,6 +3,7 @@ title: "Synthesizing the scientific evidence to inform the development of the po
 authors: "Sandra Dı́az, Fabrice DeClerck, Susanna Dobrota et al."
 date: '2020-05-08'
 pub-journal: "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)"
+volume-pages: "Vol. CBD/SBSTTA/24/INF/9: 66 pp."
 format:
   html:
     toc: true

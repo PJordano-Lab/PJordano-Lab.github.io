@@ -3,6 +3,7 @@ title: "El ciclo anual de los Paseriformes frugívoros en el matorral mediterrá
 authors: "Pedro Jordano"
 date: '1985-06-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+volume-pages: "Vol. 32: 69–94"
 format:
   html:
     toc: true

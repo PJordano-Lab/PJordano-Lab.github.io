@@ -3,6 +3,7 @@ title: "Non-random coextinctions in phylogenetically structured mutualistic netw
 authors: "Enrico L. Rezende, Jessica E. Lavabre, Paulo R. Guimarães et al."
 date: '2007-08-01'
 pub-journal: "Nature"
+volume-pages: "Vol. 448: 925–U6"
 doi: 10.1038/nature05956
 citation-url: https://doi.org/10.1038/nature05956
 format:

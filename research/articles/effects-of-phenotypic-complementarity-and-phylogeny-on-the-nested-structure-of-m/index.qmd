@@ -3,6 +3,7 @@ title: "Effects of phenotypic complementarity and phylogeny on the nested struct
 authors: "Enrico L. Rezende, Pedro Jordano, Jordi Bascompte"
 date: '2007-11-01'
 pub-journal: "Oikos"
+volume-pages: "Vol. 116: 1919–1929"
 doi: 10.1111/j.0030-1299.2007.16029.x
 citation-url: https://doi.org/10.1111/j.0030-1299.2007.16029.x
 format:

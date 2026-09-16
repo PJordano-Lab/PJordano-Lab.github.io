@@ -3,6 +3,7 @@ title: "Functional Extinction of Birds Drives Rapid Evolutionary Changes in Seed
 authors: "Mauro Galetti, Roger Guevara, Marina Corrêa Côrtes et al."
 date: '2013-05-30'
 pub-journal: "Science"
+volume-pages: "Vol. 340: 1086–1091"
 doi: 10.1126/science.1233774
 citation-url: https://doi.org/10.1126/science.1233774
 format:

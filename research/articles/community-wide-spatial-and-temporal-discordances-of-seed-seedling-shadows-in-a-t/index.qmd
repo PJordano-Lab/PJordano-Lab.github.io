@@ -3,6 +3,7 @@ title: "Community-Wide Spatial and Temporal Discordances of Seed-Seedling Shadow
 authors: "Débora Cristina Rother, Marco Aurélio Pizo, Tadeu Siqueira et al."
 date: '2015-04-09'
 pub-journal: "PLoS ONE"
+volume-pages: "Vol. 10: e0123346"
 doi: 10.1371/journal.pone.0123346
 citation-url: https://doi.org/10.1371/journal.pone.0123346
 format:

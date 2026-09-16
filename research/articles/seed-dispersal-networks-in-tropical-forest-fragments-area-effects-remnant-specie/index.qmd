@@ -3,6 +3,7 @@ title: "Seed dispersal networks in tropical forest fragments: Area effects, remn
 authors: "Carine Emer, Pedro Jordano, Marco Aurélio Pizo et al."
 date: '2019-12-16'
 pub-journal: "Biotropica"
+volume-pages: "Vol. 52: 81–89"
 doi: 10.1111/btp.12738
 citation-url: https://doi.org/10.1111/btp.12738
 format:

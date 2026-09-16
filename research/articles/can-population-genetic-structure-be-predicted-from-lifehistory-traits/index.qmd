@@ -3,6 +3,7 @@ title: "Can Population Genetic Structure Be Predicted from Life‐History Traits
 authors: "Jérôme Duminil, Silvia Fineschi, Arndt Hampe et al."
 date: '2007-04-06'
 pub-journal: "The American Naturalist"
+volume-pages: "Vol. 169: 662–672"
 doi: 10.1086/513490
 citation-url: https://doi.org/10.1086/513490
 format:

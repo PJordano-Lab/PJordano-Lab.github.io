@@ -3,6 +3,7 @@ title: "Pre-Dispersal Biology of Pistacia lentiscus (Anacardiaceae): Cumulative 
 authors: "Pedro Jordano"
 date: '1989-07-01'
 pub-journal: "Oikos"
+volume-pages: "Vol. 55: 375–386"
 doi: 10.2307/3565598
 citation-url: https://doi.org/10.2307/3565598
 format:

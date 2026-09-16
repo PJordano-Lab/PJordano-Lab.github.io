@@ -3,6 +3,7 @@ title: "Biología de la reproducción de tres especies del género lonicera (Cap
 authors: "Pedro Jordano"
 date: '1990-01-01'
 pub-journal: "Dialnet (Universidad de la Rioja)"
+volume-pages: "Vol. 48: 31–52"
 format:
   html:
     toc: true

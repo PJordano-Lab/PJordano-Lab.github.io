@@ -3,6 +3,7 @@ title: "Hotspots of damage by antagonists shape the spatial structure of plant�
 authors: "María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido"
 date: '2015-02-25'
 pub-journal: "Ecology"
+volume-pages: "Vol. 96: 2181–2191"
 doi: 10.1890/14-2467.1
 citation-url: https://doi.org/10.1890/14-2467.1
 format:

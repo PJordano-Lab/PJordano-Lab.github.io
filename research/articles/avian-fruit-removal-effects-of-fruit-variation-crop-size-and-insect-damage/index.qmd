@@ -3,6 +3,7 @@ title: "Avian Fruit Removal: Effects of Fruit Variation, Crop Size, and Insect D
 authors: "Pedro Jordano"
 date: '1987-12-01'
 pub-journal: "Ecology"
+volume-pages: "Vol. 68: 1711–1723"
 doi: 10.2307/1939863
 citation-url: https://doi.org/10.2307/1939863
 format:

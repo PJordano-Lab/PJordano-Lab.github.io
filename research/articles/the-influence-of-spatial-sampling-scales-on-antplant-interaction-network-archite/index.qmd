@@ -3,6 +3,7 @@ title: "The influence of spatial sampling scales on ant–plant interaction netw
 authors: "Wesley Dáttilo, Jeferson Vizentin‐Bugoni, Vanderlei J. Debastiani et al."
 date: '2019-03-18'
 pub-journal: "Journal of Animal Ecology"
+volume-pages: "Vol. 88: 903–914"
 doi: 10.1111/1365-2656.12978
 citation-url: https://doi.org/10.1111/1365-2656.12978
 format:

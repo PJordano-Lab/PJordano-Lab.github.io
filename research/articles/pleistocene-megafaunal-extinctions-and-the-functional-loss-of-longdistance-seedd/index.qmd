@@ -3,6 +3,7 @@ title: "Pleistocene megafaunal extinctions and the functional loss of long‐dis
 authors: "Mathias M. Pires, Paulo R. Guimarães, Mauro Galetti et al."
 date: '2017-06-28'
 pub-journal: "Ecography"
+volume-pages: "Vol. 41: 153–163"
 doi: 10.1111/ecog.03163
 citation-url: https://doi.org/10.1111/ecog.03163
 format:

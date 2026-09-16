@@ -3,6 +3,7 @@ title: "Frugivory, external morphology and digestive system in mediterranean syl
 authors: "Pedro Jordano"
 date: '1987-01-01'
 pub-journal: "Ibis"
+volume-pages: "Vol. 129: 175–189"
 doi: 10.1111/j.1474-919x.1987.tb03199.x
 citation-url: https://doi.org/10.1111/j.1474-919x.1987.tb03199.x
 format:

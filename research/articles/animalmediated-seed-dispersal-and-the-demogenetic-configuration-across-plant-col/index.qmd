@@ -3,6 +3,7 @@ title: "Animal‐mediated seed dispersal and the demo‐genetic configuration ac
 authors: "Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al."
 date: '2024-02-19'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 112: 1013–1025"
 doi: 10.1111/1365-2745.14280
 citation-url: https://doi.org/10.1111/1365-2745.14280
 format:

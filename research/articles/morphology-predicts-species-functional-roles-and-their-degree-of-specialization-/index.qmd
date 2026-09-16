@@ -3,6 +3,7 @@ title: "Morphology predicts species' functional roles and their degree of specia
 authors: "D. Matthias Dehling, Pedro Jordano, H. Martin Schaefer et al."
 date: '2016-01-27'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
+volume-pages: "Vol. 283: 20152444"
 doi: 10.1098/rspb.2015.2444
 citation-url: https://doi.org/10.1098/rspb.2015.2444
 format:

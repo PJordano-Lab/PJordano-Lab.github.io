@@ -3,6 +3,7 @@ title: "Reciprocity and interaction effectiveness in generalised mutualisms amon
 authors: "Elena Quintero, Francisco Rodríguez‐Sánchez, Pedro Jordano"
 date: '2022-11-30'
 pub-journal: "Ecology Letters"
+volume-pages: "Vol. 26: 132–146"
 doi: 10.1111/ele.14141
 citation-url: https://doi.org/10.1111/ele.14141
 format:

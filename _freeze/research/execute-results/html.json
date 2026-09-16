@@ -1,8 +1,8 @@
 {
-  "hash": "c1e7ed471921c68839165a51f8e84996",
+  "hash": "5b18913a4b2069b749d867ed8bcd8495",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Publications\"\npagetitle: \"Publications — Pedro Jordano\"\ntitle-block-banner: \"#1a1c20\"\ntoc: true\ntoc-title: \"Contents\"\n\nlisting:\n  - id: articles\n    contents: \"research/articles/*/index.qmd\"\n    sort: \"date desc\"\n    type: table\n    page-size: 100\n    sort-ui: true\n    filter-ui: true\n    fields: [date, title, pub-journal, authors]\n\n  - id: working-papers\n    contents: \"research/working-papers/*/index.qmd\"\n    sort: \"date desc\"\n    type: table\n    page-size: 100\n    sort-ui: false\n    filter-ui: false\n    fields: [date, title, authors]\n\ndate-format: \"YYYY\"\n---\n\n::: {.cell}\n\n:::\n\n\n\n## Published Articles {#published-articles}\n\n::: {#articles}\n:::\n\n## Working Papers {#working-papers}\n",
+    "markdown": "![](static/images/tesla_banners/banner_23_medium_out.jpg){fig-align=\"center\"\nwidth=\"100%\"}\n\n\n\n\n---\ntitle: \"Publications\"\npagetitle: \"Publications — Pedro Jordano\"\ntitle-block-banner: \"#1a1c20\"\ntoc: true\ntoc-title: \"Contents\"\n\nlisting:\n  - id: articles\n    contents: \"research/articles/*/index.qmd\"\n    sort: \"date desc\"\n    type: table\n    page-size: 100\n    sort-ui: true\n    filter-ui: true\n    fields: [date, title, pub-journal, volume-pages, authors]\n    field-display-names:\n      pub-journal: \"Journal\"\n      volume-pages: \"Vol. / pages\"\n      authors: \"Authors\"\n\n  - id: working-papers\n    contents: \"research/working-papers/*/index.qmd\"\n    sort: \"date desc\"\n    type: table\n    page-size: 100\n    sort-ui: false\n    filter-ui: false\n    fields: [date, title, volume-pages, authors]\n    field-display-names:\n      volume-pages: \"Vol. / pages\"\n      authors: \"Authors\"\n\ndate-format: \"YYYY\"\n---\n\n::: {.cell}\n\n:::\n\n\n\n\n## Published Articles {#published-articles}\n\n::: {#articles}\n:::\n\n## Working Papers {#working-papers}",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

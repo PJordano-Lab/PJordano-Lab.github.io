@@ -3,6 +3,7 @@ title: "Biodiversity, Species Interactions and Ecological Networks in a Fragment
 authors: "Melanie Hagen, W. Daniel Kissling, Claus Rasmussen et al."
 date: '2012-01-01'
 pub-journal: "Advances in ecological research/Advances in Ecological Research"
+volume-pages: "Vol. 46: 89–120"
 doi: 10.1016/b978-0-12-396992-7.00002-2
 citation-url: https://doi.org/10.1016/b978-0-12-396992-7.00002-2
 format:

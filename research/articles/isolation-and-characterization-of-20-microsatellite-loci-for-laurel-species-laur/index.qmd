@@ -3,6 +3,7 @@ title: "Isolation and characterization of 20 microsatellite loci for laurel spec
 authors: "Juan Arroyo, Cristina Rigueiro, Rocío Rodríguez‐Arcos et al."
 date: '2010-04-01'
 pub-journal: "American Journal of Botany"
+volume-pages: "Vol. 97: E26–E30"
 doi: 10.3732/ajb.1000069
 citation-url: https://doi.org/10.3732/ajb.1000069
 format:

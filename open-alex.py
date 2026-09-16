@@ -19,6 +19,39 @@ MAX_PER_PAGE = 200
 DEFAULT_MAILTO = "jordano@ebd.csic.es"
 
 
+def format_volume_pages(volume=None, first_page=None, last_page=None, pages=None):
+    """Combined citation-detail string, e.g. 'Vol. 64: 1021-1035' (en dash).
+
+    Both halves are optional: a volume with no pagination gives 'Vol. 64', and
+    pagination with no volume gives 'pp. 1021-1035'. Article-number pages
+    (e.g. 'e12345', '20230411') are emitted as-is, since a range dash would be
+    wrong there.
+    """
+    volume = (str(volume).strip() if volume not in (None, '') else '')
+    if pages in (None, ''):
+        fp = str(first_page).strip() if first_page not in (None, '') else ''
+        lp = str(last_page).strip() if last_page not in (None, '') else ''
+        if fp and lp and fp != lp:
+            pages = f"{fp}\u2013{lp}"
+        else:
+            pages = fp or lp
+    else:
+        pages = str(pages).strip()
+        # BibTeX writes ranges as 1021--1035; normalise any dash to an en dash
+        pages = re.sub(r"\s*(?:--|-|\u2010|\u2012|\u2014)\s*", "\u2013", pages)
+        head, _, tail = pages.partition("\u2013")
+        if tail and head == tail:
+            pages = head
+
+    if volume and pages:
+        return f"Vol. {volume}: {pages}"
+    if volume:
+        return f"Vol. {volume}"
+    if pages:
+        return f"pp. {pages}"
+    return ''
+
+
 class OpenAlexArticleSync:
     def __init__(self, bibtex_path="_bibliography/papers.bib", mailto=None, api_key=None):
         self.base_url = "https://api.openalex.org"
@@ -217,6 +250,14 @@ class OpenAlexArticleSync:
             if isinstance(ids, dict) and 'pmid' in ids:
                 pmid = ids['pmid']
 
+            # OpenAlex carries volume/issue/pagination in `biblio`; any of the
+            # four can be absent or an explicit null
+            biblio = work.get('biblio') or {}
+            volume = biblio.get('volume') or ''
+            issue = biblio.get('issue') or ''
+            first_page = biblio.get('first_page') or ''
+            last_page = biblio.get('last_page') or ''
+
             article = {
                 'title': title,
                 'author': author_str_trunc,
@@ -234,6 +275,11 @@ class OpenAlexArticleSync:
                 'openalex_id': work.get('id', ''),
                 'work_type': work.get('type', ''),
                 'pmid': pmid,
+                'volume': volume,
+                'issue': issue,
+                'first_page': first_page,
+                'last_page': last_page,
+                'volume_pages': format_volume_pages(volume, first_page, last_page),
             }
 
             articles.append(article)
@@ -380,7 +426,8 @@ class OpenAlexArticleSync:
         fieldnames = [
             'title', 'authors', 'author_count', 'year', 'publication_date',
             'journal', 'publisher', 'type', 'is_oa', 'doi', 'doi_url',
-            'pdf_url', 'openalex_id', 'pmid', 'cited_by_count'
+            'pdf_url', 'openalex_id', 'pmid', 'cited_by_count',
+            'volume', 'issue', 'first_page', 'last_page', 'volume_pages'
         ]
 
         with open(output_path, 'w', newline='', encoding='utf-8') as f:
@@ -403,6 +450,11 @@ class OpenAlexArticleSync:
                     'openalex_id': a.get('openalex_id', ''),
                     'pmid': a.get('pmid', ''),
                     'cited_by_count': a.get('cited_by_count', 0),
+                    'volume': a.get('volume', ''),
+                    'issue': a.get('issue', ''),
+                    'first_page': a.get('first_page', ''),
+                    'last_page': a.get('last_page', ''),
+                    'volume_pages': a.get('volume_pages', ''),
                 })
 
         print(f"Wrote {len(articles)} entries to {output_path}")
@@ -459,6 +511,10 @@ class OpenAlexArticleSync:
             f"date: '{date}'",
             f'pub-journal: "{venue}"',
         ]
+        vol_pages = article.get('volume_pages') or format_volume_pages(
+            article.get('volume'), article.get('first_page'), article.get('last_page'))
+        if vol_pages:
+            lines.append(f'volume-pages: "{vol_pages}"')
         if doi:
             lines += [f'doi: {doi}', f'citation-url: {doi_url}']
         lines += ['format:', '  html:', '    toc: true', '---', '']

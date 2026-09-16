@@ -3,6 +3,7 @@ title: "Lasting effects of avian‐frugivore interactions on seed dispersal and 
 authors: "Elena Quintero, Juan Arroyo, Rodolfo Dirzo et al."
 date: '2024-01-21'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 112: 656–672"
 doi: 10.1111/1365-2745.14260
 citation-url: https://doi.org/10.1111/1365-2745.14260
 format:

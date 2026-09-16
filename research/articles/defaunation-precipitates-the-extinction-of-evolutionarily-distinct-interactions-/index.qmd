@@ -3,6 +3,7 @@ title: "Defaunation precipitates the extinction of evolutionarily distinct inter
 authors: "Carine Emer, Mauro Galetti, Marco Aurélio Pizo et al."
 date: '2019-06-01'
 pub-journal: "Science Advances"
+volume-pages: "Vol. 5: eaav6699"
 doi: 10.1126/sciadv.aav6699
 citation-url: https://doi.org/10.1126/sciadv.aav6699
 format:

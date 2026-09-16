@@ -3,6 +3,7 @@ title: "Fruit resource provisioning for avian frugivores: The overlooked side of
 authors: "Elena Quintero, Marco Aurélio Pizo, Pedro Jordano"
 date: '2020-01-08'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 108: 1358–1372"
 doi: 10.1111/1365-2745.13352
 citation-url: https://doi.org/10.1111/1365-2745.13352
 format:

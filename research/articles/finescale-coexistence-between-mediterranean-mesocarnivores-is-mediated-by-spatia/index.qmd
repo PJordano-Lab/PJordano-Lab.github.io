@@ -3,6 +3,7 @@ title: "Fine‐scale coexistence between Mediterranean mesocarnivores is mediate
 authors: "Iago Ferreiro‐Arias, Jorge Isla, Pedro Jordano et al."
 date: '2021-11-01'
 pub-journal: "Ecology and Evolution"
+volume-pages: "Vol. 11: 15520–15533"
 doi: 10.1002/ece3.8077
 citation-url: https://doi.org/10.1002/ece3.8077
 format:

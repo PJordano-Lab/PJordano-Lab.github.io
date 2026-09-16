@@ -3,6 +3,7 @@ title: "Honeybees disrupt the structure and functionality of plant-pollinator ne
 authors: "Alfredo Valido, María C. Rodríguez‐Rodríguez, Pedro Jordano"
 date: '2019-03-18'
 pub-journal: "Scientific Reports"
+volume-pages: "Vol. 9: 4711"
 doi: 10.1038/s41598-019-41271-5
 citation-url: https://doi.org/10.1038/s41598-019-41271-5
 format:

@@ -3,6 +3,7 @@ title: "Seed Weight Variation and Differential Avian Dispersal in Blackberries R
 authors: "Pedro Jordano"
 date: '1984-07-01'
 pub-journal: "Oikos"
+volume-pages: "Vol. 43: 149–153"
 doi: 10.2307/3544762
 citation-url: https://doi.org/10.2307/3544762
 format:

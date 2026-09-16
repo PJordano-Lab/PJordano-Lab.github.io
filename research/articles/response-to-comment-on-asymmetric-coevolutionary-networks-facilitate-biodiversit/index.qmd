@@ -3,6 +3,7 @@ title: 'Response to Comment on "Asymmetric Coevolutionary Networks Facilitate Bi
 authors: "Jordi Bascompte, Pedro Jordano, Jens M. Olesen"
 date: '2006-09-28'
 pub-journal: "Science"
+volume-pages: "Vol. 313: ––"
 doi: 10.1126/science.1129628
 citation-url: https://doi.org/10.1126/science.1129628
 format:

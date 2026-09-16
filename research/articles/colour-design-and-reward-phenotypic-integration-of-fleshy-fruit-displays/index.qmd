@@ -3,6 +3,7 @@ title: "Colour, design and reward: phenotypic integration of fleshy fruit displa
 authors: "Alfredo Valido, H. Martin Schaefer, Pedro Jordano"
 date: '2011-01-24'
 pub-journal: "Journal of Evolutionary Biology"
+volume-pages: "Vol. 24: 751–760"
 doi: 10.1111/j.1420-9101.2010.02206.x
 citation-url: https://doi.org/10.1111/j.1420-9101.2010.02206.x
 format:

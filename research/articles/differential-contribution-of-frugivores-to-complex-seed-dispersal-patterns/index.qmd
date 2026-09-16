@@ -3,6 +3,7 @@ title: "Differential contribution of frugivores to complex seed dispersal patter
 authors: "Pedro Jordano, Cristina García, José A. Godoy et al."
 date: '2007-02-21'
 pub-journal: "Proceedings of the National Academy of Sciences"
+volume-pages: "Vol. 104: 3278–3282"
 doi: 10.1073/pnas.0606793104
 citation-url: https://doi.org/10.1073/pnas.0606793104
 format:

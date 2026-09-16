@@ -3,6 +3,7 @@ title: "The biodiversity of plant–frugivore interactions: types, functions and
 authors: "Pedro Jordano"
 date: '2026-04-29'
 pub-journal: "Oikos"
+volume-pages: "Vol. 2026: e11991"
 doi: 10.1002/oik.11991
 citation-url: https://doi.org/10.1002/oik.11991
 format:

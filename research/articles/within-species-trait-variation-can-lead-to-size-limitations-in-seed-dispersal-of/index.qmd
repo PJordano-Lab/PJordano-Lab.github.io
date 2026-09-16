@@ -3,6 +3,7 @@ title: "Within-Species Trait Variation Can Lead to Size Limitations in Seed Disp
 authors: "Finn Rehling, Bogdan Jaroszewicz, Leonie Victoria Braasch et al."
 date: '2021-08-16'
 pub-journal: "Frontiers in Ecology and Evolution"
+volume-pages: "Vol. 9: 698885"
 doi: 10.3389/fevo.2021.698885
 citation-url: https://doi.org/10.3389/fevo.2021.698885
 format:

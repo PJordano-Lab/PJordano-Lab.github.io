@@ -3,6 +3,7 @@ title: "Functional relationships beyond species richness patterns: trait matchin
 authors: "D. Matthias Dehling, Till Töpfer, H. Martin Schaefer et al."
 date: '2014-05-26'
 pub-journal: "Global Ecology and Biogeography"
+volume-pages: "Vol. 23: 1085–1093"
 doi: 10.1111/geb.12193
 citation-url: https://doi.org/10.1111/geb.12193
 format:

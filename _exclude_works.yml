@@ -1,9 +1,0 @@
-# OpenAlex work IDs to drop from the publications sync.
-# These are records that OpenAlex attributes to ORCID 0000-0003-2142-9116 but
-# that belong to a different author (Pedro Jordano Barbudo, art historian).
-# Add one ID per line; run `python open-alex.py` again to re-sync.
-exclude:
-  - W3152205556  # The Survival of Andalusi Artistic Formulas in the Time of Hernan Ruiz I
-  - W2550786167  # La plaza del Coso y los orígenes de la arquitectura protoindustrial
-  - W2148371894  # Un "vestido floral" para el Jardín del Paraíso: las yeserías mudéjares
-  - W22705882    # El mudéjar en Córdoba: Techumbres de madera en la arquitectura civil

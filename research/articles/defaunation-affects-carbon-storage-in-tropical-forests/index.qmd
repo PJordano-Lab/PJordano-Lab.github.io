@@ -3,6 +3,7 @@ title: "Defaunation affects carbon storage in tropical forests"
 authors: "Carolina Bello, Mauro Galetti, Marco Aurélio Pizo et al."
 date: '2015-12-04'
 pub-journal: "Science Advances"
+volume-pages: "Vol. 1: e1501105"
 doi: 10.1126/sciadv.1501105
 citation-url: https://doi.org/10.1126/sciadv.1501105
 format:

@@ -3,6 +3,7 @@ title: "Plant-Animal Mutualistic Networks: The Architecture of Biodiversity"
 authors: "Jordi Bascompte, Pedro Jordano"
 date: '2007-12-01'
 pub-journal: "Annual Review of Ecology Evolution and Systematics"
+volume-pages: "Vol. 38: 567–593"
 doi: 10.1146/annurev.ecolsys.38.091206.095818
 citation-url: https://doi.org/10.1146/annurev.ecolsys.38.091206.095818
 format:

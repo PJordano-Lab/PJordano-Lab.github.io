@@ -3,6 +3,7 @@ title: "Impacto de la introducción de la abeja doméstica (Apis mellifera, Apid
 authors: "A. Valido, M.C. Rodríguez-Rodríguez, Pedro Jordano"
 date: '2014-01-01'
 pub-journal: "DOAJ (DOAJ: Directory of Open Access Journals)"
+volume-pages: "Vol. 23: 58–59"
 format:
   html:
     toc: true

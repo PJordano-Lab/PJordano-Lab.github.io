@@ -3,6 +3,7 @@ title: "Vertebrate dispersal syndromes along the Atlantic forest: broad‐scale 
 authors: "Mário Almeida‐Neto, Flávia Campassi, Mauro Galetti et al."
 date: '2008-03-13'
 pub-journal: "Global Ecology and Biogeography"
+volume-pages: "Vol. 17: 503–513"
 doi: 10.1111/j.1466-8238.2008.00386.x
 citation-url: https://doi.org/10.1111/j.1466-8238.2008.00386.x
 format:

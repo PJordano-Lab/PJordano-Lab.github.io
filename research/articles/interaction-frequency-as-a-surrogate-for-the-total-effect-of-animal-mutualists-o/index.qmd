@@ -3,6 +3,7 @@ title: "Interaction frequency as a surrogate for the total effect of animal mutu
 authors: "Diego P. Vázquez, William F. Morris, Pedro Jordano"
 date: '2005-09-08'
 pub-journal: "Ecology Letters"
+volume-pages: "Vol. 8: 1088–1094"
 doi: 10.1111/j.1461-0248.2005.00810.x
 citation-url: https://doi.org/10.1111/j.1461-0248.2005.00810.x
 format:

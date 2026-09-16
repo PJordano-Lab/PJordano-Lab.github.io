@@ -3,6 +3,7 @@ title: "Isolation and characterization of 16 polymorphic microsatellite loci for
 authors: "Cristina Rigueiro, Juan Arroyo, Rocío Rodríguez‐Arcos et al."
 date: '2009-01-22'
 pub-journal: "Molecular Ecology Resources"
+volume-pages: "Vol. 9: 986–989"
 doi: 10.1111/j.1755-0998.2009.02527.x
 citation-url: https://doi.org/10.1111/j.1755-0998.2009.02527.x
 format:

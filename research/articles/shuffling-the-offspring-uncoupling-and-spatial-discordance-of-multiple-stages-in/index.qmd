@@ -3,6 +3,7 @@ title: "Shuffling the offspring: Uncoupling and spatial discordance of multiple 
 authors: "Pedro Jordano, Carlos M. Herrera"
 date: '1995-01-01'
 pub-journal: "Ecoscience"
+volume-pages: "Vol. 2: 230–237"
 doi: 10.1080/11956860.1995.11682288
 citation-url: https://doi.org/10.1080/11956860.1995.11682288
 format:

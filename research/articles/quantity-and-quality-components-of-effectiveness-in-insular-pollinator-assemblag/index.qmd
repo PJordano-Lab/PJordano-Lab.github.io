@@ -3,6 +3,7 @@ title: "Quantity and quality components of effectiveness in insular pollinator a
 authors: "María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido"
 date: '2013-02-12'
 pub-journal: "Oecologia"
+volume-pages: "Vol. 173: 179–190"
 doi: 10.1007/s00442-013-2606-y
 citation-url: https://doi.org/10.1007/s00442-013-2606-y
 format:

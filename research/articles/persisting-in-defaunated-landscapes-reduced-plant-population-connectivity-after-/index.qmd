@@ -3,6 +3,7 @@ title: "Persisting in defaunated landscapes: Reduced plant population connectivi
 authors: "Néstor Pérez‐Méndez, Pedro Jordano, Alfredo Valido"
 date: '2017-08-12'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 106: 936–947"
 doi: 10.1111/1365-2745.12848
 citation-url: https://doi.org/10.1111/1365-2745.12848
 format:

@@ -3,6 +3,7 @@ title: "Atlantic frugivory: a plant–frugivore interaction data set for the Atl
 authors: "Carolina Bello, Mauro Galetti, Denise Montan et al."
 date: '2017-03-20'
 pub-journal: "Ecology"
+volume-pages: "Vol. 98: 1729"
 doi: 10.1002/ecy.1818
 citation-url: https://doi.org/10.1002/ecy.1818
 format:

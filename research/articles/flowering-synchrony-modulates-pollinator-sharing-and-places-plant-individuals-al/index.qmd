@@ -3,6 +3,7 @@ title: "Flowering synchrony modulates pollinator sharing and places plant indivi
 authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano"
 date: '2024-02-27'
 pub-journal: "Oikos"
+volume-pages: "Vol. 2024: e10477"
 doi: 10.1111/oik.10477
 citation-url: https://doi.org/10.1111/oik.10477
 format:

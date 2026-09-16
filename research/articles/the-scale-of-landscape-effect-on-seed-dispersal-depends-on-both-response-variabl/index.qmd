@@ -3,6 +3,7 @@ title: "The scale of landscape effect on seed dispersal depends on both response
 authors: "Miriam San‐José, Víctor Arroyo‐Rodríguez, Pedro Jordano et al."
 date: '2019-04-30'
 pub-journal: "Landscape Ecology"
+volume-pages: "Vol. 34: 1069–1080"
 doi: 10.1007/s10980-019-00821-y
 citation-url: https://doi.org/10.1007/s10980-019-00821-y
 format:

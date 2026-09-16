@@ -3,6 +3,7 @@ title: "Frugivore‐Mediated Selection on Fruit and Seed Size: Birds and St. Luc
 authors: "Pedro Jordano"
 date: '1995-12-01'
 pub-journal: "Ecology"
+volume-pages: "Vol. 76: 2627"
 doi: 10.2307/2265833
 citation-url: https://doi.org/10.2307/2265833
 format:

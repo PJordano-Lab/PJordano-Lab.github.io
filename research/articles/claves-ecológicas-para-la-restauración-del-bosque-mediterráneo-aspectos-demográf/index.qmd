@@ -3,6 +3,7 @@ title: "Claves ecológicas para la restauración del bosque mediterráneo: aspec
 authors: "Pedro Jordano, Regino Zamora, Teodoro Marañón et al."
 date: '2002-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+volume-pages: "Vol. 10: 1–13"
 doi: 10.13039/501100000780
 citation-url: https://doi.org/10.13039/501100000780
 format:

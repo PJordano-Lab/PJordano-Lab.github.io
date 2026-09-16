@@ -3,6 +3,7 @@ title: "Geographical ecology and variation of plant-seed disperser interactions:
 authors: "Pedro Jordano"
 date: '1993-06-01'
 pub-journal: "Vegetatio"
+volume-pages: "Vol. 107-108: 85–104"
 doi: 10.1007/bf00052213
 citation-url: https://doi.org/10.1007/bf00052213
 format:

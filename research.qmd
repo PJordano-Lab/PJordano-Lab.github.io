@@ -1,3 +1,6 @@
+![](static/images/tesla_banners/banner_23_medium_out.jpg){fig-align="center"
+width="100%"}
+
 ---
 title: "Publications"
 pagetitle: "Publications — Pedro Jordano"
@@ -13,7 +16,11 @@ listing:
     page-size: 100
     sort-ui: true
     filter-ui: true
-    fields: [date, title, pub-journal, authors]
+    fields: [date, title, pub-journal, volume-pages, authors]
+    field-display-names:
+      pub-journal: "Journal"
+      volume-pages: "Vol. / pages"
+      authors: "Authors"
 
   - id: working-papers
     contents: "research/working-papers/*/index.qmd"
@@ -22,7 +29,10 @@ listing:
     page-size: 100
     sort-ui: false
     filter-ui: false
-    fields: [date, title, authors]
+    fields: [date, title, volume-pages, authors]
+    field-display-names:
+      volume-pages: "Vol. / pages"
+      authors: "Authors"
 
 date-format: "YYYY"
 ---

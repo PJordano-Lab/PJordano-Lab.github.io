@@ -3,6 +3,7 @@ title: "Downsized mutualisms: Consequences of seed dispersers’ body-size reduc
 authors: "Néstor Pérez‐Méndez, Pedro Jordano, Alfredo Valido"
 date: '2014-12-23'
 pub-journal: "Perspectives in Plant Ecology Evolution and Systematics"
+volume-pages: "Vol. 17: 151–159"
 doi: 10.1016/j.ppees.2014.12.001
 citation-url: https://doi.org/10.1016/j.ppees.2014.12.001
 format:

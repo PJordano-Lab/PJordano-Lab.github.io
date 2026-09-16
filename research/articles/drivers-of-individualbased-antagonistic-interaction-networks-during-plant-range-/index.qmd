@@ -3,6 +3,7 @@ title: "Drivers of individual‐based, antagonistic interaction networks during 
 authors: "Jorge Isla, Miguel E. Jácome‐Flores, Daniel Pareja et al."
 date: '2022-06-08'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 110: 2190–2204"
 doi: 10.1111/1365-2745.13942
 citation-url: https://doi.org/10.1111/1365-2745.13942
 format:

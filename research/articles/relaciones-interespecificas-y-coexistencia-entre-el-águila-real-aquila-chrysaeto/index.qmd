@@ -3,6 +3,7 @@ title: "Relaciones interespecificas y coexistencia entre el Águila Real (Aquila
 authors: "Pedro Jordano"
 date: '1981-12-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+volume-pages: "Vol. 28: 67–88"
 format:
   html:
     toc: true

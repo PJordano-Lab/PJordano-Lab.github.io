@@ -3,6 +3,7 @@ title: "THE FRUGIVOROUS DET OF BLACKCAP POPULATIONS SYLVIA ATRICAPILLA WINTERING
 authors: "Pedro Jordano, Carlos M. Herrera"
 date: '1981-10-01'
 pub-journal: "Ibis"
+volume-pages: "Vol. 123: 502–507"
 doi: 10.1111/j.1474-919x.1981.tb04055.x
 citation-url: https://doi.org/10.1111/j.1474-919x.1981.tb04055.x
 format:

@@ -3,6 +3,7 @@ title: "Pollination biology of Prunus mahaleb L.: deferred consequences of gende
 authors: "Pedro Jordano"
 date: '1993-09-01'
 pub-journal: "Biological Journal of the Linnean Society"
+volume-pages: "Vol. 50: 65–84"
 doi: 10.1111/j.1095-8312.1993.tb00919.x
 citation-url: https://doi.org/10.1111/j.1095-8312.1993.tb00919.x
 format:

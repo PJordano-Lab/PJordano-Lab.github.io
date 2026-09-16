@@ -1,11 +1,11 @@
 ---
 title: "Media"
-author: Pedro Jordano
+# author: Pedro Jordano
 description: "Press coverage, outreach and media about the lab's research."
 title-block-banner: "#1a1c20"
 ---
 
-![Calidris alba.
+![Sanderling *Calidris alba* Correlimos Tridáctilo.
 Doñana.](static/images/banners/calba_header.jpg){fig-align="center"
 width="100%"}
 

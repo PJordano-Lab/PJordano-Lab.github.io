@@ -3,6 +3,7 @@ title: "Rethinking megafauna"
 authors: "Marcos Moleón, José A. Sánchez‐Zapata, José A. Donázar et al."
 date: '2020-03-04'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
+volume-pages: "Vol. 287: 20192643"
 doi: 10.1098/rspb.2019.2643
 citation-url: https://doi.org/10.1098/rspb.2019.2643
 format:

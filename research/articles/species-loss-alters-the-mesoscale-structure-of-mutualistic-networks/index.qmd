@@ -3,6 +3,7 @@ title: "Species loss alters the mesoscale structure of mutualistic networks"
 authors: "M. Florencia Miguel, Pedro Jordano, Laura A. Burkle et al."
 date: '2026-05-22'
 pub-journal: "Journal of Animal Ecology"
+volume-pages: "Vol. 95: 1235–1247"
 doi: 10.1111/1365-2656.70280
 citation-url: https://doi.org/10.1111/1365-2656.70280
 format:

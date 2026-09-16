@@ -3,6 +3,7 @@ title: "Heterogeneidad ambiental y nicho de regeneración"
 authors: "Teodoro Marañón, J. Julio Camarero, Jorge Castro Gutiérrez et al."
 date: '2004-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+volume-pages: "pp. 69–99"
 format:
   html:
     toc: true

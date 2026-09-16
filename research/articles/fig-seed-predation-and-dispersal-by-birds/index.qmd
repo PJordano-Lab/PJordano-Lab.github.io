@@ -3,6 +3,7 @@ title: "Fig-Seed Predation and Dispersal by Birds"
 authors: "Pedro Jordano"
 date: '1983-03-01'
 pub-journal: "Biotropica"
+volume-pages: "Vol. 15: 38–41"
 doi: 10.2307/2387996
 citation-url: https://doi.org/10.2307/2387996
 format:

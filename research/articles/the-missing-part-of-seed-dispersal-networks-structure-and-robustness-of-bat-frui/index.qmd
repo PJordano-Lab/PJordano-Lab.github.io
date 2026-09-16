@@ -3,6 +3,7 @@ title: "The Missing Part of Seed Dispersal Networks: Structure and Robustness of
 authors: "Marco A. R. Mello, Flávia Maria Darcie Marquitti, Paulo R. Guimarães et al."
 date: '2011-02-28'
 pub-journal: "PLoS ONE"
+volume-pages: "Vol. 6: e17395"
 doi: 10.1371/journal.pone.0017395
 citation-url: https://doi.org/10.1371/journal.pone.0017395
 format:

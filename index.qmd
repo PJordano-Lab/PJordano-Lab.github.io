@@ -25,6 +25,8 @@ fig-align="center"}
 :::
 
 :::: {.g-col-12 .g-col-sm-8 .hero-bio-col}
+![](static/images/banners/banner1_crpp.jpg){fig-align="center"}
+
 ```{=html}
 <p class="hero-affiliation">Research Professor, Estación Biológica de Doñana, CSIC, and Assoc. Professor, Univ. Sevilla</p>
 <h1 class="hero-name">Pedro Jordano</h1>
@@ -37,7 +39,7 @@ fig-align="center"}
 
 ::: research-chips
 |  |  |
-|------------|--------------------------------------------------------------------|
+|-------------------|-------------------------------------------------------------|
 | ![](static/images/icons/22885.png) | Ecology • Conservation Biology • Complex networks • Ecological interactions • Biodiversity • Tropical ecology • Mutualisms • Plant-animal interactions • Dispersal and gene flow |
 :::
 

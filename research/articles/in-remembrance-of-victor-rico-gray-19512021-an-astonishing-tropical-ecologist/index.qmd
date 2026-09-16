@@ -3,6 +3,7 @@ title: "In remembrance of Victor Rico Gray (1951‐2021): An astonishing tropica
 authors: "Wesley Dáttilo, Juan Carlos Serio‐Silva, John N. Thompson et al."
 date: '2021-06-26'
 pub-journal: "Biotropica"
+volume-pages: "Vol. 53: 1238–1243"
 doi: 10.1111/btp.12987
 citation-url: https://doi.org/10.1111/btp.12987
 format:

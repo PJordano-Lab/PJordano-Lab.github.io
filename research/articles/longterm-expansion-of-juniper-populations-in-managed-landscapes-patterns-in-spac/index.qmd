@@ -3,6 +3,7 @@ title: "Long‐term expansion of juniper populations in managed landscapes: patt
 authors: "Cristina García, Eva Moracho, Ricardo Dı́az-Delgado et al."
 date: '2014-08-20'
 pub-journal: "Journal of Ecology"
+volume-pages: "Vol. 102: 1562–1571"
 doi: 10.1111/1365-2745.12297
 citation-url: https://doi.org/10.1111/1365-2745.12297
 format:

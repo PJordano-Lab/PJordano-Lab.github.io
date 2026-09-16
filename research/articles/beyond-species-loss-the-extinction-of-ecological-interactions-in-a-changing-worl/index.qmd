@@ -3,6 +3,7 @@ title: "Beyond species loss: the extinction of ecological interactions in a chan
 authors: "Alfonso Valiente‐Banuet, Marcelo A. Aizen, Julio M. Alcántara et al."
 date: '2014-11-28'
 pub-journal: "Functional Ecology"
+volume-pages: "Vol. 29: 299–307"
 doi: 10.1111/1365-2435.12356
 citation-url: https://doi.org/10.1111/1365-2435.12356
 format:

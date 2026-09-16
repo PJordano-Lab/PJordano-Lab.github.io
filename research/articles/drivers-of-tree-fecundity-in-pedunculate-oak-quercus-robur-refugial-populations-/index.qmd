@@ -3,6 +3,7 @@ title: "Drivers of tree fecundity in pedunculate oak (Quercus robur) refugial po
 authors: "Eva Moracho, Pedro Jordano, Arndt Hampe"
 date: '2017-05-08'
 pub-journal: "Plant Biology"
+volume-pages: "Vol. 20: 195–202"
 doi: 10.1111/plb.12578
 citation-url: https://doi.org/10.1111/plb.12578
 format:

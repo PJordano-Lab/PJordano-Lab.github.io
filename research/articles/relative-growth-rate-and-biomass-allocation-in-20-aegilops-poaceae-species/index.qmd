@@ -3,6 +3,7 @@ title: "Relative growth rate and biomass allocation in 20 Aegilops (Poaceae) spe
 authors: "Rafael Villar, Erik J. Veneklaas, Pedro Jordano et al."
 date: '1998-11-01'
 pub-journal: "New Phytologist"
+volume-pages: "Vol. 140: 425–437"
 doi: 10.1111/j.1469-8137.1998.00286.x
 citation-url: https://doi.org/10.1111/j.1469-8137.1998.00286.x
 format:

@@ -3,6 +3,7 @@ title: "Geographical variation in mutualistic networks: similarity, turnover and
 authors: "Kristian Trøjelsgaard, Pedro Jordano, Daniel Carstensen et al."
 date: '2015-01-28'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
+volume-pages: "Vol. 282: 192–211"
 doi: 10.1098/rspb.2014.2925
 citation-url: https://doi.org/10.1098/rspb.2014.2925
 format:

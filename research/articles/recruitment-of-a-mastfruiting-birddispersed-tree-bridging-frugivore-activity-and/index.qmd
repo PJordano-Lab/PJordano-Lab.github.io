@@ -3,6 +3,7 @@ title: "Recruitment of a Mast‐Fruiting, Bird‐Dispersed Tree: Bridging Frugiv
 authors: "Carlos M. Herrera, Pedro Jordano, Luis López‐Soria et al."
 date: '1994-08-01'
 pub-journal: "Ecological Monographs"
+volume-pages: "Vol. 64: 315–344"
 doi: 10.2307/2937165
 citation-url: https://doi.org/10.2307/2937165
 format:

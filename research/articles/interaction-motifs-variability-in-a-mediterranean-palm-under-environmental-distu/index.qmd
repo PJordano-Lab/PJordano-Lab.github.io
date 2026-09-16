@@ -3,6 +3,7 @@ title: "Interaction motifs variability in a Mediterranean palm under environment
 authors: "Miguel E. Jácome‐Flores, Pedro Jordano, Miguel Delibes et al."
 date: '2019-11-21'
 pub-journal: "Oikos"
+volume-pages: "Vol. 129: 367–379"
 doi: 10.1111/oik.06688
 citation-url: https://doi.org/10.1111/oik.06688
 format:

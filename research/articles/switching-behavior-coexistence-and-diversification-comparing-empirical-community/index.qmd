@@ -3,6 +3,7 @@ title: "Switching behavior, coexistence and diversification: comparing empirical
 authors: "Jofre Carnicer, Peter A. Abrams, Pedro Jordano"
 date: '2008-04-28'
 pub-journal: "Ecology Letters"
+volume-pages: "Vol. 11: 802–808"
 doi: 10.1111/j.1461-0248.2008.01195.x
 citation-url: https://doi.org/10.1111/j.1461-0248.2008.01195.x
 format:

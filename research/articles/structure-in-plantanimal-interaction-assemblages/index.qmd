@@ -3,6 +3,7 @@ title: "Structure in plant–animal interaction assemblages"
 authors: "Thomas M. Lewinsohn, Paulo Inácio Prado, Pedro Jordano et al."
 date: '2006-02-17'
 pub-journal: "Oikos"
+volume-pages: "Vol. 113: 174–184"
 doi: 10.1111/j.0030-1299.2006.14583.x
 citation-url: https://doi.org/10.1111/j.0030-1299.2006.14583.x
 format:

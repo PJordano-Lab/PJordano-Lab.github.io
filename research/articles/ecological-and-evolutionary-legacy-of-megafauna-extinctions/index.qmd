@@ -3,6 +3,7 @@ title: "Ecological and evolutionary legacy of megafauna extinctions"
 authors: "Mauro Galetti, Marcos Moleón, Pedro Jordano et al."
 date: '2017-10-09'
 pub-journal: "Biological reviews/Biological reviews of the Cambridge Philosophical Society"
+volume-pages: "Vol. 93: 845–862"
 doi: 10.1111/brv.12374
 citation-url: https://doi.org/10.1111/brv.12374
 format:
