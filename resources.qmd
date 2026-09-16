@@ -5,14 +5,26 @@ title-block-banner: "#1a1c20"
 hand-edited: true   # layout reworked by hand; _tools/convert-hugo-content.py skips this file
 ---
 
-These are some available resources derived from our research activities. Please
-contact us if you need further information.
-
-Contact Information:\
-Estación Biológica de Doñana, CSIC\
-Isla de La Cartuja\
-Avda. Americo Vespucio 26\
-E-41092 Sevilla, Spain
++---------------------------------------------------+--------------------------+
+| ![](static/images/banners/banner9.jpg)            | These are some available |
+|                                                   | resources derived from   |
+|                                                   | our research activities. |
+|                                                   | Please contact us if you |
+|                                                   | need further             |
+|                                                   | information.             |
+|                                                   |                          |
+|                                                   | **Contact                |
+|                                                   | Information:**\          |
+|                                                   | Estación Biológica de    |
+|                                                   | Doñana, CSIC\            |
+|                                                   | Isla de La Cartuja\      |
+|                                                   | Avda. Americo Vespucio   |
+|                                                   | 26\                      |
+|                                                   | E-41092 Sevilla, Spain\  |
+|                                                   | \                        |
+|                                                   | <                        |
+|                                                   | https://www.ebd.csic.es> |
++---------------------------------------------------+--------------------------+
 
 --------------------------------------------------------------------------------
 
