@@ -271,10 +271,10 @@ stability for the evolution and persistence of the mutualistic interactions.
 +---------------------------------------+---------------------------------------+
 
 +---------------------------------------+---------------------------------------+
-| ![Stacks Image                        | A recent project deals with the       |
-| 2390](stati%20c                       | analysis of individual-based          |
-| /images/projects__files__stacks-ima%2 | interaction networks. We aim to       |
-| 0ge-b63545c-408x272.jpg){width="514"} | understand how different individuals  |
+| ![*Juniperus                          | A recent project deals with the       |
+| phoenicea*](sta                       | analysis of individual-based          |
+| tic/images/projects__files__stacks-im | interaction networks. We aim to       |
+| age-b63545c-408x272.jpg){width="514"} | understand how different individuals  |
 |                                       | within populations "organize" the     |
 |                                       | diversity of ecological interactions  |
 |                                       | with mutualists and antagonists,      |
