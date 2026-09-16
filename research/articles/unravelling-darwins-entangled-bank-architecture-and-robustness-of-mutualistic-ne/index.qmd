@@ -4,12 +4,21 @@ authors: "Wesley Dáttilo, Nubia Zoe Lara-Rodríguez, Pedro Jordano et al."
 date: '2016-11-24'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
 volume-pages: "Vol. 283: 20161564"
+pages: "20161564"
+volume: "283"
+year: "2016"
 doi: 10.1098/rspb.2016.1564
 citation-url: https://doi.org/10.1098/rspb.2016.1564
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Wesley Dáttilo, Nubia Zoe Lara-Rodríguez, Pedro Jordano et al 2016. Unravelling Darwin's entangled bank: architecture and robustness of mutualistic networks with multiple interaction types. *Proceedings of the Royal Society B Biological Sciences* 283: 20161564. <https://doi.org/10.1098/rspb.2016.1564>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Jens M. Olesen, Jordi Bascompte, Yoko Luise Dupont et al."
 date: '2007-12-04'
 pub-journal: "Proceedings of the National Academy of Sciences"
 volume-pages: "Vol. 104: 19891–19896"
+pages: "19891–19896"
+volume: "104"
+year: "2007"
 doi: 10.1073/pnas.0706375104
 citation-url: https://doi.org/10.1073/pnas.0706375104
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jens M. Olesen, Jordi Bascompte, Yoko Luise Dupont et al 2007. The modularity of pollination networks. *Proceedings of the National Academy of Sciences* 104: 19891–19896. <https://doi.org/10.1073/pnas.0706375104>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

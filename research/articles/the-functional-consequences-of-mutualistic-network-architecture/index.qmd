@@ -4,12 +4,21 @@ authors: "José M. Gómez, Francisco Perfectti, Pedro Jordano"
 date: '2011-01-25'
 pub-journal: "PLoS ONE"
 volume-pages: "Vol. 6: e16143"
+pages: "e16143–e16143"
+volume: "6"
+year: "2011"
 doi: 10.1371/journal.pone.0016143
 citation-url: https://doi.org/10.1371/journal.pone.0016143
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Gómez, Francisco Perfectti, Pedro Jordano 2011. The Functional Consequences of Mutualistic Network Architecture. *PLoS ONE* 6: e16143. <https://doi.org/10.1371/journal.pone.0016143>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -3,12 +3,19 @@ title: "TempPart Data"
 authors: "Iago Ferreiro Arias, Ana Benítez López, Pedro Jordano et al."
 date: '2021-01-01'
 pub-journal: "Figshare"
+year: "2021"
 doi: 10.6084/m9.figshare.14376473
 citation-url: https://doi.org/10.6084/m9.figshare.14376473
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Iago Ferreiro Arias, Ana Benítez López, Pedro Jordano et al 2021. TempPart Data. *Figshare*. <https://doi.org/10.6084/m9.figshare.14376473>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '1989-07-01'
 pub-journal: "Oikos"
 volume-pages: "Vol. 55: 375–386"
+pages: "375–386"
+volume: "55"
+year: "1989"
 doi: 10.2307/3565598
 citation-url: https://doi.org/10.2307/3565598
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 1989. Pre-Dispersal Biology of Pistacia lentiscus (Anacardiaceae): Cumulative Effects on Seed Removal by Birds. *Oikos* 55: 375–386. <https://doi.org/10.2307/3565598>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Tad Dallas, Pedro Jordano"
 date: '2022-01-25'
 pub-journal: "Global Ecology and Biogeography"
 volume-pages: "Vol. 31: 663–671"
+pages: "663–671"
+volume: "31"
+year: "2022"
 doi: 10.1111/geb.13452
 citation-url: https://doi.org/10.1111/geb.13452
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Tad Dallas, Pedro Jordano 2022. Parasite species richness and host range are not spatially conserved. *Global Ecology and Biogeography* 31: 663–671. <https://doi.org/10.1111/geb.13452>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

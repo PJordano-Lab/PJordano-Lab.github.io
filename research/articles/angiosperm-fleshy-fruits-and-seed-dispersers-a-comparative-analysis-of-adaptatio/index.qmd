@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '1995-02-01'
 pub-journal: "The American Naturalist"
 volume-pages: "Vol. 145: 163–191"
+pages: "163–191"
+volume: "145"
+year: "1995"
 doi: 10.1086/285735
 citation-url: https://doi.org/10.1086/285735
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 1995. Angiosperm Fleshy Fruits and Seed Dispersers: A Comparative Analysis of Adaptation and Constraints in Plant-Animal Interactions. *The American Naturalist* 145: 163–191. <https://doi.org/10.1086/285735>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

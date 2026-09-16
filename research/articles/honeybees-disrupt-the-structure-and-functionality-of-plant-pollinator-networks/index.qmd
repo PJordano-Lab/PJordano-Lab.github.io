@@ -4,12 +4,21 @@ authors: "Alfredo Valido, María C. Rodríguez‐Rodríguez, Pedro Jordano"
 date: '2019-03-18'
 pub-journal: "Scientific Reports"
 volume-pages: "Vol. 9: 4711"
+pages: "4711"
+volume: "9"
+year: "2019"
 doi: 10.1038/s41598-019-41271-5
 citation-url: https://doi.org/10.1038/s41598-019-41271-5
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Alfredo Valido, María C. Rodríguez‐Rodríguez, Pedro Jordano 2019. Honeybees disrupt the structure and functionality of plant-pollinator networks. *Scientific Reports* 9: 4711. <https://doi.org/10.1038/s41598-019-41271-5>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

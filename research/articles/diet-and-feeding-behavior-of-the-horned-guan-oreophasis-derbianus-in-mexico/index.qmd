@@ -4,12 +4,21 @@ authors: "Fernando González‐García, Eduardo Santana-C., Pedro Jordano et al.
 date: '2017-12-01'
 pub-journal: "The Wilson Journal of Ornithology"
 volume-pages: "Vol. 129: 771–782"
+pages: "771–782"
+volume: "129"
+year: "2017"
 doi: 10.1676/16-041.1
 citation-url: https://doi.org/10.1676/16-041.1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Fernando González‐García, Eduardo Santana-C., Pedro Jordano et al 2017. Diet and Feeding Behavior of the Horned Guan ( Oreophasis derbianus ) In Mexico. *The Wilson Journal of Ornithology* 129: 771–782. <https://doi.org/10.1676/16-041.1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

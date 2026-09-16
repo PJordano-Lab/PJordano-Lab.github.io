@@ -3,12 +3,19 @@ title: 'Author response for "Drivers of individual‐based, antagonistic interac
 authors: "Jorge Isla, Miguel E. Jácome‐Flores, Daniel Pareja et al."
 date: '2022-05-17'
 pub-journal: ""
+year: "2022"
 doi: 10.1111/1365-2745.13942/v3/response1
 citation-url: https://doi.org/10.1111/1365-2745.13942/v3/response1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jorge Isla, Miguel E. Jácome‐Flores, Daniel Pareja et al 2022. Author response for "Drivers of individual‐based, antagonistic interaction networks during plant range expansion". <https://doi.org/10.1111/1365-2745.13942/v3/response1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

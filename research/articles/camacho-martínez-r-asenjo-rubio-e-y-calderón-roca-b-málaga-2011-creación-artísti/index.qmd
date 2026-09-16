@@ -3,10 +3,17 @@ title: "CAMACHO MARTÍNEZ, R.; ASENJO RUBIO, E. y CALDERÓN ROCA, B. (Málaga, 2
 authors: "Pedro Jordano, María Ángeles"
 date: '2012-01-01'
 pub-journal: ""
+year: "2012"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, María Ángeles 2012. CAMACHO MARTÍNEZ, R.; ASENJO RUBIO, E. y CALDERÓN ROCA, B. (Málaga, 2011). Creación artística y mecenazgo en el desarrollo cultural del mediterráneo en la edad moderna.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

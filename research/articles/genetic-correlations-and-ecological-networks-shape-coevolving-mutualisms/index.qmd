@@ -4,12 +4,21 @@ authors: "Ana Paula A. Assis, John N. Thompson, Pamela Cristina Santana et al."
 date: '2020-09-24'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 23: 1789–1799"
+pages: "1789–1799"
+volume: "23"
+year: "2020"
 doi: 10.1111/ele.13605
 citation-url: https://doi.org/10.1111/ele.13605
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Ana Paula A. Assis, John N. Thompson, Pamela Cristina Santana et al 2020. Genetic correlations and ecological networks shape coevolving mutualisms. *Ecology Letters* 23: 1789–1799. <https://doi.org/10.1111/ele.13605>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

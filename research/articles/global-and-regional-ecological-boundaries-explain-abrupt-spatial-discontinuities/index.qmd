@@ -4,12 +4,21 @@ authors: "Lucas Pereira Martins, Daniel B. Stouffer, Pedro G. Blendinger et al."
 date: '2022-11-14'
 pub-journal: "Nature Communications"
 volume-pages: "Vol. 13: 6943"
+pages: "6943"
+volume: "13"
+year: "2022"
 doi: 10.1038/s41467-022-34355-w
 citation-url: https://doi.org/10.1038/s41467-022-34355-w
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Lucas Pereira Martins, Daniel B. Stouffer, Pedro G. Blendinger et al 2022. Global and regional ecological boundaries explain abrupt spatial discontinuities in avian frugivory interactions. *Nature Communications* 13: 6943. <https://doi.org/10.1038/s41467-022-34355-w>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

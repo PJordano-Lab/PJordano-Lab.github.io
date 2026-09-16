@@ -4,10 +4,19 @@ authors: "Pedro Jordano"
 date: '1981-12-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "Vol. 28: 67–88"
+pages: "67–88"
+volume: "28"
+year: "2006"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2006. Relaciones interespecificas y coexistencia entre el Águila Real (Aquila chrysaetos) y el Águila Perdicera (Hieraaetus fasciatus) en sierra Morena central. *DIGITAL.CSIC (Spanish National Research Council (CSIC))* 28: 67–88.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

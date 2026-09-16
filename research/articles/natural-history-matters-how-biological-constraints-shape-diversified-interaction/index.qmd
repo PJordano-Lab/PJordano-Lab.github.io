@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '2016-10-19'
 pub-journal: "Journal of Animal Ecology"
 volume-pages: "Vol. 85: 1423–1426"
+pages: "1423–1426"
+volume: "85"
+year: "2016"
 doi: 10.1111/1365-2656.12584
 citation-url: https://doi.org/10.1111/1365-2656.12584
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2016. Natural history matters: how biological constraints shape diversified interactions in pollination networks. *Journal of Animal Ecology* 85: 1423–1426. <https://doi.org/10.1111/1365-2656.12584>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

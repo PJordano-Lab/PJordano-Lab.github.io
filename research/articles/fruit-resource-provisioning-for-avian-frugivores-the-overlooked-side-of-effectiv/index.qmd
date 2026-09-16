@@ -4,12 +4,21 @@ authors: "Elena Quintero, Marco Aurélio Pizo, Pedro Jordano"
 date: '2020-01-08'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 108: 1358–1372"
+pages: "1358–1372"
+volume: "108"
+year: "2020"
 doi: 10.1111/1365-2745.13352
 citation-url: https://doi.org/10.1111/1365-2745.13352
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Elena Quintero, Marco Aurélio Pizo, Pedro Jordano 2020. Fruit resource provisioning for avian frugivores: The overlooked side of effectiveness in seed dispersal mutualisms. *Journal of Ecology* 108: 1358–1372. <https://doi.org/10.1111/1365-2745.13352>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

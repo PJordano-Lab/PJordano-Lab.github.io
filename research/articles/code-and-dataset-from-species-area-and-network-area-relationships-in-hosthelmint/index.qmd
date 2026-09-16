@@ -3,12 +3,19 @@ title: "Code and dataset from Species-area and network-area relationships in hos
 authors: "Tad Dallas, Pedro Jordano"
 date: '2021-01-01'
 pub-journal: "Figshare"
+year: "2021"
 doi: 10.6084/m9.figshare.14248075
 citation-url: https://doi.org/10.6084/m9.figshare.14248075
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Tad Dallas, Pedro Jordano 2021. Code and dataset from Species-area and network-area relationships in host–helminth interactions. *Figshare*. <https://doi.org/10.6084/m9.figshare.14248075>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

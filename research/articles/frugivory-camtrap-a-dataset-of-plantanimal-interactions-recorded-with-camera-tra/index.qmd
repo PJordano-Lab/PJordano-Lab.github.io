@@ -4,12 +4,21 @@ authors: "Pablo Villalva, Blanca Arroyo‐Correa, Gemma Calvo et al."
 date: '2024-09-16'
 pub-journal: "Ecology"
 volume-pages: "Vol. 105: e4424"
+pages: "e4424"
+volume: "105"
+year: "2024"
 doi: 10.1002/ecy.4424
 citation-url: https://doi.org/10.1002/ecy.4424
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pablo Villalva, Blanca Arroyo‐Correa, Gemma Calvo et al 2024. FRUGIVORY CAMTRAP : A dataset of plant–animal interactions recorded with camera traps. *Ecology* 105: e4424. <https://doi.org/10.1002/ecy.4424>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

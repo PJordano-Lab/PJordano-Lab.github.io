@@ -4,12 +4,21 @@ authors: "Paulo R. Guimarães, Mathias M. Pires, Pedro Jordano et al."
 date: '2017-10-01'
 pub-journal: "Nature"
 volume-pages: "Vol. 550: 511–514"
+pages: "511–514"
+volume: "550"
+year: "2017"
 doi: 10.1038/nature24273
 citation-url: https://doi.org/10.1038/nature24273
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Paulo R. Guimarães, Mathias M. Pires, Pedro Jordano et al 2017. Indirect effects drive coevolution in mutualistic networks. *Nature* 550: 511–514. <https://doi.org/10.1038/nature24273>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -3,6 +3,7 @@ title: "Phenotypic and microsite plant individual variation determine the pollin
 authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano"
 date: '2020-03-05'
 pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+year: "2020"
 doi: 10.1101/2020.03.03.974899
 citation-url: https://doi.org/10.1101/2020.03.03.974899
 format:

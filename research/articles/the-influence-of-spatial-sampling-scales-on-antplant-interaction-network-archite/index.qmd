@@ -4,12 +4,21 @@ authors: "Wesley Dáttilo, Jeferson Vizentin‐Bugoni, Vanderlei J. Debastiani e
 date: '2019-03-18'
 pub-journal: "Journal of Animal Ecology"
 volume-pages: "Vol. 88: 903–914"
+pages: "903–914"
+volume: "88"
+year: "2019"
 doi: 10.1111/1365-2656.12978
 citation-url: https://doi.org/10.1111/1365-2656.12978
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Wesley Dáttilo, Jeferson Vizentin‐Bugoni, Vanderlei J. Debastiani et al 2019. The influence of spatial sampling scales on ant–plant interaction network architecture. *Journal of Animal Ecology* 88: 903–914. <https://doi.org/10.1111/1365-2656.12978>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

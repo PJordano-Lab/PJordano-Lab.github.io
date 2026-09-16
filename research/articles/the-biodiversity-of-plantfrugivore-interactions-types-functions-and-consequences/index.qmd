@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '2026-04-29'
 pub-journal: "Oikos"
 volume-pages: "Vol. 2026: e11991"
+pages: "e11991"
+volume: "2026"
+year: "2026"
 doi: 10.1002/oik.11991
 citation-url: https://doi.org/10.1002/oik.11991
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2026. The biodiversity of plant–frugivore interactions: types, functions and consequences. *Oikos* 2026: e11991. <https://doi.org/10.1002/oik.11991>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

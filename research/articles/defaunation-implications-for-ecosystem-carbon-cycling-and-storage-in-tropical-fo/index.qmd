@@ -3,12 +3,19 @@ title: "Defaunation implications for ecosystem carbon cycling and storage in tro
 authors: "Mauro Galetti, Pedro Jordano, Laurence Culot et al."
 date: '2017-01-01'
 pub-journal: "Figshare"
+year: "2017"
 doi: 10.6084/m9.figshare.5280709
 citation-url: https://doi.org/10.6084/m9.figshare.5280709
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Mauro Galetti, Pedro Jordano, Laurence Culot et al 2017. Defaunation implications for ecosystem carbon cycling and storage in tropical forests. *Figshare*. <https://doi.org/10.6084/m9.figshare.5280709>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

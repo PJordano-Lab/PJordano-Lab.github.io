@@ -3,10 +3,17 @@ title: "Pollination patterns in a relict meta-population of Pedunculate oak (Que
 authors: "Eva Moracho, Cristina Rigueiro, Angela Sanchez Miranda-Moreno et al."
 date: '2012-01-01'
 pub-journal: "HAL (Le Centre pour la Communication Scientifique Directe)"
+year: "2012"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Eva Moracho, Cristina Rigueiro, Angela Sanchez Miranda-Moreno et al 2012. Pollination patterns in a relict meta-population of Pedunculate oak (Quercus robur) in Central Spain. *HAL (Le Centre pour la Communication Scientifique Directe)*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

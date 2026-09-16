@@ -4,12 +4,21 @@ authors: "Débora Cristina Rother, Marco Aurélio Pizo, Tadeu Siqueira et al."
 date: '2015-04-09'
 pub-journal: "PLoS ONE"
 volume-pages: "Vol. 10: e0123346"
+pages: "e0123346"
+volume: "10"
+year: "2015"
 doi: 10.1371/journal.pone.0123346
 citation-url: https://doi.org/10.1371/journal.pone.0123346
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Débora Cristina Rother, Marco Aurélio Pizo, Tadeu Siqueira et al 2015. Community-Wide Spatial and Temporal Discordances of Seed-Seedling Shadows in a Tropical Rainforest. *PLoS ONE* 10: e0123346. <https://doi.org/10.1371/journal.pone.0123346>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

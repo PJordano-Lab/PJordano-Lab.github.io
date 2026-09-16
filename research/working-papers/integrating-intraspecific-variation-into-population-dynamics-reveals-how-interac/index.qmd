@@ -3,6 +3,7 @@ title: "Integrating intraspecific variation into population dynamics reveals how
 authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano et al."
 date: '2024-09-17'
 pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+year: "2024"
 doi: 10.1101/2024.09.12.612448
 citation-url: https://doi.org/10.1101/2024.09.12.612448
 format:

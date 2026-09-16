@@ -3,12 +3,19 @@ title: "Appendix G. Description of the methodology used to estimate the length o
 authors: "María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido"
 date: '2016-01-01'
 pub-journal: "Figshare"
+year: "2016"
 doi: 10.6084/m9.figshare.3562761
 citation-url: https://doi.org/10.6084/m9.figshare.3562761
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido 2016. Appendix G. Description of the methodology used to estimate the length of interplant flights by bird pollinators, and results obtained per bird species. *Figshare*. <https://doi.org/10.6084/m9.figshare.3562761>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

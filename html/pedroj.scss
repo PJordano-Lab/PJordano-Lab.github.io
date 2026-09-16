@@ -1195,3 +1195,76 @@ div.sourceCode:has(> pre.bibtex) .code-copy-button {
   .hero-grid { padding: 0.75rem 0 1.75rem; }
   .section-divider { margin: 1.25rem 0 1rem; }
 }
+
+/* ── research.qmd: seven-column reference table ───────────────────────────
+   The listing table is inside a grid column that also carries a right-hand
+   TOC, so an auto-layout table with a long Title cell pushes past its column
+   and slides under the sidebar. `table-layout: fixed` plus explicit column
+   widths keeps every row inside the content column; Title takes the slack and
+   wraps instead of growing.                                                */
+
+.quarto-listing-table table {
+  table-layout: fixed;
+  width: 100%;
+  font-size: 0.82rem;
+}
+
+.quarto-listing-table th,
+.quarto-listing-table td {
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: auto;
+  vertical-align: top;
+  padding: 0.35rem 0.5rem;
+}
+
+/* year | authors | title | journal | vol | pages | doi */
+.quarto-listing-table table th:nth-child(1),
+.quarto-listing-table table td:nth-child(1) { width: 4.5rem; }
+.quarto-listing-table table th:nth-child(2),
+.quarto-listing-table table td:nth-child(2) { width: 22%; }
+.quarto-listing-table table th:nth-child(3),
+.quarto-listing-table table td:nth-child(3) { width: 34%; }
+.quarto-listing-table table th:nth-child(4),
+.quarto-listing-table table td:nth-child(4) { width: 15%; }
+.quarto-listing-table table th:nth-child(5),
+.quarto-listing-table table td:nth-child(5) { width: 3.5rem; }
+.quarto-listing-table table th:nth-child(6),
+.quarto-listing-table table td:nth-child(6) { width: 5.5rem; }
+.quarto-listing-table table th:nth-child(7),
+.quarto-listing-table table td:nth-child(7) { width: 15%; }
+
+/* DOIs have no spaces to break on */
+.quarto-listing-table table td:nth-child(7) {
+  word-break: break-all;
+  font-size: 0.76rem;
+}
+
+/* the rendered reference at the top of each paper page */
+.full-reference {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  padding: 0.7rem 0.9rem;
+  margin: 0 0 1.25rem;
+  border-left: 3px solid var(--color-accent);
+  background: rgba(127, 127, 127, 0.07);
+  border-radius: 0 4px 4px 0;
+}
+
+.full-reference p { margin: 0; }
+
+@media (max-width: 992px) {
+  .quarto-listing-table table { font-size: 0.78rem; }
+  .quarto-listing-table table th:nth-child(2),
+  .quarto-listing-table table td:nth-child(2) { width: 20%; }
+  .quarto-listing-table table th:nth-child(7),
+  .quarto-listing-table table td:nth-child(7) { display: none; }
+}
+
+/* Quarto sets `word-break: keep-all` on links inside a listing table, which in
+   a fixed-layout table can push a long title past its column. Titles are links,
+   so allow them to break; keep DOIs breaking anywhere since they have no spaces. */
+.quarto-listing-table table td:nth-child(3) a {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}

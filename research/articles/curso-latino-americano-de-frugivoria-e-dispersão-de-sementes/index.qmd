@@ -4,10 +4,19 @@ authors: "Pedro Jordano, Mauro Galetti"
 date: '2010-09-23'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "Vol. 19: 89–93"
+pages: "89–93"
+volume: "19"
+year: "2010"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, Mauro Galetti 2010. Curso Latino Americano de Frugivoria e Dispersão de Sementes. *DIGITAL.CSIC (Spanish National Research Council (CSIC))* 19: 89–93.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

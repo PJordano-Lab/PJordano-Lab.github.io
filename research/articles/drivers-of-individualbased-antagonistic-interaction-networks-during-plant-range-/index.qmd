@@ -4,12 +4,21 @@ authors: "Jorge Isla, Miguel E. Jácome‐Flores, Daniel Pareja et al."
 date: '2022-06-08'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 110: 2190–2204"
+pages: "2190–2204"
+volume: "110"
+year: "2022"
 doi: 10.1111/1365-2745.13942
 citation-url: https://doi.org/10.1111/1365-2745.13942
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jorge Isla, Miguel E. Jácome‐Flores, Daniel Pareja et al 2022. Drivers of individual‐based, antagonistic interaction networks during plant range expansion. *Journal of Ecology* 110: 2190–2204. <https://doi.org/10.1111/1365-2745.13942>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

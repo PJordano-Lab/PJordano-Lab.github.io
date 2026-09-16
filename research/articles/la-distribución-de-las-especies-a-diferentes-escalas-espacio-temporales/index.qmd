@@ -4,10 +4,18 @@ authors: "Juan Arroyo, José S. Carrión, Arndt Hampe et al."
 date: '2004-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "pp. 27–68"
+pages: "27–68"
+year: "2004"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Juan Arroyo, José S. Carrión, Arndt Hampe et al 2004. La distribución de las especies a diferentes escalas espacio-temporales. *DIGITAL.CSIC (Spanish National Research Council (CSIC))* 27–68.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

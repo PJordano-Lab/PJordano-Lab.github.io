@@ -3,6 +3,7 @@ title: "A Machine Learning Application to Camera-Traps: Robust Species Interacti
 authors: "Pablo Villalva, Pedro Jordano"
 date: '2025-03-07'
 pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+year: "2025"
 doi: 10.1101/2025.03.01.640990
 citation-url: https://doi.org/10.1101/2025.03.01.640990
 format:

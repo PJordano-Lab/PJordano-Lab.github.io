@@ -4,10 +4,19 @@ authors: "Pedro Jordano"
 date: '1990-01-01'
 pub-journal: "Dialnet (Universidad de la Rioja)"
 volume-pages: "Vol. 48: 31–52"
+pages: "31–52"
+volume: "48"
+year: "1990"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 1990. Biología de la reproducción de tres especies del género lonicera (Caprifoliaceae)en la Sierra de Cazorla. *Dialnet (Universidad de la Rioja)* 48: 31–52.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

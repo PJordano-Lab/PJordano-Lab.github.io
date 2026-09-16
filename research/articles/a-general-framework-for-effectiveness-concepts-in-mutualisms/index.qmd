@@ -4,12 +4,21 @@ authors: "Eugene W. Schupp, Pedro Jordano, José M. Gómez"
 date: '2017-03-28'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 20: 577–590"
+pages: "577–590"
+volume: "20"
+year: "2017"
 doi: 10.1111/ele.12764
 citation-url: https://doi.org/10.1111/ele.12764
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Eugene W. Schupp, Pedro Jordano, José M. Gómez 2017. A general framework for effectiveness concepts in mutualisms. *Ecology Letters* 20: 577–590. <https://doi.org/10.1111/ele.12764>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Paulo R. Guimarães, Mauro Galetti, Pedro Jordano"
 date: '2008-03-04'
 pub-journal: "PLoS ONE"
 volume-pages: "Vol. 3: e1745"
+pages: "e1745"
+volume: "3"
+year: "2008"
 doi: 10.1371/journal.pone.0001745
 citation-url: https://doi.org/10.1371/journal.pone.0001745
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Paulo R. Guimarães, Mauro Galetti, Pedro Jordano 2008. Seed Dispersal Anachronisms: Rethinking the Fruits Extinct Megafauna Ate. *PLoS ONE* 3: e1745. <https://doi.org/10.1371/journal.pone.0001745>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

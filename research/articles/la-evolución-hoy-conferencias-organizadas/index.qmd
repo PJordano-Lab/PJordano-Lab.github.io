@@ -3,10 +3,17 @@ title: "La evolución hoy. Conferencias Organizadas"
 authors: "Pedro Jordano, Juan Arroyo Marín, Encarnación Aguilar Criado et al."
 date: '2010-01-01'
 pub-journal: "Dialnet (Universidad de la Rioja)"
+year: "2010"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, Juan Arroyo Marín, Encarnación Aguilar Criado et al 2010. La evolución hoy. Conferencias Organizadas. *Dialnet (Universidad de la Rioja)*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

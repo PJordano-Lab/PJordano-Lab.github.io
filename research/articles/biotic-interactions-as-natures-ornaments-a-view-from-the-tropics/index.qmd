@@ -3,12 +3,19 @@ title: "Biotic Interactions as Nature's Ornaments: A View from the Tropics"
 authors: "Pedro Jordano"
 date: '2014-06-10'
 pub-journal: "BioScience"
+year: "2014"
 doi: 10.1093/biosci/biu081
 citation-url: https://doi.org/10.1093/biosci/biu081
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2014. Biotic Interactions as Nature's Ornaments: A View from the Tropics. *BioScience*. <https://doi.org/10.1093/biosci/biu081>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

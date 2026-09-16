@@ -3,10 +3,17 @@ title: "Polinización y variabilidad de la producción de semillas en Pistacia l
 authors: "Pedro Jordano"
 date: '1988-04-27'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "1988"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 1988. Polinización y variabilidad de la producción de semillas en Pistacia lentiscus L. (Anacardiaceae). *DIGITAL.CSIC (Spanish National Research Council (CSIC))*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

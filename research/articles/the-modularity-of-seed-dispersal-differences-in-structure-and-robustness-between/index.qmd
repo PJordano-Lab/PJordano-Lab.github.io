@@ -4,12 +4,21 @@ authors: "Marco A. R. Mello, Flávia Maria Darcie Marquitti, Paulo R. Guimarães
 date: '2011-04-08'
 pub-journal: "Oecologia"
 volume-pages: "Vol. 167: 131–140"
+pages: "131–140"
+volume: "167"
+year: "2011"
 doi: 10.1007/s00442-011-1984-2
 citation-url: https://doi.org/10.1007/s00442-011-1984-2
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Marco A. R. Mello, Flávia Maria Darcie Marquitti, Paulo R. Guimarães et al 2011. The modularity of seed dispersal: differences in structure and robustness between bat– and bird–fruit networks. *Oecologia* 167: 131–140. <https://doi.org/10.1007/s00442-011-1984-2>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

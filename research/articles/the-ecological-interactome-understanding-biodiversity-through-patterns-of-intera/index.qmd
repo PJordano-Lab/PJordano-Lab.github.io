@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '2026-06-22'
 pub-journal: "Annual Review of Ecology Evolution and Systematics"
 volume-pages: "Vol. 57: 51–76"
+pages: "51–76"
+volume: "57"
+year: "2026"
 doi: 10.1146/annurev-ecolsys-102824-110132
 citation-url: https://doi.org/10.1146/annurev-ecolsys-102824-110132
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2026. The Ecological Interactome: Understanding Biodiversity Through Patterns of Interactions. *Annual Review of Ecology Evolution and Systematics* 57: 51–76. <https://doi.org/10.1146/annurev-ecolsys-102824-110132>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

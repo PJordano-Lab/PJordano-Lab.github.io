@@ -3,12 +3,19 @@ title: 'Author response for "Lasting effects of avian‐frugivore interactions o
 authors: "Elena Quintero, Juan Arroyo, Rodolfo Dirzo et al."
 date: '2023-11-21'
 pub-journal: ""
+year: "2023"
 doi: 10.1111/1365-2745.14260/v2/response1
 citation-url: https://doi.org/10.1111/1365-2745.14260/v2/response1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Elena Quintero, Juan Arroyo, Rodolfo Dirzo et al 2023. Author response for "Lasting effects of avian‐frugivore interactions on seed dispersal and seedling establishment". <https://doi.org/10.1111/1365-2745.14260/v2/response1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

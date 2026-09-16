@@ -3,12 +3,19 @@ title: 'Author response for "Animal‐mediated seed dispersal and the demo‐gen
 authors: "Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al."
 date: '2024-01-22'
 pub-journal: ""
+year: "2024"
 doi: 10.1111/1365-2745.14280/v2/response1
 citation-url: https://doi.org/10.1111/1365-2745.14280/v2/response1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al 2024. Author response for "Animal‐mediated seed dispersal and the demo‐genetic configuration across plant colonization gradients". <https://doi.org/10.1111/1365-2745.14280/v2/response1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

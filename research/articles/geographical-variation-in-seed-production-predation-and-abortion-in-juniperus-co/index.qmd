@@ -4,12 +4,21 @@ authors: "Daniel Garcı́a, Regino Zamora, José M. Gómez et al."
 date: '2000-06-01'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 88: 436–446"
+pages: "436–446"
+volume: "88"
+year: "2000"
 doi: 10.1046/j.1365-2745.2000.00459.x
 citation-url: https://doi.org/10.1046/j.1365-2745.2000.00459.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Daniel Garcı́a, Regino Zamora, José M. Gómez et al 2000. Geographical variation in seed production, predation and abortion in Juniperus communis throughout its range in Europe. *Journal of Ecology* 88: 436–446. <https://doi.org/10.1046/j.1365-2745.2000.00459.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

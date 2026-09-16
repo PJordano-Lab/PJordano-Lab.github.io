@@ -4,12 +4,21 @@ authors: "Miguel E. Jácome‐Flores, Pedro Jordano, Miguel Delibes et al."
 date: '2019-11-21'
 pub-journal: "Oikos"
 volume-pages: "Vol. 129: 367–379"
+pages: "367–379"
+volume: "129"
+year: "2020"
 doi: 10.1111/oik.06688
 citation-url: https://doi.org/10.1111/oik.06688
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Miguel E. Jácome‐Flores, Pedro Jordano, Miguel Delibes et al 2020. Interaction motifs variability in a Mediterranean palm under environmental disturbances: the mutualism–antagonism continuum. *Oikos* 129: 367–379. <https://doi.org/10.1111/oik.06688>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

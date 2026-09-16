@@ -4,12 +4,21 @@ authors: "Miguel Verdú, Pedro Jordano, Alfonso Valiente‐Banuet"
 date: '2010-09-14'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 98: 1454–1461"
+pages: "1454–1461"
+volume: "98"
+year: "2010"
 doi: 10.1111/j.1365-2745.2010.01731.x
 citation-url: https://doi.org/10.1111/j.1365-2745.2010.01731.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Miguel Verdú, Pedro Jordano, Alfonso Valiente‐Banuet 2010. The phylogenetic structure of plant facilitation networks changes with competition. *Journal of Ecology* 98: 1454–1461. <https://doi.org/10.1111/j.1365-2745.2010.01731.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

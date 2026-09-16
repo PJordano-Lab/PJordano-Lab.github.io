@@ -4,12 +4,21 @@ authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano"
 date: '2024-02-27'
 pub-journal: "Oikos"
 volume-pages: "Vol. 2024: e10477"
+pages: "e10477"
+volume: "2024"
+year: "2024"
 doi: 10.1111/oik.10477
 citation-url: https://doi.org/10.1111/oik.10477
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano 2024. Flowering synchrony modulates pollinator sharing and places plant individuals along a competition–facilitation continuum. *Oikos* 2024: e10477. <https://doi.org/10.1111/oik.10477>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Larissa Alves-de-Lima, Diego Anjos, Blanca Arroyo‐Correa et al."
 date: '2026-05-01'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 114: e70348"
+pages: "e70348"
+volume: "114"
+year: "2026"
 doi: 10.1111/1365-2745.70348
 citation-url: https://doi.org/10.1111/1365-2745.70348
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Larissa Alves-de-Lima, Diego Anjos, Blanca Arroyo‐Correa et al 2026. Fire modulates the structural drivers and functioning of individual‐based plant‐pollinator networks. *Journal of Ecology* 114: e70348. <https://doi.org/10.1111/1365-2745.70348>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

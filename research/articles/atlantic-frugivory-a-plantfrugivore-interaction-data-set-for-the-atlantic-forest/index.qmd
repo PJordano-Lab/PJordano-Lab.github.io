@@ -4,12 +4,21 @@ authors: "Carolina Bello, Mauro Galetti, Denise Montan et al."
 date: '2017-03-20'
 pub-journal: "Ecology"
 volume-pages: "Vol. 98: 1729"
+pages: "1729–1729"
+volume: "98"
+year: "2017"
 doi: 10.1002/ecy.1818
 citation-url: https://doi.org/10.1002/ecy.1818
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Carolina Bello, Mauro Galetti, Denise Montan et al 2017. Atlantic frugivory: a plant–frugivore interaction data set for the Atlantic Forest. *Ecology* 98: 1729. <https://doi.org/10.1002/ecy.1818>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

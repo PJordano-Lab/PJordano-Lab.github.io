@@ -4,12 +4,21 @@ authors: "Jordi Bascompte, Pedro Jordano, Carlos J. Melián et al."
 date: '2003-07-24'
 pub-journal: "Proceedings of the National Academy of Sciences"
 volume-pages: "Vol. 100: 9383–9387"
+pages: "9383–9387"
+volume: "100"
+year: "2003"
 doi: 10.1073/pnas.1633576100
 citation-url: https://doi.org/10.1073/pnas.1633576100
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jordi Bascompte, Pedro Jordano, Carlos J. Melián et al 2003. The nested assembly of plant–animal mutualistic networks. *Proceedings of the National Academy of Sciences* 100: 9383–9387. <https://doi.org/10.1073/pnas.1633576100>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

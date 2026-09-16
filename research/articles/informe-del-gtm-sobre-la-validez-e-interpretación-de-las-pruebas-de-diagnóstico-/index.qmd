@@ -3,12 +3,19 @@ title: "Informe del GTM sobre la validez e interpretación de las pruebas de dia
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2020-08-11'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2020"
 doi: 10.20350/digitalcsic/13715
 citation-url: https://doi.org/10.20350/digitalcsic/13715
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al 2020. Informe del GTM sobre la validez e interpretación de las pruebas de diagnóstico para SARS-CoV-2. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*. <https://doi.org/10.20350/digitalcsic/13715>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

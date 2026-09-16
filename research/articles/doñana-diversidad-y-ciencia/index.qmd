@@ -3,10 +3,17 @@ title: "Doñana, diversidad y ciencia"
 authors: "Regla Alonso Miura, Fernando Toro Álvarez, Juan Luís Arsuaga et al."
 date: '2007-01-01'
 pub-journal: ""
+year: "2007"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Regla Alonso Miura, Fernando Toro Álvarez, Juan Luís Arsuaga et al 2007. Doñana, diversidad y ciencia.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

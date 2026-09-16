@@ -4,12 +4,21 @@ authors: "Carolina da Silva Carvalho, Mauro Galetti, R Colevatti et al."
 date: '2016-08-18'
 pub-journal: "Scientific Reports"
 volume-pages: "Vol. 6: 31957"
+pages: "31957"
+volume: "6"
+year: "2016"
 doi: 10.1038/srep31957
 citation-url: https://doi.org/10.1038/srep31957
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Carolina da Silva Carvalho, Mauro Galetti, R Colevatti et al 2016. Defaunation leads to microevolutionary changes in a tropical palm. *Scientific Reports* 6: 31957. <https://doi.org/10.1038/srep31957>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

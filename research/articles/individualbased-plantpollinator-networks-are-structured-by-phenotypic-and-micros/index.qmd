@@ -4,12 +4,21 @@ authors: "Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano"
 date: '2021-05-17'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 109: 2832–2844"
+pages: "2832–2844"
+volume: "109"
+year: "2021"
 doi: 10.1111/1365-2745.13694
 citation-url: https://doi.org/10.1111/1365-2745.13694
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano 2021. Individual‐based plant–pollinator networks are structured by phenotypic and microsite plant traits. *Journal of Ecology* 109: 2832–2844. <https://doi.org/10.1111/1365-2745.13694>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Benno I. Simmons, William J. Sutherland, Lynn V. Dicks et al."
 date: '2018-03-31'
 pub-journal: "Journal of Animal Ecology"
 volume-pages: "Vol. 87: 995–1007"
+pages: "995–1007"
+volume: "87"
+year: "2018"
 doi: 10.1111/1365-2656.12831
 citation-url: https://doi.org/10.1111/1365-2656.12831
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Benno I. Simmons, William J. Sutherland, Lynn V. Dicks et al 2018. Moving from frugivory to seed dispersal: Incorporating the functional outcomes of interactions in plant–frugivore networks. *Journal of Animal Ecology* 87: 995–1007. <https://doi.org/10.1111/1365-2656.12831>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -3,12 +3,19 @@ title: "Informe del GTM: equipos autónomos para la limpieza del aire y sensores
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2021-04-29'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2021"
 doi: 10.20350/digitalcsic/13893
 citation-url: https://doi.org/10.20350/digitalcsic/13893
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al 2021. Informe del GTM: equipos autónomos para la limpieza del aire y sensores para el control de la transmisión de SARS-CoV-2 por aerosoles. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*. <https://doi.org/10.20350/digitalcsic/13893>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

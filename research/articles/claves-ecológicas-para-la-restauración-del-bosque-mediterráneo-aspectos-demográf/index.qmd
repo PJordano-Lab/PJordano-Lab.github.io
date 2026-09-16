@@ -4,12 +4,21 @@ authors: "Pedro Jordano, Regino Zamora, Teodoro Marañón et al."
 date: '2002-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "Vol. 10: 1–13"
+pages: "1–13"
+volume: "10"
+year: "2005"
 doi: 10.13039/501100000780
 citation-url: https://doi.org/10.13039/501100000780
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, Regino Zamora, Teodoro Marañón et al 2005. Claves ecológicas para la restauración del bosque mediterráneo: aspectos demográficos, ecofisiológicos y genéticos. *DIGITAL.CSIC (Spanish National Research Council (CSIC))* 10: 1–13. <https://doi.org/10.13039/501100000780>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

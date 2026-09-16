@@ -3,12 +3,19 @@ title: "Differences among ant species in plant protection are related to product
 authors: "Roberth Fagundes, Wesley Dáttilo, Sérvio Pontes Ribeiro et al."
 date: '2017-05-09'
 pub-journal: "Biological Journal of the Linnean Society"
+year: "2017"
 doi: 10.1093/biolinnean/blx059
 citation-url: https://doi.org/10.1093/biolinnean/blx059
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Roberth Fagundes, Wesley Dáttilo, Sérvio Pontes Ribeiro et al 2017. Differences among ant species in plant protection are related to production of extrafloral nectar and degree of leaf herbivory. *Biological Journal of the Linnean Society*. <https://doi.org/10.1093/biolinnean/blx059>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

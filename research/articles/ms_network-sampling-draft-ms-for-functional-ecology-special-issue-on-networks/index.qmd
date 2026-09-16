@@ -3,12 +3,19 @@ title: "Ms_Network-Sampling: Draft Ms For Functional Ecology Special Issue On Ne
 authors: "Pedro Jordano"
 date: '2015-08-26'
 pub-journal: "Zenodo (CERN European Organization for Nuclear Research)"
+year: "2015"
 doi: 10.5281/zenodo.29437
 citation-url: https://doi.org/10.5281/zenodo.29437
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2015. Ms_Network-Sampling: Draft Ms For Functional Ecology Special Issue On Networks. *Zenodo (CERN European Organization for Nuclear Research)*. <https://doi.org/10.5281/zenodo.29437>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -3,10 +3,17 @@ title: "General methods for seed dispersal analysis and lab protocols for DNA ex
 authors: "Pedro Jordano, José A. Godoy"
 date: '2010-01-01'
 pub-journal: ""
+year: "2010"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, José A. Godoy 2010. General methods for seed dispersal analysis and lab protocols for DNA extraction and genotyping of SSR microsatellites for Prunus mahaleb (Rosaceae).
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

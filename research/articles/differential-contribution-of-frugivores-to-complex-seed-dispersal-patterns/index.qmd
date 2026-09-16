@@ -4,12 +4,19 @@ authors: "Pedro Jordano, Cristina García, José A. Godoy et al."
 date: '2007-02-21'
 pub-journal: "Proceedings of the National Academy of Sciences"
 volume-pages: "Vol. 104: 3278–3282"
+year: "2007"
 doi: 10.1073/pnas.0606793104
 citation-url: https://doi.org/10.1073/pnas.0606793104
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, Cristina García, José A. Godoy et al 2007. Differential contribution of frugivores to complex seed dispersal patterns. *Proceedings of the National Academy of Sciences*. <https://doi.org/10.1073/pnas.0606793104>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 
@@ -21,11 +28,13 @@ format:
 
 ## Links
 
-[DOI Link](https://doi.org/10.1073/pnas.0606793104) | [PDF](https://idus.us.es/handle/11441/50439) | [OpenAlex](https://openalex.org/W2131707414)
+[DOI Link](https://doi.org/10.1073/pnas.0606793104) \|
+[PDF](https://idus.us.es/handle/11441/50439) \|
+[OpenAlex](https://openalex.org/W2131707414)
 
 ## BibTeX
 
-```bibtex
+``` bibtex
 @article{RN14499,
    author = {Jordano, Pedro and Garcia, C and Godoy, J A and Garcia-Castano, J L},
    title = {Differential contribution of frugivores to complex seed dispersal patterns},

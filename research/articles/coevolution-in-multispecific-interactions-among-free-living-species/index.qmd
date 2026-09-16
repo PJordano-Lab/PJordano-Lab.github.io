@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '2009-12-28'
 pub-journal: "Evolution Education and Outreach"
 volume-pages: "Vol. 3: 40–46"
+pages: "40–46"
+volume: "3"
+year: "2010"
 doi: 10.1007/s12052-009-0197-1
 citation-url: https://doi.org/10.1007/s12052-009-0197-1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2010. Coevolution in Multispecific Interactions among Free-Living Species. *Evolution Education and Outreach* 3: 40–46. <https://doi.org/10.1007/s12052-009-0197-1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

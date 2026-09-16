@@ -4,12 +4,21 @@ authors: "Pâmela Friedemann, Marina Corrêa Côrtes, Everaldo Rodrigo de Castro
 date: '2021-12-22'
 pub-journal: "Oikos"
 volume-pages: "Vol. 2022: oik.08384"
+pages: "oik.08384"
+volume: "2022"
+year: "2022"
 doi: 10.1111/oik.08384
 citation-url: https://doi.org/10.1111/oik.08384
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pâmela Friedemann, Marina Corrêa Côrtes, Everaldo Rodrigo de Castro et al 2022. The individual‐based network structure of palm‐seed dispersers is explained by a rainforest gradient. *Oikos* 2022: oik.08384. <https://doi.org/10.1111/oik.08384>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

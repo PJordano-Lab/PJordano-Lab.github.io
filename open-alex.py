@@ -19,6 +19,15 @@ MAX_PER_PAGE = 200
 DEFAULT_MAILTO = "jordano@ebd.csic.es"
 
 
+def format_page_range(first_page=None, last_page=None):
+    """'1021-1035' (en dash) from OpenAlex's first_page/last_page."""
+    fp = str(first_page).strip() if first_page not in (None, '') else ''
+    lp = str(last_page).strip() if last_page not in (None, '') else ''
+    if fp and lp and fp != lp:
+        return f"{fp}\u2013{lp}"
+    return fp or lp
+
+
 def format_volume_pages(volume=None, first_page=None, last_page=None, pages=None):
     """Combined citation-detail string, e.g. 'Vol. 64: 1021-1035' (en dash).
 
@@ -279,6 +288,7 @@ class OpenAlexArticleSync:
                 'issue': issue,
                 'first_page': first_page,
                 'last_page': last_page,
+                'pages': format_page_range(first_page, last_page),
                 'volume_pages': format_volume_pages(volume, first_page, last_page),
             }
 
@@ -427,7 +437,7 @@ class OpenAlexArticleSync:
             'title', 'authors', 'author_count', 'year', 'publication_date',
             'journal', 'publisher', 'type', 'is_oa', 'doi', 'doi_url',
             'pdf_url', 'openalex_id', 'pmid', 'cited_by_count',
-            'volume', 'issue', 'first_page', 'last_page', 'volume_pages'
+            'volume', 'issue', 'first_page', 'last_page', 'pages', 'volume_pages'
         ]
 
         with open(output_path, 'w', newline='', encoding='utf-8') as f:
@@ -454,6 +464,8 @@ class OpenAlexArticleSync:
                     'issue': a.get('issue', ''),
                     'first_page': a.get('first_page', ''),
                     'last_page': a.get('last_page', ''),
+                    'pages': a.get('pages', '') or format_page_range(
+                        a.get('first_page'), a.get('last_page')),
                     'volume_pages': a.get('volume_pages', ''),
                 })
 
@@ -511,6 +523,17 @@ class OpenAlexArticleSync:
             f"date: '{date}'",
             f'pub-journal: "{venue}"',
         ]
+        # Reference fields, each also a column in data/publications.csv so the
+        # two stay in step: year / volume / pages feed the listing table in
+        # research.qmd, volume-pages is the combined form.
+        year = str(date)[:4]
+        if year:
+            lines.append(f'year: "{year}"')
+        if article.get('volume'):
+            lines.append(f"volume: \"{article['volume']}\"")
+        page_range = format_page_range(article.get('first_page'), article.get('last_page'))
+        if page_range:
+            lines.append(f'pages: "{page_range}"')
         vol_pages = article.get('volume_pages') or format_volume_pages(
             article.get('volume'), article.get('first_page'), article.get('last_page'))
         if vol_pages:

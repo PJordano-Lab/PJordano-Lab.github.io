@@ -4,12 +4,21 @@ authors: "Pedro Jordano, José A. Godoy"
 date: '2000-09-01'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 9: 1293–1305"
+pages: "1293–1305"
+volume: "9"
+year: "2000"
 doi: 10.1046/j.1365-294x.2000.01009.x
 citation-url: https://doi.org/10.1046/j.1365-294x.2000.01009.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, José A. Godoy 2000. RAPD variation and population genetic structure in Prunus mahaleb (Rosaceae), an animal‐dispersed tree. *Molecular Ecology* 9: 1293–1305. <https://doi.org/10.1046/j.1365-294x.2000.01009.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

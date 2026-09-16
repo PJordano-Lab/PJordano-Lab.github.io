@@ -4,12 +4,21 @@ authors: "Carlos M. Herrera, Pedro Jordano"
 date: '1981-06-01'
 pub-journal: "Ecological Monographs"
 volume-pages: "Vol. 51: 203–218"
+pages: "203–218"
+volume: "51"
+year: "1981"
 doi: 10.2307/2937263
 citation-url: https://doi.org/10.2307/2937263
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Carlos M. Herrera, Pedro Jordano 1981. Prunus mahaleb and Birds: The High‐Efficiency Seed Dispersal System of a Temperate Fruiting Tree. *Ecological Monographs* 51: 203–218. <https://doi.org/10.2307/2937263>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

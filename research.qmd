@@ -16,11 +16,14 @@ listing:
     page-size: 100
     sort-ui: true
     filter-ui: true
-    fields: [date, title, pub-journal, volume-pages, authors]
+    fields: [year, authors, title, pub-journal, volume, pages, doi]
     field-display-names:
-      pub-journal: "Journal"
-      volume-pages: "Vol. / pages"
+      year: "Year"
       authors: "Authors"
+      pub-journal: "Journal"
+      volume: "Vol."
+      pages: "Pages"
+      doi: "DOI"
 
   - id: working-papers
     contents: "research/working-papers/*/index.qmd"
@@ -29,10 +32,12 @@ listing:
     page-size: 100
     sort-ui: false
     filter-ui: false
-    fields: [date, title, volume-pages, authors]
+    fields: [year, authors, title, pub-journal, doi]
     field-display-names:
-      volume-pages: "Vol. / pages"
+      year: "Year"
       authors: "Authors"
+      pub-journal: "Venue"
+      doi: "DOI"
 
 date-format: "YYYY"
 ---

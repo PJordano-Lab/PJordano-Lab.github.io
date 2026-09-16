@@ -3,12 +3,19 @@ title: 'Supplementary material from "Seed dispersal by dispersing juvenile anima
 authors: "Juan P. González‐Varo, Sarah Díaz-García, Juan Arroyo et al."
 date: '2019-01-01'
 pub-journal: "Figshare"
+year: "2019"
 doi: 10.6084/m9.figshare.c.4551821.v1
 citation-url: https://doi.org/10.6084/m9.figshare.c.4551821.v1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Juan P. González‐Varo, Sarah Díaz-García, Juan Arroyo et al 2019. Supplementary material from "Seed dispersal by dispersing juvenile animals: a source of functional connectivity in fragmented landscapes". *Figshare*. <https://doi.org/10.6084/m9.figshare.c.4551821.v1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

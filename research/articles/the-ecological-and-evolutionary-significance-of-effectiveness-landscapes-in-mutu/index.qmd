@@ -4,12 +4,20 @@ authors: "José M. Gómez, Eugene W. Schupp, Pedro Jordano"
 date: '2021-12-31'
 pub-journal: "Ecology Letters"
 volume-pages: "pp. 264–277"
+pages: "264–277"
+year: "2022"
 doi: 10.1111/ele.13939
 citation-url: https://doi.org/10.1111/ele.13939
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Gómez, Eugene W. Schupp, Pedro Jordano 2022. The ecological and evolutionary significance of effectiveness landscapes in mutualistic interactions. *Ecology Letters* 264–277. <https://doi.org/10.1111/ele.13939>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Marcial Escudero, Juan Arroyo, Santiago Sánchez‐Ramírez et al."
 date: '2023-07-03'
 pub-journal: "Annals of Botany"
 volume-pages: "Vol. 133: 871–882"
+pages: "871–882"
+volume: "133"
+year: "2024"
 doi: 10.1093/aob/mcad087
 citation-url: https://doi.org/10.1093/aob/mcad087
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Marcial Escudero, Juan Arroyo, Santiago Sánchez‐Ramírez et al 2024. Founder events and subsequent genetic bottlenecks underlie karyotype evolution in the Ibero-North African endemic Carex helodes. *Annals of Botany* 133: 871–882. <https://doi.org/10.1093/aob/mcad087>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

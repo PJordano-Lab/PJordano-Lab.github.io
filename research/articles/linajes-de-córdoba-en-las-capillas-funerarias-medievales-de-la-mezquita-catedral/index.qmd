@@ -3,10 +3,17 @@ title: "Linajes de Córdoba en las capillas funerarias medievales de la Mezquita
 authors: "Pedro Jordano, María Ángeles"
 date: '2002-01-01'
 pub-journal: ""
+year: "2002"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, María Ángeles 2002. Linajes de Córdoba en las capillas funerarias medievales de la Mezquita-Catedral.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

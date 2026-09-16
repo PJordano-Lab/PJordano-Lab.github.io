@@ -3,12 +3,19 @@ title: 'Author response for "The ecological and evolutionary significance of eff
 authors: "José M. Gómez, Eugene W. Schupp, Pedro Jordano"
 date: '2021-10-11'
 pub-journal: ""
+year: "2021"
 doi: 10.1111/ele.13939/v2/response1
 citation-url: https://doi.org/10.1111/ele.13939/v2/response1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Gómez, Eugene W. Schupp, Pedro Jordano 2021. Author response for "The ecological and evolutionary significance of effectiveness landscapes in mutualistic interactions". <https://doi.org/10.1111/ele.13939/v2/response1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

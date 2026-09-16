@@ -4,12 +4,20 @@ authors: "Jordi Bascompte, Pedro Jordano"
 date: '2013-12-08'
 pub-journal: "Princeton University Press eBooks"
 volume-pages: "pp. 143–159"
+pages: "143–159"
+year: "2006"
 doi: 10.23943/princeton/9780691131269.003.0003
 citation-url: https://doi.org/10.23943/princeton/9780691131269.003.0003
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jordi Bascompte, Pedro Jordano 2006. The Structure of Plant-Animal Mutualistic Networks. *Princeton University Press eBooks* 143–159. <https://doi.org/10.23943/princeton/9780691131269.003.0003>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

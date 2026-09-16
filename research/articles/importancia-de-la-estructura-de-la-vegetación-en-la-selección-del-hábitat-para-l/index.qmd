@@ -3,10 +3,17 @@ title: "Importancia de la estructura de la vegetación en la selección del háb
 authors: "Pedro Jordano, J.A. Torres"
 date: '1981-12-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "1981"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, J.A. Torres 1981. Importancia de la estructura de la vegetación en la selección del hábitat para la nidificación en una comunidad de rapaces diurnas mediterráneas. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

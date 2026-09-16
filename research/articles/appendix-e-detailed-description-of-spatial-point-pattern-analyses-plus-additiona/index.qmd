@@ -3,12 +3,19 @@ title: "Appendix E. Detailed description of spatial point pattern analyses, plus
 authors: "María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido"
 date: '2016-01-01'
 pub-journal: "Figshare"
+year: "2016"
 doi: 10.6084/m9.figshare.3562767
 citation-url: https://doi.org/10.6084/m9.figshare.3562767
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido 2016. Appendix E. Detailed description of spatial point pattern analyses, plus additional results from univariate and bivariate analyses of plant–animal interaction strengths and plant characteristics. *Figshare*. <https://doi.org/10.6084/m9.figshare.3562767>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

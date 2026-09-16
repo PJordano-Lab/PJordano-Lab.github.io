@@ -4,12 +4,21 @@ authors: "Nacho Villar, Tadeu Siqueira, Valesca Zipparro et al."
 date: '2019-08-14'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 108: 279–290"
+pages: "279–290"
+volume: "108"
+year: "2020"
 doi: 10.1111/1365-2745.13257
 citation-url: https://doi.org/10.1111/1365-2745.13257
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Nacho Villar, Tadeu Siqueira, Valesca Zipparro et al 2020. The cryptic regulation of diversity by functionally complementary large tropical forest herbivores. *Journal of Ecology* 108: 279–290. <https://doi.org/10.1111/1365-2745.13257>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Mathias M. Pires, Paulo R. Guimarães, Mauro Galetti et al."
 date: '2017-06-28'
 pub-journal: "Ecography"
 volume-pages: "Vol. 41: 153–163"
+pages: "153–163"
+volume: "41"
+year: "2018"
 doi: 10.1111/ecog.03163
 citation-url: https://doi.org/10.1111/ecog.03163
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Mathias M. Pires, Paulo R. Guimarães, Mauro Galetti et al 2018. Pleistocene megafaunal extinctions and the functional loss of long‐distance seed‐dispersal services. *Ecography* 41: 153–163. <https://doi.org/10.1111/ecog.03163>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

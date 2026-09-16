@@ -4,12 +4,21 @@ authors: "Miguel A. Fortuna, Daniel B. Stouffer, Jens M. Olesen et al."
 date: '2010-03-31'
 pub-journal: "Journal of Animal Ecology"
 volume-pages: "Vol. 79: 1–7"
+pages: "1–7"
+volume: "79"
+year: "2010"
 doi: 10.1111/j.1365-2656.2010.01688.x
 citation-url: https://doi.org/10.1111/j.1365-2656.2010.01688.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Miguel A. Fortuna, Daniel B. Stouffer, Jens M. Olesen et al 2010. Nestedness versus modularity in ecological networks: two sides of the same coin?. *Journal of Animal Ecology* 79: 1–7. <https://doi.org/10.1111/j.1365-2656.2010.01688.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

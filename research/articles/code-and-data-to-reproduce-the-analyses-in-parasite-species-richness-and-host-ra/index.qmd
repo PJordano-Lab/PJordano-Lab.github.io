@@ -3,12 +3,19 @@ title: 'Code and data to reproduce the analyses in "Parasite species richness an
 authors: "Tad Dallas, Pedro Jordano"
 date: '2021-01-01'
 pub-journal: "Figshare"
+year: "2021"
 doi: 10.6084/m9.figshare.9977420
 citation-url: https://doi.org/10.6084/m9.figshare.9977420
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Tad Dallas, Pedro Jordano 2021. Code and data to reproduce the analyses in "Parasite species richness and host range are not spatially conserved". *Figshare*. <https://doi.org/10.6084/m9.figshare.9977420>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Elena Quintero, Juan Arroyo, Rodolfo Dirzo et al."
 date: '2024-01-21'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 112: 656–672"
+pages: "656–672"
+volume: "112"
+year: "2024"
 doi: 10.1111/1365-2745.14260
 citation-url: https://doi.org/10.1111/1365-2745.14260
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Elena Quintero, Juan Arroyo, Rodolfo Dirzo et al 2024. Lasting effects of avian‐frugivore interactions on seed dispersal and seedling establishment. *Journal of Ecology* 112: 656–672. <https://doi.org/10.1111/1365-2745.14260>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

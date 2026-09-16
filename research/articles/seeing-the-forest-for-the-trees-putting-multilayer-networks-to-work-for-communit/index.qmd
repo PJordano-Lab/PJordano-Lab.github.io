@@ -4,12 +4,21 @@ authors: "Matthew C. Hutchinson, Bernat Bramon Mora, Shai Pilosof et al."
 date: '2018-11-09'
 pub-journal: "Functional Ecology"
 volume-pages: "Vol. 33: 206–217"
+pages: "206–217"
+volume: "33"
+year: "2018"
 doi: 10.1111/1365-2435.13237
 citation-url: https://doi.org/10.1111/1365-2435.13237
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Matthew C. Hutchinson, Bernat Bramon Mora, Shai Pilosof et al 2018. Seeing the forest for the trees: Putting multilayer networks to work for community ecology. *Functional Ecology* 33: 206–217. <https://doi.org/10.1111/1365-2435.13237>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

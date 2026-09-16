@@ -3,12 +3,19 @@ title: "Appendix C. Temporal changes in network structure during 1981–1983."
 authors: "Jofre Carnicer, Pedro Jordano, Carlos J. Melián"
 date: '2016-01-01'
 pub-journal: "Figshare"
+year: "2016"
 doi: 10.6084/m9.figshare.3531524
 citation-url: https://doi.org/10.6084/m9.figshare.3531524
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jofre Carnicer, Pedro Jordano, Carlos J. Melián 2016. Appendix C. Temporal changes in network structure during 1981–1983. *Figshare*. <https://doi.org/10.6084/m9.figshare.3531524>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

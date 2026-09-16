@@ -4,12 +4,21 @@ authors: "Elena Quintero, Blanca Arroyo‐Correa, Jorge Isla et al."
 date: '2025-02-12'
 pub-journal: "Proceedings of the National Academy of Sciences"
 volume-pages: "Vol. 122: e2402342122"
+pages: "e2402342122"
+volume: "122"
+year: "2025"
 doi: 10.1073/pnas.2402342122
 citation-url: https://doi.org/10.1073/pnas.2402342122
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Elena Quintero, Blanca Arroyo‐Correa, Jorge Isla et al 2025. Downscaling mutualistic networks from species to individuals reveals consistent interaction niches and roles within plant populations. *Proceedings of the National Academy of Sciences* 122: e2402342122. <https://doi.org/10.1073/pnas.2402342122>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

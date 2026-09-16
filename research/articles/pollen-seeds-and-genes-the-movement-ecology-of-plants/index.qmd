@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '2010-03-24'
 pub-journal: "Heredity"
 volume-pages: "Vol. 105: 329–330"
+pages: "329–330"
+volume: "105"
+year: "2010"
 doi: 10.1038/hdy.2010.28
 citation-url: https://doi.org/10.1038/hdy.2010.28
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2010. Pollen, seeds and genes: the movement ecology of plants. *Heredity* 105: 329–330. <https://doi.org/10.1038/hdy.2010.28>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

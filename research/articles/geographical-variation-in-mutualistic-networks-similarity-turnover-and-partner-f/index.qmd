@@ -4,12 +4,21 @@ authors: "Kristian Trøjelsgaard, Pedro Jordano, Daniel Carstensen et al."
 date: '2015-01-28'
 pub-journal: "Proceedings of the Royal Society B Biological Sciences"
 volume-pages: "Vol. 282: 192–211"
+pages: "192–211"
+volume: "282"
+year: "2015"
 doi: 10.1098/rspb.2014.2925
 citation-url: https://doi.org/10.1098/rspb.2014.2925
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Kristian Trøjelsgaard, Pedro Jordano, Daniel Carstensen et al 2015. Geographical variation in mutualistic networks: similarity, turnover and partner fidelity. *Proceedings of the Royal Society B Biological Sciences* 282: 192–211. <https://doi.org/10.1098/rspb.2014.2925>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

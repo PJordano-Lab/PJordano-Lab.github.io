@@ -4,10 +4,19 @@ authors: "Pedro Jordano"
 date: '1987-06-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "Vol. 34: 89–98"
+pages: "89–98"
+volume: "34"
+year: "2006"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2006. Notas sobre la dieta no-insectívora de algunos Muscicapidae. *DIGITAL.CSIC (Spanish National Research Council (CSIC))* 34: 89–98.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

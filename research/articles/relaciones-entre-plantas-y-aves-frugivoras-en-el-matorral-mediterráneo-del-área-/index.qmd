@@ -3,10 +3,17 @@ title: "Relaciones entre plantas y aves frugivoras en el matorral mediterráneo 
 authors: "Pedro Jordano, Pedro Diego"
 date: '2013-06-07'
 pub-journal: "Dialnet (Universidad de la Rioja)"
+year: "1984"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, Pedro Diego 1984. Relaciones entre plantas y aves frugivoras en el matorral mediterráneo del área de Doñana. *Dialnet (Universidad de la Rioja)*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

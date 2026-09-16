@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '1982-03-01'
 pub-journal: "Oikos"
 volume-pages: "Vol. 38: 183–193"
+pages: "183–193"
+volume: "38"
+year: "1982"
 doi: 10.2307/3544018
 citation-url: https://doi.org/10.2307/3544018
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 1982. Migrant Birds Are the Main Seed Dispersers of Blackberries in Southern Spain. *Oikos* 38: 183–193. <https://doi.org/10.2307/3544018>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

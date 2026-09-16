@@ -3,12 +3,19 @@ title: "Supplemental Information, Code, And Data For The Ms: Defaunation Impacts
 authors: "Carolina Bello, Mauro Galetti, Marco A. Pizo et al."
 date: '2015-10-06'
 pub-journal: "Zenodo (CERN European Organization for Nuclear Research)"
+year: "2015"
 doi: 10.5281/zenodo.31880
 citation-url: https://doi.org/10.5281/zenodo.31880
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Carolina Bello, Mauro Galetti, Marco A. Pizo et al 2015. Supplemental Information, Code, And Data For The Ms: Defaunation Impacts Carbon Storage In Tropical Forests. *Zenodo (CERN European Organization for Nuclear Research)*. <https://doi.org/10.5281/zenodo.31880>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

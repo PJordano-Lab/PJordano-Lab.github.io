@@ -3,12 +3,19 @@ title: 'Author response for "Phylogenetic congruence between Neotropical primate
 authors: "Lisieux Fuzessy, Fernando A. O. Silveira, Laurence Culot et al."
 date: '2021-10-18'
 pub-journal: ""
+year: "2021"
 doi: 10.1111/ele.13918/v3/response1
 citation-url: https://doi.org/10.1111/ele.13918/v3/response1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Lisieux Fuzessy, Fernando A. O. Silveira, Laurence Culot et al 2021. Author response for "Phylogenetic congruence between Neotropical primates and plants is driven by frugivory". <https://doi.org/10.1111/ele.13918/v3/response1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

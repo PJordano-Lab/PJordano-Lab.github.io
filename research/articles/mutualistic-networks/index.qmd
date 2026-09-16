@@ -4,12 +4,20 @@ authors: "Jordi Bascompte, Pedro Jordano"
 date: '2013-12-31'
 pub-journal: "Princeton University Press eBooks"
 volume-pages: "pp. 1"
+pages: "1"
+year: "2014"
 doi: 10.1515/9781400848720
 citation-url: https://doi.org/10.1515/9781400848720
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jordi Bascompte, Pedro Jordano 2014. Mutualistic Networks. *Princeton University Press eBooks* 1. <https://doi.org/10.1515/9781400848720>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

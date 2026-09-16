@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '1987-05-01'
 pub-journal: "The American Naturalist"
 volume-pages: "Vol. 129: 657–677"
+pages: "657–677"
+volume: "129"
+year: "1987"
 doi: 10.1086/284665
 citation-url: https://doi.org/10.1086/284665
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 1987. Patterns of Mutualistic Interactions in Pollination and Seed Dispersal: Connectance, Dependence Asymmetries, and Coevolution. *The American Naturalist* 129: 657–677. <https://doi.org/10.1086/284665>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

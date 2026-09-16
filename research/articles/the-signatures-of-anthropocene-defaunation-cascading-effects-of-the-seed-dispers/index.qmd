@@ -4,12 +4,21 @@ authors: "Néstor Pérez‐Méndez, Pedro Jordano, Cristina García et al."
 date: '2016-04-19'
 pub-journal: "Scientific Reports"
 volume-pages: "Vol. 6: 24820"
+pages: "24820–24820"
+volume: "6"
+year: "2016"
 doi: 10.1038/srep24820
 citation-url: https://doi.org/10.1038/srep24820
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Néstor Pérez‐Méndez, Pedro Jordano, Cristina García et al 2016. The signatures of Anthropocene defaunation: cascading effects of the seed dispersal collapse. *Scientific Reports* 6: 24820. <https://doi.org/10.1038/srep24820>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

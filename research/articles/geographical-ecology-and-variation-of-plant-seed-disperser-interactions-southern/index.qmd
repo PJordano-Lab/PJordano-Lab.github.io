@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '1993-06-01'
 pub-journal: "Vegetatio"
 volume-pages: "Vol. 107-108: 85–104"
+pages: "85–104"
+volume: "107-108"
+year: "1993"
 doi: 10.1007/bf00052213
 citation-url: https://doi.org/10.1007/bf00052213
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 1993. Geographical ecology and variation of plant-seed disperser interactions: southern Spanish junipers and frugivorous thrushes. *Vegetatio* 107-108: 85–104. <https://doi.org/10.1007/bf00052213>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

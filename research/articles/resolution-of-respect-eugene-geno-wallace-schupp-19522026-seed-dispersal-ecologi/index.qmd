@@ -3,12 +3,19 @@ title: "Resolution of Respect Eugene “Geno” Wallace Schupp (1952–2026) See
 authors: "Pedro Jordano, José María Gómez"
 date: '2026-08-25'
 pub-journal: "Bulletin of the Ecological Society of America"
+year: "2026"
 doi: 10.1002/bes2.70097
 citation-url: https://doi.org/10.1002/bes2.70097
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, José María Gómez 2026. Resolution of Respect Eugene “Geno” Wallace Schupp (1952–2026) Seed dispersal ecologist, restoration scientist, mentor. *Bulletin of the Ecological Society of America*. <https://doi.org/10.1002/bes2.70097>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

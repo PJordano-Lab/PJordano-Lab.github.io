@@ -4,12 +4,21 @@ authors: "Carine Emer, Pedro Jordano, Marco Aurélio Pizo et al."
 date: '2019-12-16'
 pub-journal: "Biotropica"
 volume-pages: "Vol. 52: 81–89"
+pages: "81–89"
+volume: "52"
+year: "2020"
 doi: 10.1111/btp.12738
 citation-url: https://doi.org/10.1111/btp.12738
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Carine Emer, Pedro Jordano, Marco Aurélio Pizo et al 2020. Seed dispersal networks in tropical forest fragments: Area effects, remnant species, and interaction diversity. *Biotropica* 52: 81–89. <https://doi.org/10.1111/btp.12738>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Carlos M. Herrera, Pedro Jordano, Luis López‐Soria et al."
 date: '1994-08-01'
 pub-journal: "Ecological Monographs"
 volume-pages: "Vol. 64: 315–344"
+pages: "315–344"
+volume: "64"
+year: "1994"
 doi: 10.2307/2937165
 citation-url: https://doi.org/10.2307/2937165
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Carlos M. Herrera, Pedro Jordano, Luis López‐Soria et al 1994. Recruitment of a Mast‐Fruiting, Bird‐Dispersed Tree: Bridging Frugivore Activity and Seedling Establishment. *Ecological Monographs* 64: 315–344. <https://doi.org/10.2307/2937165>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

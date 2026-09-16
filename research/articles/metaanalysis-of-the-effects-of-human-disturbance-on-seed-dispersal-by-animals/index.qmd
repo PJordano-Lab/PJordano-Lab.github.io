@@ -4,12 +4,21 @@ authors: "Julia S. Markl, Matthias Schleuning, Pierre‐Michel Forget et al."
 date: '2012-09-12'
 pub-journal: "Conservation Biology"
 volume-pages: "Vol. 26: 1072–1081"
+pages: "1072–1081"
+volume: "26"
+year: "2012"
 doi: 10.1111/j.1523-1739.2012.01927.x
 citation-url: https://doi.org/10.1111/j.1523-1739.2012.01927.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Julia S. Markl, Matthias Schleuning, Pierre‐Michel Forget et al 2012. Meta‐Analysis of the Effects of Human Disturbance on Seed Dispersal by Animals. *Conservation Biology* 26: 1072–1081. <https://doi.org/10.1111/j.1523-1739.2012.01927.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,10 +4,19 @@ authors: "Juan Arroyo, Cristina Rigueiro, Arndt Hampe et al."
 date: '2010-01-01'
 pub-journal: ""
 volume-pages: "Vol. 97: E26–E30"
+pages: "E26–E30"
+volume: "97"
+year: "2010"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Juan Arroyo, Cristina Rigueiro, Arndt Hampe et al 2010. I SOLATION AND CHARACTERIZATION OF 20 MICROSATELLITE LOCI FOR LAUREL SPECIES ( L AURUS , LAURACEAE) 1. 97: E26–E30.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Pedro Jordano, Eugene W. Schupp"
 date: '2000-11-01'
 pub-journal: "Ecological Monographs"
 volume-pages: "Vol. 70: 591–615"
+pages: "591–615"
+volume: "70"
+year: "2000"
 doi: 10.1890/0012-9615(2000)070[0591:sdetqc]2.0.co;2
 citation-url: https://doi.org/10.1890/0012-9615(2000)070[0591:sdetqc]2.0.co;2
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, Eugene W. Schupp 2000. SEED DISPERSER EFFECTIVENESS: THE QUANTITY COMPONENT AND PATTERNS OF SEED RAIN FOR PRUNUS MAHALEB. *Ecological Monographs* 70: 591–615. <https://doi.org/10.1890/0012-9615(2000)070[0591:sdetqc]2.0.co;2>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

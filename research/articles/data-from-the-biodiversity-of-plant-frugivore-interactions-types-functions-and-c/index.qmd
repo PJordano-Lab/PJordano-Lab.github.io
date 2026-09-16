@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '2026-04-10'
 pub-journal: "Zenodo (CERN European Organization for Nuclear Research)"
 volume-pages: "Vol. 2026: e11991"
+pages: "e11991"
+volume: "2026"
+year: "2026"
 doi: 10.5281/zenodo.19482637
 citation-url: https://doi.org/10.5281/zenodo.19482637
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2026. Data from: The biodiversity of plant-frugivore interactions: types, functions, and consequences. *Zenodo (CERN European Organization for Nuclear Research)* 2026: e11991. <https://doi.org/10.5281/zenodo.19482637>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

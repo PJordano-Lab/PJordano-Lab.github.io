@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '2016-12-16'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 105: 75–84"
+pages: "75–84"
+volume: "105"
+year: "2017"
 doi: 10.1111/1365-2745.12690
 citation-url: https://doi.org/10.1111/1365-2745.12690
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2017. What is long‐distance dispersal? And a taxonomy of dispersal events. *Journal of Ecology* 105: 75–84. <https://doi.org/10.1111/1365-2745.12690>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -3,6 +3,7 @@ title: "Defaunation reshapes the distribution of biomass of tropical wild mammal
 authors: "Iago Ferreiro Arias, Martin Philippe-Lesaffre, Luca Santini et al."
 date: '2026-06-09'
 pub-journal: "Research Square"
+year: "2026"
 doi: 10.21203/rs.3.rs-9644263/v1
 citation-url: https://doi.org/10.21203/rs.3.rs-9644263/v1
 format:

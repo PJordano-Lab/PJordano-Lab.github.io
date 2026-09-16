@@ -4,12 +4,21 @@ authors: "Julien P. Renoult, Alfredo Valido, Pedro Jordano et al."
 date: '2013-10-08'
 pub-journal: "New Phytologist"
 volume-pages: "Vol. 201: 678–686"
+pages: "678–686"
+volume: "201"
+year: "2013"
 doi: 10.1111/nph.12539
 citation-url: https://doi.org/10.1111/nph.12539
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Julien P. Renoult, Alfredo Valido, Pedro Jordano et al 2013. Adaptation of flower and fruit colours to multiple, distinct mutualists. *New Phytologist* 201: 678–686. <https://doi.org/10.1111/nph.12539>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

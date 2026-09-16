@@ -4,12 +4,20 @@ authors: "Pedro Jordano"
 date: '2007-01-01'
 pub-journal: "CABI eBooks"
 volume-pages: "pp. 229–251"
+pages: "229–251"
+year: "2007"
 doi: 10.1079/9781845931650.0229
 citation-url: https://doi.org/10.1079/9781845931650.0229
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2007. Frugivores, seeds and genes: analysing the key elements of seed shadows. *CABI eBooks* 229–251. <https://doi.org/10.1079/9781845931650.0229>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

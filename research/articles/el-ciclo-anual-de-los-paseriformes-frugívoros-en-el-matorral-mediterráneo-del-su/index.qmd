@@ -4,10 +4,19 @@ authors: "Pedro Jordano"
 date: '1985-06-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
 volume-pages: "Vol. 32: 69–94"
+pages: "69–94"
+volume: "32"
+year: "1985"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 1985. El ciclo anual de los Paseriformes frugívoros en el matorral mediterráneo del sur de España: importancia de su invernada y variaciones interanuales. *DIGITAL.CSIC (Spanish National Research Council (CSIC))* 32: 69–94.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

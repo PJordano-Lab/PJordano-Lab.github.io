@@ -3,12 +3,19 @@ title: "Actualización del informe del GTM sobre pruebas de diagnóstico de COVI
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2021-01-12'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2021"
 doi: 10.20350/digitalcsic/13716
 citation-url: https://doi.org/10.20350/digitalcsic/13716
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al 2021. Actualización del informe del GTM sobre pruebas de diagnóstico de COVID-19. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*. <https://doi.org/10.20350/digitalcsic/13716>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

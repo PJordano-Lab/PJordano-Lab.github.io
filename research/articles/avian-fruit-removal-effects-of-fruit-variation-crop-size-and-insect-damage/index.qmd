@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '1987-12-01'
 pub-journal: "Ecology"
 volume-pages: "Vol. 68: 1711–1723"
+pages: "1711–1723"
+volume: "68"
+year: "1987"
 doi: 10.2307/1939863
 citation-url: https://doi.org/10.2307/1939863
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 1987. Avian Fruit Removal: Effects of Fruit Variation, Crop Size, and Insect Damage. *Ecology* 68: 1711–1723. <https://doi.org/10.2307/1939863>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

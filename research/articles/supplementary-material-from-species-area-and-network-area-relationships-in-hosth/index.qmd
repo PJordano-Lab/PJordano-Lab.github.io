@@ -3,12 +3,19 @@ title: 'Supplementary material from "Species-area and network-area relationships
 authors: "Dallas, Tad A, Jordano, Pedro"
 date: '2021-01-01'
 pub-journal: "Figshare"
+year: "2021"
 doi: 10.6084/m9.figshare.c.5345000.v2
 citation-url: https://doi.org/10.6084/m9.figshare.c.5345000.v2
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Dallas, Tad A, Jordano, Pedro 2021. Supplementary material from "Species-area and network-area relationships in host–helminth interactions". *Figshare*. <https://doi.org/10.6084/m9.figshare.c.5345000.v2>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

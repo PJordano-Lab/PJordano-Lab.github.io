@@ -3,10 +3,17 @@ title: "Ecological and demographic research in Mediterranean forests of Southern
 authors: "Pedro Jordano, Regino Zamora, Teodoro Marañón et al."
 date: '2001-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2001"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, Regino Zamora, Teodoro Marañón et al 2001. Ecological and demographic research in Mediterranean forests of Southern Spain: applications to conservation and restoration. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

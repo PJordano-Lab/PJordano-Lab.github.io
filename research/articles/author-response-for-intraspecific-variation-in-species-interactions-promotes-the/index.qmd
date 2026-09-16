@@ -3,12 +3,19 @@ title: 'Author response for "Intraspecific variation in species interactions pro
 authors: "Blanca Arroyo‐Correa, Pedro Jordano, Ígnasi Bartomeus"
 date: '2022-11-16'
 pub-journal: ""
+year: "2022"
 doi: 10.1111/ele.14163/v2/response1
 citation-url: https://doi.org/10.1111/ele.14163/v2/response1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Blanca Arroyo‐Correa, Pedro Jordano, Ígnasi Bartomeus 2022. Author response for "Intraspecific variation in species interactions promotes the feasibility of mutualistic assemblages". <https://doi.org/10.1111/ele.14163/v2/response1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

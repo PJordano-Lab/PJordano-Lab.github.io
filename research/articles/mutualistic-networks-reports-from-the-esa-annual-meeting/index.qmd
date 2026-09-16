@@ -3,10 +3,17 @@ title: "Mutualistic networks. Reports from the ESA Annual Meeting"
 authors: "Jordi Bascompte, Marcelo A. Aizen, C. Fontaine et al."
 date: '2010-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2010"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jordi Bascompte, Marcelo A. Aizen, C. Fontaine et al 2010. Mutualistic networks. Reports from the ESA Annual Meeting. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

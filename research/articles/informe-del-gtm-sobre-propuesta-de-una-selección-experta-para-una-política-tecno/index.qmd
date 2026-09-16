@@ -3,12 +3,19 @@ title: "Informe del GTM sobre propuesta de una selección experta para una polí
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2020-11-20'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2020"
 doi: 10.20350/digitalcsic/13721
 citation-url: https://doi.org/10.20350/digitalcsic/13721
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al 2020. Informe del GTM sobre propuesta de una selección experta para una política Tecnológica e Industrial. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*. <https://doi.org/10.20350/digitalcsic/13721>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

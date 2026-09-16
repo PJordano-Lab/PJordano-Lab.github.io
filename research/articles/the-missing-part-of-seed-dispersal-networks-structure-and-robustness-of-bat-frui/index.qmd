@@ -4,12 +4,21 @@ authors: "Marco A. R. Mello, Flávia Maria Darcie Marquitti, Paulo R. Guimarães
 date: '2011-02-28'
 pub-journal: "PLoS ONE"
 volume-pages: "Vol. 6: e17395"
+pages: "e17395–e17395"
+volume: "6"
+year: "2011"
 doi: 10.1371/journal.pone.0017395
 citation-url: https://doi.org/10.1371/journal.pone.0017395
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Marco A. R. Mello, Flávia Maria Darcie Marquitti, Paulo R. Guimarães et al 2011. The Missing Part of Seed Dispersal Networks: Structure and Robustness of Bat-Fruit Interactions. *PLoS ONE* 6: e17395. <https://doi.org/10.1371/journal.pone.0017395>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

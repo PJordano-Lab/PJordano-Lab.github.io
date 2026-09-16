@@ -4,12 +4,21 @@ authors: "Paulo R. Guimarães, Marcus A. M. de Aguiar, Jordi Bascompte et al."
 date: '2005-03-18'
 pub-journal: "Physical Review E"
 volume-pages: "Vol. 71: 37101"
+pages: "37101–37101"
+volume: "71"
+year: "2005"
 doi: 10.1103/physreve.71.037101
 citation-url: https://doi.org/10.1103/physreve.71.037101
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Paulo R. Guimarães, Marcus A. M. de Aguiar, Jordi Bascompte et al 2005. Random initial condition in small Barabasi-Albert networks and deviations from the scale-free behavior. *Physical Review E* 71: 37101. <https://doi.org/10.1103/physreve.71.037101>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

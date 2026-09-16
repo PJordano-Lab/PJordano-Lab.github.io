@@ -4,12 +4,21 @@ authors: "Juan P. González‐Varo, Sarah Díaz-García, Juan Arroyo et al."
 date: '2019-07-01'
 pub-journal: "Biology Letters"
 volume-pages: "Vol. 15: 20190264"
+pages: "20190264"
+volume: "15"
+year: "2019"
 doi: 10.1098/rsbl.2019.0264
 citation-url: https://doi.org/10.1098/rsbl.2019.0264
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Juan P. González‐Varo, Sarah Díaz-García, Juan Arroyo et al 2019. Seed dispersal by dispersing juvenile animals: a source of functional connectivity in fragmented landscapes. *Biology Letters* 15: 20190264. <https://doi.org/10.1098/rsbl.2019.0264>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

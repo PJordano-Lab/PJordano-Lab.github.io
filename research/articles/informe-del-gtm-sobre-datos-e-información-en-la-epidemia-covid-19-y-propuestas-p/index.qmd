@@ -3,12 +3,19 @@ title: "Informe del GTM sobre Datos e información en la epidemia COVID-19 y pro
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2020-12-11'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2020"
 doi: 10.20350/digitalcsic/13723
 citation-url: https://doi.org/10.20350/digitalcsic/13723
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al 2020. Informe del GTM sobre Datos e información en la epidemia COVID-19 y propuestas para la evolución digital del sistema de salud. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*. <https://doi.org/10.20350/digitalcsic/13723>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -3,10 +3,17 @@ title: "Darwin en Sevilla: Antonio Machado y Núñez y los darwinistas sevillano
 authors: "Encarnación Aguilar Criado, Juan Arroyo Marín, Elena Fierro Enrique et al."
 date: '2010-01-01'
 pub-journal: "Dialnet (Universidad de la Rioja)"
+year: "2010"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Encarnación Aguilar Criado, Juan Arroyo Marín, Elena Fierro Enrique et al 2010. Darwin en Sevilla: Antonio Machado y Núñez y los darwinistas sevillanos. *Dialnet (Universidad de la Rioja)*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

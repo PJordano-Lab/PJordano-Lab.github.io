@@ -4,12 +4,21 @@ authors: "Cristina Rigueiro, Juan Arroyo, Rocío Rodríguez‐Arcos et al."
 date: '2009-01-22'
 pub-journal: "Molecular Ecology Resources"
 volume-pages: "Vol. 9: 986–989"
+pages: "986–989"
+volume: "9"
+year: "2009"
 doi: 10.1111/j.1755-0998.2009.02527.x
 citation-url: https://doi.org/10.1111/j.1755-0998.2009.02527.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Cristina Rigueiro, Juan Arroyo, Rocío Rodríguez‐Arcos et al 2009. Isolation and characterization of 16 polymorphic microsatellite loci for Frangula alnus (Rhamnaceae). *Molecular Ecology Resources* 9: 986–989. <https://doi.org/10.1111/j.1755-0998.2009.02527.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

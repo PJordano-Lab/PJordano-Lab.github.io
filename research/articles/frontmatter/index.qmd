@@ -3,12 +3,19 @@ title: "Frontmatter"
 authors: "Jordi Bascompte, Pedro Jordano"
 date: '2013-12-31'
 pub-journal: "Princeton University Press eBooks"
+year: "2013"
 doi: 10.1515/9781400848720-fm
 citation-url: https://doi.org/10.1515/9781400848720-fm
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jordi Bascompte, Pedro Jordano 2013. Frontmatter. *Princeton University Press eBooks*. <https://doi.org/10.1515/9781400848720-fm>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Jens M. Olesen, Jordi Bascompte, Heidi Elberling et al."
 date: '2008-05-30'
 pub-journal: "Ecology"
 volume-pages: "Vol. 89: 1573–1582"
+pages: "1573–1582"
+volume: "89"
+year: "2008"
 doi: 10.1890/07-0451.1
 citation-url: https://doi.org/10.1890/07-0451.1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jens M. Olesen, Jordi Bascompte, Heidi Elberling et al 2008. TEMPORAL DYNAMICS IN A POLLINATION NETWORK. *Ecology* 89: 1573–1582. <https://doi.org/10.1890/07-0451.1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

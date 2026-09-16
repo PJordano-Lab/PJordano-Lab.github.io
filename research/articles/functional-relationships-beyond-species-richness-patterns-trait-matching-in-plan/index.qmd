@@ -4,12 +4,21 @@ authors: "D. Matthias Dehling, Till Töpfer, H. Martin Schaefer et al."
 date: '2014-05-26'
 pub-journal: "Global Ecology and Biogeography"
 volume-pages: "Vol. 23: 1085–1093"
+pages: "1085–1093"
+volume: "23"
+year: "2014"
 doi: 10.1111/geb.12193
 citation-url: https://doi.org/10.1111/geb.12193
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+D. Matthias Dehling, Till Töpfer, H. Martin Schaefer et al 2014. Functional relationships beyond species richness patterns: trait matching in plant–bird mutualisms across scales. *Global Ecology and Biogeography* 23: 1085–1093. <https://doi.org/10.1111/geb.12193>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

@@ -4,12 +4,21 @@ authors: "Carine Emer, Mauro Galetti, Marco Aurélio Pizo et al."
 date: '2018-01-24'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 21: 484–493"
+pages: "484–493"
+volume: "21"
+year: "2018"
 doi: 10.1111/ele.12909
 citation-url: https://doi.org/10.1111/ele.12909
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Carine Emer, Mauro Galetti, Marco Aurélio Pizo et al 2018. Seed‐dispersal interactions in fragmented landscapes – a metanetwork approach. *Ecology Letters* 21: 484–493. <https://doi.org/10.1111/ele.12909>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

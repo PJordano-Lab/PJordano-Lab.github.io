@@ -3,10 +3,17 @@ title: "El significado actual de la evolución"
 authors: "Pedro Jordano"
 date: '2010-01-01'
 pub-journal: "Dialnet (Universidad de la Rioja)"
+year: "2010"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2010. El significado actual de la evolución. *Dialnet (Universidad de la Rioja)*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

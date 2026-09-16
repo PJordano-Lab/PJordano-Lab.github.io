@@ -4,12 +4,21 @@ authors: "María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido"
 date: '2015-02-25'
 pub-journal: "Ecology"
 volume-pages: "Vol. 96: 2181–2191"
+pages: "2181–2191"
+volume: "96"
+year: "2015"
 doi: 10.1890/14-2467.1
 citation-url: https://doi.org/10.1890/14-2467.1
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido 2015. Hotspots of damage by antagonists shape the spatial structure of plant–pollinator interactions. *Ecology* 96: 2181–2191. <https://doi.org/10.1890/14-2467.1>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

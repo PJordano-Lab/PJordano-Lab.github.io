@@ -3,12 +3,19 @@ title: "Informe del GTM sobre el impacto de la COVID-19 en las personas mayores,
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2020-07-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2020"
 doi: 10.20350/digitalcsic/13714
 citation-url: https://doi.org/10.20350/digitalcsic/13714
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al 2020. Informe del GTM sobre el impacto de la COVID-19 en las personas mayores, con especial énfasis en las que viven en residencias. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*. <https://doi.org/10.20350/digitalcsic/13714>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

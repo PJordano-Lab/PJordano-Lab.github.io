@@ -4,12 +4,21 @@ authors: "Cristina Rigueiro, Juan Arroyo, Alfredo Valido et al."
 date: '2009-05-04'
 pub-journal: "Molecular Ecology Resources"
 volume-pages: "Vol. 9: 1497–1500"
+pages: "1497–1500"
+volume: "9"
+year: "2009"
 doi: 10.1111/j.1755-0998.2009.02701.x
 citation-url: https://doi.org/10.1111/j.1755-0998.2009.02701.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Cristina Rigueiro, Juan Arroyo, Alfredo Valido et al 2009. Isolation and characterization of 13 microsatellite loci for Neochamaelea pulverulenta (Cneoraceae). *Molecular Ecology Resources* 9: 1497–1500. <https://doi.org/10.1111/j.1755-0998.2009.02701.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

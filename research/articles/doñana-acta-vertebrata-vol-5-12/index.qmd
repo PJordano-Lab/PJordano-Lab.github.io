@@ -3,10 +3,17 @@ title: "Doñana. Acta vertebrata. vol 5 (1/2)"
 authors: "Alfredo Salvador, Luis Felipe López‐Jurado, Pedro Jordano et al."
 date: '1978-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "1978"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Alfredo Salvador, Luis Felipe López‐Jurado, Pedro Jordano et al 1978. Doñana. Acta vertebrata. vol 5 (1/2). *DIGITAL.CSIC (Spanish National Research Council (CSIC))*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

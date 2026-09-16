@@ -3,12 +3,19 @@ title: "Appendix D. Test effects for nine morphological variables predicting the
 authors: "Jofre Carnicer, Pedro Jordano, Carlos J. Melián"
 date: '2016-01-01'
 pub-journal: "Figshare"
+year: "2016"
 doi: 10.6084/m9.figshare.3531521
 citation-url: https://doi.org/10.6084/m9.figshare.3531521
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jofre Carnicer, Pedro Jordano, Carlos J. Melián 2016. Appendix D. Test effects for nine morphological variables predicting the variation in the proportion of fruits in the diet. *Figshare*. <https://doi.org/10.6084/m9.figshare.3531521>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

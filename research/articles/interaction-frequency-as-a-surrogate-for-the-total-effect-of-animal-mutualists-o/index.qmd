@@ -4,12 +4,21 @@ authors: "Diego P. Vázquez, William F. Morris, Pedro Jordano"
 date: '2005-09-08'
 pub-journal: "Ecology Letters"
 volume-pages: "Vol. 8: 1088–1094"
+pages: "1088–1094"
+volume: "8"
+year: "2005"
 doi: 10.1111/j.1461-0248.2005.00810.x
 citation-url: https://doi.org/10.1111/j.1461-0248.2005.00810.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Diego P. Vázquez, William F. Morris, Pedro Jordano 2005. Interaction frequency as a surrogate for the total effect of animal mutualists on plants. *Ecology Letters* 8: 1088–1094. <https://doi.org/10.1111/j.1461-0248.2005.00810.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

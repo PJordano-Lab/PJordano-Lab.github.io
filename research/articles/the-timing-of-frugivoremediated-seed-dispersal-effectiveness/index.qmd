@@ -4,12 +4,21 @@ authors: "Juan P. González‐Varo, Juan Arroyo, Pedro Jordano"
 date: '2018-08-29'
 pub-journal: "Molecular Ecology"
 volume-pages: "Vol. 28: 219–231"
+pages: "219–231"
+volume: "28"
+year: "2019"
 doi: 10.1111/mec.14850
 citation-url: https://doi.org/10.1111/mec.14850
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Juan P. González‐Varo, Juan Arroyo, Pedro Jordano 2019. The timing of frugivore‐mediated seed dispersal effectiveness. *Molecular Ecology* 28: 219–231. <https://doi.org/10.1111/mec.14850>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

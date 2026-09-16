@@ -4,12 +4,20 @@ authors: "Pedro Jordano"
 date: '2000-01-01'
 pub-journal: "CABI Publishing eBooks"
 volume-pages: "pp. 18–61"
+pages: "18–61"
+year: "2014"
 doi: 10.1079/9780851994321.0125
 citation-url: https://doi.org/10.1079/9780851994321.0125
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 2014. Fruits and frugivory. *CABI Publishing eBooks* 18–61. <https://doi.org/10.1079/9780851994321.0125>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

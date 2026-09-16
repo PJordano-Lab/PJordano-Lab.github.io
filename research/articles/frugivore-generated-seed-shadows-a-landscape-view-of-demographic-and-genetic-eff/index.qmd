@@ -4,12 +4,20 @@ authors: "Pedro Jordano, José A. Godoy"
 date: '2002-01-01'
 pub-journal: "CABI Publishing eBooks"
 volume-pages: "pp. 305–321"
+pages: "305–321"
+year: "2002"
 doi: 10.1079/9780851995250.0305
 citation-url: https://doi.org/10.1079/9780851995250.0305
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano, José A. Godoy 2002. Frugivore-generated seed shadows: a landscape view of demographic and genetic effects. *CABI Publishing eBooks* 305–321. <https://doi.org/10.1079/9780851995250.0305>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

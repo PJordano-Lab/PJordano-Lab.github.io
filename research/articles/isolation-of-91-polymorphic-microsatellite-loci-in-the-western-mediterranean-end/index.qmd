@@ -4,12 +4,20 @@ authors: "Juan Arroyo, Marcial Escudero, Pedro Jordano"
 date: '2016-01-01'
 pub-journal: "Applications in Plant Sciences"
 volume-pages: "Vol. 4"
+volume: "4"
+year: "2016"
 doi: 10.3732/apps.1500085
 citation-url: https://doi.org/10.3732/apps.1500085
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Juan Arroyo, Marcial Escudero, Pedro Jordano 2016. Isolation of 91 polymorphic microsatellite loci in the western Mediterranean endemic Carex helodes (Cyperaceae). *Applications in Plant Sciences* 4. <https://doi.org/10.3732/apps.1500085>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

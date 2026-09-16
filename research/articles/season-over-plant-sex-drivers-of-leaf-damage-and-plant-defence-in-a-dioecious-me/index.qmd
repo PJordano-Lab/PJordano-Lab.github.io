@@ -4,12 +4,20 @@ authors: "Elena Valdés‐Correcher, Gemma Calvo, Cristina Rigueiro et al."
 date: '2025-09-15'
 pub-journal: "Plant Biology"
 volume-pages: "pp. plb.70115"
+pages: "plb.70115"
+year: "2025"
 doi: 10.1111/plb.70115
 citation-url: https://doi.org/10.1111/plb.70115
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Elena Valdés‐Correcher, Gemma Calvo, Cristina Rigueiro et al 2025. Season over plant sex: drivers of leaf damage and plant defence in a dioecious Mediterranean shrub. *Plant Biology* plb.70115. <https://doi.org/10.1111/plb.70115>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

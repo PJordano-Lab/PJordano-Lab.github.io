@@ -3,12 +3,19 @@ title: "Informe del GTM sobre Vacunas frente al SARS-CoV-2 causante de la COVID-
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2020-11-21'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2020"
 doi: 10.20350/digitalcsic/13722
 citation-url: https://doi.org/10.20350/digitalcsic/13722
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al 2020. Informe del GTM sobre Vacunas frente al SARS-CoV-2 causante de la COVID-19: Conceptos y desarrollos. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*. <https://doi.org/10.20350/digitalcsic/13722>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

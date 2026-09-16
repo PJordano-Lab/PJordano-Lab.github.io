@@ -4,12 +4,21 @@ authors: "Lisieux Fuzessy, Gisela Sobral, Daiane Carreira et al."
 date: '2022-01-30'
 pub-journal: "Biotropica"
 volume-pages: "Vol. 54: 444–454"
+pages: "444–454"
+volume: "54"
+year: "2022"
 doi: 10.1111/btp.13065
 citation-url: https://doi.org/10.1111/btp.13065
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Lisieux Fuzessy, Gisela Sobral, Daiane Carreira et al 2022. Functional roles of frugivores and plants shape hyper‐diverse mutualistic interactions under two antagonistic conservation scenarios. *Biotropica* 54: 444–454. <https://doi.org/10.1111/btp.13065>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

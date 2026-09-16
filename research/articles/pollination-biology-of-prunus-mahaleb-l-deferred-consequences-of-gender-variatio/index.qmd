@@ -4,12 +4,21 @@ authors: "Pedro Jordano"
 date: '1993-09-01'
 pub-journal: "Biological Journal of the Linnean Society"
 volume-pages: "Vol. 50: 65–84"
+pages: "65–84"
+volume: "50"
+year: "1993"
 doi: 10.1111/j.1095-8312.1993.tb00919.x
 citation-url: https://doi.org/10.1111/j.1095-8312.1993.tb00919.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Pedro Jordano 1993. Pollination biology of Prunus mahaleb L.: deferred consequences of gender variation for fecundity and seed size. *Biological Journal of the Linnean Society* 50: 65–84. <https://doi.org/10.1111/j.1095-8312.1993.tb00919.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

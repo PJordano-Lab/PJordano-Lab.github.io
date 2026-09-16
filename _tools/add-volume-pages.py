@@ -42,11 +42,11 @@ def load_formatter():
     return ns["format_volume_pages"]
 
 
-def bibtex_fields(text):
-    """(volume, pages) from a page's ```bibtex block; '' when absent."""
+def bibtex_fields(text, names=("volume", "pages", "year", "journal", "doi")):
+    """Requested fields from a page's ```bibtex block; '' for any that's absent."""
     m = re.search(r"```bibtex\n(.*?)\n```", text, re.S)
     if not m:
-        return "", ""
+        return {n: "" for n in names}
     entry = m.group(1)
 
     def field(name):
@@ -56,54 +56,142 @@ def bibtex_fields(text):
             return ""
         return f.group(1).strip().strip("{}\"").strip()
 
-    return field("volume"), field("pages")
+    return {n: field(n) for n in names}
 
 
-def apply(text, value):
-    """Insert or replace the volume-pages line inside the front matter."""
-    line = f'volume-pages: "{value}"'
-    existing = re.search(r"^volume-pages:.*$", text, re.M)
+def apply(text, key, value):
+    """Insert or replace one front-matter key. Idempotent."""
+    line = f'{key}: "{value}"'
+    existing = re.search(rf"^{re.escape(key)}:.*$", text, re.M)
     if existing:
         return text[: existing.start()] + line + text[existing.end():]
-    # place it directly after pub-journal, else after date, else after title
-    for key in ("pub-journal", "date", "title"):
-        anchor = re.search(rf"^{key}:.*$", text, re.M)
+    # keep the reference fields together, in citation order
+    for anchor_key in ("volume-pages", "pub-journal", "date", "title"):
+        anchor = re.search(rf"^{anchor_key}:.*$", text, re.M)
         if anchor:
             return text[: anchor.end()] + "\n" + line + text[anchor.end():]
     return text
 
 
+def full_reference(fm, fmt):
+    """'Authors YEAR. Title. Journal Vol: pages. doi' from front-matter values.
+
+    Mirrors what the listing table shows, so a reader landing on the page sees
+    the same reference the table row summarises.
+    """
+    bits = []
+    if fm.get("authors"):
+        bits.append(fm["authors"].rstrip("."))
+    if fm.get("year"):
+        bits.append(f"{fm['year']}.")
+    if fm.get("title"):
+        bits.append(fm["title"].rstrip(".") + ".")
+    tail = []
+    if fm.get("pub-journal"):
+        tail.append(f"*{fm['pub-journal']}*")
+    vp = fmt(fm.get("volume"), pages=fm.get("pages"))
+    if vp:
+        tail.append(vp.replace("Vol. ", "").replace("pp. ", ""))
+    if tail:
+        bits.append(" ".join(tail).strip() + ".")
+    if fm.get("doi"):
+        bits.append(f"<https://doi.org/{fm['doi']}>")
+    return " ".join(bits)
+
+
+def read_front_matter(text):
+    """Flat dict of top-level scalar keys in the YAML front matter."""
+    m = re.match(r"^---\n(.*?)\n---", text, re.S)
+    fm = {}
+    if not m:
+        return fm
+    for line in m.group(1).split("\n"):
+        k = re.match(r"^([A-Za-z0-9_-]+):\s*(.*)$", line)
+        if k:
+            fm[k.group(1)] = k.group(2).strip().strip('"').strip("'")
+    return fm
+
+
+REF_START = "<!-- full-reference:start -->"
+REF_END = "<!-- full-reference:end -->"
+
+
+def apply_reference(text, ref):
+    """Put the rendered reference right after the front matter, between
+    sentinels so a re-run replaces it instead of stacking copies."""
+    block = f"{REF_START}\n::: {{.full-reference}}\n{ref}\n:::\n{REF_END}\n"
+    existing = re.search(re.escape(REF_START) + r".*?" + re.escape(REF_END) + r"\n?", text, re.S)
+    if existing:
+        return text[: existing.start()] + block + text[existing.end():]
+    fm_end = re.search(r"^---\n.*?\n---\n", text, re.S)
+    if not fm_end:
+        return text
+    return text[: fm_end.end()] + "\n" + block + text[fm_end.end():]
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--no-reference", action="store_true",
+                    help="write the front-matter fields only, skip the rendered "
+                         "reference block on the page")
     args = ap.parse_args()
 
     fmt = load_formatter()
-    written = no_data = no_bib = 0
+    counts = {"year": 0, "volume": 0, "pages": 0, "reference": 0}
+    no_bib = 0
     samples = []
 
     for d in DIRS:
         for page in sorted(d.glob("*/index.qmd")):
             text = page.read_text(encoding="utf-8")
-            if "```bibtex" not in text:
+            has_bib = "```bibtex" in text
+            if not has_bib:
+                # working papers carry an Oikos-style "## Full citation" instead
+                # of a BibTeX block; they still get year from their own date
                 no_bib += 1
-                continue
-            volume, pages = bibtex_fields(text)
-            value = fmt(volume, pages=pages) if (volume or pages) else ""
-            if not value:
-                no_data += 1
-                continue
-            new = apply(text, value)
+            bib = bibtex_fields(text) if has_bib else {
+                k: "" for k in ("volume", "pages", "year", "journal", "doi")}
+            if not bib.get("year"):
+                # several entries omit year; the page's own date always has it
+                fm0 = read_front_matter(text)
+                bib["year"] = (fm0.get("date") or "")[:4]
+            new = text
+            for key in ("year", "volume", "pages"):
+                value = bib.get(key, "")
+                if key == "pages" and value:
+                    # normalise BibTeX's 1021--1035 to an en dash, as the
+                    # combined field already does
+                    value = re.sub(r"\s*(?:--|-|\u2010|\u2012|\u2014)\s*",
+                                   "\u2013", value)
+                if not value:
+                    continue
+                new = apply(new, key, value)
+                counts[key] += 1
+            # combined field stays in step with the parts
+            combined = fmt(bib.get("volume"), pages=bib.get("pages"))
+            if combined:
+                new = apply(new, "volume-pages", combined)
+
+            # a page that already shows an Oikos-style citation does not need a
+            # second rendered reference
+            if not args.no_reference and "## Full citation" not in new:
+                fm = read_front_matter(new)
+                ref = full_reference(fm, fmt)
+                if ref and fm.get("title"):
+                    new = apply_reference(new, ref)
+                    counts["reference"] += 1
+                    if len(samples) < 3:
+                        samples.append(ref)
+
             if new != text and not args.dry_run:
                 page.write_text(new, encoding="utf-8")
-            written += 1
-            if len(samples) < 5:
-                samples.append(f"{page.parent.name[:44]:<44} {value}")
 
-    for s in samples:
-        print("  " + s)
-    print(f"\npages with volume-pages written: {written} | "
-          f"BibTeX present but no volume/pages: {no_data} | no BibTeX block: {no_bib}"
+    for s_ in samples:
+        print("  " + s_[:150])
+    print(f"\nyear: {counts['year']} | volume: {counts['volume']} | "
+          f"pages: {counts['pages']} | reference blocks: {counts['reference']} | "
+          f"no BibTeX block: {no_bib}"
           f"{' (dry run, nothing written)' if args.dry_run else ''}")
     return 0
 

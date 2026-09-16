@@ -4,12 +4,21 @@ authors: "Enrico L. Rezende, Pedro Jordano, Jordi Bascompte"
 date: '2007-11-01'
 pub-journal: "Oikos"
 volume-pages: "Vol. 116: 1919–1929"
+pages: "1919–1929"
+volume: "116"
+year: "2007"
 doi: 10.1111/j.0030-1299.2007.16029.x
 citation-url: https://doi.org/10.1111/j.0030-1299.2007.16029.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Enrico L. Rezende, Pedro Jordano, Jordi Bascompte 2007. Effects of phenotypic complementarity and phylogeny on the nested structure of mutualistic networks. *Oikos* 116: 1919–1929. <https://doi.org/10.1111/j.0030-1299.2007.16029.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

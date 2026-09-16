@@ -3,10 +3,17 @@ title: "Seed dispersal by frugivores: An empirical approach to analyze their dem
 authors: "Héctor Hugo Ulloa Godínez, Pedro Jordano"
 date: '2007-01-01'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2007"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Héctor Hugo Ulloa Godínez, Pedro Jordano 2007. Seed dispersal by frugivores: An empirical approach to analyze their demographic consequences. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*.
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

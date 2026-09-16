@@ -4,10 +4,19 @@ authors: "Sandra Dı́az, Fabrice DeClerck, Susanna Dobrota et al."
 date: '2020-05-08'
 pub-journal: "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)"
 volume-pages: "Vol. CBD/SBSTTA/24/INF/9: 66 pp."
+pages: "66 pp."
+volume: "CBD/SBSTTA/24/INF/9"
+year: "2020"
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Sandra Dı́az, Fabrice DeClerck, Susanna Dobrota et al 2020. Synthesizing the scientific evidence to inform the development of the post-2020 Global Framework on Biodiversity. *LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)* CBD/SBSTTA/24/INF/9: 66 pp..
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

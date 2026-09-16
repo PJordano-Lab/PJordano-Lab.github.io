@@ -3,12 +3,19 @@ title: "Informe del GTM sobre variantes del SARS-CoV-2 e implicaciones en los pr
 authors: "José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al."
 date: '2021-02-23'
 pub-journal: "DIGITAL.CSIC (Spanish National Research Council (CSIC))"
+year: "2021"
 doi: 10.20350/digitalcsic/13851
 citation-url: https://doi.org/10.20350/digitalcsic/13851
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al 2021. Informe del GTM sobre variantes del SARS-CoV-2 e implicaciones en los programas de vacunación global frente a COVID-19. *DIGITAL.CSIC (Spanish National Research Council (CSIC))*. <https://doi.org/10.20350/digitalcsic/13851>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

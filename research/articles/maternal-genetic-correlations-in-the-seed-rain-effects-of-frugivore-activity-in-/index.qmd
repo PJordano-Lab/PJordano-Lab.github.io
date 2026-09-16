@@ -4,12 +4,21 @@ authors: "Cristina García, Pedro Jordano, Juan Arroyo et al."
 date: '2009-09-18'
 pub-journal: "Journal of Ecology"
 volume-pages: "Vol. 97: 1424–1435"
+pages: "1424–1435"
+volume: "97"
+year: "2009"
 doi: 10.1111/j.1365-2745.2009.01577.x
 citation-url: https://doi.org/10.1111/j.1365-2745.2009.01577.x
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Cristina García, Pedro Jordano, Juan Arroyo et al 2009. Maternal genetic correlations in the seed rain: effects of frugivore activity in heterogeneous landscapes. *Journal of Ecology* 97: 1424–1435. <https://doi.org/10.1111/j.1365-2745.2009.01577.x>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 

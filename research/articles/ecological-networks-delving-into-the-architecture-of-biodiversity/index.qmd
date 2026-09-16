@@ -4,12 +4,21 @@ authors: "Rúben Heleno, Cristina García, Pedro Jordano et al."
 date: '2014-01-01'
 pub-journal: "Biology Letters"
 volume-pages: "Vol. 10: 20131000"
+pages: "20131000"
+volume: "10"
+year: "2014"
 doi: 10.1098/rsbl.2013.1000
 citation-url: https://doi.org/10.1098/rsbl.2013.1000
 format:
   html:
     toc: true
 ---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Rúben Heleno, Cristina García, Pedro Jordano et al 2014. Ecological networks: delving into the architecture of biodiversity. *Biology Letters* 10: 20131000. <https://doi.org/10.1098/rsbl.2013.1000>
+:::
+<!-- full-reference:end -->
 
 ## Publication Details
 
