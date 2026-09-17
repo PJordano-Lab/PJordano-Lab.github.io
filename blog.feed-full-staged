@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Pedro Jordano Lab</title>
+<link>https://pjordano-lab.github.io/blog.html</link>
+<atom:link href="https://pjordano-lab.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Notes, news and comments from the lab, mirrored from my WordPress blog.</description>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Thu, 02 Jul 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/blog/posts/geno/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/geno/</link>
+  <description>{B4F502887207:/blog/posts/geno/index.html}</description>
+  <category>Doñana</category>
+  <category>Personal</category>
+  <category>Science</category>
+  <category>Seed dispersal</category>
+  <category>colleagues</category>
+  <category>Geno</category>
+  <category>Projects</category>
+  <category>Research</category>
+  <category>spanish</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/geno/</guid>
+  <pubDate>Thu, 02 Jul 2026 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/our-new-book-on-ecological-interactions/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/our-new-book-on-ecological-interactions/</link>
+  <description>{B4F502887207:/blog/posts/our-new-book-on-ecological-interactions/index.html}</description>
+  <category>biodiversity</category>
+  <category>Projects</category>
+  <category>Research</category>
+  <category>Book</category>
+  <category>CYTED</category>
+  <category>interactions</category>
+  <category>Mutualism</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/our-new-book-on-ecological-interactions/</guid>
+  <pubDate>Sat, 31 Aug 2024 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/21-years-and-counting/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/21-years-and-counting/</link>
+  <description>{B4F502887207:/blog/posts/21-years-and-counting/index.html}</description>
+  <category>---</category>
+  <category>Projects</category>
+  <category>Blog</category>
+  <category>blogging</category>
+  <category>Personal</category>
+  <category>Research</category>
+  <category>writing</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/21-years-and-counting/</guid>
+  <pubDate>Fri, 30 Aug 2024 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/junipers/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/junipers/</link>
+  <description>{B4F502887207:/blog/posts/junipers/index.html}</description>
+  <category>biodiversity</category>
+  <category>Doñana</category>
+  <category>Fruits and plants</category>
+  <category>interactions</category>
+  <category>mutualism</category>
+  <category>Projects</category>
+  <category>Seed dispersal</category>
+  <category>Frugivory</category>
+  <category>juniper</category>
+  <category>Network</category>
+  <category>Research</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/junipers/</guid>
+  <pubDate>Fri, 30 Aug 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://pjordano-lab.github.io/blog/posts/junipers/images/dsc_8961.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/the-return-of-the-jedi/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/the-return-of-the-jedi/</link>
+  <description>{B4F502887207:/blog/posts/the-return-of-the-jedi/index.html}</description>
+  <category>---</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/the-return-of-the-jedi/</guid>
+  <pubDate>Sun, 10 Dec 2017 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/dodo/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/dodo/</link>
+  <description>{B4F502887207:/blog/posts/dodo/index.html}</description>
+  <category>Animals</category>
+  <category>biodiversity</category>
+  <category>Fruits and plants</category>
+  <category>interactions</category>
+  <category>islands</category>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>Seed dispersal</category>
+  <category>dodo</category>
+  <category>extinction</category>
+  <category>Mauritius</category>
+  <category>Sapotaceae</category>
+  <category>seed size</category>
+  <category>tambalacoque</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/dodo/</guid>
+  <pubDate>Fri, 30 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/ginkgo/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/ginkgo/</link>
+  <description>{B4F502887207:/blog/posts/ginkgo/index.html}</description>
+  <category>Fruits and plants</category>
+  <category>interactions</category>
+  <category>islands</category>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>Seed dispersal</category>
+  <category>Fruit</category>
+  <category>ginkgo</category>
+  <category>Mutualism</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/ginkgo/</guid>
+  <pubDate>Fri, 30 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/megafauna-in-madagascar/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/megafauna-in-madagascar/</link>
+  <description>{B4F502887207:/blog/posts/megafauna-in-madagascar/index.html}</description>
+  <category>Animals</category>
+  <category>biodiversity</category>
+  <category>interactions</category>
+  <category>islands</category>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>Seed dispersal</category>
+  <category>Madagascar</category>
+  <category>Pleistocene</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/megafauna-in-madagascar/</guid>
+  <pubDate>Thu, 29 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/it-takes-guts-to-disperse-seeds-the-amazing-physiologies-of-megafauna/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/it-takes-guts-to-disperse-seeds-the-amazing-physiologies-of-megafauna/</link>
+  <description>{B4F502887207:/blog/posts/it-takes-guts-to-disperse-seeds-the-amazing-physiologies-of-megafauna/index.html}</description>
+  <category>Animals</category>
+  <category>biodiversity</category>
+  <category>interactions</category>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>Seed dispersal</category>
+  <category>conservation</category>
+  <category>Frugivores</category>
+  <category>mammals</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/it-takes-guts-to-disperse-seeds-the-amazing-physiologies-of-megafauna/</guid>
+  <pubDate>Tue, 27 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/moas/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/moas/</link>
+  <description>{B4F502887207:/blog/posts/moas/index.html}</description>
+  <category>islands</category>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>ratites</category>
+  <category>Seed dispersal</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/moas/</guid>
+  <pubDate>Tue, 27 Dec 2016 23:00:00 GMT</pubDate>
+  <media:content url="https://pjordano-lab.github.io/blog/posts/moas/images/dinornithidae_size_01.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/the-gardeners-of-the-forest/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/the-gardeners-of-the-forest/</link>
+  <description>{B4F502887207:/blog/posts/the-gardeners-of-the-forest/index.html}</description>
+  <category>Animals</category>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>Seed dispersal</category>
+  <category>elephants</category>
+  <category>Frugivory</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/the-gardeners-of-the-forest/</guid>
+  <pubDate>Sun, 25 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/extant-megafauna-frugivores/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/extant-megafauna-frugivores/</link>
+  <description>{B4F502887207:/blog/posts/extant-megafauna-frugivores/index.html}</description>
+  <category>---</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/extant-megafauna-frugivores/</guid>
+  <pubDate>Thu, 22 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/the-cryptic-extinctions/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/the-cryptic-extinctions/</link>
+  <description>{B4F502887207:/blog/posts/the-cryptic-extinctions/index.html}</description>
+  <category>Animals</category>
+  <category>biodiversity</category>
+  <category>Megafauna</category>
+  <category>Seed dispersal</category>
+  <category>Asia</category>
+  <category>bovid</category>
+  <category>extinction</category>
+  <category>Frugivory</category>
+  <category>mammal</category>
+  <category>Red List</category>
+  <category>UICN</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/the-cryptic-extinctions/</guid>
+  <pubDate>Thu, 22 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/megafauna-dependent-plants/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/megafauna-dependent-plants/</link>
+  <description>{B4F502887207:/blog/posts/megafauna-dependent-plants/index.html}</description>
+  <category>Brazil</category>
+  <category>interactions</category>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>Projects</category>
+  <category>Frugivory</category>
+  <category>project</category>
+  <category>Science</category>
+  <category>Seed dispersal</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/megafauna-dependent-plants/</guid>
+  <pubDate>Sat, 17 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/extinct-megafauna-frugivores/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/extinct-megafauna-frugivores/</link>
+  <description>{B4F502887207:/blog/posts/extinct-megafauna-frugivores/index.html}</description>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>Seed dispersal</category>
+  <category>Blog</category>
+  <category>Projects</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/extinct-megafauna-frugivores/</guid>
+  <pubDate>Thu, 15 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/how-to-make-a-megafauna-fruit/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/how-to-make-a-megafauna-fruit/</link>
+  <description>{B4F502887207:/blog/posts/how-to-make-a-megafauna-fruit/index.html}</description>
+  <category>Brazil</category>
+  <category>interactions</category>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>Projects</category>
+  <category>Seed dispersal</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/how-to-make-a-megafauna-fruit/</guid>
+  <pubDate>Thu, 15 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/seed-dispersal-anachronisms/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/seed-dispersal-anachronisms/</link>
+  <description>{B4F502887207:/blog/posts/seed-dispersal-anachronisms/index.html}</description>
+  <category>Brazil</category>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>Seed dispersal</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/seed-dispersal-anachronisms/</guid>
+  <pubDate>Thu, 15 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/seed-dispersal-by-megafauna-extinct-and-extant/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/seed-dispersal-by-megafauna-extinct-and-extant/</link>
+  <description>{B4F502887207:/blog/posts/seed-dispersal-by-megafauna-extinct-and-extant/index.html}</description>
+  <category>Animals</category>
+  <category>interactions</category>
+  <category>Megafauna</category>
+  <category>mutualism</category>
+  <category>Seed dispersal</category>
+  <category>Blog</category>
+  <category>Brazil</category>
+  <category>Projects</category>
+  <category>Research</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/seed-dispersal-by-megafauna-extinct-and-extant/</guid>
+  <pubDate>Thu, 15 Dec 2016 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/chasing-ecological-interactions/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/chasing-ecological-interactions/</link>
+  <description>{B4F502887207:/blog/posts/chasing-ecological-interactions/index.html}</description>
+  <category>biodiversity</category>
+  <category>interactions</category>
+  <category>mutualism</category>
+  <category>Networks</category>
+  <category>Papers</category>
+  <category>Projects</category>
+  <category>web of life</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/chasing-ecological-interactions/</guid>
+  <pubDate>Mon, 18 Apr 2016 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/554/index.html}</title>
+  <dc:creator>Pedro Jordano</dc:creator>
+  <link>https://pjordano-lab.github.io/blog/posts/554/</link>
+  <description>{B4F502887207:/blog/posts/554/index.html}</description>
+  <category>CV</category>
+  <category>Talks, teaching</category>
+  <category>Travel</category>
+  <category>Brazil</category>
+  <category>Collaborations</category>
+  <category>Frugivores</category>
+  <category>Frugivory</category>
+  <category>Seed dispersal</category>
+  <guid>https://pjordano-lab.github.io/blog/posts/554/</guid>
+  <pubDate>Thu, 14 Jan 2016 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
