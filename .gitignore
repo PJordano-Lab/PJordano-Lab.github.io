@@ -22,5 +22,8 @@ __pycache__/
 # LaTeX build logs from the CV
 **/cv/*.log
 **/texput.log
+# the CV source must be in the repo: CI re-renders the site and can only
+# publish docs/cv/cv.pdf if cv/cv.pdf is checked out
+!cv/cv.pdf
 !docs/cv/cv.pdf
 

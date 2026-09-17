@@ -50,6 +50,16 @@ jobs:
       - name: Render Quarto site
         run: quarto render
 
+      # The CV is copied by _tools/publish-cv.sh during post-render. A broken
+      # copy step previously left an empty DIRECTORY at docs/cv/cv.pdf, which
+      # Pages serves as a 301 to /cv/cv.pdf/ and then a 404 - and the render
+      # still exited 0, so the workflow stayed green. Fail here instead.
+      - name: Verify the CV was published
+        run: |
+          test -f docs/cv/cv.pdf || { echo "docs/cv/cv.pdf is missing or is a directory"; ls -la docs/cv || true; exit 1; }
+          cmp -s cv/cv.pdf docs/cv/cv.pdf || { echo "docs/cv/cv.pdf differs from cv/cv.pdf"; exit 1; }
+          echo "CV published: $(wc -c < docs/cv/cv.pdf) bytes"
+
       - name: Setup Pages
         uses: actions/configure-pages@v5.0.0
 

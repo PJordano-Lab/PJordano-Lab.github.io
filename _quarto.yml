@@ -1,7 +1,10 @@
 project:
   type: website
   post-render:
-    - "mkdir -p docs/cv && cp cv/cv.pdf docs/cv/cv.pdf"
+    # a script, not an inline command: Quarto does not run post-render strings
+    # through a shell, so "mkdir -p docs/cv && cp ..." made mkdir create a
+    # directory named docs/cv/cv.pdf and never ran the cp
+    - _tools/publish-cv.sh
   render:
     - "*.qmd"
     - "!cv/**"
@@ -16,7 +19,6 @@ project:
   #   - Rscript call-scholar-stats.R
   #   - Rscript call-python.R
   resources:
-    - cv/cv.pdf
     - CNAME
     - .nojekyll
   output-dir: docs
