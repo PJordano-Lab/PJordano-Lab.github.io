@@ -55,9 +55,32 @@ def main() -> int:
     ap.add_argument("--dry-run", action="store_true", help="report without writing")
     args = ap.parse_args()
 
-    links = {norm_doi(str(k)): v for k, v in
-             (yaml.safe_load(SIDECAR.read_text(encoding="utf-8")) or {}).items()
-             if isinstance(v, dict)}
+    try:
+        data = yaml.safe_load(SIDECAR.read_text(encoding="utf-8")) or {}
+    except yaml.YAMLError as exc:
+        # Nearly always a hand-editing slip: a DOI key without its trailing
+        # colon, or inconsistent indentation. Point at the line and stop.
+        print(f"{SIDECAR.relative_to(ROOT)} is not valid YAML:\n  {exc}",
+              file=sys.stderr)
+        mark = getattr(exc, "problem_mark", None) or getattr(exc, "context_mark", None)
+        if mark is not None:
+            lines = SIDECAR.read_text(encoding="utf-8").splitlines()
+            for n in range(max(0, mark.line - 2), min(len(lines), mark.line + 2)):
+                flag = ">>" if n == mark.line else "  "
+                print(f"  {flag} {n + 1:4}| {lines[n]}", file=sys.stderr)
+            print("\n  Each paper must be a quoted DOI followed by a colon, e.g.\n"
+                  '    "10.1002/ecy.4424":\n'
+                  "      code: https://github.com/...", file=sys.stderr)
+        return 1
+    if not isinstance(data, dict):
+        print(f"{SIDECAR.relative_to(ROOT)} should be a mapping of DOI -> links",
+              file=sys.stderr)
+        return 1
+
+    links = {norm_doi(str(k)): v for k, v in data.items() if isinstance(v, dict)}
+    skipped = [k for k, v in data.items() if not isinstance(v, dict)]
+    if skipped:
+        print(f"  ! ignoring {len(skipped)} malformed entr(ies): {skipped[:3]}")
     if not links:
         print(f"No entries in {SIDECAR.relative_to(ROOT)}; nothing to do.")
         return 0

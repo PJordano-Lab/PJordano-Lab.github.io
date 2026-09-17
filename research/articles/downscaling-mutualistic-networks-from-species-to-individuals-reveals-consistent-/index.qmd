@@ -31,7 +31,7 @@ Elena Quintero, Blanca Arroyo‐Correa, Jorge Isla et al 2025. Downscaling mutua
 
 ## Links
 
-[DOI Link](https://doi.org/10.1073/pnas.2402342122) | [PDF](https://www.pnas.org/doi/pdf/10.1073/pnas.2402342122) | [OpenAlex](https://openalex.org/W4407402898)
+[DOI Link](https://doi.org/10.1073/pnas.2402342122) | [PDF](https://www.pnas.org/doi/pdf/10.1073/pnas.2402342122) | [OpenAlex](https://openalex.org/W4407402898) | [Code & data](https://doi.org/10.5281/zenodo.14591620)
 
 ## BibTeX
 

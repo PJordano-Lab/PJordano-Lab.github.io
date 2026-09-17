@@ -31,7 +31,7 @@ Elena Quintero, Juan Arroyo, Rodolfo Dirzo et al 2024. Lasting effects of avianâ
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/1365-2745.14260) | [PDF](https://doi.org/10.1111/1365-2745.14260) | [OpenAlex](https://openalex.org/W4391108877)
+[DOI Link](https://doi.org/10.1111/1365-2745.14260) | [PDF](https://doi.org/10.1111/1365-2745.14260) | [OpenAlex](https://openalex.org/W4391108877) | [Code & data](https://doi.org/10.5281/zenodo.8289087)
 
 ## BibTeX
 

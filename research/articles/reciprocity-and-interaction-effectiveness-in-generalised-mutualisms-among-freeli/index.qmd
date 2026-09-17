@@ -31,7 +31,7 @@ Elena Quintero, Francisco Rodríguez‐Sánchez, Pedro Jordano 2023. Reciprocity
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/ele.14141) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14141) | [OpenAlex](https://openalex.org/W4310572889)
+[DOI Link](https://doi.org/10.1111/ele.14141) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14141) | [OpenAlex](https://openalex.org/W4310572889) | [Code](https://doi.org/10.5281/zenodo.7248616) | [Data](https://doi.org/10.5061/dryad.02v6wwq6n)
 
 ## BibTeX
 

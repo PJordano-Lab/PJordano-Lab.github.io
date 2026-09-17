@@ -31,7 +31,7 @@ Pablo Villalva, Blanca Arroyo‐Correa, Gemma Calvo et al 2024. FRUGIVORY CAMTRA
 
 ## Links
 
-[DOI Link](https://doi.org/10.1002/ecy.4424) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.4424) | [OpenAlex](https://openalex.org/W4402568822)
+[DOI Link](https://doi.org/10.1002/ecy.4424) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.4424) | [OpenAlex](https://openalex.org/W4402568822) | [Code](https://github.com/PJordano-Lab/frugivory-camtrap) | [Data](https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fecy.4424&file=ecy4424-sup-0001-DataS1.zip)
 
 ## BibTeX
 
