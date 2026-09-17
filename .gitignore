@@ -19,6 +19,9 @@ photos/**/thumbs/
 __pycache__/
 **/__pycache__/
 
+# Screenshots written by _tools/page-shots.py (local verification only)
+_screenshots/
+
 # DataCite lookup cache written by _tools/propose-paper-links.py
 data/.datacite_cache.json
 
