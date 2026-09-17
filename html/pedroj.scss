@@ -186,7 +186,7 @@ figure:has(> p > .hero-banner),
 figure:has(> .hero-banner) {
   /* #quarto-content > * already adds 14px above; keep this small so the
      banner sits close under the navbar */
-  margin: 0.05rem 0 0;
+  margin: 0.00rem 0 0;
   width: 100%;
 }
 
