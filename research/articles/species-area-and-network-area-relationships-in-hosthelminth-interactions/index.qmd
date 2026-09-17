@@ -31,7 +31,7 @@ Tad Dallas, Pedro Jordano 2021. Species-area and network-area relationships in h
 
 ## Links
 
-[DOI Link](https://doi.org/10.1098/rspb.2020.3143) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/8059662) | [OpenAlex](https://openalex.org/W3137520524)
+[DOI Link](https://doi.org/10.1098/rspb.2020.3143) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/8059662) | [OpenAlex](https://openalex.org/W3137520524) | [Code](https://doi.org/10.6084/m9.figshare.14248075) | [Data](https://doi.org/10.6084/m9.figshare.c.5345000.v2)
 
 ## BibTeX
 

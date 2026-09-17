@@ -33,6 +33,34 @@ python open-alex.py
 Rscript call-python.R
 ```
 
+### Code and data links on publication pages
+
+`data/paper_links.yml` (DOI -> `code` / `data` / `extra[{label,url}]`) is read by
+`open-alex.py` and appended to the `## Links` line of each generated article
+page; identical code and data URLs collapse to a single `Code & data` link.
+The sidecar exists because `save_article_pages()` rewrites every
+`research/articles/<slug>/index.qmd` on each sync, so links added to those pages
+by hand are lost.
+
+Deposits themselves get no page: `_is_deposit()` (record type dataset/software/
+supplementary-material, or a Zenodo/figshare/Dryad/GBIF DOI prefix) makes
+`save_article_pages()` skip them, so they leave the publications listing, and
+`research.qmd` excludes the same records from the publication count.
+
+`python _tools/apply-paper-links.py` applies the sidecar to pages that already
+exist, without a full sync - idempotent, and byte-identical to what a sync
+writes. Run it alongside the other post-sync enrichment scripts in `_tools/`
+(`add-bib-sections.py`, `add-full-citation.py`, `add-volume-pages.py`). Note
+that a sync REWRITES every article page, dropping the BibTeX/full-citation
+sections those scripts add - re-run them after any sync.
+
+`python _tools/propose-paper-links.py` infers candidate entries from the deposit
+records already in `data/publications.csv` (DataCite `IsSupplementTo` relations
+first, then title similarity) and writes `data/paper_links.proposed.yml` plus
+`data/paper_links_review.csv`. Neither file is read by the build - they are
+review artefacts; accepted entries are copied into `data/paper_links.yml`.
+DataCite responses are cached in `data/.datacite_cache.json`.
+
 ### WordPress Blog Mirror
 
 `fetch-wordpress.py` mirrors the WordPress blog
@@ -96,6 +124,8 @@ Note: The pre-render scripts are commented out in `_quarto.yml` — run them loc
 | `projects/truleo.qmd` | Truleo RCT project page |
 | `projects/orp.qmd` | Tempe Opioid Recovery Project page |
 | `data/publications.csv` | Publication data from OpenAlex |
+| `data/paper_links.yml` | Curated code/data links per paper (DOI-keyed) |
+| `_tools/propose-paper-links.py` | Infers candidate code/data pairings for review |
 | `data/scholar_stats.yml` | Google Scholar citation stats |
 | `cv/cv.pdf` | CV PDF (committed, copied to docs/ at build time) |
 | `headshot.jpeg` | Profile photo (root-level, referenced by index.qmd) |

@@ -31,7 +31,7 @@ Lisieux Fuzessy, Fernando A. O. Silveira, Laurence Culot et al 2022. Phylogeneti
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/ele.13918) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13918) | [OpenAlex](https://openalex.org/W3164401628)
+[DOI Link](https://doi.org/10.1111/ele.13918) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13918) | [OpenAlex](https://openalex.org/W3164401628) | [Data](https://doi.org/10.5281/zenodo.5578594)
 
 ## BibTeX
 

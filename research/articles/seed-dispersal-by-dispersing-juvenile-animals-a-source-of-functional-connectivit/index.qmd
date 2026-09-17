@@ -31,7 +31,7 @@ Juan P. González‐Varo, Sarah Díaz-García, Juan Arroyo et al 2019. Seed disp
 
 ## Links
 
-[DOI Link](https://doi.org/10.1098/rsbl.2019.0264) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/6684993) | [OpenAlex](https://openalex.org/W2959823778)
+[DOI Link](https://doi.org/10.1098/rsbl.2019.0264) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/6684993) | [OpenAlex](https://openalex.org/W2959823778) | [Data](https://doi.org/10.6084/m9.figshare.c.4551821.v1)
 
 ## BibTeX
 

@@ -31,7 +31,7 @@ Jofre Carnicer, Pedro Jordano, Carlos J. Melián 2009. The temporal dynamics of 
 
 ## Links
 
-[DOI Link](https://doi.org/10.1890/07-1939.1) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/07-1939.1) | [OpenAlex](https://openalex.org/W2109709798)
+[DOI Link](https://doi.org/10.1890/07-1939.1) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1890/07-1939.1) | [OpenAlex](https://openalex.org/W2109709798) | [Code & data](https://doi.org/10.6084/m9.figshare.3531515)
 
 ## BibTeX
 

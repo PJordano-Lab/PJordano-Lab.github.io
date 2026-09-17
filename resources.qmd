@@ -22,8 +22,9 @@ hand-edited: true   # layout reworked by hand; _tools/convert-hugo-content.py sk
 |                                                   | 26\                      |
 |                                                   | E-41092 Sevilla, Spain\  |
 |                                                   | \                        |
-|                                                   | <                        |
-|                                                   | https://www.ebd.csic.es> |
+|                                                   | \<                       |
+|                                                   | h                        |
+|                                                   | ttps://www.ebd.csic.es\> |
 +---------------------------------------------------+--------------------------+
 
 --------------------------------------------------------------------------------
@@ -70,8 +71,8 @@ Lab R Code repository \@GitHub](https://github.com/PJordano-Lab/R-figures)
 [R Markdown](http://rmarkdown.rstudio.com/index.html)\
 [Simple R](http://www.math.csi.cuny.edu/Statistics/R/simpleR/index.html)
 
-Statistics & R tutorials by\
-[Francisco Rodríguez](https://sites.google.com/site/rodriguezsanchezf/)
+Statistics & R tutorials by [Francisco
+Rodrígue-Sánchez](https://frodriguezsanchez.net/)
 
 -   [Spatial data in R: using R as a GIS (new
     version).](http://pakillo.github.io/R-GIS-tutorial/)

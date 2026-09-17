@@ -31,7 +31,7 @@ Pedro Jordano 2026. The biodiversity of plant–frugivore interactions: types, f
 
 ## Links
 
-[DOI Link](https://doi.org/10.1002/oik.11991) | [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/11/14/2025.11.14.688423.full.pdf) | [OpenAlex](https://openalex.org/W4416294080)
+[DOI Link](https://doi.org/10.1002/oik.11991) | [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/11/14/2025.11.14.688423.full.pdf) | [OpenAlex](https://openalex.org/W4416294080) | [Data](https://doi.org/10.5281/zenodo.19482637)
 
 ## BibTeX
 

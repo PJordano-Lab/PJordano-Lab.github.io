@@ -29,7 +29,7 @@ Tad Dallas, Pedro Jordano 2022. Parasite species richness and host range are not
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/geb.13452) | [OpenAlex](https://openalex.org/W4210340833)
+[DOI Link](https://doi.org/10.1111/geb.13452) | [OpenAlex](https://openalex.org/W4210340833) | [Code & data](https://doi.org/10.6084/m9.figshare.9977420)
 
 ## BibTeX
 

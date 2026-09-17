@@ -1,0 +1,99 @@
+# PROPOSED code/data links - review, edit, then merge the entries you
+# accept into data/paper_links.yml (open-alex.py reads that file only).
+# Regenerate with: python _tools/propose-paper-links.py
+#
+# Each entry is keyed by the PARENT PAPER's DOI. Comments record how the
+# pairing was found: datacite:<relation> is registered metadata (reliable);
+# title <score> is a similarity match (check these).
+
+# Changes of a mutualistic network over time: reanalysis over a 10‐year period
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix A. Species codes and identities.
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix B. Dissimilarity dendrograms for ant species in Networks 1990 and 2000.
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix C. Dissimilarity dendrograms for plant species for Networks 1990 and 20
+"10.1890/08-1883.1":
+  data: https://doi.org/10.6084/m9.figshare.3544478
+  # 3 deposits matched this paper as data; the one above was picked. Others:
+  #   https://doi.org/10.6084/m9.figshare.3544475  Appendix B. Dissimilarity dendrograms for ant species in Networks 1990
+  #   https://doi.org/10.6084/m9.figshare.3544472  Appendix C. Dissimilarity dendrograms for plant species for Networks 1
+
+# Defaunation affects carbon storage in tropical forests
+#   title 0.75 [data] <- Defaunation implications for ecosystem carbon cycling and storage in tropical fo
+#   title 0.94 [code+data] <- Supplemental Information, Code, And Data For The Ms: Defaunation Impacts Carbon 
+"10.1126/sciadv.1501105":
+  code: https://doi.org/10.5281/zenodo.31880
+  data: https://doi.org/10.5281/zenodo.31880
+  # 2 deposits matched this paper as data; the one above was picked. Others:
+  #   https://doi.org/10.6084/m9.figshare.5280709  Defaunation implications for ecosystem carbon cycling and storage in t
+
+# Extant fruit‐eating birds promote genetically diverse seed rain, but disperse to fewer sites in defaunated tropical forests
+#   title 1.00 [data] <- Dataset: Extant fruit-eating birds promote genetically diverse seed rain, but di
+"10.1111/1365-2745.13534":
+  data: https://doi.org/10.6084/m9.figshare.13129913
+
+# Hotspots of damage by antagonists shape the spatial structure of plant–pollinator interactions
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix G. Description of the methodology used to estimate the length of interp
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix C. Description of the methodology used to estimate plant characteristic
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix D. Description of the methodology used to estimate the proportion of vi
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix A. Description of animal mutualists and antagonists included in the stu
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix B. Description of the study site and the replicate patches.
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix F. Further details on methods and results from generalized linear mixed
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix E. Detailed description of spatial point pattern analyses, plus additio
+"10.1890/14-2467.1":
+  data: https://doi.org/10.6084/m9.figshare.3562782
+  # 7 deposits matched this paper as data; the one above was picked. Others:
+  #   https://doi.org/10.6084/m9.figshare.3562779  Appendix B. Description of the study site and the replicate patches.
+  #   https://doi.org/10.6084/m9.figshare.3562776  Appendix C. Description of the methodology used to estimate plant char
+  #   https://doi.org/10.6084/m9.figshare.3562773  Appendix D. Description of the methodology used to estimate the propor
+  #   https://doi.org/10.6084/m9.figshare.3562767  Appendix E. Detailed description of spatial point pattern analyses, pl
+  #   https://doi.org/10.6084/m9.figshare.3562764  Appendix F. Further details on methods and results from generalized li
+  #   https://doi.org/10.6084/m9.figshare.3562761  Appendix G. Description of the methodology used to estimate the length
+
+# Parasite species richness and host range are not spatially conserved
+#   title 1.00 [code+data] <- Code and data to reproduce the analyses in "Parasite species richness and host r
+"10.1111/geb.13452":
+  code: https://doi.org/10.6084/m9.figshare.9977420
+  data: https://doi.org/10.6084/m9.figshare.9977420
+
+# Phylogenetic congruence between Neotropical primates and plants is driven by frugivory
+#   title 0.73 [data] <- Ecol-Lett_Fuzessy-et-al-2021_Phylogenetic_congruence_between_Neotropical_primate
+"10.1111/ele.13918":
+  data: https://doi.org/10.5281/zenodo.5578594
+
+# Seed dispersal by dispersing juvenile animals: a source of functional connectivity in fragmented landscapes
+#   datacite:IsSupplementTo 1.00 [data] <- Supplementary material from "Seed dispersal by dispersing juvenile animals: a so
+#   datacite:IsSupplementTo 1.00 [data] <- ESM for Seed dispersal by dispersing juvenile animals from Seed dispersal by dis
+"10.1098/rsbl.2019.0264":
+  data: https://doi.org/10.6084/m9.figshare.c.4551821.v1
+  # 2 deposits matched this paper as data; the one above was picked. Others:
+  #   https://doi.org/10.6084/m9.figshare.8311511.v1  ESM for Seed dispersal by dispersing juvenile animals from Seed disper
+
+# Species-area and network-area relationships in host–helminth interactions
+#   datacite:IsSupplementTo 1.00 [data] <- Supplementary material from "Species-area and network-area relationships in host
+#   datacite:IsSupplementTo 1.00 [code+data] <- Code and dataset from Species-area and network-area relationships in host–helmin
+"10.1098/rspb.2020.3143":
+  code: https://doi.org/10.6084/m9.figshare.14248075
+  data: https://doi.org/10.6084/m9.figshare.c.5345000.v2
+  # 2 deposits matched this paper as data; the one above was picked. Others:
+  #   https://doi.org/10.6084/m9.figshare.14248075  Code and dataset from Species-area and network-area relationships in h
+
+# The biodiversity of plant–frugivore interactions: types, functions and consequences
+#   title 1.00 [data] <- Data from: The biodiversity of plant-frugivore interactions: types, functions, a
+"10.1002/oik.11991":
+  data: https://doi.org/10.5281/zenodo.19482637
+
+# The temporal dynamics of resource use by frugivorous birds: a network approach
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix A. Variation in the number of interactions observed at different timesc
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix E. Values and significance of the statistic K for the variables under s
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix C. Temporal changes in network structure during 1981–1983.
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix D. Test effects for nine morphological variables predicting the variati
+#   datacite:IsSupplementTo 1.00 [code+data] <- Supplement 1. MATLAB code used in the calculation of asymmetry values.
+#   datacite:IsSupplementTo 1.00 [data] <- Appendix B. Switching behavior classification.
+"10.1890/07-1939.1":
+  code: https://doi.org/10.6084/m9.figshare.3531515
+  data: https://doi.org/10.6084/m9.figshare.3531515
+  # 6 deposits matched this paper as data; the one above was picked. Others:
+  #   https://doi.org/10.6084/m9.figshare.3531533  Appendix A. Variation in the number of interactions observed at differ
+  #   https://doi.org/10.6084/m9.figshare.3531530  Appendix B. Switching behavior classification.
+  #   https://doi.org/10.6084/m9.figshare.3531524  Appendix C. Temporal changes in network structure during 1981–1983.
+  #   https://doi.org/10.6084/m9.figshare.3531521  Appendix D. Test effects for nine morphological variables predicting t
+  #   https://doi.org/10.6084/m9.figshare.3531518  Appendix E. Values and significance of the statistic K for the variabl

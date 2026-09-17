@@ -55,7 +55,17 @@ stats <- tryCatch(
 )
 
 pubs_n <- tryCatch({
-  nrow(read.csv("data/publications.csv"))
+  pubs <- read.csv("data/publications.csv")
+  # Datasets, code archives and journal appendices are records of their own in
+  # OpenAlex, but they are shown as Code/Data links on the parent paper's page
+  # (data/paper_links.yml) and get no page of their own, so they are not counted
+  # as publications here either.
+  deposit_types <- c("dataset", "software", "supplementary-material",
+                     "supplementary-materials")
+  is_deposit <- pubs$type %in% deposit_types |
+    grepl("^(https?://(dx\\.)?doi\\.org/)?10\\.(5281|6084|5061|15468)/",
+          tolower(pubs$doi))
+  nrow(pubs[!is_deposit, ])
 }, error = function(e) "—")
 ```
 

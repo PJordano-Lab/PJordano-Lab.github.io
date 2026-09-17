@@ -16,14 +16,20 @@ format:
 ---
 
 <!-- full-reference:start -->
-::: {.full-reference}
-Melanie Hagen, W. Daniel Kissling, Claus Rasmussen et al 2012. Biodiversity, Species Interactions and Ecological Networks in a Fragmented World. *Advances in ecological research/Advances in Ecological Research* 46: 89–120. <https://doi.org/10.1016/b978-0-12-396992-7.00002-2>
+
+::: full-reference
+Melanie Hagen, W. Daniel Kissling, Claus Rasmussen et al 2012. Biodiversity,
+Species Interactions and Ecological Networks in a Fragmented World. *Advances in
+ecological research/Advances in Ecological Research* 46: 89–120.
+<https://doi.org/10.1016/b978-0-12-396992-7.00002-2>
 :::
+
 <!-- full-reference:end -->
 
 ## Publication Details
 
-**Published in:** Advances in ecological research/Advances in Ecological Research
+**Published in:** Advances in ecological research/Advances in Ecological
+Research
 
 **Citations:** 455
 
@@ -31,11 +37,13 @@ Melanie Hagen, W. Daniel Kissling, Claus Rasmussen et al 2012. Biodiversity, Spe
 
 ## Links
 
-[DOI Link](https://doi.org/10.1016/b978-0-12-396992-7.00002-2) | [PDF](http://hdl.handle.net/10261/64172) | [OpenAlex](https://openalex.org/W1680689898)
+[DOI Link](https://doi.org/10.1016/b978-0-12-396992-7.00002-2) \|
+[PDF](http://hdl.handle.net/10261/64172) \|
+[OpenAlex](https://openalex.org/W1680689898)
 
 ## BibTeX
 
-```bibtex
+``` bibtex
 @article{RN57990,
    author = {Hagen, Melanie and Kissling, W. Daniel and Rasmussen, Claus and De Aguiar, Marcus A M and Brown, Lee E. and Carstensen, Daniel W. and Alves-Dos-Santos, Isabel and Dupont, Yoko L. and Edwards, Francois K. and Genini, Julieta and Guimarães Jr., Paulo R. and Jenkins, Gareth B. and Jordano, Pedro and Kaiser-Bunbury, Christopher N. and Ledger, Mark E. and Maia, Kate P. and Marquitti, Flavia M Darcie and Mclaughlin, ??rla and Morellato, L. Patricia C and O'Gorman, Eoin J. and Trojelsgaard, Kristian and Tylianakis, Jason M. and Vidal, Mariana Morais and Woodward, Guy and Olesen, Jens M.},
    title = {Biodiversity, species interactions and ecological networks in a fragmented world},

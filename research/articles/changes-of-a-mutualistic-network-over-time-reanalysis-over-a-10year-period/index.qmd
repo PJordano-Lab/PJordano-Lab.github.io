@@ -31,7 +31,7 @@ Cecilia Díaz‐Castelazo, Paulo R. Guimarães, Pedro Jordano et al 2010. Change
 
 ## Links
 
-[DOI Link](https://doi.org/10.1890/08-1883.1) | [PDF](http://hdl.handle.net/10261/36449) | [OpenAlex](https://openalex.org/W2157318339)
+[DOI Link](https://doi.org/10.1890/08-1883.1) | [PDF](http://hdl.handle.net/10261/36449) | [OpenAlex](https://openalex.org/W2157318339) | [Data](https://doi.org/10.6084/m9.figshare.3544478)
 
 ## BibTeX
 

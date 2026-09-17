@@ -31,7 +31,7 @@ Carolina da Silva Carvalho, Cristina García, Marília Souza Lucas et al 2021. E
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/1365-2745.13534) | [PDF](http://hdl.handle.net/11449/205554) | [OpenAlex](https://openalex.org/W3096898643)
+[DOI Link](https://doi.org/10.1111/1365-2745.13534) | [PDF](http://hdl.handle.net/11449/205554) | [OpenAlex](https://openalex.org/W3096898643) | [Data](https://doi.org/10.6084/m9.figshare.13129913)
 
 ## BibTeX
 

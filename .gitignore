@@ -19,6 +19,9 @@ photos/**/thumbs/
 __pycache__/
 **/__pycache__/
 
+# DataCite lookup cache written by _tools/propose-paper-links.py
+data/.datacite_cache.json
+
 # LaTeX build logs from the CV
 **/cv/*.log
 **/texput.log
