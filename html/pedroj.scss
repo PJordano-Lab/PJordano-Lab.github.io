@@ -184,7 +184,9 @@ h4 { font-size: 1.25rem; }
 
 figure:has(> p > .hero-banner),
 figure:has(> .hero-banner) {
-  margin: 1.5rem 0 0;
+  /* #quarto-content > * already adds 14px above; keep this small so the
+     banner sits close under the navbar */
+  margin: 0.35rem 0 0;
   width: 100%;
 }
 
@@ -1252,12 +1254,35 @@ div.sourceCode:has(> pre.bibtex) .code-copy-button {
 
 /* band above "Recent Work" */
 .section-divider {
-  margin: 1.5rem 0 1.25rem;        /* was 3.5rem 0 3rem */
+  margin: 1.1rem 0 0.6rem;         /* was 3.5rem 0 3rem */
+}
+
+/* "Recent Work" block: the theme's `#quarto-content section:first-of-type
+   h2:first-of-type` rule outranks .section-heading on specificity and was
+   adding 1rem above the heading; the id keeps these scoped to the home page. */
+/* two ids: the theme's rule is (1,2,2) on specificity, so a single id here
+   would lose */
+#quarto-content #recent-work > h2.section-heading,
+#quarto-content #recent-work > h2 {
+  margin-top: 0;
+}
+
+#recent-work > p {
+  margin-bottom: 0.55rem;
+}
+
+/* trims the gap between the publications table and the footer */
+#recent-work .quarto-listing {
+  padding-bottom: 0.25rem;
+}
+
+#recent-work .quarto-listing .listing-actions-group {
+  margin-bottom: 0.35rem;
 }
 
 @media (max-width: 576px) {
   .hero-grid { padding: 0.75rem 0 1.75rem; }
-  .section-divider { margin: 1.25rem 0 1rem; }
+  .section-divider { margin: 0.9rem 0 0.5rem; }
 }
 
 /* ── research.qmd: seven-column reference table ───────────────────────────
