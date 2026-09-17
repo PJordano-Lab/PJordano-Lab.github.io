@@ -1,0 +1,9 @@
+# Defaults for every mirrored WordPress post. fetch-wordpress.py writes only
+# per-post metadata (title, date, categories, image), so presentation lives here.
+title-block-banner: "#1a1c20"
+date-format: "D MMMM YYYY"
+toc: false
+format:
+  html:
+    fig-align: center
+    link-external-newwindow: true

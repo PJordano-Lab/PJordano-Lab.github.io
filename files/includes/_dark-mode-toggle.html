@@ -72,9 +72,42 @@
 
     // Set the attribute before first paint so there is no flash of the wrong
     // theme; the body/button work happens once the DOM is ready.
-    var saved = 'dark';
-    try { saved = localStorage.getItem('theme') || 'dark'; } catch (e) {}
-    document.documentElement.setAttribute('data-theme', saved);
+    // First visit follows the visitor's OS setting (prefers-color-scheme),
+    // falling back to light where that is unset or unsupported. Once the
+    // toggle is used, the explicit choice is stored and wins from then on.
+    function systemTheme() {
+      try {
+        if (window.matchMedia &&
+            window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          return 'dark';
+        }
+      } catch (e) {}
+      return 'light';
+    }
+
+    var stored = null;
+    try { stored = localStorage.getItem('theme'); } catch (e) {}
+    document.documentElement.setAttribute('data-theme', stored || systemTheme());
+
+    // Follow the OS switching light/dark while the page is open, but only for
+    // visitors who have not made an explicit choice here.
+    try {
+      var mq = window.matchMedia('(prefers-color-scheme: dark)');
+      var onSystemChange = function(e) {
+        var explicit = null;
+        try { explicit = localStorage.getItem('theme'); } catch (err) {}
+        if (explicit) return;
+        var theme = e.matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+        applyBodyClasses(theme);
+        refreshButtons(theme);
+      };
+      if (mq.addEventListener) {
+        mq.addEventListener('change', onSystemChange);
+      } else if (mq.addListener) {
+        mq.addListener(onSystemChange);
+      }
+    } catch (e) {}
 
     window.toggleTheme = function() {
       applyTheme(currentTheme() === 'dark' ? 'light' : 'dark');

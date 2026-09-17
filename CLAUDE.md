@@ -33,6 +33,42 @@ python open-alex.py
 Rscript call-python.R
 ```
 
+### WordPress Blog Mirror
+
+`fetch-wordpress.py` mirrors the WordPress blog
+(<https://pedrojordano.wordpress.com/>) into the site through the public
+WordPress.com REST API — no authentication, no plugin, nothing to install on
+the WordPress side. For every published post it writes
+`blog/posts/<slug>/index.qmd` (full post body as raw HTML, with title, date,
+categories and excerpt in the front matter), downloads every image into
+`blog/posts/<slug>/images/` at 1600px wide and rewrites the `<img>` tags to the
+local copies, so the mirror does not depend on WordPress staying online.
+
+```bash
+python fetch-wordpress.py              # incremental: only new/edited posts
+python fetch-wordpress.py --force      # re-render all posts, re-download images
+python fetch-wordpress.py --limit 5    # 5 most recent posts (testing)
+python fetch-wordpress.py --full-size  # archive original uploads (2-4 MB each)
+```
+
+`data/wordpress_posts.json` is the sync manifest: it records each post's
+`modified` timestamp, and unchanged posts are skipped on later runs. Posts
+unpublished on WordPress are reported but never deleted automatically.
+
+`blog.qmd` is the listing page (date-sorted, category cloud, filter/sort UI,
+RSS feed at `/blog.xml`); `blog/posts/_metadata.yml` holds presentation
+defaults shared by all mirrored posts; the imported WordPress block markup is
+styled at the end of `html/pedroj.scss`. Generated pages carry a
+"do-not-edit" comment — edit the post on WordPress and re-sync instead.
+
+The `.github/workflows/update-blog.yml` workflow runs the sync every Monday
+and Thursday (and on demand via *Run workflow*), commits any changes and then
+triggers `static.yml` to rebuild Pages.
+
+Six `<img>` tags in 2010–2012 posts still point at their original URLs: they
+were hotlinked from Apple's discontinued MobileMe (`web.me.com`) and other
+dead hosts, so no copy exists to archive.
+
 ### CV Pipeline
 
 `cv/cv.Rmd` is the CV source (R Markdown using `stevetemplates`). To update the CV:
@@ -50,6 +86,10 @@ Note: The pre-render scripts are commented out in `_quarto.yml` — run them loc
 | `index.qmd` | Home page with hero section and recent publications |
 | `about.qmd` | About page with bio, education, positions |
 | `research.qmd` | Publications listing page |
+| `blog.qmd` | Blog listing page (mirrored WordPress posts) |
+| `blog/posts/*/index.qmd` | Mirrored WordPress posts (generated — do not edit) |
+| `fetch-wordpress.py` | Mirrors the WordPress blog into `blog/posts/` |
+| `data/wordpress_posts.json` | Blog sync manifest (post ids, modified times) |
 | `styles.css` | Custom CSS (design tokens, dark mode, components) |
 | `files/includes/` | HTML snippets injected in header (fonts, dark mode toggle) |
 | `research/articles/*/index.qmd` | Individual publication pages |

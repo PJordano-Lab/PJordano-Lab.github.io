@@ -27,6 +27,7 @@ freeze: true
 
 website:
   title: "Pedro Jordano Lab"
+  favicon: static/favicon.ico
   navbar:
     pinned: true
     background: dark
@@ -40,6 +41,8 @@ website:
         text: Projects
       - href: people.qmd
         text: People
+      - href: blog.qmd
+        text: Blog
       - text: Resources
         menu:
           - href: resources.qmd

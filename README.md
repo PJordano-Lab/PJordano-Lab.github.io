@@ -79,6 +79,43 @@ python open-alex.py
 
 The GitHub Actions workflow (`.github/workflows/update-publications.yml`) runs this automatically on the 1st and 15th of each month, then commits and pushes any changes to `data/`.
 
+## WordPress Blog Mirror
+
+The blog at <https://pedrojordano.wordpress.com/> is mirrored into this site, so
+every post is readable at `/blog.html` with the site's own design and is indexed
+by the site search. Nothing has to be installed on the WordPress side: the
+mirror reads the public WordPress.com REST API.
+
+`fetch-wordpress.py` writes one page per post at `blog/posts/<slug>/index.qmd`
+(full body, title, date, categories, excerpt), downloads every post image into
+`blog/posts/<slug>/images/` at 1600 px wide and rewrites the `<img>` tags to the
+local copies, so the archive keeps working if the WordPress blog ever goes away.
+Each page links back to its original.
+
+```bash
+python fetch-wordpress.py              # incremental: only new or edited posts
+python fetch-wordpress.py --force      # re-render all posts, re-download images
+python fetch-wordpress.py --limit 5    # 5 most recent posts only (testing)
+python fetch-wordpress.py --full-size  # archive original uploads (2-4 MB each)
+```
+
+`data/wordpress_posts.json` is the sync manifest (post id, slug and `modified`
+time); unchanged posts are skipped. A post unpublished on WordPress is reported
+but never deleted automatically. Generated pages carry a "do not edit" comment:
+edit the post on WordPress and re-sync.
+
+The listing page is `blog.qmd` (date-sorted, category cloud, sort/filter UI and
+an RSS feed at `/blog.xml`), presentation defaults for posts live in
+`blog/posts/_metadata.yml`, and the imported WordPress block markup is styled at
+the end of `html/pedroj.scss`.
+
+`.github/workflows/update-blog.yml` runs the sync every Monday and Thursday (or
+on demand from the Actions tab), commits what changed and triggers a rebuild.
+
+To mirror a different or self-hosted blog, change `SITE`/`API_BASE` at the top
+of `fetch-wordpress.py` — a self-hosted WordPress exposes the same API at
+`https://yourdomain/wp-json/wp/v2`.
+
 ## CV Updates
 
 The CV is a PDF generated from `cv/cv.Rmd` using R and TinyTeX. To update:

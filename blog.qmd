@@ -1,0 +1,28 @@
+---
+title: "Blog"
+pagetitle: "Blog — Pedro Jordano"
+description: "Notes, news and comments from the lab, mirrored from my WordPress blog."
+title-block-banner: "#1a1c20"
+
+listing:
+  id: blog-posts
+  contents: "blog/posts/*/index.qmd"
+  sort: "date desc"
+  type: default
+  page-size: 20
+  sort-ui: [date, title]
+  filter-ui: true
+  categories: cloud
+  feed: true
+  fields: [image, date, title, description, categories]
+  image-align: left
+  image-height: "150px"
+date-format: "D MMMM YYYY"
+---
+
+Posts from my [WordPress blog, *Pedro Jordano — The Red
+Notebook*](https://pedrojordano.wordpress.com/), mirrored here in full. The
+archive goes back to 2003; each post also links to its original version.
+
+::: {#blog-posts}
+:::
