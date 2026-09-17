@@ -90,7 +90,7 @@ Note: The pre-render scripts are commented out in `_quarto.yml` — run them loc
 | `blog/posts/*/index.qmd` | Mirrored WordPress posts (generated — do not edit) |
 | `fetch-wordpress.py` | Mirrors the WordPress blog into `blog/posts/` |
 | `data/wordpress_posts.json` | Blog sync manifest (post ids, modified times) |
-| `styles.css` | Custom CSS (design tokens, dark mode, components) |
+| `html/pedroj.scss` | Site theme: design tokens, dark mode, components (the only stylesheet the build uses) |
 | `files/includes/` | HTML snippets injected in header (fonts, dark mode toggle) |
 | `research/articles/*/index.qmd` | Individual publication pages |
 | `projects/truleo.qmd` | Truleo RCT project page |

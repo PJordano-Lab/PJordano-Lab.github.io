@@ -28,7 +28,7 @@ Built with [Quarto](https://quarto.org/), deployed via [GitHub Actions](https://
 │   └── scholar_stats.yml      # Google Scholar citation stats
 ├── _bibliography/
 │   └── papers.bib             # BibTeX publication list (auto-updated by open-alex.py)
-├── styles.css                 # Custom CSS (design tokens, dark mode, components)
+├── html/pedroj.scss           # Site theme: design tokens, dark mode, components
 ├── _quarto.yml                # Quarto config: navbar, theme, output dir
 ├── open-alex.py               # Fetches publications from OpenAlex API
 ├── save_pubs.R                # Generates individual article pages from publications.csv

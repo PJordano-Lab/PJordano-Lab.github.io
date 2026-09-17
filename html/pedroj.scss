@@ -608,6 +608,27 @@ blockquote {
   padding: 1.5rem 0;
   border-top: 1px solid rgba(255,255,255,0.06);
 }
+/* Creative Commons badge preceding the copyright line */
+.nav-footer .nav-footer-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.footer-cc {
+  display: block;
+  width: 88px;
+  height: 31px;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+.footer-cc-link:hover .footer-cc {
+  opacity: 1;
+}
+
 .nav-footer a { color: #9ca3af; transition: color 0.2s ease; }
 .nav-footer a:hover { color: #ffffff; text-decoration: none; }
 .nav-footer .nav-footer-center { font-size: 0.875rem; }

@@ -77,7 +77,10 @@ website:
         target: _blank
 
   page-footer:
-    center: "Pedro Jordano &copy; <script>document.write(new Date().getFullYear())</script>"
+    # root-relative src/href: the footer is emitted on pages at every depth
+    # (e.g. /blog/posts/<slug>/), and raw HTML here is not path-rewritten
+    center: |
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener" class="footer-cc-link" title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"><img src="/static/images/ongfigs/cc_by_nc_sa_88x31.png" alt="Creative Commons BY-NC-SA 4.0 licence" width="88" height="31" class="footer-cc"></a> Pedro Jordano &copy; <script>document.write(new Date().getFullYear())</script>
     right:
       - icon: github
         href: https://github.com/pedroj

@@ -27,5 +27,5 @@ static: Images and PDFs served as-is
 open-alex.py: Fetches publications from OpenAlex
 fetch-scholar-stats.py: Google Scholar citation stats
 save_pubs.R: Generates article pages from publications.csv
-styles.css: Not referenced by _quarto.yml - has no effect
+styles.css: removed 2026-09 - was unreferenced; live theme is html/pedroj.scss
 CNAME: Custom domain for GitHub Pages
