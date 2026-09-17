@@ -22,3 +22,4 @@ __pycache__/
 # LaTeX build logs from the CV
 **/cv/*.log
 **/texput.log
+!docs/cv/cv.pdf
