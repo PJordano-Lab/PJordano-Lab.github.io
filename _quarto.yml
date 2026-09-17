@@ -102,3 +102,9 @@ format:
       - "files/includes/_dark-mode-toggle.html"
 
 editor: visual
+project:
+  type: website
+  post-render:
+    - "mkdir -p docs/cv && cp cv/cv.pdf docs/cv/cv.pdf"
+  resources:
+    - cv/cv.pdf
