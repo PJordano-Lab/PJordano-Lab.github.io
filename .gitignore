@@ -23,4 +23,4 @@ __pycache__/
 **/cv/*.log
 **/texput.log
 !docs/cv/cv.pdf
-!docs/cv/cv.pdf
+
