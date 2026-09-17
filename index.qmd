@@ -39,8 +39,8 @@ fig-align="center"}
 
 ::: research-chips
 |  |  |
-|--------------------|------------------------------------------------------------|
-| ![](static/images/icons/22885.png){width="58"} | Ecology • Conservation Biology • Complex networks • Ecological interactions • Biodiversity • Tropical ecology • Mutualisms • Plant-animal interactions • Dispersal and gene flow |
+|:-------------------:|-----------------------------------------------------------|
+| ![](static/images/icons/22885.png){width="80"} | Ecology • Conservation Biology • Complex networks • Ecological interactions • Biodiversity • Tropical ecology • Mutualisms • Plant-animal interactions • Dispersal and gene flow |
 :::
 
 ```{=html}
@@ -61,7 +61,7 @@ fig-align="center"}
 
 <hr class="section-divider">
 
-##  Recent Work  {.section-heading}
+##  Recent Work {.section-heading}
 
 [All publications →](research.qmd){.section-link}
 
