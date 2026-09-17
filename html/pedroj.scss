@@ -599,6 +599,33 @@ blockquote {
   border-radius: 0 var(--radius) var(--radius) 0;
 }
 
+/* ── Bottom of every page ─────────────────────────────────────────────────
+   The whitespace above the footer was the sum of three things: the trailing
+   element's own bottom margin (an <hr>, a listing's pagination, a closing
+   paragraph), the 1em bottom padding Quarto puts on a listing, and main's
+   1em bottom margin. Zero the first two so only main's margin remains, which
+   matches the gap above the content at the top of the page. */
+main.content > :last-child,
+main.content > section:last-child > :last-child,
+main.content > div:last-child > :last-child,
+main.content > section:last-child > section:last-child > :last-child,
+main.content > section:last-child > div:last-child > :last-child,
+main.content .quarto-listing:last-child > :last-child {
+  margin-bottom: 0;
+}
+
+main.content .quarto-listing:last-child,
+main.content > div.quarto-listing:last-child {
+  padding-bottom: 0;
+}
+
+/* a rule or pagination block as the very last thing on a page contributes
+   nothing but height once its margin is gone */
+main.content > hr:last-child,
+main.content > section:last-child > hr:last-child {
+  margin-bottom: 0;
+}
+
 /* ============================================================
    Footer
    ============================================================ */
