@@ -4,7 +4,7 @@ resources/
 *.pdf
 _DS_Store
 /assets
-
+PJordano-Lab.code-workspace
 
 /.quarto/
 # CLAUDE.md
