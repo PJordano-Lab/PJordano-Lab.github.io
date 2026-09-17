@@ -1,5 +1,7 @@
 project:
   type: website
+  post-render:
+    - "mkdir -p docs/cv && cp cv/cv.pdf docs/cv/cv.pdf"
   render:
     - "*.qmd"
     - "!cv/**"
@@ -100,11 +102,4 @@ format:
     include-in-header:
       - "files/includes/_fonts.html"
       - "files/includes/_dark-mode-toggle.html"
-
 editor: visual
-project:
-  type: website
-  post-render:
-    - "mkdir -p docs/cv && cp cv/cv.pdf docs/cv/cv.pdf"
-  resources:
-    - cv/cv.pdf
