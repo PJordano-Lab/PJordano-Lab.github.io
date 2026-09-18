@@ -107,7 +107,7 @@ Photographs for this gallery are not online yet. Drop JPEGs into
 ![](static/images/banners/lego_minifigure_heads.png){fig-align="center"}
 
 Here are some of my LEGO creations. You can find more details in my
-\[Rebrickable\](<https://rebrickable.com/users/PedroJ/mocs/>) repository.
+[Rebrickable](<https://rebrickable.com/users/PedroJ/mocs/>) repository.
 
 ![](static/images/icons/barrier.gif){fig-align="center"}
 :::
