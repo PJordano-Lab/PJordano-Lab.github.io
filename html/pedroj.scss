@@ -1617,3 +1617,24 @@ blockquote.wp-block-quote {
   font-size: 0.85rem;
   opacity: 0.8;
 }
+
+/* ── Citation / attention badges at the foot of each article page ──────────
+   Written by badge_block() in open-alex.py (and _tools/add-badges.py). The
+   two loader scripts replace the placeholders client-side, so the badges have
+   no size until they load: the row is a flex container with a fixed minimum
+   height to keep the page from jumping as they appear. The Altmetric donut
+   stays empty for papers with no recorded attention. */
+.article-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
+  min-height: 70px;
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--bs-border-color, #d0d0d0);
+}
+
+.article-badges > div {
+  margin: 0;
+}

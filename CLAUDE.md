@@ -50,7 +50,8 @@ supplementary-material, or a Zenodo/figshare/Dryad/GBIF DOI prefix) makes
 `python _tools/apply-paper-links.py` applies the sidecar to pages that already
 exist, without a full sync - idempotent, and byte-identical to what a sync
 writes. Run it alongside the other post-sync enrichment scripts in `_tools/`
-(`add-bib-sections.py`, `add-full-citation.py`, `add-volume-pages.py`). Note
+(`add-bib-sections.py`, `add-full-citation.py`, `add-volume-pages.py`,
+`add-badges.py`). Note
 that a sync REWRITES every article page, dropping the BibTeX/full-citation
 sections those scripts add - re-run them after any sync.
 
@@ -60,6 +61,24 @@ first, then title similarity) and writes `data/paper_links.proposed.yml` plus
 `data/paper_links_review.csv`. Neither file is read by the build - they are
 review artefacts; accepted entries are copied into `data/paper_links.yml`.
 DataCite responses are cached in `data/.datacite_cache.json`.
+
+### Citation and attention badges on publication pages
+
+Each `research/articles/*/index.qmd` and `research/working-papers/*/index.qmd`
+page ends with a Dimensions badge and an Altmetric donut, side by side, built
+from the page's DOI. The markup lives in `badge_block()` in `open-alex.py`
+(between `<!-- badges:start -->` / `<!-- badges:end -->` markers), so a sync
+writes it automatically; `python _tools/add-badges.py` applies the same block
+to pages that already exist (it imports `badge_block()` rather than copying it,
+and is idempotent — an existing block is removed and re-appended at the end of
+the file, which also repairs pages where another script inserted a section
+after it). Layout is `.article-badges` in `html/pedroj.scss`.
+
+Both badges are rendered client-side by the vendors' loader scripts, so counts
+stay current without re-rendering and nothing is fetched at build time. Pages
+with no DOI (45 of 297) get no badges, and the Altmetric donut stays invisible
+for papers with no recorded attention — that is the badge's own behaviour, not
+a build failure.
 
 ### WordPress Blog Mirror
 

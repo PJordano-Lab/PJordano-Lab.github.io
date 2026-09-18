@@ -107,7 +107,12 @@ def insert_block(text, raw):
     if existing:
         return text[:existing.start()] + block + text[existing.end():]
 
-    links = re.search(r"(?ms)^## Links\s*\n(.*?)(?=^## |\Z)", text)
+    # The badge block (see badge_block() in open-alex.py) carries no heading of
+    # its own, so bound the Links section on its start marker too — otherwise
+    # the BibTeX section lands after the badges and they stop being the last
+    # thing on the page.
+    links = re.search(
+        r"(?ms)^## Links\s*\n(.*?)(?=^## |^<!-- badges:start -->|\Z)", text)
     if not links:
         return text.rstrip("\n") + "\n\n" + block
     head = text[:links.end()].rstrip("\n")

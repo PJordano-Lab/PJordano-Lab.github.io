@@ -33,3 +33,14 @@ This is a preprint and has not undergone peer review. Interpret findings with ca
 ## Links
 
 [DOI Link](https://doi.org/10.1101/2020.10.27.356709) | [PDF](https://www.biorxiv.org/content/biorxiv/early/2020/10/27/2020.10.27.356709.full.pdf) | [OpenAlex](https://openalex.org/W3095798247)
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1101/2020.10.27.356709" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1101/2020.10.27.356709" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->

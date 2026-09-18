@@ -35,3 +35,14 @@ Pedro Jordano 2014. Biotic Interactions as Nature's Ornaments: A View from the T
 ```bibtex
 @article{Jordano_2014, title={Biotic Interactions as Nature’s Ornaments: A View from the Tropics}, volume={64}, ISSN={1525-3244}, url={http://dx.doi.org/10.1093/biosci/biu081}, DOI={10.1093/biosci/biu081}, number={7}, journal={BioScience}, publisher={Oxford University Press (OUP)}, author={Jordano, Pedro}, year={2014}, month=June, pages={630–631} }
 ```
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1093/biosci/biu081" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1093/biosci/biu081" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->

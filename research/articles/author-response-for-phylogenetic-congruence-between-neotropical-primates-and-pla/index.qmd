@@ -35,3 +35,14 @@ Lisieux Fuzessy, Fernando A. O. Silveira, Laurence Culot et al 2021. Author resp
 ```bibtex
 @misc{Lisieux_Fuzessy_2021, title={Author response for “Phylogenetic congruence between Neotropical primates and plants is driven by frugivory”}, url={http://dx.doi.org/10.1111/ele.13918/v3/response1}, DOI={10.1111/ele.13918/v3/response1}, publisher={Wiley}, author={Lisieux Fuzessy and Fernando A. O. Silveira and Laurence Culot and Pedro Jordano and Miguel Verdú}, year={2021}, month=Oct }
 ```
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/ele.13918/v3/response1" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/ele.13918/v3/response1" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->

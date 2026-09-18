@@ -33,3 +33,14 @@ Blanca Arroyo‐Correa, Pedro Jordano, Ígnasi Bartomeus 2022. Author response f
 ```bibtex
 @misc{Blanca_Arroyo_Correa_2022, title={Author response for “Intraspecific variation in species interactions promotes the feasibility of mutualistic assemblages”}, url={http://dx.doi.org/10.1111/ele.14163/v2/response1}, DOI={10.1111/ele.14163/v2/response1}, publisher={Wiley}, author={Blanca Arroyo‐Correa and Pedro Jordano and Ignasi Bartomeus}, year={2022}, month=Nov }
 ```
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/ele.14163/v2/response1" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/ele.14163/v2/response1" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->

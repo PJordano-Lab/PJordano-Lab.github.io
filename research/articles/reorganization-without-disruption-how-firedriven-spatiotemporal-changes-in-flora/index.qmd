@@ -35,3 +35,14 @@ Caio S. Ballarin, Elena Quintero, Jorge Isla et al 2026. Reorganization without 
 ```bibtex
 @article{Ballarin_2026, title={Reorganization without disruption: How fire‐driven spatiotemporal changes in floral resource landscapes influence plant–bee interaction networks}, volume={63}, ISSN={1365-2664}, url={http://dx.doi.org/10.1111/1365-2664.70519}, DOI={10.1111/1365-2664.70519}, number={8}, journal={Journal of Applied Ecology}, publisher={Wiley}, author={Ballarin, Caio S. and Quintero, Elena and Isla, Jorge and Jordano, Pedro and Amorim, Felipe W.}, year={2026}, month=July }
 ```
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2664.70519" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/1365-2664.70519" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->

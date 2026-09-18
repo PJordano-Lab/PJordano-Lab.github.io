@@ -22,8 +22,7 @@ hand-edited: true   # layout reworked by hand; _tools/convert-hugo-content.py sk
 |                                                   | 26\                      |
 |                                                   | E-41092 Sevilla, Spain\  |
 |                                                   | \                        |
-|                                                   | \<                       |
-|                                                   | h                        |
+|                                                   | \< h                     |
 |                                                   | ttps://www.ebd.csic.es\> |
 +---------------------------------------------------+--------------------------+
 

@@ -18,6 +18,50 @@ MAX_PER_PAGE = 200
 # Override with the OPENALEX_MAILTO environment variable.
 DEFAULT_MAILTO = "jordano@ebd.csic.es"
 
+# ── Citation / attention badges on article pages ──────────────────────────────
+# Dimensions and Altmetric are both rendered client-side from the paper's DOI:
+# their loader scripts replace the placeholder elements below with the live
+# badge and wire up the link to the corresponding details page
+# (badge.dimensions.ai/details/doi/<doi>?domain=<site>, altmetric.com/details/...),
+# so nothing needs to be fetched at build time and the counts stay current
+# without re-rendering the site.
+#
+# Both placeholders are wrapped in their own <div> and separated by a blank
+# line so Pandoc keeps them as two raw-HTML blocks; the flex rules for
+# .article-badges in html/pedroj.scss put them side by side.
+# The Altmetric donut is invisible for papers with no recorded attention —
+# that is the badge's own behaviour, not a build error.
+BADGES_START = "<!-- badges:start -->"
+BADGES_END = "<!-- badges:end -->"
+
+
+def badge_block(doi):
+    """Dimensions + Altmetric badge markup for one DOI (empty string if none).
+
+    The single source of truth for this markup: _tools/add-badges.py imports
+    this function, so patching existing pages is byte-identical to what a sync
+    writes and produces no diff.
+    """
+    doi = re.sub(r'^https?://(dx\.)?doi\.org/', '', (doi or '').strip(), flags=re.I)
+    if not doi:
+        return ''
+    return '\n'.join([
+        BADGES_START,
+        '::: {.article-badges}',
+        '<div class="badge-dimensions">'
+        f'<span class="__dimensions_badge_embed__" data-doi="{doi}" '
+        'data-legend="always" data-style="small_circle"></span></div>',
+        '',
+        '<div class="badge-altmetric">'
+        f'<div class="altmetric-embed" data-doi="{doi}" data-badge-type="donut" '
+        'data-badge-popover="right"></div></div>',
+        ':::',
+        '',
+        '<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>',
+        '<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>',
+        BADGES_END,
+    ])
+
 
 def format_page_range(first_page=None, last_page=None):
     """'1021-1035' (en dash) from OpenAlex's first_page/last_page."""
@@ -667,6 +711,11 @@ class OpenAlexArticleSync:
 
         if link_parts:
             lines += ['', '## Links', '', ' | '.join(link_parts)]
+
+        # Citation / attention badges, last thing on the page
+        badges = badge_block(doi)
+        if badges:
+            lines += ['', badges]
 
         lines.append('')
         return '\n'.join(lines)

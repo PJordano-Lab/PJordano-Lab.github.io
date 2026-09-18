@@ -33,3 +33,14 @@ Jordi Bascompte, Pedro Jordano 2013. An Introduction to Complex Networks. *Princ
 ```bibtex
 @inbook{Bascompte_2013, title={An Introduction to Complex Networks}, ISBN={9781400848720}, url={http://dx.doi.org/10.23943/princeton/9780691131269.003.0002}, DOI={10.23943/princeton/9780691131269.003.0002}, booktitle={Mutualistic Networks}, publisher={Princeton University Press}, author={Bascompte, Jordi and Jordano, Pedro}, year={2013}, month=Dec }
 ```
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.23943/princeton/9780691131269.003.0002" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.23943/princeton/9780691131269.003.0002" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->

@@ -32,13 +32,19 @@ metadata.
 ::: panel-tabset
 ## Megafauna fruits
 
+![](static/images/banners/banner77.jpg){fig-align="center"}
+
 {{< photo-gallery photos/megafauna-fruits id=megafauna-fruits >}}
 
 ## Prunus mahaleb
 
+![](static/images/gallery__page11__files__stacks-image-cde77f6.jpg){fig-align="center"}
+
 {{< photo-gallery photos/prunus-mahaleb id=prunus-mahaleb >}}
 
 ## Study sites
+
+![](static/images/banners/banner6.jpg){fig-align="center"}
 
 ### Los Alcornocales
 
@@ -64,9 +70,13 @@ Photographs for this gallery are not online yet. Drop JPEGs into
 
 ## Networks
 
+![](static/images/ongfigs/GTJ_Coevolution.jpg){fig-align="center" width="100%"}
+
 {{< photo-gallery photos/networks id=networks >}}
 
 ## Brazil
+
+![](static/images/banners/banner1_crpp.jpg){fig-align="center"}
 
 {{< photo-gallery photos/brazil id=brazil >}}
 
@@ -76,20 +86,28 @@ Photographs for this gallery are not online yet. Drop JPEGs into
 
 ## Fruits, flowers
 
+![](static/images/banners/banner5.jpg){fig-align="center"}
+
 {{< photo-gallery photos/fruits-flowers id=fruits-flowers >}}
 
 ## Birds
+
+![](static/images/banners/calba_header.jpg){fig-align="center"}
 
 {{< photo-gallery photos/birds id=birds >}}
 
 ## Art
 
+![](static/images/2001/5091-154mptv.jpg){fig-align="center" width="100%"}
+
 {{< photo-gallery photos/art id=art >}}
 
 ## LEGO
 
-Photographs for this gallery are not online yet. Drop JPEGs into `photos/lego/`
-and they will appear on the next render.
+![](static/images/banners/lego_minifigure_heads.png){fig-align="center"}
+
+Here are some of my LEGO creations. You can find more details in my
+\[Rebrickable\](<https://rebrickable.com/users/PedroJ/mocs/>) repository.
 
 ![](static/images/icons/barrier.gif){fig-align="center"}
 :::

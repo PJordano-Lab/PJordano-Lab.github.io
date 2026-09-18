@@ -14,9 +14,13 @@ format:
 ---
 
 <!-- full-reference:start -->
-::: {.full-reference}
-Pedro Jordano, Cristina García, José A. Godoy et al 2007. Differential contribution of frugivores to complex seed dispersal patterns. *Proceedings of the National Academy of Sciences*. <https://doi.org/10.1073/pnas.0606793104>
+
+::: full-reference
+Pedro Jordano, Cristina García, José A. Godoy et al 2007. Differential
+contribution of frugivores to complex seed dispersal patterns. *Proceedings of
+the National Academy of Sciences*. <https://doi.org/10.1073/pnas.0606793104>
 :::
+
 <!-- full-reference:end -->
 
 ## Publication Details
@@ -62,3 +66,25 @@ Seed Dispersal Kernel},
    type = {Journal Article}
 }
 ```
+
+<!-- badges:start -->
+
+:::::: article-badges
+::: badge-dimensions
+:::
+
+:::: badge-altmetric
+::: {.altmetric-embed data-doi="10.1073/pnas.0606793104" data-badge-type="donut" data-badge-popover="right"}
+:::
+::::
+::::::
+
+```{=html}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
+
+```{=html}
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+```
+
+<!-- badges:end -->

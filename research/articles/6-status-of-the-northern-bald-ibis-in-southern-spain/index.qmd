@@ -33,3 +33,14 @@ Pedro Jordano 2013. 6. Status of the Northern Bald Ibis in southern Spain. *Orni
 ```bibtex
 @article{Jordano_2013, title={6. Status of the Northern Bald Ibis in southern Spain}, url={http://dx.doi.org/10.2173/bow-on.100006}, DOI={10.2173/bow-on.100006}, journal={Ornithological Notes}, publisher={Cornell Laboratory of Ornithology}, author={Jordano, Pedro}, year={2013}, month=July }
 ```
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.2173/bow-on.100006" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.2173/bow-on.100006" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->

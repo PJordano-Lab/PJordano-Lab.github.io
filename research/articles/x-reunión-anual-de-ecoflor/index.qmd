@@ -35,3 +35,14 @@ Rocío Santos‐Gally, Rocío Pérez‐Barrales, Juan Arroyo et al 2013. X Reuni
 ```bibtex
 @article{Santos_Gally_2013, title={X Reunión anual de Ecoflor}, volume={22}, ISSN={1697-2473}, url={http://dx.doi.org/10.7818/ecos.2013.22-2.20}, DOI={10.7818/ecos.2013.22-2.20}, number={2}, journal={Ecosistemas}, publisher={Asociacion Espanola de Ecologia Terrestre (AEET)}, author={Santos-Gally, Rocío and Pérez-Barrales, Rocío and Arroyo, Juan and Jordano, Pedro and Valido, Alfredo and Picó, Xavier and Narbona, Eduardo}, year={2013}, month=Aug, pages={125–125} }
 ```
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.7818/ecos.2013.22-2.20" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.7818/ecos.2013.22-2.20" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
