@@ -110,4 +110,5 @@ format:
     include-in-header:
       - "files/includes/_fonts.html"
       - "files/includes/_dark-mode-toggle.html"
+      - "files/includes/_google-verify.html"
 editor: visual
