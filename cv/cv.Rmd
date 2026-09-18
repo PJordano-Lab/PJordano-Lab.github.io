@@ -13,7 +13,7 @@ github: pedroj
 # twitter: stevenvmiller
 #osf: "Enter 5 digit osf string here"
 #phone: "+## #########"
-web: pjordanolab.github.io
+web: pjordano-lab.github.io
 updated: TRUE
 rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
 
@@ -58,7 +58,7 @@ Isla de La Cartuja
 Avda. Americo Vespucio 26  
 E-41092 Sevilla, Spain   
 email: jordano@ebd.csic.es   
-web: [P Jordano Lab] (http://PJordano-Lab.ebd.csic.es)    
+web: [P Jordano Lab] (http://pjordano-lab.github.io)    
 Twitter: @pedro_jordano http://twitter.com/@pedro_jordano  
 GitHub:  http://github.com/pedroj/    
          http://github.com/PJordano-Lab/
@@ -83,7 +83,7 @@ Date: October 14, 1984. Excellence Award.
 1996-2004. Scientific Researcher, CSIC.    
 1987-1995. Associate Researcher, CSIC.
 
-2018-2023. Presdient and Chair of the Environmental Sciences and Technologies program, National Research Agency (AEI), Ministry of Science, and Innovation, Spain.     
+2018-2023. President and Chair of the Environmental Sciences and Technologies program, National Research Agency (AEI), Ministry of Science, and Innovation, Spain.     
 2012-2016. Chair, Starting Grants panel LS8 at the European Research Council (Brussels) (vice-chair 2008-2011).     
 2008-2013. Chair, Spanish panel for the National Research Plan, program of Biodiversity, Ecology and Global Change, Ministry of Economy and Innovation, Spain.     
 2003-2008. Spanish Ministry of Science and Technology, National Research Panel officer, Biodiversity, Ecology and Global Change Program.     
@@ -93,7 +93,7 @@ Date: October 14, 1984. Excellence Award.
 ### Research interests 
 His research focuses on the study of biological diversity (biodiversity) from both ecological and evolutionary perspectives. He is interested in how ecological interactions shape complex ecological systems. He is a field ecologist fascinated by natural history and evolution, using an interdisciplinary approach that bridges different fields (field ecology, genetics, modeling) to study complex biological systems. The main theme encapsulating his research is the coevolutionary process within complex ecological interactions networks in high-diversity systems: 1) dispersal processes, gene flow and demographic effects of interactions with animal pollinators and frugivores in plant populations; 2) coevolution in complex networks of mutualistic interactions; and 3) basic natural history and evolutionary ecology of ecological interactions.    
 
-His scientific achievements include incorporating complex network analysis in the study of patterns, functions, and consequences of plant-animal mutualisms within ecosystems, a research line starting in 1987 as an expansiomn of his PhD project. This has unveiled the highly diversified and low-specificity character of these interactions and represented a pathbreaking approach to the study of coevolution in mega-diversity systems such as tropical forests. In addition he has developed molecular tools to track and measure seed dispersal distances by frugivorous animals, and the identity of the frugivore species dispersing seeds. The approach is based on using maternally-derived tissue (i.e., endocarp) attached to the seed to characterize the maternal (source tree) genotype with microsatellite markers, and DNA-barcoding dispersed seeds to identify frugivore species (from DNA remains of the animal on the seed surface). This has represented a major conceptual and methodological advance in the study of dispersal systems, and a key innovation with far-reaching consequences in future developments that link population genetics, metapopulation ecology, and dispersal ecology.    
+His scientific achievements include incorporating complex network analysis in the study of patterns, functions, and consequences of plant-animal mutualisms within ecosystems, a research line starting in 1987 as an expansion of his PhD project. This has unveiled the highly diversified and low-specificity character of these interactions and represented a pathbreaking approach to the study of coevolution in mega-diversity systems such as tropical forests. In addition he has developed molecular tools to track and measure seed dispersal distances by frugivorous animals, and the identity of the frugivore species dispersing seeds. The approach is based on using maternally-derived tissue (i.e., endocarp) attached to the seed to characterize the maternal (source tree) genotype with microsatellite markers, and DNA-barcoding dispersed seeds to identify frugivore species (from DNA remains of the animal on the seed surface). This has represented a major conceptual and methodological advance in the study of dispersal systems, and a key innovation with far-reaching consequences in future developments that link population genetics, metapopulation ecology, and dispersal ecology.    
 
 Reviews of his work: **Science** [Thompson, J.N. 2006. *Science*, 312:372; Shea, K. 2007. *Science*, 315:1231; Sudgen, A.W. 2011. *Science* 333: 1201], **Nature** [Renner, S. 2007. *Nature*, 448:877; May, R.M. et al. 2008. *Nature*, 451:893], and **Current Biology** [Pannell, JR. 2007. *Current Biology*, 17: R360].      
 
@@ -147,7 +147,7 @@ Three of my supervised PhD theses obtained the Excellence Award, Univ. Sevilla (
     
     
 ### Publications. Main papers
-Papers marked with asterisks are included as "Research Front" or Hot-topic papers in ISI Essential Science Indicators. Four additional papers in Faculty1000 marked as 'Must Read' and 'Exceptional'. All these papers had equal contribution to authorship. For a full list of publications, please visit: *http://PJordano-Lab.ebd.csic.es/Papers.html*. Included in SCI (Web of Science) list "Most influential Scientific Minds", years 2015 to 2020.
+Papers marked with asterisks are included as "Research Front" or Hot-topic papers in ISI Essential Science Indicators. Four additional papers in Faculty1000 marked as 'Must Read' and 'Exceptional'. All these papers had equal contribution to authorship. For a full list of publications, please visit: *http://pjordano-lab.github.io/research.html*. Included in SCI (Web of Science) list "Most influential Scientific Minds", years 2015 to 2020.
 
 - **Jordano, P.** 2026. The ecological interactome: understanding Biodiversity through patterns of interactions. Annual Review of Ecology, Evolution, and Systematics 57:51–76. [doi: 10.1146/annurev-ecolsys-102824-110132](https://doi.org/10.1146/annurev-ecolsys-102824-110132)
 
@@ -218,7 +218,7 @@ Several years between 1992-present. Visiting Faculty, Univ. Puerto Rico, UNAM (M
 ### Software development
 - **Jordano, P.** and & Rodríguez-Sánchez, F. 2025. The effect.lndscp R package: Effectiveness landscapes. Doi: 10.5281/zenodo.376763 Mar 11, 2017 [Manual]. https://github.com/pedroj/effectiveness_pckg.
 - **Jordano, P.**. 2018. The FRUBASE package. Sep 21, 2018 [Manual]. https://github.com/pedroj/FRUBASE.      
-- **Jordano, P.** 2017. ggbipart: An R package for plotting bipartite networks. [Manual]. https://github.com/pedroj/bipartite_plots.
+- **Jordano, P.** 2017. ggbipart: An R package for plotting bipartite networks. [Manual]. https://github.com/pedroj/bipartite_plots. Available in [CRAN](https://cran.r-project.org/web/packages/ggbipart/index.html).
       
 ### Other Scientific Activities (Summary)   
 - 1997-2005. Vice chair for the Natural Resources Area Committee, CSIC, Spain.     
