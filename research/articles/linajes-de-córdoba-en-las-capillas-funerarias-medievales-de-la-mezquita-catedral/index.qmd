@@ -24,4 +24,6 @@ Pedro Jordano, María Ángeles 2002. Linajes de Córdoba en las capillas funerar
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W2394616801)
+:::

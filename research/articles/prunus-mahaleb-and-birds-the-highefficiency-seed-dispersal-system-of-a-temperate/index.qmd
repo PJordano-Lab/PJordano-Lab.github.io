@@ -25,13 +25,26 @@ Carlos M. Herrera, Pedro Jordano 1981. Prunus mahaleb and Birds: The High‐Effi
 
 **Published in:** Ecological Monographs
 
-**Citations:** 241
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.2307/2937263" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.2307/2937263" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.2307/2937263) | [PDF](http://hdl.handle.net/10261/45070) | [OpenAlex](https://openalex.org/W2030325236)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.2307/2937263){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/45070)
+[OpenAlex](https://openalex.org/W2030325236)
+:::
 
 ## BibTeX
 
@@ -64,13 +77,3 @@ spersr11},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.2307/2937263" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.2307/2937263" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

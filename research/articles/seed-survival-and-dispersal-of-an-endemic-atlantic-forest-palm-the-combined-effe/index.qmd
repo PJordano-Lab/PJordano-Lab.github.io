@@ -25,13 +25,26 @@ Mauro Galetti, Camila I. Donatti, Alexandra S. Pires et al 2006. Seed survival a
 
 **Published in:** Botanical Journal of the Linnean Society
 
-**Citations:** 266
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1095-8339.2006.00529.x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1095-8339.2006.00529.x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/j.1095-8339.2006.00529.x) | [PDF](https://academic.oup.com/botlinnean/article-pdf/151/1/141/17031911/j.1095-8339.2006.00529.x.pdf) | [OpenAlex](https://openalex.org/W2117876669)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/j.1095-8339.2006.00529.x){.paper-link-primary}
+[PDF](https://academic.oup.com/botlinnean/article-pdf/151/1/141/17031911/j.1095-8339.2006.00529.x.pdf)
+[OpenAlex](https://openalex.org/W2117876669)
+:::
 
 ## BibTeX
 
@@ -70,13 +83,3 @@ tree},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1095-8339.2006.00529.x" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1095-8339.2006.00529.x" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

@@ -24,4 +24,6 @@ Pedro Jordano 2002. Sesión necrológica en honor del Ilmo. Sr. D. Diego Jordano
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W3165254375)
+:::

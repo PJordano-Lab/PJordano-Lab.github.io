@@ -26,4 +26,7 @@ Pedro Jordano 1988. Polinización y variabilidad de la producción de semillas e
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/42690) | [OpenAlex](https://openalex.org/W2212179132)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/42690)
+[OpenAlex](https://openalex.org/W2212179132)
+:::

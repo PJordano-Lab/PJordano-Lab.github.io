@@ -29,7 +29,10 @@ Pedro Jordano 1988. Diet. Frugivory choice and variation in body condition of fr
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/42662) | [OpenAlex](https://openalex.org/W1017876521)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/42662)
+[OpenAlex](https://openalex.org/W1017876521)
+:::
 
 ## BibTeX
 

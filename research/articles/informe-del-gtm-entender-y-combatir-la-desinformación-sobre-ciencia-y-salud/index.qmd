@@ -22,13 +22,26 @@ Ramón Salaverría, José M. Ordovás, Mariano Estéban et al 2021. Informe del 
 
 **Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
 
-**Citations:** 2
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.20350/digitalcsic/13853" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.20350/digitalcsic/13853" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.20350/digitalcsic/13853) | [PDF](http://hdl.handle.net/10261/239480) | [OpenAlex](https://openalex.org/W3184861538)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.20350/digitalcsic/13853){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/239480)
+[OpenAlex](https://openalex.org/W3184861538)
+:::
 
 ## BibTeX
 
@@ -45,13 +58,3 @@ Ramón Salaverría, José M. Ordovás, Mariano Estéban et al 2021. Informe del 
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.20350/digitalcsic/13853" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.20350/digitalcsic/13853" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

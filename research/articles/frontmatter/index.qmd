@@ -22,18 +22,6 @@ Jordi Bascompte, Pedro Jordano 2013. Frontmatter. *Princeton University Press eB
 
 **Published in:** Princeton University Press eBooks
 
-**Citations:** 0
-
-## Links
-
-[DOI Link](https://doi.org/10.1515/9781400848720-fm) | [OpenAlex](https://openalex.org/W4247827327)
-
-## BibTeX
-
-```bibtex
-@inbook{2013, ISBN={9781400848720}, url={http://dx.doi.org/10.1515/9781400848720-fm}, DOI={10.1515/9781400848720-fm}, booktitle={Mutualistic Networks}, publisher={Princeton University Press}, year={2013}, month=Dec, pages={i–viii} }
-```
-
 <!-- badges:start -->
 ::: {.article-badges}
 <div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1515/9781400848720-fm" data-legend="always" data-style="small_circle"></span></div>
@@ -44,3 +32,17 @@ Jordi Bascompte, Pedro Jordano 2013. Frontmatter. *Princeton University Press eB
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1515/9781400848720-fm){.paper-link-primary}
+[OpenAlex](https://openalex.org/W4247827327)
+:::
+
+## BibTeX
+
+```bibtex
+@inbook{2013, ISBN={9781400848720}, url={http://dx.doi.org/10.1515/9781400848720-fm}, DOI={10.1515/9781400848720-fm}, booktitle={Mutualistic Networks}, publisher={Princeton University Press}, year={2013}, month=Dec, pages={i–viii} }
+```
+

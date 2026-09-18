@@ -22,18 +22,6 @@ Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al 2024. Author res
 
 **Published in:** 
 
-**Citations:** 0
-
-## Links
-
-[DOI Link](https://doi.org/10.1111/1365-2745.14280/v2/response1) | [OpenAlex](https://openalex.org/W4391953338)
-
-## BibTeX
-
-```bibtex
-@misc{Jorge_Isla_2024, title={Author response for “Animal‐mediated seed dispersal and the demo‐genetic configuration across plant colonization gradients”}, url={http://dx.doi.org/10.1111/1365-2745.14280/v2/response1}, DOI={10.1111/1365-2745.14280/v2/response1}, publisher={Wiley}, author={Jorge Isla and Miguel Jácome‐Flores and Cristina Rigueiro and Juan Miguel Arroyo and Pedro Jordano and Cristina García}, year={2024}, month=Jan }
-```
-
 <!-- badges:start -->
 ::: {.article-badges}
 <div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2745.14280/v2/response1" data-legend="always" data-style="small_circle"></span></div>
@@ -44,3 +32,17 @@ Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al 2024. Author res
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/1365-2745.14280/v2/response1){.paper-link-primary}
+[OpenAlex](https://openalex.org/W4391953338)
+:::
+
+## BibTeX
+
+```bibtex
+@misc{Jorge_Isla_2024, title={Author response for “Animal‐mediated seed dispersal and the demo‐genetic configuration across plant colonization gradients”}, url={http://dx.doi.org/10.1111/1365-2745.14280/v2/response1}, DOI={10.1111/1365-2745.14280/v2/response1}, publisher={Wiley}, author={Jorge Isla and Miguel Jácome‐Flores and Cristina Rigueiro and Juan Miguel Arroyo and Pedro Jordano and Cristina García}, year={2024}, month=Jan }
+```
+

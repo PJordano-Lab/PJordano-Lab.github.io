@@ -29,7 +29,10 @@ A. Valido, M.C. Rodríguez-Rodríguez, Pedro Jordano 2014. Impacto de la introdu
 
 ## Links
 
-[PDF](https://doaj.org/article/80e1abbb4b3b40c2850339e8ea97bcca) | [OpenAlex](https://openalex.org/W4311065816)
+::: {.paper-links}
+[PDF](https://doaj.org/article/80e1abbb4b3b40c2850339e8ea97bcca)
+[OpenAlex](https://openalex.org/W4311065816)
+:::
 
 ## BibTeX
 

@@ -28,7 +28,10 @@ Juan Arroyo, José S. Carrión, Arndt Hampe et al 2004. La distribución de las 
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/40604) | [OpenAlex](https://openalex.org/W1167039079)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/40604)
+[OpenAlex](https://openalex.org/W1167039079)
+:::
 
 ## BibTeX
 

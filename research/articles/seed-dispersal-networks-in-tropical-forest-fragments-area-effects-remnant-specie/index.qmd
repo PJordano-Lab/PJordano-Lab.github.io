@@ -25,13 +25,26 @@ Carine Emer, Pedro Jordano, Marco Aurélio Pizo et al 2020. Seed dispersal netwo
 
 **Published in:** Biotropica
 
-**Citations:** 73
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/btp.12738" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/btp.12738" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/btp.12738) | [PDF](http://hdl.handle.net/11449/201409) | [OpenAlex](https://openalex.org/W2996084291)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/btp.12738){.paper-link-primary}
+[PDF](http://hdl.handle.net/11449/201409)
+[OpenAlex](https://openalex.org/W2996084291)
+:::
 
 ## BibTeX
 
@@ -50,13 +63,3 @@ Carine Emer, Pedro Jordano, Marco Aurélio Pizo et al 2020. Seed dispersal netwo
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/btp.12738" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/btp.12738" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

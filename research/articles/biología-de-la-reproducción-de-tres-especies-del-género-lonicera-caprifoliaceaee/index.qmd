@@ -29,7 +29,10 @@ Pedro Jordano 1990. Biología de la reproducción de tres especies del género l
 
 ## Links
 
-[PDF](https://dialnet.unirioja.es/descarga/articulo/2953979.pdf) | [OpenAlex](https://openalex.org/W1541688302)
+::: {.paper-links}
+[PDF](https://dialnet.unirioja.es/descarga/articulo/2953979.pdf)
+[OpenAlex](https://openalex.org/W1541688302)
+:::
 
 ## BibTeX
 

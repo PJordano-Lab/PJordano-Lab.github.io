@@ -22,20 +22,6 @@ Carolina da Silva Carvalho, Cristina García, Marília Souza Lucas et al 2020. A
 
 **Published in:** 
 
-**Citations:** 0
-
-**Open Access:** Yes
-
-## Links
-
-[DOI Link](https://doi.org/10.1111/1365-2745.13534/v2/response1) | [PDF](https://doi.org/10.1111/1365-2745.13534/v2/response1) | [OpenAlex](https://openalex.org/W3095276773)
-
-## BibTeX
-
-```bibtex
-@misc{Carolina_da_Silva_Carvalho_2020, title={Author response for “Extant fruit‐eating birds promote genetically diverse seed rain, but disperse to fewer sites in defaunated tropical forests”}, url={http://dx.doi.org/10.1111/1365-2745.13534/v2/response1}, DOI={10.1111/1365-2745.13534/v2/response1}, publisher={Wiley}, author={Carolina da Silva Carvalho and Cristina García and Marília Souza Lucas and Pedro Jordano and Marina Corrêa Côrtes}, year={2020}, month=Aug }
-```
-
 <!-- badges:start -->
 ::: {.article-badges}
 <div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2745.13534/v2/response1" data-legend="always" data-style="small_circle"></span></div>
@@ -46,3 +32,20 @@ Carolina da Silva Carvalho, Cristina García, Marília Souza Lucas et al 2020. A
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
+
+**Open Access:** Yes
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/1365-2745.13534/v2/response1){.paper-link-primary}
+[PDF](https://doi.org/10.1111/1365-2745.13534/v2/response1)
+[OpenAlex](https://openalex.org/W3095276773)
+:::
+
+## BibTeX
+
+```bibtex
+@misc{Carolina_da_Silva_Carvalho_2020, title={Author response for “Extant fruit‐eating birds promote genetically diverse seed rain, but disperse to fewer sites in defaunated tropical forests”}, url={http://dx.doi.org/10.1111/1365-2745.13534/v2/response1}, DOI={10.1111/1365-2745.13534/v2/response1}, publisher={Wiley}, author={Carolina da Silva Carvalho and Cristina García and Marília Souza Lucas and Pedro Jordano and Marina Corrêa Côrtes}, year={2020}, month=Aug }
+```
+

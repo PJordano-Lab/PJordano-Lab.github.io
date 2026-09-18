@@ -29,7 +29,10 @@ Pedro Jordano 2006. Notas sobre la dieta no-insectívora de algunos Muscicapidae
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/45079) | [OpenAlex](https://openalex.org/W2238016986)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/45079)
+[OpenAlex](https://openalex.org/W2238016986)
+:::
 
 ## BibTeX
 

@@ -25,11 +25,23 @@ Pedro Jordano 1989. Pre-Dispersal Biology of Pistacia lentiscus (Anacardiaceae):
 
 **Published in:** Oikos
 
-**Citations:** 107
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.2307/3565598" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.2307/3565598" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 ## Links
 
-[DOI Link](https://doi.org/10.2307/3565598) | [OpenAlex](https://openalex.org/W2013927416)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.2307/3565598){.paper-link-primary}
+[OpenAlex](https://openalex.org/W2013927416)
+:::
 
 ## BibTeX
 
@@ -48,13 +60,3 @@ Pedro Jordano 1989. Pre-Dispersal Biology of Pistacia lentiscus (Anacardiaceae):
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.2307/3565598" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.2307/3565598" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

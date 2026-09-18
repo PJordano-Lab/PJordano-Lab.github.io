@@ -25,13 +25,27 @@ Carolina da Silva Carvalho, Cristina García, Marília Souza Lucas et al 2021. E
 
 **Published in:** Journal of Ecology
 
-**Citations:** 25
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2745.13534" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/1365-2745.13534" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/1365-2745.13534) | [PDF](http://hdl.handle.net/11449/205554) | [OpenAlex](https://openalex.org/W3096898643) | [Data](https://doi.org/10.6084/m9.figshare.13129913)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/1365-2745.13534){.paper-link-primary}
+[PDF](http://hdl.handle.net/11449/205554)
+[OpenAlex](https://openalex.org/W3096898643)
+[Data](https://doi.org/10.6084/m9.figshare.13129913)
+:::
 
 ## BibTeX
 
@@ -59,13 +73,3 @@ thrushes},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2745.13534" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/1365-2745.13534" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

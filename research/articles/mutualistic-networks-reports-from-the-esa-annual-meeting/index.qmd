@@ -26,4 +26,7 @@ Jordi Bascompte, Marcelo A. Aizen, C. Fontaine et al 2010. Mutualistic networks.
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/59437) | [OpenAlex](https://openalex.org/W978104007)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/59437)
+[OpenAlex](https://openalex.org/W978104007)
+:::

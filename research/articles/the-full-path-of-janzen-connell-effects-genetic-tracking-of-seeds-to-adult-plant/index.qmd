@@ -25,13 +25,26 @@ Eugene W. Schupp, Pedro Jordano 2011. The full path of Janzen-Connell effects: g
 
 **Published in:** Molecular Ecology
 
-**Citations:** 27
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1365-294x.2011.05202.x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1365-294x.2011.05202.x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/j.1365-294x.2011.05202.x) | [PDF](http://hdl.handle.net/10261/42693) | [OpenAlex](https://openalex.org/W2157438799)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/j.1365-294x.2011.05202.x){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/42693)
+[OpenAlex](https://openalex.org/W2157438799)
+:::
 
 ## BibTeX
 
@@ -57,13 +70,3 @@ plant recruitment},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1365-294x.2011.05202.x" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1365-294x.2011.05202.x" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

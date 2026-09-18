@@ -25,13 +25,26 @@ Finn Rehling, Bogdan Jaroszewicz, Leonie Victoria Braasch et al 2021. Within-Spe
 
 **Published in:** Frontiers in Ecology and Evolution
 
-**Citations:** 17
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.3389/fevo.2021.698885" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.3389/fevo.2021.698885" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.3389/fevo.2021.698885) | [PDF](https://www.frontiersin.org/articles/10.3389/fevo.2021.698885/pdf) | [OpenAlex](https://openalex.org/W3196220087)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.3389/fevo.2021.698885){.paper-link-primary}
+[PDF](https://www.frontiersin.org/articles/10.3389/fevo.2021.698885/pdf)
+[OpenAlex](https://openalex.org/W3196220087)
+:::
 
 ## BibTeX
 
@@ -49,13 +62,3 @@ Finn Rehling, Bogdan Jaroszewicz, Leonie Victoria Braasch et al 2021. Within-Spe
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.3389/fevo.2021.698885" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.3389/fevo.2021.698885" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

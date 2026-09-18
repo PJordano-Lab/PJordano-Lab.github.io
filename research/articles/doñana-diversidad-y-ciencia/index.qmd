@@ -24,4 +24,6 @@ Regla Alonso Miura, Fernando Toro Álvarez, Juan Luís Arsuaga et al 2007. Doña
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W2885659)
+:::

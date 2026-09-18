@@ -24,4 +24,6 @@ Encarnación Aguilar Criado, Juan Arroyo Marín, Elena Fierro Enrique et al 2010
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W3162976737)
+:::

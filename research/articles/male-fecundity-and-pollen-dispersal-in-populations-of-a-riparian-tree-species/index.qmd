@@ -24,4 +24,6 @@ Sylvie Muratorio, Etienne K. Klein, Arndt Hampe et al 2011. Male fecundity and p
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W3119055963)
+:::

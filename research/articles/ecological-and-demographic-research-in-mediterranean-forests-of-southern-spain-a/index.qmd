@@ -24,4 +24,6 @@ Pedro Jordano, Regino Zamora, Teodoro Marañón et al 2001. Ecological and demog
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W1006099515)
+:::

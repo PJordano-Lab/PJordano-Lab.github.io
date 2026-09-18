@@ -25,13 +25,26 @@ Kristian Trøjelsgaard, Pedro Jordano, Daniel Carstensen et al 2015. Geographica
 
 **Published in:** Proceedings of the Royal Society B Biological Sciences
 
-**Citations:** 171
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2014.2925" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1098/rspb.2014.2925" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1098/rspb.2014.2925) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2014.2925) | [OpenAlex](https://openalex.org/W2146446325)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1098/rspb.2014.2925){.paper-link-primary}
+[PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2014.2925)
+[OpenAlex](https://openalex.org/W2146446325)
+:::
 
 ## BibTeX
 
@@ -57,13 +70,3 @@ opportunism},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2014.2925" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1098/rspb.2014.2925" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

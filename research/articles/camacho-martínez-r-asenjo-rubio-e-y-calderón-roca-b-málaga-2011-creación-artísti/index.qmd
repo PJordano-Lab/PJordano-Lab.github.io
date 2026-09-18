@@ -24,4 +24,6 @@ Pedro Jordano, María Ángeles 2012. CAMACHO MARTÍNEZ, R.; ASENJO RUBIO, E. y C
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W2978428507)
+:::

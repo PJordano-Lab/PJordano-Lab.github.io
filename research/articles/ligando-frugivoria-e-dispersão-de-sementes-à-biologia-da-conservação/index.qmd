@@ -28,7 +28,10 @@ Pedro Jordano, Mauro Galetti, Pizo et al 2006. Ligando Frugivoria e Dispersão d
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/40575) | [OpenAlex](https://openalex.org/W152010290)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/40575)
+[OpenAlex](https://openalex.org/W152010290)
+:::
 
 ## BibTeX
 

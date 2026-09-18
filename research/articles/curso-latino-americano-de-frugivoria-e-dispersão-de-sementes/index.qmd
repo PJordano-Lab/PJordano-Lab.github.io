@@ -29,7 +29,10 @@ Pedro Jordano, Mauro Galetti 2010. Curso Latino Americano de Frugivoria e Disper
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/36390) | [OpenAlex](https://openalex.org/W1582813124)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/36390)
+[OpenAlex](https://openalex.org/W1582813124)
+:::
 
 ## BibTeX
 

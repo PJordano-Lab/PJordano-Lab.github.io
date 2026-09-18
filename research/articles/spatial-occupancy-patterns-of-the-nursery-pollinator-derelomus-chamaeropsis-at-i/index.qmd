@@ -25,13 +25,26 @@ Miguel Moreno, Miguel E. Jácome‐Flores, Pedro Jordano et al 2025. Spatial occ
 
 **Published in:** Journal of Pollination Ecology
 
-**Citations:** 0
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.26786/1920-7603(2025)829" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.26786/1920-7603(2025)829" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.26786/1920-7603(2025)829) | [PDF](https://doi.org/10.26786/1920-7603(2025)829) | [OpenAlex](https://openalex.org/W4408972022)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.26786/1920-7603(2025)829){.paper-link-primary}
+[PDF](https://doi.org/10.26786/1920-7603(2025)829)
+[OpenAlex](https://openalex.org/W4408972022)
+:::
 
 ## BibTeX
 
@@ -51,13 +64,3 @@ Miguel Moreno, Miguel E. Jácome‐Flores, Pedro Jordano et al 2025. Spatial occ
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.26786/1920-7603(2025)829" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.26786/1920-7603(2025)829" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

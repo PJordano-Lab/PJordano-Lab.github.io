@@ -22,18 +22,6 @@ Jordi Bascompte, Pedro Jordano 2013. Consequences of Network Structure. *Princet
 
 **Published in:** Princeton University Press eBooks
 
-**Citations:** 0
-
-## Links
-
-[DOI Link](https://doi.org/10.23943/princeton/9780691131269.003.0006) | [OpenAlex](https://openalex.org/W4245137580)
-
-## BibTeX
-
-```bibtex
-@inbook{Bascompte_2013, title={Consequences of Network Structure}, ISBN={9781400848720}, url={http://dx.doi.org/10.23943/princeton/9780691131269.003.0006}, DOI={10.23943/princeton/9780691131269.003.0006}, booktitle={Mutualistic Networks}, publisher={Princeton University Press}, author={Bascompte, Jordi and Jordano, Pedro}, year={2013}, month=Dec }
-```
-
 <!-- badges:start -->
 ::: {.article-badges}
 <div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.23943/princeton/9780691131269.003.0006" data-legend="always" data-style="small_circle"></span></div>
@@ -44,3 +32,17 @@ Jordi Bascompte, Pedro Jordano 2013. Consequences of Network Structure. *Princet
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.23943/princeton/9780691131269.003.0006){.paper-link-primary}
+[OpenAlex](https://openalex.org/W4245137580)
+:::
+
+## BibTeX
+
+```bibtex
+@inbook{Bascompte_2013, title={Consequences of Network Structure}, ISBN={9781400848720}, url={http://dx.doi.org/10.23943/princeton/9780691131269.003.0006}, DOI={10.23943/princeton/9780691131269.003.0006}, booktitle={Mutualistic Networks}, publisher={Princeton University Press}, author={Bascompte, Jordi and Jordano, Pedro}, year={2013}, month=Dec }
+```
+

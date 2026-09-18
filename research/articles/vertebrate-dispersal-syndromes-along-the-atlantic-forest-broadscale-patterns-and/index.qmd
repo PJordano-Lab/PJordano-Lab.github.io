@@ -25,13 +25,26 @@ Mário Almeida‐Neto, Flávia Campassi, Mauro Galetti et al 2008. Vertebrate di
 
 **Published in:** Global Ecology and Biogeography
 
-**Citations:** 183
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1466-8238.2008.00386.x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1466-8238.2008.00386.x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/j.1466-8238.2008.00386.x) | [PDF](http://hdl.handle.net/10261/38415) | [OpenAlex](https://openalex.org/W2108663069)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/j.1466-8238.2008.00386.x){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/38415)
+[OpenAlex](https://openalex.org/W2108663069)
+:::
 
 ## BibTeX
 
@@ -80,13 +93,3 @@ https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1466-8238.2008.00386.x},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1466-8238.2008.00386.x" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1466-8238.2008.00386.x" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

@@ -25,13 +25,26 @@ José A. Godoy, Pedro Jordano 2001. Seed dispersal by animals: exact identificat
 
 **Published in:** Molecular Ecology
 
-**Citations:** 292
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1046/j.0962-1083.2001.01342.x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1046/j.0962-1083.2001.01342.x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1046/j.0962-1083.2001.01342.x) | [PDF](http://hdl.handle.net/10261/42605) | [OpenAlex](https://openalex.org/W2115943550)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1046/j.0962-1083.2001.01342.x){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/42605)
+[OpenAlex](https://openalex.org/W2115943550)
+:::
 
 ## BibTeX
 
@@ -50,13 +63,3 @@ José A. Godoy, Pedro Jordano 2001. Seed dispersal by animals: exact identificat
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1046/j.0962-1083.2001.01342.x" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1046/j.0962-1083.2001.01342.x" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

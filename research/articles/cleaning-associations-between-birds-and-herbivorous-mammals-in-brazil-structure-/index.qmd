@@ -25,13 +25,26 @@ Cristina Sazima, Pedro Jordano, Paulo R. Guimarães et al 2012. Cleaning associa
 
 **Published in:** The Auk
 
-**Citations:** 36
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1525/auk.2011.11144" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1525/auk.2011.11144" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1525/auk.2011.11144) | [PDF](https://academic.oup.com/auk/article-pdf/129/1/36/26880233/auk0036.pdf) | [OpenAlex](https://openalex.org/W2161729683)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1525/auk.2011.11144){.paper-link-primary}
+[PDF](https://academic.oup.com/auk/article-pdf/129/1/36/26880233/auk0036.pdf)
+[OpenAlex](https://openalex.org/W2161729683)
+:::
 
 ## BibTeX
 
@@ -70,13 +83,3 @@ recursos alimenticios embebido en},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1525/auk.2011.11144" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1525/auk.2011.11144" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

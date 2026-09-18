@@ -24,4 +24,6 @@ Pedro Jordano 1983. Fig-seed predation and dispersal by birds [Ficus cotinifolia
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W3216742129)
+:::

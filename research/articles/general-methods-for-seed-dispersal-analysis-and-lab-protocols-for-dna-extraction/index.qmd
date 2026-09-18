@@ -24,4 +24,6 @@ Pedro Jordano, José A. Godoy 2010. General methods for seed dispersal analysis 
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W2550971777)
+:::

@@ -25,13 +25,26 @@ Benno I. Simmons, William J. Sutherland, Lynn V. Dicks et al 2018. Moving from f
 
 **Published in:** Journal of Animal Ecology
 
-**Citations:** 100
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2656.12831" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/1365-2656.12831" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/1365-2656.12831) | [PDF](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.12831) | [OpenAlex](https://openalex.org/W2794813732)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/1365-2656.12831){.paper-link-primary}
+[PDF](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.12831)
+[OpenAlex](https://openalex.org/W2794813732)
+:::
 
 ## BibTeX
 
@@ -52,13 +65,3 @@ Benno I. Simmons, William J. Sutherland, Lynn V. Dicks et al 2018. Moving from f
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2656.12831" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/1365-2656.12831" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

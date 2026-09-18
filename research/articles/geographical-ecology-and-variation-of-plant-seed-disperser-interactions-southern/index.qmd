@@ -25,11 +25,23 @@ Pedro Jordano 1993. Geographical ecology and variation of plant-seed disperser i
 
 **Published in:** Vegetatio
 
-**Citations:** 99
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1007/bf00052213" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1007/bf00052213" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 ## Links
 
-[DOI Link](https://doi.org/10.1007/bf00052213) | [OpenAlex](https://openalex.org/W4295196793)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1007/bf00052213){.paper-link-primary}
+[OpenAlex](https://openalex.org/W4295196793)
+:::
 
 ## BibTeX
 
@@ -57,13 +69,3 @@ Geographic variation},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1007/bf00052213" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1007/bf00052213" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

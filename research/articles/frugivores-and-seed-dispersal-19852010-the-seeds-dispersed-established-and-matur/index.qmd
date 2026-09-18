@@ -25,11 +25,23 @@ Pierre‐Michel Forget, Pedro Jordano, Joanna E. Lambert et al 2011. Frugivores 
 
 **Published in:** Acta Oecologica
 
-**Citations:** 36
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1016/j.actao.2011.09.008" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1016/j.actao.2011.09.008" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 ## Links
 
-[DOI Link](https://doi.org/10.1016/j.actao.2011.09.008) | [OpenAlex](https://openalex.org/W1981641854)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1016/j.actao.2011.09.008){.paper-link-primary}
+[OpenAlex](https://openalex.org/W1981641854)
+:::
 
 ## BibTeX
 
@@ -47,13 +59,3 @@ Pierre‐Michel Forget, Pedro Jordano, Joanna E. Lambert et al 2011. Frugivores 
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1016/j.actao.2011.09.008" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1016/j.actao.2011.09.008" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

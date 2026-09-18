@@ -26,4 +26,7 @@ Pedro Jordano, J.A. Torres 1981. Importancia de la estructura de la vegetación 
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/45074) | [OpenAlex](https://openalex.org/W1040261058)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/45074)
+[OpenAlex](https://openalex.org/W1040261058)
+:::

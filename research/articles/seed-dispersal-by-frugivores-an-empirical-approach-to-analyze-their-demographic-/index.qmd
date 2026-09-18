@@ -24,4 +24,6 @@ Héctor Hugo Ulloa Godínez, Pedro Jordano 2007. Seed dispersal by frugivores: A
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W299787290)
+:::

@@ -62,17 +62,52 @@ first, then title similarity) and writes `data/paper_links.proposed.yml` plus
 review artefacts; accepted entries are copied into `data/paper_links.yml`.
 DataCite responses are cached in `data/.datacite_cache.json`.
 
+### Link buttons on publication pages
+
+The `## Links` section of every `research/articles/*/index.qmd` and
+`research/working-papers/*/index.qmd` page is a fenced div, one link per line:
+
+```
+## Links
+
+::: {.paper-links}
+[DOI Link](...){.paper-link-primary}
+[PDF](...)
+[OpenAlex](...)
+[Code & data](...)
+:::
+```
+
+`.paper-links` in `html/pedroj.scss` renders these as grey buttons — medium
+grey for all of them, a darker fill for `.paper-link-primary` (the DOI link).
+The fills are fixed greys with light text rather than theme colours, so the
+same buttons stay readable against the cream light-mode page and the near-black
+dark-mode one; dark mode only lightens them a step so they separate from the
+background.
+
+A sync writes this form directly (`open-alex.py`), and
+`_tools/apply-paper-links.py` appends new Code/Data links inside the existing
+div. `python _tools/linkify-paper-links.py` converts pages still carrying the
+old pipe-separated line (`[DOI Link](...) | [PDF](...)`) — idempotent, and a
+no-op now that all pages are converted.
+
 ### Citation and attention badges on publication pages
 
 Each `research/articles/*/index.qmd` and `research/working-papers/*/index.qmd`
-page ends with a Dimensions badge and an Altmetric donut, side by side, built
-from the page's DOI. The markup lives in `badge_block()` in `open-alex.py`
+page carries a Dimensions badge and an Altmetric donut, side by side, built
+from the page's DOI. They sit in the `## Publication Details` section, in place
+of the old `**Citations:** N` line: the Dimensions badge reports the citation
+count itself and stays current, whereas that line was an OpenAlex snapshot that
+went stale between syncs. Pages with no DOI keep the plain count.
+The markup lives in `badge_block()` in `open-alex.py`
 (between `<!-- badges:start -->` / `<!-- badges:end -->` markers), so a sync
 writes it automatically; `python _tools/add-badges.py` applies the same block
 to pages that already exist (it imports `badge_block()` rather than copying it,
-and is idempotent — an existing block is removed and re-appended at the end of
-the file, which also repairs pages where another script inserted a section
-after it). Layout is `.article-badges` in `html/pedroj.scss`.
+and is idempotent — an existing block is removed and re-inserted, wherever it
+had drifted to, with one blank line either side). Layout is `.article-badges`
+in `html/pedroj.scss`, which also backs the Altmetric donut with a white disc
+under `[data-theme="dark"]`: the score is drawn in dark type on a transparent
+centre and is unreadable against the dark page otherwise.
 
 Both badges are rendered client-side by the vendors' loader scripts, so counts
 stay current without re-rendering and nothing is fetched at build time. Pages
@@ -145,6 +180,7 @@ Note: The pre-render scripts are commented out in `_quarto.yml` — run them loc
 | `data/publications.csv` | Publication data from OpenAlex |
 | `data/paper_links.yml` | Curated code/data links per paper (DOI-keyed) |
 | `_tools/propose-paper-links.py` | Infers candidate code/data pairings for review |
+| `_tools/linkify-paper-links.py` | Converts legacy pipe-separated `## Links` lines into `.paper-links` buttons |
 | `data/scholar_stats.yml` | Google Scholar citation stats |
 | `data/wos_stats.yml` | Web of Science citation stats (written by `fetch-wos-stats.py`; needs `WOS_API_KEY`) |
 | `cv/cv.pdf` | CV PDF (committed, copied to docs/ at build time) |

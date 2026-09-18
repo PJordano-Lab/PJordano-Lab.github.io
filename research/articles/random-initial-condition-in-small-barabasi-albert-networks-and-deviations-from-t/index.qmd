@@ -25,13 +25,26 @@ Paulo R. Guimarães, Marcus A. M. de Aguiar, Jordi Bascompte et al 2005. Random 
 
 **Published in:** Physical Review E
 
-**Citations:** 35
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1103/physreve.71.037101" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1103/physreve.71.037101" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1103/physreve.71.037101) | [PDF](http://repositorio.unicamp.br/jspui/handle/REPOSIP/196266) | [OpenAlex](https://openalex.org/W2006489743)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1103/physreve.71.037101){.paper-link-primary}
+[PDF](http://repositorio.unicamp.br/jspui/handle/REPOSIP/196266)
+[OpenAlex](https://openalex.org/W2006489743)
+:::
 
 ## BibTeX
 
@@ -52,13 +65,3 @@ Evolving Networks},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1103/physreve.71.037101" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1103/physreve.71.037101" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

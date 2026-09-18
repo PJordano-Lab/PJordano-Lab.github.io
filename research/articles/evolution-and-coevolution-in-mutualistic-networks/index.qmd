@@ -25,13 +25,26 @@ Paulo R. Guimarães, Pedro Jordano, John N. Thompson 2011. Evolution and coevolu
 
 **Published in:** Ecology Letters
 
-**Citations:** 361
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1461-0248.2011.01649.x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1461-0248.2011.01649.x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/j.1461-0248.2011.01649.x) | [PDF](http://hdl.handle.net/10261/40441) | [OpenAlex](https://openalex.org/W2111661781)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/j.1461-0248.2011.01649.x){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/40441)
+[OpenAlex](https://openalex.org/W2111661781)
+:::
 
 ## BibTeX
 
@@ -49,13 +62,3 @@ Paulo R. Guimarães, Pedro Jordano, John N. Thompson 2011. Evolution and coevolu
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1461-0248.2011.01649.x" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1461-0248.2011.01649.x" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

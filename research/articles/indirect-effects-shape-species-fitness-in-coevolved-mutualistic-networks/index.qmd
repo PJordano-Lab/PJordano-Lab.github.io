@@ -25,13 +25,26 @@ Leandro G. Cosmo, Ana Paula A. Assis, Marcus A. M. de Aguiar et al 2023. Indirec
 
 **Published in:** Nature
 
-**Citations:** 35
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-023-06319-7" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1038/s41586-023-06319-7" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1038/s41586-023-06319-7) | [PDF](https://digital.csic.es/bitstream/10261/341663/3/Indirect-Cosmo_et_al-2023-Nature.pdf) | [OpenAlex](https://openalex.org/W4384820407)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1038/s41586-023-06319-7){.paper-link-primary}
+[PDF](https://digital.csic.es/bitstream/10261/341663/3/Indirect-Cosmo_et_al-2023-Nature.pdf)
+[OpenAlex](https://openalex.org/W4384820407)
+:::
 
 ## BibTeX
 
@@ -50,13 +63,3 @@ Leandro G. Cosmo, Ana Paula A. Assis, Marcus A. M. de Aguiar et al 2023. Indirec
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-023-06319-7" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1038/s41586-023-06319-7" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

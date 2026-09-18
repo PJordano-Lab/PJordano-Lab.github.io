@@ -24,4 +24,6 @@ Pedro Jordano 2009. Ecología y genes. *Revista Ecosistemas*.
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W3134572316)
+:::

@@ -25,13 +25,27 @@ Pedro Jordano 2026. The biodiversity of plant–frugivore interactions: types, f
 
 **Published in:** Oikos
 
-**Citations:** 0
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1002/oik.11991" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1002/oik.11991" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1002/oik.11991) | [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/11/14/2025.11.14.688423.full.pdf) | [OpenAlex](https://openalex.org/W4416294080) | [Data](https://doi.org/10.5281/zenodo.19482637)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1002/oik.11991){.paper-link-primary}
+[PDF](https://www.biorxiv.org/content/biorxiv/early/2025/11/14/2025.11.14.688423.full.pdf)
+[OpenAlex](https://openalex.org/W4416294080)
+[Data](https://doi.org/10.5281/zenodo.19482637)
+:::
 
 ## BibTeX
 
@@ -65,13 +79,3 @@ Pedro Jordano 2026. The biodiversity of plant–frugivore interactions: types, f
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1002/oik.11991" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1002/oik.11991" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

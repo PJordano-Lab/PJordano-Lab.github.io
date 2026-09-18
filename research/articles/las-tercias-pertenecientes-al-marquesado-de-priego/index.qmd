@@ -24,4 +24,6 @@ Pedro Jordano, M. Ángeles 2013. Las tercias pertenecientes al marquesado de Pri
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W2153721144)
+:::

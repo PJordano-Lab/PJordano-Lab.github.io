@@ -26,4 +26,7 @@ Eva Moracho, Pedro Jordano, Arndt Hampe 2017. Patterns and drivers of tree fecun
 
 ## Links
 
-[PDF](https://hal.inrae.fr/hal-02737294) | [OpenAlex](https://openalex.org/W4206886002)
+::: {.paper-links}
+[PDF](https://hal.inrae.fr/hal-02737294)
+[OpenAlex](https://openalex.org/W4206886002)
+:::

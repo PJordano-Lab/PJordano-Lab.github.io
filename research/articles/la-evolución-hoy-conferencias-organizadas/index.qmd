@@ -24,4 +24,6 @@ Pedro Jordano, Juan Arroyo Marín, Encarnación Aguilar Criado et al 2010. La ev
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W3083026123)
+:::

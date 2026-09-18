@@ -25,13 +25,26 @@ Pedro Jordano 1995. Frugivore‐Mediated Selection on Fruit and Seed Size: Birds
 
 **Published in:** Ecology
 
-**Citations:** 177
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.2307/2265833" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.2307/2265833" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.2307/2265833) | [PDF](http://hdl.handle.net/10261/42642) | [OpenAlex](https://openalex.org/W2002734223)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.2307/2265833){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/42642)
+[OpenAlex](https://openalex.org/W2002734223)
+:::
 
 ## BibTeX
 
@@ -67,13 +80,3 @@ Virola-Surinamensis},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.2307/2265833" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.2307/2265833" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

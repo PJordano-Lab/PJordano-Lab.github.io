@@ -25,13 +25,28 @@ Pablo Villalva, Blanca Arroyo‐Correa, Gemma Calvo et al 2024. FRUGIVORY CAMTRA
 
 **Published in:** Ecology
 
-**Citations:** 11
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1002/ecy.4424" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1002/ecy.4424" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1002/ecy.4424) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.4424) | [OpenAlex](https://openalex.org/W4402568822) | [Code](https://github.com/PJordano-Lab/frugivory-camtrap) | [Data](https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fecy.4424&file=ecy4424-sup-0001-DataS1.zip)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1002/ecy.4424){.paper-link-primary}
+[PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ecy.4424)
+[OpenAlex](https://openalex.org/W4402568822)
+[Code](https://github.com/PJordano-Lab/frugivory-camtrap)
+[Data](https://esajournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fecy.4424&file=ecy4424-sup-0001-DataS1.zip)
+:::
 
 ## BibTeX
 
@@ -59,13 +74,3 @@ Pablo Villalva, Blanca Arroyo‐Correa, Gemma Calvo et al 2024. FRUGIVORY CAMTRA
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1002/ecy.4424" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1002/ecy.4424" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

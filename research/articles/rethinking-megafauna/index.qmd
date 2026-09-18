@@ -25,13 +25,26 @@ Marcos Moleón, José A. Sánchez‐Zapata, José A. Donázar et al 2020. Rethin
 
 **Published in:** Proceedings of the Royal Society B Biological Sciences
 
-**Citations:** 69
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2019.2643" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1098/rspb.2019.2643" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1098/rspb.2019.2643) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2019.2643) | [OpenAlex](https://openalex.org/W4237633503)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1098/rspb.2019.2643){.paper-link-primary}
+[PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2019.2643)
+[OpenAlex](https://openalex.org/W4237633503)
+:::
 
 ## BibTeX
 
@@ -54,13 +67,3 @@ Marcos Moleón, José A. Sánchez‐Zapata, José A. Donázar et al 2020. Rethin
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2019.2643" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1098/rspb.2019.2643" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

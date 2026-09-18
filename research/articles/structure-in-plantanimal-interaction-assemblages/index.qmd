@@ -25,13 +25,26 @@ Thomas M. Lewinsohn, Paulo Inácio Prado, Pedro Jordano et al 2006. Structure in
 
 **Published in:** Oikos
 
-**Citations:** 514
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.0030-1299.2006.14583.x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.0030-1299.2006.14583.x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/j.0030-1299.2006.14583.x) | [PDF](http://hdl.handle.net/10261/40471) | [OpenAlex](https://openalex.org/W2116643531)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/j.0030-1299.2006.14583.x){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/40471)
+[OpenAlex](https://openalex.org/W2116643531)
+:::
 
 ## BibTeX
 
@@ -51,13 +64,3 @@ Thomas M. Lewinsohn, Paulo Inácio Prado, Pedro Jordano et al 2006. Structure in
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.0030-1299.2006.14583.x" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.0030-1299.2006.14583.x" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

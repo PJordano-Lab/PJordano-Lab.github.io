@@ -25,13 +25,26 @@ Jordi Bascompte, Pedro Jordano, Jens M. Olesen 2006. Asymmetric Coevolutionary N
 
 **Published in:** Science
 
-**Citations:** 1313
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1126/science.1123412" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1126/science.1123412" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1126/science.1123412) | [PDF](https://doi.org/10.5281/zenodo.19670114) | [OpenAlex](https://openalex.org/W2140664585)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1126/science.1123412){.paper-link-primary}
+[PDF](https://doi.org/10.5281/zenodo.19670114)
+[OpenAlex](https://openalex.org/W2140664585)
+:::
 
 ## BibTeX
 
@@ -60,13 +73,3 @@ Symbiosis},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1126/science.1123412" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1126/science.1123412" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

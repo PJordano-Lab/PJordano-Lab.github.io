@@ -25,13 +25,26 @@ Pedro Jordano 2021. The Biodiversity of Ecological Interactions: Challenges for 
 
 **Published in:** Biodiversity Information Science and Standards
 
-**Citations:** 24
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.3897/biss.5.75564" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.3897/biss.5.75564" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.3897/biss.5.75564) | [PDF](https://biss.pensoft.net/article/75564/download/pdf/) | [OpenAlex](https://openalex.org/W3201449494)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.3897/biss.5.75564){.paper-link-primary}
+[PDF](https://biss.pensoft.net/article/75564/download/pdf/)
+[OpenAlex](https://openalex.org/W3201449494)
+:::
 
 ## BibTeX
 
@@ -49,13 +62,3 @@ Pedro Jordano 2021. The Biodiversity of Ecological Interactions: Challenges for 
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.3897/biss.5.75564" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.3897/biss.5.75564" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

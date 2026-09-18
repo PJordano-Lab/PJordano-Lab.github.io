@@ -25,13 +25,26 @@ Carlos J. Melián, Jordi Bascompte, Pedro Jordano et al 2009. Diversity in a com
 
 **Published in:** Oikos
 
-**Citations:** 239
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1600-0706.2008.16751.x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1600-0706.2008.16751.x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/j.1600-0706.2008.16751.x) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1600-0706.2008.16751.x) | [OpenAlex](https://openalex.org/W2144199228)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/j.1600-0706.2008.16751.x){.paper-link-primary}
+[PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1600-0706.2008.16751.x)
+[OpenAlex](https://openalex.org/W2144199228)
+:::
 
 ## BibTeX
 
@@ -48,13 +61,3 @@ Carlos J. Melián, Jordi Bascompte, Pedro Jordano et al 2009. Diversity in a com
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1600-0706.2008.16751.x" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1600-0706.2008.16751.x" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

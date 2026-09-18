@@ -24,4 +24,6 @@ Alfredo Valido, María C. Rodríguez‐Rodríguez, Pedro Jordano 2011. Interacci
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W1024877374)
+:::

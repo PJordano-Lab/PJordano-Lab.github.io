@@ -25,13 +25,26 @@ Pedro Jordano, Carlos M. Herrera 1981. THE FRUGIVOROUS DET OF BLACKCAP POPULATIO
 
 **Published in:** Ibis
 
-**Citations:** 91
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1474-919x.1981.tb04055.x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1474-919x.1981.tb04055.x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/j.1474-919x.1981.tb04055.x) | [PDF](http://hdl.handle.net/10261/45064) | [OpenAlex](https://openalex.org/W1993906437)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/j.1474-919x.1981.tb04055.x){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/45064)
+[OpenAlex](https://openalex.org/W1993906437)
+:::
 
 ## BibTeX
 
@@ -50,13 +63,3 @@ Pedro Jordano, Carlos M. Herrera 1981. THE FRUGIVOROUS DET OF BLACKCAP POPULATIO
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1474-919x.1981.tb04055.x" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1474-919x.1981.tb04055.x" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

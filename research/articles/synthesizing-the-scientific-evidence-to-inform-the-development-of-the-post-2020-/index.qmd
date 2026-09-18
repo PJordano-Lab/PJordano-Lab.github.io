@@ -29,7 +29,10 @@ Sandra Dı́az, Fabrice DeClerck, Susanna Dobrota et al 2020. Synthesizing the s
 
 ## Links
 
-[PDF](http://rid.unrn.edu.ar/handle/20.500.12049/5718) | [OpenAlex](https://openalex.org/W3083837953)
+::: {.paper-links}
+[PDF](http://rid.unrn.edu.ar/handle/20.500.12049/5718)
+[OpenAlex](https://openalex.org/W3083837953)
+:::
 
 ## BibTeX
 

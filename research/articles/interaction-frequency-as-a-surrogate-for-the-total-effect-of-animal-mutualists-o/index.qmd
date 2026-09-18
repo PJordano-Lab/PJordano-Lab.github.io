@@ -25,13 +25,26 @@ Diego P. Vázquez, William F. Morris, Pedro Jordano 2005. Interaction frequency 
 
 **Published in:** Ecology Letters
 
-**Citations:** 607
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1461-0248.2005.00810.x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1461-0248.2005.00810.x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/j.1461-0248.2005.00810.x) | [PDF](http://hdl.handle.net/10261/40567) | [OpenAlex](https://openalex.org/W2097282068)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/j.1461-0248.2005.00810.x){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/40567)
+[OpenAlex](https://openalex.org/W2097282068)
+:::
 
 ## BibTeX
 
@@ -67,13 +80,3 @@ Quantity Component},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1461-0248.2005.00810.x" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1461-0248.2005.00810.x" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

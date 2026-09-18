@@ -24,4 +24,6 @@ Carolina García, Etienne K. Klein, Pedro Jordano 2017. Special Feature: Dispers
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W3099870126)
+:::

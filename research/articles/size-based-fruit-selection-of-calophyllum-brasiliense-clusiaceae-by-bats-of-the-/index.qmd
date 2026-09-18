@@ -25,13 +25,26 @@ Marco A. R. Mello, Natália Oliveira Leiner, Paulo R. Guimarães et al 2005. Siz
 
 **Published in:** Acta Chiropterologica
 
-**Citations:** 29
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.3161/1733-5329(2005)7[179:sfsocb]2.0.co;2" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.3161/1733-5329(2005)7[179:sfsocb]2.0.co;2" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.3161/1733-5329(2005)7[179:sfsocb]2.0.co;2) | [PDF](http://hdl.handle.net/10261/40568) | [OpenAlex](https://openalex.org/W2175201082)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.3161/1733-5329(2005)7[179:sfsocb]2.0.co;2){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/40568)
+[OpenAlex](https://openalex.org/W2175201082)
+:::
 
 ## BibTeX
 
@@ -57,13 +70,3 @@ Trees},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.3161/1733-5329(2005)7[179:sfsocb]2.0.co;2" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.3161/1733-5329(2005)7[179:sfsocb]2.0.co;2" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

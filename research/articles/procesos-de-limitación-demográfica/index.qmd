@@ -28,7 +28,10 @@ Pedro Jordano, Fernando Pulido, Juan Arroyo Marín et al 2004. Procesos de limit
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/40596) | [OpenAlex](https://openalex.org/W231897530)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/40596)
+[OpenAlex](https://openalex.org/W231897530)
+:::
 
 ## BibTeX
 

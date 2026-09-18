@@ -29,7 +29,10 @@ Pedro Jordano 1985. El ciclo anual de los Paseriformes frugívoros en el matorra
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/45077) | [OpenAlex](https://openalex.org/W973156700)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/45077)
+[OpenAlex](https://openalex.org/W973156700)
+:::
 
 ## BibTeX
 

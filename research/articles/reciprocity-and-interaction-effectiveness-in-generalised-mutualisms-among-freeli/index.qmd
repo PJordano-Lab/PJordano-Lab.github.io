@@ -25,13 +25,28 @@ Elena Quintero, Francisco Rodríguez‐Sánchez, Pedro Jordano 2023. Reciprocity
 
 **Published in:** Ecology Letters
 
-**Citations:** 18
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/ele.14141" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/ele.14141" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/ele.14141) | [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14141) | [OpenAlex](https://openalex.org/W4310572889) | [Code](https://doi.org/10.5281/zenodo.7248616) | [Data](https://doi.org/10.5061/dryad.02v6wwq6n)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/ele.14141){.paper-link-primary}
+[PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14141)
+[OpenAlex](https://openalex.org/W4310572889)
+[Code](https://doi.org/10.5281/zenodo.7248616)
+[Data](https://doi.org/10.5061/dryad.02v6wwq6n)
+:::
 
 ## BibTeX
 
@@ -50,13 +65,3 @@ Elena Quintero, Francisco Rodríguez‐Sánchez, Pedro Jordano 2023. Reciprocity
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/ele.14141" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/ele.14141" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

@@ -25,13 +25,26 @@ Rúben Heleno, Cristina García, Pedro Jordano et al 2014. Ecological networks: 
 
 **Published in:** Biology Letters
 
-**Citations:** 92
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2013.1000" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1098/rsbl.2013.1000" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1098/rsbl.2013.1000) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2013.1000) | [OpenAlex](https://openalex.org/W2116021331)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1098/rsbl.2013.1000){.paper-link-primary}
+[PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2013.1000)
+[OpenAlex](https://openalex.org/W2116021331)
+:::
 
 ## BibTeX
 
@@ -56,13 +69,3 @@ systems biology},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rsbl.2013.1000" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1098/rsbl.2013.1000" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

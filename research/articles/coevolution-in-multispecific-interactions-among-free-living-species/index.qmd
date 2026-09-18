@@ -25,13 +25,26 @@ Pedro Jordano 2010. Coevolution in Multispecific Interactions among Free-Living 
 
 **Published in:** Evolution Education and Outreach
 
-**Citations:** 32
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1007/s12052-009-0197-1" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1007/s12052-009-0197-1" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1007/s12052-009-0197-1) | [PDF](https://evolution-outreach.biomedcentral.com/counter/pdf/10.1007/s12052-009-0197-1) | [OpenAlex](https://openalex.org/W2084952252)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1007/s12052-009-0197-1){.paper-link-primary}
+[PDF](https://evolution-outreach.biomedcentral.com/counter/pdf/10.1007/s12052-009-0197-1)
+[OpenAlex](https://openalex.org/W2084952252)
+:::
 
 ## BibTeX
 
@@ -57,13 +70,3 @@ multispecies interactions},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1007/s12052-009-0197-1" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1007/s12052-009-0197-1" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

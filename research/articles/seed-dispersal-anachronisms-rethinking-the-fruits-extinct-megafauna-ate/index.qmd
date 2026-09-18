@@ -25,13 +25,26 @@ Paulo R. Guimarães, Mauro Galetti, Pedro Jordano 2008. Seed Dispersal Anachroni
 
 **Published in:** PLoS ONE
 
-**Citations:** 434
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0001745" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1371/journal.pone.0001745" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1371/journal.pone.0001745) | [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0001745&type=printable) | [OpenAlex](https://openalex.org/W2014322534)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1371/journal.pone.0001745){.paper-link-primary}
+[PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0001745&type=printable)
+[OpenAlex](https://openalex.org/W2014322534)
+:::
 
 ## BibTeX
 
@@ -66,13 +79,3 @@ South America},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0001745" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1371/journal.pone.0001745" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

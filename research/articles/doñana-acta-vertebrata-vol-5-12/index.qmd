@@ -24,4 +24,6 @@ Alfredo Salvador, Luis Felipe López‐Jurado, Pedro Jordano et al 1978. Doñana
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W2469545589)
+:::

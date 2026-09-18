@@ -24,4 +24,6 @@ Eva Moracho, Cristina Rigueiro, Angela Sanchez Miranda-Moreno et al 2012. Pollin
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W4206849126)
+:::

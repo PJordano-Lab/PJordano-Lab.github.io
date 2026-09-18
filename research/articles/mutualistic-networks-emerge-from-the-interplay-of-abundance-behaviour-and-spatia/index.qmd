@@ -22,20 +22,6 @@ Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano et al 2026. Mutualistic
 
 **Published in:** Journal of Animal Ecology
 
-**Citations:** 0
-
-**Open Access:** Yes
-
-## Links
-
-[DOI Link](https://doi.org/10.1111/1365-2656.70324) | [PDF](https://repositorio.comillas.edu/bitstreams/7308141c-cd06-4469-b723-5ccab91c3aab/download) | [OpenAlex](https://openalex.org/W7172501010)
-
-## BibTeX
-
-```bibtex
-@article{Arroyo_Correa_2026, title={Mutualistic networks emerge from the interplay of abundance, behaviour and spatial constraints}, ISSN={1365-2656}, url={http://dx.doi.org/10.1111/1365-2656.70324}, DOI={10.1111/1365-2656.70324}, journal={Journal of Animal Ecology}, publisher={Wiley}, author={Arroyo‐Correa, Blanca and Bartomeus, Ignasi and Jordano, Pedro and Castro, Mario and Galeano, Javier}, year={2026}, month=Aug }
-```
-
 <!-- badges:start -->
 ::: {.article-badges}
 <div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2656.70324" data-legend="always" data-style="small_circle"></span></div>
@@ -46,3 +32,20 @@ Blanca Arroyo‐Correa, Ígnasi Bartomeus, Pedro Jordano et al 2026. Mutualistic
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
+
+**Open Access:** Yes
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/1365-2656.70324){.paper-link-primary}
+[PDF](https://repositorio.comillas.edu/bitstreams/7308141c-cd06-4469-b723-5ccab91c3aab/download)
+[OpenAlex](https://openalex.org/W7172501010)
+:::
+
+## BibTeX
+
+```bibtex
+@article{Arroyo_Correa_2026, title={Mutualistic networks emerge from the interplay of abundance, behaviour and spatial constraints}, ISSN={1365-2656}, url={http://dx.doi.org/10.1111/1365-2656.70324}, DOI={10.1111/1365-2656.70324}, journal={Journal of Animal Ecology}, publisher={Wiley}, author={Arroyo‐Correa, Blanca and Bartomeus, Ignasi and Jordano, Pedro and Castro, Mario and Galeano, Javier}, year={2026}, month=Aug }
+```
+

@@ -25,13 +25,26 @@ Néstor Pérez‐Méndez, Pedro Jordano, Cristina García et al 2016. The signat
 
 **Published in:** Scientific Reports
 
-**Citations:** 155
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1038/srep24820" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1038/srep24820" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1038/srep24820) | [PDF](https://www.nature.com/articles/srep24820.pdf) | [OpenAlex](https://openalex.org/W2339905758)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1038/srep24820){.paper-link-primary}
+[PDF](https://www.nature.com/articles/srep24820.pdf)
+[OpenAlex](https://openalex.org/W2339905758)
+:::
 
 ## BibTeX
 
@@ -51,13 +64,3 @@ Néstor Pérez‐Méndez, Pedro Jordano, Cristina García et al 2016. The signat
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1038/srep24820" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1038/srep24820" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

@@ -681,15 +681,23 @@ class OpenAlexArticleSync:
             '',
             f'**Published in:** {venue}',
             '',
-            f'**Citations:** {citations}',
         ]
+        # The badges carry the citation count themselves (Dimensions) plus the
+        # attention score, so they stand in for the static "Citations:" line —
+        # which came from the OpenAlex snapshot and went stale between syncs.
+        # Papers with no DOI get no badges, so they keep the plain count.
+        badges = badge_block(doi)
+        lines.append(badges if badges else f'**Citations:** {citations}')
 
         if is_oa:
             lines += ['', '**Open Access:** Yes']
 
+        # Links are emitted as a .paper-links div with per-link classes; the
+        # grey button styling lives in html/pedroj.scss. The DOI link carries
+        # .paper-link-primary (darker fill) as the primary action.
         link_parts = []
         if doi_url:
-            link_parts.append(f'[DOI Link]({doi_url})')
+            link_parts.append(f'[DOI Link]({doi_url}){{.paper-link-primary}}')
         if pdf_url:
             link_parts.append(f'[PDF]({pdf_url})')
         if openalex_url:
@@ -710,12 +718,8 @@ class OpenAlexArticleSync:
                 link_parts.append(f"[{item.get('label', 'Link')}]({item['url']})")
 
         if link_parts:
-            lines += ['', '## Links', '', ' | '.join(link_parts)]
-
-        # Citation / attention badges, last thing on the page
-        badges = badge_block(doi)
-        if badges:
-            lines += ['', badges]
+            lines += ['', '## Links', '', '::: {.paper-links}',
+                      *link_parts, ':::']
 
         lines.append('')
         return '\n'.join(lines)

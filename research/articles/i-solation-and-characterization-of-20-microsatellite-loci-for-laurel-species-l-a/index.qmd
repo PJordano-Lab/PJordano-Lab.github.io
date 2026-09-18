@@ -27,7 +27,9 @@ Juan Arroyo, Cristina Rigueiro, Arndt Hampe et al 2010. I SOLATION AND CHARACTER
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W2185268743)
+:::
 
 ## BibTeX
 

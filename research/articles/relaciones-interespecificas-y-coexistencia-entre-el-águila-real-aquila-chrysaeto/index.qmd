@@ -29,7 +29,10 @@ Pedro Jordano 2006. Relaciones interespecificas y coexistencia entre el Águila 
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/45073) | [OpenAlex](https://openalex.org/W1135670422)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/45073)
+[OpenAlex](https://openalex.org/W1135670422)
+:::
 
 ## BibTeX
 

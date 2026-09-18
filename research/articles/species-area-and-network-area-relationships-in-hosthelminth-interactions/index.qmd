@@ -25,13 +25,28 @@ Tad Dallas, Pedro Jordano 2021. Species-area and network-area relationships in h
 
 **Published in:** Proceedings of the Royal Society B Biological Sciences
 
-**Citations:** 16
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2020.3143" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1098/rspb.2020.3143" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1098/rspb.2020.3143) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/8059662) | [OpenAlex](https://openalex.org/W3137520524) | [Code](https://doi.org/10.6084/m9.figshare.14248075) | [Data](https://doi.org/10.6084/m9.figshare.c.5345000.v2)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1098/rspb.2020.3143){.paper-link-primary}
+[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/8059662)
+[OpenAlex](https://openalex.org/W3137520524)
+[Code](https://doi.org/10.6084/m9.figshare.14248075)
+[Data](https://doi.org/10.6084/m9.figshare.c.5345000.v2)
+:::
 
 ## BibTeX
 
@@ -51,13 +66,3 @@ Tad Dallas, Pedro Jordano 2021. Species-area and network-area relationships in h
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2020.3143" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1098/rspb.2020.3143" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

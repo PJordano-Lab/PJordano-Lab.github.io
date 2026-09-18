@@ -22,20 +22,6 @@ Wesley Dáttilo, Nubia Zoe Lara-Rodríguez, Pedro Jordano et al 2017. Correction
 
 **Published in:** Proceedings of the Royal Society B Biological Sciences
 
-**Citations:** 0
-
-**Open Access:** Yes
-
-## Links
-
-[DOI Link](https://doi.org/10.1098/rspb.2016.2635) | [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2016.2635) | [OpenAlex](https://openalex.org/W2569592608)
-
-## BibTeX
-
-```bibtex
-@article{D_ttilo_2017, title={Correction to ‘Unravelling Darwin’s entangled bank: architecture and robustness of mutualistic networks with multiple interaction types’}, volume={284}, ISSN={1471-2954}, url={http://dx.doi.org/10.1098/rspb.2016.2635}, DOI={10.1098/rspb.2016.2635}, number={1846}, journal={Proceedings of the Royal Society B: Biological Sciences}, publisher={The Royal Society}, author={Dáttilo, Wesley and Lara-Rodríguez, Nubia and Jordano, Pedro and Guimarães, Paulo R. and Thompson, John N. and Marquis, Robert J. and Medeiros, Lucas P. and Ortiz-Pulido, Raul and Marcos-García, Maria A. and Rico-Gray, Victor}, year={2017}, month=Jan }
-```
-
 <!-- badges:start -->
 ::: {.article-badges}
 <div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2016.2635" data-legend="always" data-style="small_circle"></span></div>
@@ -46,3 +32,20 @@ Wesley Dáttilo, Nubia Zoe Lara-Rodríguez, Pedro Jordano et al 2017. Correction
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
+
+**Open Access:** Yes
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1098/rspb.2016.2635){.paper-link-primary}
+[PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2016.2635)
+[OpenAlex](https://openalex.org/W2569592608)
+:::
+
+## BibTeX
+
+```bibtex
+@article{D_ttilo_2017, title={Correction to ‘Unravelling Darwin’s entangled bank: architecture and robustness of mutualistic networks with multiple interaction types’}, volume={284}, ISSN={1471-2954}, url={http://dx.doi.org/10.1098/rspb.2016.2635}, DOI={10.1098/rspb.2016.2635}, number={1846}, journal={Proceedings of the Royal Society B: Biological Sciences}, publisher={The Royal Society}, author={Dáttilo, Wesley and Lara-Rodríguez, Nubia and Jordano, Pedro and Guimarães, Paulo R. and Thompson, John N. and Marquis, Robert J. and Medeiros, Lucas P. and Ortiz-Pulido, Raul and Marcos-García, Maria A. and Rico-Gray, Victor}, year={2017}, month=Jan }
+```
+

@@ -25,11 +25,23 @@ Paulo R. Guimarães, Mathias M. Pires, Pedro Jordano et al 2017. Indirect effect
 
 **Published in:** Nature
 
-**Citations:** 309
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1038/nature24273" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1038/nature24273" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 ## Links
 
-[DOI Link](https://doi.org/10.1038/nature24273) | [OpenAlex](https://openalex.org/W2766126935)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1038/nature24273){.paper-link-primary}
+[OpenAlex](https://openalex.org/W2766126935)
+:::
 
 ## BibTeX
 
@@ -48,13 +60,3 @@ Paulo R. Guimarães, Mathias M. Pires, Pedro Jordano et al 2017. Indirect effect
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1038/nature24273" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1038/nature24273" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

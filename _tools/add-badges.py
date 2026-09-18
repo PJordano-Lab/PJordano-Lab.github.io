@@ -50,8 +50,30 @@ def page_doi(text: str) -> str:
 
 
 def apply_block(text: str, block: str, start: str, end: str) -> str:
-    """Drop any existing badge block and append the given one at the very end."""
-    text = re.sub(rf"(?ms)^{re.escape(start)}.*?^{re.escape(end)}[ \t]*\n?", "", text)
+    """Put the badge block in Publication Details, where "Citations:" was.
+
+    The badges report the citation count themselves, so they replace the static
+    "**Citations:** N" line rather than sitting next to it. Any badge block
+    already on the page (including one left at the foot by an earlier version
+    of this script) is removed first, so re-runs and relocations converge.
+    """
+    # Take the blank lines that follow the old block with it, and re-emit
+    # exactly one blank line on either side of the new one; otherwise every
+    # re-run leaves another blank line behind and the script never converges.
+    text = re.sub(rf"(?ms)^{re.escape(start)}.*?^{re.escape(end)}[ \t]*\n*", "", text)
+
+    citations = re.search(r"(?m)^\*\*Citations:\*\*[ \t]*.*$", text)
+    if citations:
+        tail = text[citations.end():].lstrip("\n")
+        return text[:citations.start()] + block + "\n\n" + tail
+
+    # No count to replace (an already-converted page, or one that never had
+    # one): sit below "Published in:" in the same section.
+    published = re.search(r"(?m)^\*\*Published in:\*\*[ \t]*.*$", text)
+    if published:
+        tail = text[published.end():].lstrip("\n")
+        return text[:published.end()] + "\n\n" + block + "\n\n" + tail
+
     return text.rstrip("\n") + "\n\n" + block + "\n"
 
 

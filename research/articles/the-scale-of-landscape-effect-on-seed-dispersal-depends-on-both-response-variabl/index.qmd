@@ -25,11 +25,23 @@ Miriam San‐José, Víctor Arroyo‐Rodríguez, Pedro Jordano et al 2019. The s
 
 **Published in:** Landscape Ecology
 
-**Citations:** 46
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1007/s10980-019-00821-y" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1007/s10980-019-00821-y" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 ## Links
 
-[DOI Link](https://doi.org/10.1007/s10980-019-00821-y) | [OpenAlex](https://openalex.org/W2943095103)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1007/s10980-019-00821-y){.paper-link-primary}
+[OpenAlex](https://openalex.org/W2943095103)
+:::
 
 ## BibTeX
 
@@ -48,13 +60,3 @@ Miriam San‐José, Víctor Arroyo‐Rodríguez, Pedro Jordano et al 2019. The s
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1007/s10980-019-00821-y" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1007/s10980-019-00821-y" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

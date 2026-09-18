@@ -27,7 +27,9 @@ Pedro Jordano, Diego de San Pedro 1981. Alimentación y relaciones tróficas ent
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W2768695288)
+:::
 
 ## BibTeX
 

@@ -25,13 +25,26 @@ Francisco E. Fontúrbel, Pedro Jordano, Rodrigo Medel 2017. Plant-animal mutuali
 
 **Published in:** Perspectives in Plant Ecology Evolution and Systematics
 
-**Citations:** 31
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ppees.2017.09.003" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1016/j.ppees.2017.09.003" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1016/j.ppees.2017.09.003) | [PDF](http://repositorio.uchile.cl/handle/2250/148534) | [OpenAlex](https://openalex.org/W2755919136)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1016/j.ppees.2017.09.003){.paper-link-primary}
+[PDF](http://repositorio.uchile.cl/handle/2250/148534)
+[OpenAlex](https://openalex.org/W2755919136)
+:::
 
 ## BibTeX
 
@@ -58,13 +71,3 @@ Tristerix corymbosus},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ppees.2017.09.003" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1016/j.ppees.2017.09.003" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

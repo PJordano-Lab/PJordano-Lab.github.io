@@ -28,7 +28,10 @@ Pedro Jordano, Diego Ezequiel Vázquez, Jordi Bascompte 2009. Redes complejas de
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/40617) | [OpenAlex](https://openalex.org/W1623546747)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/40617)
+[OpenAlex](https://openalex.org/W1623546747)
+:::
 
 ## BibTeX
 

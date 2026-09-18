@@ -25,13 +25,26 @@ Juan P. González‐Varo, Beatriz Rumeu, Jörg Albrecht et al 2021. Limited pote
 
 **Published in:** Nature
 
-**Citations:** 95
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-021-03665-2" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1038/s41586-021-03665-2" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1038/s41586-021-03665-2) | [PDF](https://rodin.uca.es/bitstream/10498/34858/1/Gonzalez-Varo%20et%20al.%202021%20Nature.pdf) | [OpenAlex](https://openalex.org/W3175504106)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1038/s41586-021-03665-2){.paper-link-primary}
+[PDF](https://rodin.uca.es/bitstream/10498/34858/1/Gonzalez-Varo%20et%20al.%202021%20Nature.pdf)
+[OpenAlex](https://openalex.org/W3175504106)
+:::
 
 ## BibTeX
 
@@ -50,13 +63,3 @@ Juan P. González‐Varo, Beatriz Rumeu, Jörg Albrecht et al 2021. Limited pote
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-021-03665-2" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1038/s41586-021-03665-2" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

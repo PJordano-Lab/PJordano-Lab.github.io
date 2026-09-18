@@ -24,4 +24,6 @@ Pedro Jordano 2010. El significado actual de la evolución. *Dialnet (Universida
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W3091347236)
+:::

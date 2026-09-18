@@ -24,4 +24,6 @@ Eugene W. Schupp, Arndt Hampe, Juan Luis García‐Castaño et al 2005. Initial 
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W107632162)
+:::

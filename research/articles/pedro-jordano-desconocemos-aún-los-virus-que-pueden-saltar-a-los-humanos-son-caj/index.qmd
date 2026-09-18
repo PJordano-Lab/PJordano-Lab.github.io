@@ -26,4 +26,7 @@ Pedro Jordano, Raúl Rejón 2020. Pedro Jordano: "Desconocemos aún los virus qu
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/209715) | [OpenAlex](https://openalex.org/W3027173748)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/209715)
+[OpenAlex](https://openalex.org/W3027173748)
+:::

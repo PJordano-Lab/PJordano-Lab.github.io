@@ -26,4 +26,7 @@ Pedro Jordano 1989. Variación de la dieta frugívora otoño-invernal del Petirr
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/42689) | [OpenAlex](https://openalex.org/W969903211)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/42689)
+[OpenAlex](https://openalex.org/W969903211)
+:::

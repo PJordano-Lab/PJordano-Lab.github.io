@@ -25,11 +25,23 @@ Pedro Jordano 2026. The Ecological Interactome: Understanding Biodiversity Throu
 
 **Published in:** Annual Review of Ecology Evolution and Systematics
 
-**Citations:** 0
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1146/annurev-ecolsys-102824-110132" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1146/annurev-ecolsys-102824-110132" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 ## Links
 
-[DOI Link](https://doi.org/10.1146/annurev-ecolsys-102824-110132) | [OpenAlex](https://openalex.org/W7165569942)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1146/annurev-ecolsys-102824-110132){.paper-link-primary}
+[OpenAlex](https://openalex.org/W7165569942)
+:::
 
 ## BibTeX
 
@@ -49,13 +61,3 @@ Pedro Jordano 2026. The Ecological Interactome: Understanding Biodiversity Throu
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1146/annurev-ecolsys-102824-110132" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1146/annurev-ecolsys-102824-110132" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

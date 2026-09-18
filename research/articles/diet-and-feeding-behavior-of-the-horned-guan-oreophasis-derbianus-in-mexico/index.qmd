@@ -25,11 +25,23 @@ Fernando González‐García, Eduardo Santana-C., Pedro Jordano et al 2017. Diet
 
 **Published in:** The Wilson Journal of Ornithology
 
-**Citations:** 2
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1676/16-041.1" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1676/16-041.1" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 ## Links
 
-[DOI Link](https://doi.org/10.1676/16-041.1) | [OpenAlex](https://openalex.org/W2782241309)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1676/16-041.1){.paper-link-primary}
+[OpenAlex](https://openalex.org/W2782241309)
+:::
 
 ## BibTeX
 
@@ -59,13 +71,3 @@ the horned guan},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1676/16-041.1" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1676/16-041.1" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

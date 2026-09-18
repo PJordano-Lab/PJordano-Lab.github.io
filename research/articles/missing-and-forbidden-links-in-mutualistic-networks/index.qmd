@@ -25,13 +25,26 @@ Jens M. Olesen, Jordi Bascompte, Yoko Luise Dupont et al 2011. Missing and forbi
 
 **Published in:** Proceedings of the Royal Society B Biological Sciences
 
-**Citations:** 375
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2010.1371" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1098/rspb.2010.1371" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1098/rspb.2010.1371) | [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/3030842) | [OpenAlex](https://openalex.org/W2166939357)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1098/rspb.2010.1371){.paper-link-primary}
+[PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/3030842)
+[OpenAlex](https://openalex.org/W2166939357)
+:::
 
 ## BibTeX
 
@@ -69,13 +82,3 @@ abundance},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1098/rspb.2010.1371" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1098/rspb.2010.1371" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

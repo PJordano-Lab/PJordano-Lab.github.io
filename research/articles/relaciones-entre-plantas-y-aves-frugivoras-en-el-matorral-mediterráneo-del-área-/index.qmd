@@ -24,7 +24,9 @@ Pedro Jordano, Pedro Diego 1984. Relaciones entre plantas y aves frugivoras en e
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W1608040068)
+:::
 
 ## BibTeX
 

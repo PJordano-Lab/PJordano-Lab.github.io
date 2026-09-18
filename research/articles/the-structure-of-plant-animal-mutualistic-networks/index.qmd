@@ -24,13 +24,26 @@ Jordi Bascompte, Pedro Jordano 2006. The Structure of Plant-Animal Mutualistic N
 
 **Published in:** Princeton University Press eBooks
 
-**Citations:** 70
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.23943/princeton/9780691131269.003.0003" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.23943/princeton/9780691131269.003.0003" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.23943/princeton/9780691131269.003.0003) | [PDF](http://hdl.handle.net/10261/40599) | [OpenAlex](https://openalex.org/W2101651676)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.23943/princeton/9780691131269.003.0003){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/40599)
+[OpenAlex](https://openalex.org/W2101651676)
+:::
 
 ## BibTeX
 
@@ -49,13 +62,3 @@ Jordi Bascompte, Pedro Jordano 2006. The Structure of Plant-Animal Mutualistic N
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.23943/princeton/9780691131269.003.0003" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.23943/princeton/9780691131269.003.0003" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

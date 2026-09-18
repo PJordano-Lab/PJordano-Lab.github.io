@@ -25,13 +25,26 @@ Jens M. Olesen, Pedro Jordano 2002. GEOGRAPHIC PATTERNS IN PLANT–POLLINATOR MU
 
 **Published in:** Ecology
 
-**Citations:** 508
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1890/0012-9658(2002)083[2416:gpippm]2.0.co;2" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1890/0012-9658(2002)083[2416:gpippm]2.0.co;2" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1890/0012-9658(2002)083[2416:gpippm]2.0.co;2) | [PDF](http://hdl.handle.net/10261/42356) | [OpenAlex](https://openalex.org/W2165779374)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1890/0012-9658(2002)083[2416:gpippm]2.0.co;2){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/42356)
+[OpenAlex](https://openalex.org/W2165779374)
+:::
 
 ## BibTeX
 
@@ -73,13 +86,3 @@ Interaction-Web Connectance},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1890/0012-9658(2002)083[2416:gpippm]2.0.co;2" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1890/0012-9658(2002)083[2416:gpippm]2.0.co;2" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

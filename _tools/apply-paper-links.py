@@ -104,14 +104,22 @@ def main() -> int:
         if not parts:
             unchanged += 1
             continue
-        if re.search(r"^## Links$", text, re.M):
-            # append to the existing pipe-separated link line
+        block = "\n".join(parts)
+        if re.search(r"^::: \{\.paper-links\}$", text, re.M):
+            # append inside the existing .paper-links div, one link per line
+            text = re.sub(r"(?ms)(^::: \{\.paper-links\}\n.*?)(^:::$)",
+                          lambda m: m.group(1) + block + "\n" + m.group(2),
+                          text, count=1)
+        elif re.search(r"^## Links$", text, re.M):
+            # legacy pipe-separated line: append to it (run
+            # _tools/linkify-paper-links.py to convert the page to buttons)
             def add(match):
                 return match.group(0).rstrip() + " | " + " | ".join(parts)
             text = re.sub(r"(?<=^## Links\n\n).*$", add,
                           text, count=1, flags=re.M)
         else:
-            text = text.rstrip("\n") + "\n\n## Links\n\n" + " | ".join(parts) + "\n"
+            text = (text.rstrip("\n") + "\n\n## Links\n\n::: {.paper-links}\n"
+                    + block + "\n:::\n")
         if not args.dry_run:
             qmd.write_text(text, encoding="utf-8")
         patched += 1

@@ -26,4 +26,7 @@ Jordi Bascompte, Pedro Jordano 2008. Redes mutualistas de especies. *DIGITAL.CSI
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/38401) | [OpenAlex](https://openalex.org/W1489764016)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/38401)
+[OpenAlex](https://openalex.org/W1489764016)
+:::

@@ -25,13 +25,27 @@ Carolina Bello, Mauro Galetti, Marco Aurélio Pizo et al 2015. Defaunation affec
 
 **Published in:** Science Advances
 
-**Citations:** 459
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.1501105" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1126/sciadv.1501105" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1126/sciadv.1501105) | [PDF](https://advances.sciencemag.org/content/advances/1/11/e1501105.full.pdf) | [OpenAlex](https://openalex.org/W2212020371) | [Code & data](https://doi.org/10.5281/zenodo.31880)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1126/sciadv.1501105){.paper-link-primary}
+[PDF](https://advances.sciencemag.org/content/advances/1/11/e1501105.full.pdf)
+[OpenAlex](https://openalex.org/W2212020371)
+[Code & data](https://doi.org/10.5281/zenodo.31880)
+:::
 
 ## BibTeX
 
@@ -54,13 +68,3 @@ Cited References Count:212},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.1501105" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1126/sciadv.1501105" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

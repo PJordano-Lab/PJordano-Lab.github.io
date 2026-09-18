@@ -25,13 +25,26 @@ Jofre Carnicer, Lluís Brotons, Daniel Sol et al 2007. Community‐based process
 
 **Published in:** Global Ecology and Biogeography
 
-**Citations:** 32
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1466-8238.2007.00324.x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1466-8238.2007.00324.x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/j.1466-8238.2007.00324.x) | [PDF](http://hdl.handle.net/10261/38464) | [OpenAlex](https://openalex.org/W2120026193)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/j.1466-8238.2007.00324.x){.paper-link-primary}
+[PDF](http://hdl.handle.net/10261/38464)
+[OpenAlex](https://openalex.org/W2120026193)
+:::
 
 ## BibTeX
 
@@ -67,13 +80,3 @@ Species Richness},
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/j.1466-8238.2007.00324.x" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/j.1466-8238.2007.00324.x" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

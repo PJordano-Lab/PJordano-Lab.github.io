@@ -25,13 +25,26 @@ Néstor Pérez‐Méndez, Pedro Jordano, Alfredo Valido 2015. Downsized mutualis
 
 **Published in:** Perspectives in Plant Ecology Evolution and Systematics
 
-**Citations:** 91
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ppees.2014.12.001" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1016/j.ppees.2014.12.001" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1016/j.ppees.2014.12.001) | [PDF](http://hdl.handle.net/20.500.12049/559) | [OpenAlex](https://openalex.org/W1994503780)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1016/j.ppees.2014.12.001){.paper-link-primary}
+[PDF](http://hdl.handle.net/20.500.12049/559)
+[OpenAlex](https://openalex.org/W1994503780)
+:::
 
 ## BibTeX
 
@@ -48,13 +61,3 @@ Néstor Pérez‐Méndez, Pedro Jordano, Alfredo Valido 2015. Downsized mutualis
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1016/j.ppees.2014.12.001" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1016/j.ppees.2014.12.001" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

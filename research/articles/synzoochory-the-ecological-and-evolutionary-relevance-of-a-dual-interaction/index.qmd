@@ -25,11 +25,23 @@ José M. Gómez, Eugene W. Schupp, Pedro Jordano 2019. Synzoochory: the ecologic
 
 **Published in:** Biological reviews/Biological reviews of the Cambridge Philosophical Society
 
-**Citations:** 213
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/brv.12481" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/brv.12481" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 ## Links
 
-[DOI Link](https://doi.org/10.1111/brv.12481) | [OpenAlex](https://openalex.org/W2901785918)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/brv.12481){.paper-link-primary}
+[OpenAlex](https://openalex.org/W2901785918)
+:::
 
 ## BibTeX
 
@@ -50,13 +62,3 @@ José M. Gómez, Eugene W. Schupp, Pedro Jordano 2019. Synzoochory: the ecologic
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/brv.12481" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/brv.12481" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

@@ -28,7 +28,10 @@ Teodoro Marañón, J. Julio Camarero, Jorge Castro Gutiérrez et al 2004. Hetero
 
 ## Links
 
-[PDF](http://hdl.handle.net/10261/40606) | [OpenAlex](https://openalex.org/W999138928)
+::: {.paper-links}
+[PDF](http://hdl.handle.net/10261/40606)
+[OpenAlex](https://openalex.org/W999138928)
+:::
 
 ## BibTeX
 

@@ -24,4 +24,6 @@ Charles Darwin, John Murray, Jane E. Cohen et al 2009. A General Framework for A
 
 ## Links
 
+::: {.paper-links}
 [OpenAlex](https://openalex.org/W2336285099)
+:::

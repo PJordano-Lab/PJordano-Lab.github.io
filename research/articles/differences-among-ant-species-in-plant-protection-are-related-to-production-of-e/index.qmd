@@ -22,18 +22,6 @@ Roberth Fagundes, Wesley Dáttilo, Sérvio Pontes Ribeiro et al 2017. Difference
 
 **Published in:** Biological Journal of the Linnean Society
 
-**Citations:** 116
-
-## Links
-
-[DOI Link](https://doi.org/10.1093/biolinnean/blx059) | [OpenAlex](https://openalex.org/W2625191500)
-
-## BibTeX
-
-```bibtex
-@article{Fagundes_2017, title={Differences among ant species in plant protection are related to production of extrafloral nectar and degree of leaf herbivory}, volume={122}, ISSN={1095-8312}, url={http://dx.doi.org/10.1093/biolinnean/blx059}, DOI={10.1093/biolinnean/blx059}, number={1}, journal={Biological Journal of the Linnean Society}, publisher={Oxford University Press (OUP)}, author={Fagundes, R and Dáttilo, W and Ribeiro, S P and Rico-Gray, V and Jordano, P and Del-Claro, K}, year={2017}, month=June, pages={71–83} }
-```
-
 <!-- badges:start -->
 ::: {.article-badges}
 <div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1093/biolinnean/blx059" data-legend="always" data-style="small_circle"></span></div>
@@ -44,3 +32,17 @@ Roberth Fagundes, Wesley Dáttilo, Sérvio Pontes Ribeiro et al 2017. Difference
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1093/biolinnean/blx059){.paper-link-primary}
+[OpenAlex](https://openalex.org/W2625191500)
+:::
+
+## BibTeX
+
+```bibtex
+@article{Fagundes_2017, title={Differences among ant species in plant protection are related to production of extrafloral nectar and degree of leaf herbivory}, volume={122}, ISSN={1095-8312}, url={http://dx.doi.org/10.1093/biolinnean/blx059}, DOI={10.1093/biolinnean/blx059}, number={1}, journal={Biological Journal of the Linnean Society}, publisher={Oxford University Press (OUP)}, author={Fagundes, R and Dáttilo, W and Ribeiro, S P and Rico-Gray, V and Jordano, P and Del-Claro, K}, year={2017}, month=June, pages={71–83} }
+```
+

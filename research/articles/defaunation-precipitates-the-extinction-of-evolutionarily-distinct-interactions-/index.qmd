@@ -25,13 +25,26 @@ Carine Emer, Mauro Galetti, Marco Aurélio Pizo et al 2019. Defaunation precipit
 
 **Published in:** Science Advances
 
-**Citations:** 65
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.aav6699" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1126/sciadv.aav6699" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.1126/sciadv.aav6699) | [PDF](https://advances.sciencemag.org/content/advances/5/6/eaav6699.full.pdf) | [OpenAlex](https://openalex.org/W2952917773)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1126/sciadv.aav6699){.paper-link-primary}
+[PDF](https://advances.sciencemag.org/content/advances/5/6/eaav6699.full.pdf)
+[OpenAlex](https://openalex.org/W2952917773)
+:::
 
 ## BibTeX
 
@@ -60,13 +73,3 @@ Sci Adv. 2019 Jun 19;5(6):eaav6699. doi: 10.1126/sciadv.aav6699. eCollection 201
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1126/sciadv.aav6699" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1126/sciadv.aav6699" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->

@@ -22,13 +22,26 @@ José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al 2021. Infor
 
 **Published in:** DIGITAL.CSIC (Spanish National Research Council (CSIC))
 
-**Citations:** 1
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.20350/digitalcsic/13851" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.20350/digitalcsic/13851" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
 
 **Open Access:** Yes
 
 ## Links
 
-[DOI Link](https://doi.org/10.20350/digitalcsic/13851) | [PDF](https://doi.org/10.20350/digitalcsic/13851) | [OpenAlex](https://openalex.org/W3165277993)
+::: {.paper-links}
+[DOI Link](https://doi.org/10.20350/digitalcsic/13851){.paper-link-primary}
+[PDF](https://doi.org/10.20350/digitalcsic/13851)
+[OpenAlex](https://openalex.org/W3165277993)
+:::
 
 ## BibTeX
 
@@ -45,13 +58,3 @@ José M. Ordovás, Mariano Estéban, Rocío García‐Retamero et al 2021. Infor
 }
 ```
 
-<!-- badges:start -->
-::: {.article-badges}
-<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.20350/digitalcsic/13851" data-legend="always" data-style="small_circle"></span></div>
-
-<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.20350/digitalcsic/13851" data-badge-type="donut" data-badge-popover="right"></div></div>
-:::
-
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<!-- badges:end -->
