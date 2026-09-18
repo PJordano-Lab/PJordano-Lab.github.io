@@ -107,7 +107,18 @@ Photographs for this gallery are not online yet. Drop JPEGs into
 ![](static/images/banners/lego_minifigure_heads.png){fig-align="center"}
 
 Here are some of my LEGO creations. You can find more details in my
-[Rebrickable](<https://rebrickable.com/users/PedroJ/mocs/>) repository.
+[Rebrickable](https://rebrickable.com/users/PedroJ/mocs/) ,
+[Bricklink](https://www.bricklink.com/v3/studio/public_gallery.page?idUser=722691 "Bricklink"),
+and [Bricksafe](https://bricksafe.com/home "Bricksafe") repositories. Mostly I
+build Star Wars droids and anything related, NASA spacecrafts, and robots.
 
 ![](static/images/icons/barrier.gif){fig-align="center"}
+
+![](static/images/ongfigs/rebrickable-mocs_pj.png){fig-align="center"}
+
+E.g., this one below is my version of the [**NASA Mars Rover 2020 Perseverance,
+Scale 1:10 with Ingenuity
+copter**](https://rebrickable.com/mocs/MOC-81801/PedroJ/nasa-mars-rover-2020-perseverance-scale-110-with-ingenuity-copter/#details "NASA Mars Rover 2020 Perseverance")**.**
 :::
+
+![](static/images/ongfigs/mars-rover.png){fig-align="center"}
