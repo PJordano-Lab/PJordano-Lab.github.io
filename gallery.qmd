@@ -32,7 +32,13 @@ metadata.
 ::: panel-tabset
 ## Megafauna fruits
 
-![](static/images/banners/banner77.jpg){fig-align="center"}
+![Fleshy fruited megafaunal-dependent species illustrating size, shape, and
+color variation. a, *Attalea speciosa*, Arecaceae; b,
+*Mouriri elliptica*, Melastomataceae; c, *Hymenaea stigonocarpa*, Fabaceae; d,
+*Genipa americana*, Rubiaceae; e, *Salacia elliptica*, Celastraceae; f, *Annona
+dioica*, Annonaceae. Black reference line is 2 cm length. Photos from Fazenda
+Rio Negro, Pantanal, Brazil; by PJ, MG, and Camila I. Donatti.
+doi:\[10.1371/journal.pone.0001745\](<https://doi.org/10.1371/journal.pone.0001745>)](static/images/banners/banner77.jpg){fig-align="center"}
 
 {{< photo-gallery photos/megafauna-fruits id=megafauna-fruits >}}
 
