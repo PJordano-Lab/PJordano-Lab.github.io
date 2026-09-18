@@ -5,6 +5,7 @@ resources/
 _DS_Store
 /assets
 PJordano-Lab.code-workspace
+redirect_kit/
 
 /.quarto/
 # CLAUDE.md
