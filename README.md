@@ -25,7 +25,8 @@ Built with [Quarto](https://quarto.org/), deployed via [GitHub Actions](https://
 │   └── cv.pdf                 # Built CV (committed)
 ├── data/
 │   ├── publications.csv       # Publications data from OpenAlex
-│   └── scholar_stats.yml      # Google Scholar citation stats
+│   ├── scholar_stats.yml      # Google Scholar citation stats
+│   └── wos_stats.yml          # Web of Science (Clarivate) citation stats
 ├── _bibliography/
 │   └── papers.bib             # BibTeX publication list (auto-updated by open-alex.py)
 ├── html/pedroj.scss           # Site theme: design tokens, dark mode, components

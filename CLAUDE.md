@@ -146,6 +146,7 @@ Note: The pre-render scripts are commented out in `_quarto.yml` — run them loc
 | `data/paper_links.yml` | Curated code/data links per paper (DOI-keyed) |
 | `_tools/propose-paper-links.py` | Infers candidate code/data pairings for review |
 | `data/scholar_stats.yml` | Google Scholar citation stats |
+| `data/wos_stats.yml` | Web of Science citation stats (written by `fetch-wos-stats.py`; needs `WOS_API_KEY`) |
 | `cv/cv.pdf` | CV PDF (committed, copied to docs/ at build time) |
 | `headshot.jpeg` | Profile photo (root-level, referenced by index.qmd) |
 | `open-alex.py` | Fetches publications from OpenAlex API |

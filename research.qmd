@@ -54,6 +54,19 @@ stats <- tryCatch(
   )
 )
 
+# Web of Science (Clarivate) indicators, refreshed by fetch-wos-stats.py.
+# Computed from Core Collection times-cited counts, so they are lower than the
+# Google Scholar figures above by construction.
+wos <- tryCatch(
+  yaml::read_yaml("data/wos_stats.yml"),
+  error = function(e) list(
+    documents     = "—",
+    citations_all = "—",
+    h_index_all   = "—",
+    i10_index_all = "—"
+  )
+)
+
 pubs_n <- tryCatch({
   pubs <- read.csv("data/publications.csv")
   # Datasets, code archives and journal appendices are records of their own in
