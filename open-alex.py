@@ -34,6 +34,15 @@ DEFAULT_MAILTO = "jordano@ebd.csic.es"
 BADGES_START = "<!-- badges:start -->"
 BADGES_END = "<!-- badges:end -->"
 
+# ── Rendered reference block on each paper page ───────────────────────────────
+# Same sentinels _tools/add-volume-pages.py uses, so a sync and a backfill
+# write the identical block and neither duplicates the other's.
+REF_START = "<!-- full-reference:start -->"
+REF_END = "<!-- full-reference:end -->"
+
+# Spacer between "Published in:" and "Open Access:" on the same line.
+FIELD_GAP = "&emsp;&emsp;"
+
 
 def badge_block(doi):
     """Dimensions + Altmetric badge markup for one DOI (empty string if none).
@@ -118,6 +127,209 @@ def format_volume_pages(volume=None, first_page=None, last_page=None, pages=None
     if pages:
         return f"pp. {pages}"
     return ''
+
+
+# ── Reference / abstract helpers ──────────────────────────────────────────────
+# Everything from format_citation_detail down to the class below is exec'd out
+# of this file by _tools/add-volume-pages.py (which cannot import `requests`),
+# so these functions must depend on nothing but `re` and the standard builtins.
+
+def reconstruct_abstract(inverted_index):
+    """Plain abstract text from OpenAlex's `abstract_inverted_index`.
+
+    OpenAlex stores abstracts as {word: [positions]} for licensing reasons;
+    sorting the positions back out is the documented way to recover the text.
+    """
+    if not inverted_index:
+        return ''
+    positions = []
+    for word, idxs in inverted_index.items():
+        for i in idxs or []:
+            positions.append((i, word))
+    if not positions:
+        return ''
+    positions.sort()
+    return ' '.join(word for _, word in positions)
+
+
+def clean_abstract(text, max_chars=None):
+    """Normalise an abstract for a BibTeX field.
+
+    Crossref serves JATS-tagged abstracts (`<jats:p>...`) and both sources
+    keep the literal word "Abstract" as the first token; neither belongs in a
+    `abstract = {...}` field. Newlines are collapsed because a BibTeX value
+    spanning lines confuses some parsers.
+    """
+    if not text:
+        return ''
+    t = re.sub(r'<[^>]+>', ' ', str(text))
+    t = (t.replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
+          .replace('&quot;', '"').replace('&apos;', "'").replace('&#x2013;', '\u2013'))
+    t = re.sub(r'\s+', ' ', t).strip()
+    t = re.sub(r'^abstract[:.\s\u2014-]*', '', t, flags=re.I).strip()
+    # braces delimit the BibTeX value itself: an unbalanced one in the text
+    # would truncate the field, so they become parentheses
+    t = t.replace('{', '(').replace('}', ')')
+    if max_chars and len(t) > max_chars:
+        t = t[:max_chars].rsplit(' ', 1)[0] + '\u2026'
+    return t
+
+
+def name_initials(given):
+    """'Lucas P.' -> 'L. P.'   'Jean-Pierre' -> 'J.-P.'   'Maria' -> 'M.'"""
+    out = []
+    for token in re.split(r'[\s.]+', (given or '').strip()):
+        if not token:
+            continue
+        parts = [p for p in token.split('-') if p]
+        out.append('-'.join(p[0].upper() + '.' for p in parts))
+    return ' '.join(out)
+
+
+# Nobiliary particles that belong to the surname, not to the given names:
+# "Marcus A. M. de Aguiar" -> "de Aguiar, M. A. M.", not "Aguiar, M. A. M. D."
+NAME_PARTICLES = {'de', 'del', 'della', 'der', 'di', 'da', 'das', 'do', 'dos',
+                  'du', 'la', 'le', 'van', 'von', 'ter', 'ten', 'af', 'bin',
+                  'ibn', "y", "i"}
+
+
+def surname_first(name):
+    """'Pedro Jordano' -> 'Jordano, P.'  (display-name form, one string)."""
+    parts = (name or '').strip().split()
+    if not parts:
+        return ''
+    if len(parts) == 1:
+        return parts[0]
+    surname = [parts.pop()]
+    while parts and parts[-1].lower() in NAME_PARTICLES:
+        surname.insert(0, parts.pop())
+    if not parts:                       # the whole name was particles
+        return ' '.join(surname)
+    return f"{' '.join(surname)}, {name_initials(' '.join(parts))}"
+
+
+def format_name_list(names, style='surname-first'):
+    """'Jordano, P., Bascompte, J. and Olesen, J. M.' from display names.
+
+    Reference-list style: every name given, ', ' between them and ' and '
+    before the last one (no et al. truncation, as in the site's Oikos-style
+    working-paper citations).
+    """
+    if isinstance(names, str):
+        # split on ' and ' / ';' only: names already written surname-first
+        # ("Jordano, P.") carry their own comma, which a ',' split would break
+        names = [n for n in re.split(r'\s+and\s+|;\s*', names) if n.strip()]
+    formatted = []
+    for n in names or []:
+        n = (n or '').strip()
+        if not n:
+            continue
+        # already "Surname, I." — leave it alone
+        formatted.append(n if ',' in n or style != 'surname-first' else surname_first(n))
+    if not formatted:
+        return ''
+    if len(formatted) == 1:
+        return formatted[0]
+    return ', '.join(formatted[:-1]) + ' and ' + formatted[-1]
+
+
+def bibtex_entry_type(work_type, venue=''):
+    """Map an OpenAlex/Crossref record type to a BibTeX entry type."""
+    t = (work_type or '').lower()
+    v = (venue or '').lower()
+    if (t in ('posted-content', 'preprint', 'posted_content')
+            or 'crimrxiv' in v or 'arxiv' in v or 'preprint' in v
+            or 'biorxiv' in v or 'ecoevorxiv' in v):
+        return 'misc'
+    if t in ('book-chapter', 'book_chapter', 'chapter', 'book-part', 'book-section'):
+        return 'incollection'
+    if t in ('book', 'monograph', 'edited-book', 'reference-book', 'edited_book'):
+        return 'book'
+    return 'article'
+
+
+def format_full_reference(entry_type='article', authors='', year='', title='',
+                          journal='', volume='', pages='', booktitle='',
+                          editors='', publisher='', place='', doi='', url='',
+                          note=''):
+    """One rendered reference line (Pandoc markdown) for a paper page.
+
+    Shape follows the entry type, so the block on the page carries the same
+    information as the BibTeX record it was built from:
+
+      article      Authors YEAR. Title. *Journal* Vol: pages. <doi>
+      incollection Authors YEAR. Title. In: Eds (eds.) *Book title*,
+                   pp. pages. Publisher, Place. <doi>
+      book         Authors YEAR. *Title*. Publisher, Place. <doi>
+      misc         Authors YEAR. Title. *Venue*. <doi>     (preprints)
+    """
+    authors = format_name_list(authors)
+    year = str(year or '').strip()
+    title = (title or '').strip().rstrip('.')
+    volume = str(volume or '').strip()
+    pages = str(pages or '').strip()
+    pages = re.sub(r'\s*(?:--|-|\u2010|\u2012|\u2014)\s*', '\u2013', pages)
+
+    bits = []
+    if authors:
+        # kept verbatim: the trailing initial's period is part of the name
+        # ("Jordano, P. 2000. ...")
+        bits.append(authors)
+    if year:
+        bits.append(f"{year}.")
+
+    if entry_type == 'book':
+        if title:
+            bits.append(f"*{title}*.")
+        imprint = ', '.join(p for p in (publisher, place) if p)
+        if imprint:
+            bits.append(imprint.rstrip('.') + '.')
+        if booktitle and booktitle.strip().lower() != title.lower():
+            bits.append(f"*{booktitle.strip().rstrip('.')}*.")
+    elif entry_type == 'incollection':
+        if title:
+            bits.append(f"{title}.")
+        host = []
+        ed_names = ([e for e in editors if str(e).strip()]
+                    if isinstance(editors, (list, tuple))
+                    else [e for e in re.split(r'\s+and\s+|;\s*', editors or '') if e.strip()])
+        eds = format_name_list(editors)
+        if eds:
+            host.append(f"In: {eds} ({'eds.' if len(ed_names) > 1 else 'ed.'})")
+        elif booktitle:
+            host.append('In:')
+        if booktitle:
+            host.append(f"*{booktitle.strip().rstrip('.')}*")
+        if host:
+            tail = ' '.join(host)
+            bits.append(tail + (f", pp. {pages}." if pages else '.'))
+        elif pages:
+            bits.append(f"pp. {pages}.")
+        imprint = ', '.join(p for p in (publisher, place) if p)
+        if imprint:
+            bits.append(imprint.rstrip('.') + '.')
+    else:
+        if title:
+            bits.append(f"{title}.")
+        tail = []
+        venue = journal or booktitle
+        if venue:
+            tail.append(f"*{venue.strip().rstrip(' :.')}*")
+        if volume and pages:
+            tail.append(f"{volume}: {pages}")
+        elif volume:
+            tail.append(volume)
+        elif pages:
+            tail.append(pages)
+        if tail:
+            bits.append(' '.join(tail) + '.')
+
+    if note:
+        bits.append(note.rstrip('.') + '.')
+    link = url or (f"https://doi.org/{doi}" if doi else '')
+    if link:
+        bits.append(f"<{link}>")
+    return ' '.join(b for b in bits if b).strip()
 
 
 class OpenAlexArticleSync:
@@ -257,6 +469,46 @@ class OpenAlexArticleSync:
         work = response.json()
         return self._parse_works([work])[0]
 
+    # ── Crossref supplement ───────────────────────────────────────────────
+    # OpenAlex carries no ISBN, no editors, no publisher place, and its
+    # `abstract_inverted_index` is empty for many older records. Crossref has
+    # all four for the same DOI, so book/chapter records — and any record
+    # missing an abstract or pagination — are topped up from there.
+    CROSSREF_API = "https://api.crossref.org/works"
+
+    def _crossref(self, doi):
+        """Crossref `message` for a DOI, or {} (cached per run)."""
+        doi = self._norm_doi(doi)
+        if not doi:
+            return {}
+        if not hasattr(self, '_crossref_cache'):
+            self._crossref_cache = {}
+        if doi in self._crossref_cache:
+            return self._crossref_cache[doi]
+        msg = {}
+        try:
+            params = {'mailto': self.mailto} if self.mailto else {}
+            r = requests.get(f"{self.CROSSREF_API}/{doi}", params=params, timeout=30)
+            if r.ok:
+                msg = r.json().get('message') or {}
+        except (requests.exceptions.RequestException, ValueError) as exc:
+            print(f"  ! Crossref lookup failed for {doi}: {exc}")
+        self._crossref_cache[doi] = msg
+        time.sleep(0.1)          # stay polite on a few hundred lookups
+        return msg
+
+    @staticmethod
+    def _crossref_names(entries):
+        """['Fenner, M.', ...] from Crossref author/editor objects."""
+        names = []
+        for person in entries or []:
+            family = (person.get('family') or person.get('name') or '').strip()
+            given = (person.get('given') or '').strip()
+            if not family:
+                continue
+            names.append(f"{family}, {name_initials(given)}" if given else family)
+        return names
+
     def _load_exclusions(self, path="_exclude_works.yml"):
         """OpenAlex work IDs (e.g. W2148371894) to drop, if the file exists.
 
@@ -364,6 +616,53 @@ class OpenAlexArticleSync:
             first_page = biblio.get('first_page') or ''
             last_page = biblio.get('last_page') or ''
 
+            entry_type = bibtex_entry_type(work_type=work.get('type', ''), venue=venue)
+            abstract = clean_abstract(
+                reconstruct_abstract(work.get('abstract_inverted_index')))
+
+            # A chapter's `source` is the platform or series ("CABI Publishing
+            # eBooks"); `raw_source_name` holds the actual volume title.
+            raw_source = (work.get('primary_location') or {}).get('raw_source_name') or ''
+            booktitle = raw_source if entry_type in ('incollection', 'book') else ''
+            editors, place, isbn = [], '', ''
+
+            needs_crossref = (
+                entry_type in ('incollection', 'book')
+                or not abstract
+                or (entry_type == 'article' and not (volume and (first_page or last_page)))
+            )
+            if needs_crossref and doi_url:
+                msg = self._crossref(doi_url)
+                if msg:
+                    containers = [c for c in (msg.get('container-title') or []) if c]
+                    if entry_type in ('incollection', 'book') and containers:
+                        # Elsevier-style chapters list the series first and the
+                        # volume title second; the volume title is the booktitle.
+                        booktitle = containers[-1]
+                    editors = self._crossref_names(msg.get('editor'))
+                    place = (msg.get('publisher-location') or '').strip()
+                    cr_publisher = (msg.get('publisher') or '').strip()
+                    if entry_type in ('incollection', 'book') and cr_publisher:
+                        # the imprint as the book carries it ("Elsevier") reads
+                        # better in a reference than OpenAlex's corporate name
+                        # for the same host organisation ("Elsevier BV")
+                        publisher = cr_publisher
+                    else:
+                        publisher = publisher or cr_publisher
+                    isbns = [i for i in (msg.get('ISBN') or []) if i]
+                    isbn = isbns[0] if isbns else ''
+                    if not abstract:
+                        abstract = clean_abstract(msg.get('abstract'))
+                    if not volume:
+                        volume = (msg.get('volume') or '').strip()
+                    if not (first_page or last_page):
+                        cr_pages = (msg.get('page') or '').strip()
+                        if cr_pages:
+                            halves = re.split(r'\s*[-\u2010\u2012\u2013\u2014]+\s*',
+                                              cr_pages, maxsplit=1)
+                            first_page = halves[0]
+                            last_page = halves[1] if len(halves) > 1 else ''
+
             article = {
                 'title': title,
                 'author': author_str_trunc,
@@ -387,7 +686,29 @@ class OpenAlexArticleSync:
                 'last_page': last_page,
                 'pages': format_page_range(first_page, last_page),
                 'volume_pages': format_volume_pages(volume, first_page, last_page),
+                'entry_type': entry_type,
+                'abstract': abstract,
+                'booktitle': booktitle,
+                'editors': editors,
+                'place': place,
+                'isbn': isbn,
             }
+            article['full_reference'] = format_full_reference(
+                entry_type=entry_type,
+                authors=all_authors,
+                year=article['year'],
+                title=title,
+                journal=venue if entry_type in ('article', 'misc') else '',
+                volume=volume,
+                pages=article['pages'],
+                booktitle=booktitle,
+                editors=editors,
+                publisher=publisher,
+                place=place,
+                doi=article['doi'],
+                url=doi_url,
+                note='Preprint' if entry_type == 'misc' else '',
+            )
 
             articles.append(article)
 
@@ -448,52 +769,87 @@ class OpenAlexArticleSync:
         abbr = ''.join(w[0].upper() for w in words if w.lower().rstrip(':') not in skip and w.replace(':', '').isalpha())
         return abbr if abbr else journal[:6]
 
-    def create_bibtex_entry(self, article):
-        """Convert a parsed article dict to a BibTeX entry string"""
-        work_type = article.get('work_type', '').lower()
+    def create_bibtex_entry(self, article, include_abstract=True):
+        """Convert a parsed article dict to a complete BibTeX entry string.
+
+        The field set follows the entry type, so every record carries what a
+        reference list needs without a manual top-up:
+
+          @article      author, year, title, journal, volume, number, pages,
+                        abstract, doi, url
+          @incollection author, year, title, booktitle, editor, pages,
+                        publisher, address, isbn, abstract, doi/url
+          @book         author, year, title, booktitle (series, when it
+                        differs), publisher, address, isbn, abstract, doi/url
+          @misc         preprints: author, year, title, venue as `note`,
+                        abstract, doi/url
+
+        Absent values are omitted rather than written empty, so a missing
+        volume or ISBN never leaves a stray `volume = {}` behind.
+        """
         venue = article.get('publication_venue', '')
-        venue_lower = venue.lower()
-
-        is_preprint = (
-            work_type in ('posted-content', 'preprint') or
-            'crimrxiv' in venue_lower or
-            'arxiv' in venue_lower or
-            'preprint' in venue_lower
-        )
-
-        entry_type = 'misc' if is_preprint else 'article'
+        entry_type = article.get('entry_type') or bibtex_entry_type(
+            article.get('work_type', ''), venue)
         citekey = self._make_citekey(article)
 
         author_bibtex = self._convert_authors_to_bibtex(article.get('all_authors', []))
+        editor_bibtex = ' and '.join(article.get('editors') or [])
         title_escaped = self._escape_bibtex(article.get('title', ''))
+        booktitle = self._escape_bibtex(article.get('booktitle', '') or '')
         year = article.get('year', '')
         doi = article.get('doi', '')
         doi_url = article.get('doi_url', '') or (f"https://doi.org/{doi}" if doi else '')
         pdf_url = article.get('pdf_url', '')
-        abbr = self._journal_abbr(venue) if venue else ''
+        # `abbr` is a journal shorthand, so it is written for journal articles
+        # and preprints only — not for a book's publishing platform.
+        abbr = (self._journal_abbr(venue)
+                if venue and entry_type in ('article', 'misc') else '')
+        pages = article.get('pages', '') or format_page_range(
+            article.get('first_page'), article.get('last_page'))
+        # BibTeX writes ranges with a double hyphen
+        pages = re.sub(r'\s*[\u2010\u2012\u2013\u2014-]+\s*', '--', str(pages or ''))
+        publisher = self._escape_bibtex(article.get('publisher', '') or '')
+        place = self._escape_bibtex(article.get('place', '') or '')
+        abstract = self._escape_bibtex(clean_abstract(article.get('abstract', '')))
+
+        def put(fields, name, value):
+            if value not in (None, '', []):
+                fields.append(f"  {name:<9} = {{{value}}}")
 
         fields = []
-        fields.append(f"  title     = {{{title_escaped}}}")
-        fields.append(f"  author    = {{{author_bibtex}}}")
+        put(fields, 'title', title_escaped)
+        put(fields, 'author', author_bibtex)
 
         if entry_type == 'article':
-            venue_escaped = self._escape_bibtex(venue)
-            fields.append(f"  journal   = {{{venue_escaped}}}")
+            put(fields, 'journal', self._escape_bibtex(venue))
+        elif entry_type == 'incollection':
+            put(fields, 'booktitle', booktitle or self._escape_bibtex(venue))
+            put(fields, 'editor', editor_bibtex)
+        elif entry_type == 'book':
+            put(fields, 'editor', editor_bibtex)
+            # a monograph in a series keeps the series title as booktitle
+            if booktitle and booktitle.strip().lower() != title_escaped.strip().lower():
+                put(fields, 'booktitle', booktitle)
         else:
-            fields.append(f"  note      = {{Preprint}}")
+            put(fields, 'note', f"Preprint: {venue}" if venue else 'Preprint')
 
-        fields.append(f"  year      = {{{year}}}")
-
-        if doi:
-            fields.append(f"  doi       = {{{doi}}}")
-        if doi_url:
-            fields.append(f"  url       = {{{doi_url}}}")
-        if pdf_url:
-            fields.append(f"  pdf       = {{{pdf_url}}}")
-        if abbr:
-            fields.append(f"  abbr      = {{{abbr}}}")
-
-        fields.append(f"  selected  = {{false}}")
+        put(fields, 'year', year)
+        if entry_type == 'article':
+            put(fields, 'volume', article.get('volume', ''))
+            put(fields, 'number', article.get('issue', ''))
+        if entry_type in ('article', 'incollection'):
+            put(fields, 'pages', pages)
+        if entry_type in ('incollection', 'book'):
+            put(fields, 'publisher', publisher)
+            put(fields, 'address', place)
+            put(fields, 'isbn', article.get('isbn', ''))
+        if include_abstract:
+            put(fields, 'abstract', abstract)
+        put(fields, 'doi', doi)
+        put(fields, 'url', doi_url)
+        put(fields, 'pdf', pdf_url)
+        put(fields, 'abbr', abbr)
+        fields.append("  selected  = {false}")
 
         fields_str = ',\n'.join(fields)
         return f"@{entry_type}{{{citekey},\n{fields_str}\n}}"
@@ -575,14 +931,9 @@ class OpenAlexArticleSync:
 
     def _is_preprint(self, article):
         """Return True if the work is a preprint / working paper (e.g. CrimRxiv)."""
-        work_type = article.get('work_type', '').lower()
-        venue = article.get('publication_venue', '').lower()
-        return (
-            work_type in ('posted-content', 'preprint') or
-            'crimrxiv' in venue or
-            'arxiv' in venue or
-            'preprint' in venue
-        )
+        entry_type = article.get('entry_type') or bibtex_entry_type(
+            article.get('work_type', ''), article.get('publication_venue', ''))
+        return entry_type == 'misc'
 
     def _make_slug(self, title, max_len=80):
         """Generate a URL-safe directory slug from a title (matches existing convention)."""
@@ -608,7 +959,7 @@ class OpenAlexArticleSync:
         the parent paper's page via data/paper_links.yml, so listing them
         separately in research.qmd would duplicate the same work.
         """
-        if (article.get('type') or '').lower() in self.DEPOSIT_TYPES:
+        if (article.get('work_type') or article.get('type') or '').lower() in self.DEPOSIT_TYPES:
             return True
         return self._norm_doi(article.get('doi')).startswith(self.DEPOSIT_DOI_PREFIXES)
 
@@ -663,9 +1014,52 @@ class OpenAlexArticleSync:
             article.get('volume'), article.get('first_page'), article.get('last_page'))
         if vol_pages:
             lines.append(f'volume-pages: "{vol_pages}"')
+        # Book / chapter fields: the host volume, its editors and imprint, plus
+        # the ISBN. They carry the same values as the BibTeX record, so the
+        # rendered reference below can be rebuilt from the page alone (that is
+        # what _tools/add-volume-pages.py does on a backfill run).
+        entry_type = article.get('entry_type') or bibtex_entry_type(
+            article.get('work_type', ''), venue)
+        all_authors = article.get('all_authors') or []
+        authors_full = format_name_list(all_authors) if all_authors else author
+        editors = article.get('editors') or []
+        if entry_type != 'article':
+            lines.append(f'pub-type: "{entry_type}"')
+        if authors_full:
+            lines.append(f'authors-full: "{self._yaml_escape(authors_full)}"')
+        for key, value in (('booktitle', article.get('booktitle')),
+                           ('editors', ' and '.join(editors)),
+                           ('publisher', article.get('publisher')),
+                           ('place', article.get('place')),
+                           ('isbn', article.get('isbn'))):
+            if value:
+                lines.append(f'{key}: "{self._yaml_escape(str(value))}"')
         if doi:
             lines += [f'doi: {doi}', f'citation-url: {doi_url}']
         lines += ['format:', '  html:', '    toc: true', '---', '']
+
+        # The rendered reference, between sentinels so a backfill run replaces
+        # it instead of stacking a second copy. Styling: .full-reference in
+        # html/pedroj.scss.
+        full_ref = article.get('full_reference') or format_full_reference(
+            entry_type=entry_type,
+            authors=all_authors or author,
+            year=year,
+            title=title,
+            journal=venue if entry_type in ('article', 'misc') else '',
+            volume=article.get('volume'),
+            pages=article.get('pages') or format_page_range(
+                article.get('first_page'), article.get('last_page')),
+            booktitle=article.get('booktitle'),
+            editors=editors,
+            publisher=article.get('publisher'),
+            place=article.get('place'),
+            doi=doi,
+            url=doi_url,
+            note='Preprint' if entry_type == 'misc' else '',
+        )
+        if full_ref:
+            lines += [REF_START, '::: {.full-reference}', full_ref, ':::', REF_END, '']
 
         if is_preprint:
             lines += [
@@ -676,10 +1070,22 @@ class OpenAlexArticleSync:
                 '',
             ]
 
+        # Venue and open-access status share one line: two short fields read
+        # better side by side than as two stacked paragraphs.
+        # For a chapter the useful "where" is the host volume, not the
+        # publishing platform OpenAlex records as the source ("CABI Publishing
+        # eBooks"); for a book it is the imprint.
+        venue_display = venue
+        if entry_type == 'incollection' and article.get('booktitle'):
+            venue_display = article['booktitle']
+        elif entry_type == 'book' and article.get('publisher'):
+            venue_display = article['publisher']
+        venue_line = f'**Published in:** {venue_display}' if venue_display else ''
+        oa_line = f"**Open Access:** {'Yes' if is_oa else 'No'}"
         lines += [
             '## Publication Details',
             '',
-            f'**Published in:** {venue}',
+            f'{venue_line}{FIELD_GAP}{oa_line}' if venue_line else oa_line,
             '',
         ]
         # The badges carry the citation count themselves (Dimensions) plus the
@@ -688,9 +1094,6 @@ class OpenAlexArticleSync:
         # Papers with no DOI get no badges, so they keep the plain count.
         badges = badge_block(doi)
         lines.append(badges if badges else f'**Citations:** {citations}')
-
-        if is_oa:
-            lines += ['', '**Open Access:** Yes']
 
         # Links are emitted as a .paper-links div with per-link classes; the
         # grey button styling lives in html/pedroj.scss. The DOI link carries
@@ -721,8 +1124,20 @@ class OpenAlexArticleSync:
             lines += ['', '## Links', '', '::: {.paper-links}',
                       *link_parts, ':::']
 
+        # The page's own BibTeX record, built from the same fields as the entry
+        # in _bibliography/papers.bib. The abstract is left out here only: it
+        # belongs in the .bib file, but would swamp the code block on the page.
+        bib_entry = self.create_bibtex_entry(article, include_abstract=False)
+        if bib_entry:
+            lines += ['', '## BibTeX', '', '```bibtex', bib_entry, '```']
+
         lines.append('')
         return '\n'.join(lines)
+
+    @staticmethod
+    def _yaml_escape(value):
+        """Escape a scalar for a double-quoted YAML front-matter value."""
+        return str(value).replace('\\', '\\\\').replace('"', '\\"')
 
     def save_article_pages(self, articles):
         """Write individual index.qmd files for every article.

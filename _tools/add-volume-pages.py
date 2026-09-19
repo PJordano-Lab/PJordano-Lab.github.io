@@ -73,30 +73,32 @@ def apply(text, key, value):
     return text
 
 
-def full_reference(fm, fmt):
-    """'Authors YEAR. Title. Journal Vol: pages. doi' from front-matter values.
+def full_reference(fm, build):
+    """Rendered reference from a page's own front-matter values.
 
-    Mirrors what the listing table shows, so a reader landing on the page sees
-    the same reference the table row summarises.
+    Formatting is `format_full_reference` in open-alex.py, so a backfill run
+    and an OpenAlex sync produce byte-identical blocks. `authors-full` (every
+    author, surname-first) is preferred over the truncated `authors` field
+    that the title block shows; book and chapter pages additionally carry
+    booktitle / editors / publisher / place.
     """
-    bits = []
-    if fm.get("authors"):
-        bits.append(fm["authors"].rstrip("."))
-    if fm.get("year"):
-        bits.append(f"{fm['year']}.")
-    if fm.get("title"):
-        bits.append(fm["title"].rstrip(".") + ".")
-    tail = []
-    if fm.get("pub-journal"):
-        tail.append(f"*{fm['pub-journal']}*")
-    vp = fmt(fm.get("volume"), pages=fm.get("pages"))
-    if vp:
-        tail.append(vp.replace("Vol. ", "").replace("pp. ", ""))
-    if tail:
-        bits.append(" ".join(tail).strip() + ".")
-    if fm.get("doi"):
-        bits.append(f"<https://doi.org/{fm['doi']}>")
-    return " ".join(bits)
+    entry_type = fm.get("pub-type") or "article"
+    return build(
+        entry_type=entry_type,
+        authors=fm.get("authors-full") or fm.get("authors", ""),
+        year=fm.get("year") or (fm.get("date") or "")[:4],
+        title=fm.get("title", ""),
+        journal=fm.get("pub-journal", "") if entry_type in ("article", "misc") else "",
+        volume=fm.get("volume", ""),
+        pages=fm.get("pages", ""),
+        booktitle=fm.get("booktitle", ""),
+        editors=fm.get("editors", ""),
+        publisher=fm.get("publisher", ""),
+        place=fm.get("place", ""),
+        doi=fm.get("doi", ""),
+        url=fm.get("citation-url", ""),
+        note="Preprint" if entry_type == "misc" else "",
+    )
 
 
 def read_front_matter(text):
@@ -139,6 +141,7 @@ def main():
 
     fmt = load_formatter()
     detail_fmt = load_formatter("format_citation_detail")
+    ref_fmt = load_formatter("format_full_reference")
     counts = {"year": 0, "volume": 0, "pages": 0, "reference": 0, "detail": 0}
     no_bib = 0
     samples = []
@@ -185,7 +188,7 @@ def main():
             # second rendered reference
             if not args.no_reference and "## Full citation" not in new:
                 fm = read_front_matter(new)
-                ref = full_reference(fm, fmt)
+                ref = full_reference(fm, ref_fmt)
                 if ref and fm.get("title"):
                     new = apply_reference(new, ref)
                     counts["reference"] += 1

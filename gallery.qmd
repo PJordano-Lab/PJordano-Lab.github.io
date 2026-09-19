@@ -1,6 +1,6 @@
 ---
 title: "Gallery"
-# author: Pedro Jordano
+author: Pedro Jordano
 description: "Photographs of study systems, field sites, and network figures."
 title-block-banner: "#1a1c20"
 hand-edited: true
