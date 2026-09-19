@@ -126,6 +126,6 @@ build Star Wars droids and anything related, NASA spacecrafts, and robots.
 E.g., this one below is my version of the [**NASA Mars Rover 2020 Perseverance,
 Scale 1:10 with Ingenuity
 copter**](https://rebrickable.com/mocs/MOC-81801/PedroJ/nasa-mars-rover-2020-perseverance-scale-110-with-ingenuity-copter/#details "NASA Mars Rover 2020 Perseverance")**.**
-:::
 
 ![](static/images/ongfigs/mars-rover.png){fig-align="center"}
+:::
