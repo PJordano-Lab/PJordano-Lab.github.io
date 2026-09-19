@@ -23,7 +23,7 @@ Pedro Jordano 1991. Gender Variation and Expression of Monoecy in Juniperus phoe
 
 ## Publication Details
 
-**Published in:** Botanical Gazette
+**Published in:** Botanical Gazette&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -35,8 +35,6 @@ Pedro Jordano 1991. Gender Variation and Expression of Monoecy in Juniperus phoe
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

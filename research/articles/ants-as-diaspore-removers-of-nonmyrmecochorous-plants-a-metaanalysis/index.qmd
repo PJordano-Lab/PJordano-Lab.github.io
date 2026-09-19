@@ -20,7 +20,7 @@ Diego V. Anjos, Laura C. Leal, Pedro Jordano et al 2020. Ants as diaspore remove
 
 ## Publication Details
 
-**Published in:** Oikos
+**Published in:** Oikos&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

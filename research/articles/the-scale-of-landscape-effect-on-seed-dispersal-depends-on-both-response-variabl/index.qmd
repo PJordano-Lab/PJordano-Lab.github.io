@@ -23,7 +23,7 @@ Miriam San‐José, Víctor Arroyo‐Rodríguez, Pedro Jordano et al 2019. The s
 
 ## Publication Details
 
-**Published in:** Landscape Ecology
+**Published in:** Landscape Ecology&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

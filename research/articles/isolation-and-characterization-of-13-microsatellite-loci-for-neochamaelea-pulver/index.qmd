@@ -23,7 +23,7 @@ Cristina Rigueiro, Juan Arroyo, Alfredo Valido et al 2009. Isolation and charact
 
 ## Publication Details
 
-**Published in:** Molecular Ecology Resources
+**Published in:** Molecular Ecology Resources&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

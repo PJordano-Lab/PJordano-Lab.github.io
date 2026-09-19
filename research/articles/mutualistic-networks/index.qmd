@@ -22,7 +22,7 @@ Jordi Bascompte, Pedro Jordano 2014. Mutualistic Networks. *Princeton University
 
 ## Publication Details
 
-**Published in:** Princeton University Press eBooks
+**Published in:** Princeton University Press eBooks&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

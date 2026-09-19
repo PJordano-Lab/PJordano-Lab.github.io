@@ -23,7 +23,7 @@ José M. Gómez, Francisco Perfectti, Pedro Jordano 2011. The Functional Consequ
 
 ## Publication Details
 
-**Published in:** PLoS ONE
+**Published in:** PLoS ONE&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -35,8 +35,6 @@ José M. Gómez, Francisco Perfectti, Pedro Jordano 2011. The Functional Consequ
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

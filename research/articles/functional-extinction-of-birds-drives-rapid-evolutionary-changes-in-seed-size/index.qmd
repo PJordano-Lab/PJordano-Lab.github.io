@@ -23,7 +23,7 @@ Mauro Galetti, Roger Guevara, Marina Corrêa Côrtes et al 2013. Functional Exti
 
 ## Publication Details
 
-**Published in:** Science
+**Published in:** Science&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

@@ -23,7 +23,7 @@ María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido 2015. Hotspots 
 
 ## Publication Details
 
-**Published in:** Ecology
+**Published in:** Ecology&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

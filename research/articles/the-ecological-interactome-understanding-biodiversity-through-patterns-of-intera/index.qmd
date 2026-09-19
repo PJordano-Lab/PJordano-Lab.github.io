@@ -23,7 +23,7 @@ Pedro Jordano 2026. The Ecological Interactome: Understanding Biodiversity Throu
 
 ## Publication Details
 
-**Published in:** Annual Review of Ecology Evolution and Systematics
+**Published in:** Annual Review of Ecology Evolution and Systematics&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

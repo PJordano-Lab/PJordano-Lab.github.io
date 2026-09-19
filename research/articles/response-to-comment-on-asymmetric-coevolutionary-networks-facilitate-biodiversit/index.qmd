@@ -23,7 +23,7 @@ Jordi Bascompte, Pedro Jordano, Jens M. Olesen 2006. Response to Comment on "Asy
 
 ## Publication Details
 
-**Published in:** Science
+**Published in:** Science&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

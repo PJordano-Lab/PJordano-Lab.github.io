@@ -25,7 +25,7 @@ the National Academy of Sciences*. <https://doi.org/10.1073/pnas.0606793104>
 
 ## Publication Details
 
-**Published in:** Proceedings of the National Academy of Sciences
+**Published in:** Proceedings of the National Academy of Sciences&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -37,8 +37,6 @@ the National Academy of Sciences*. <https://doi.org/10.1073/pnas.0606793104>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

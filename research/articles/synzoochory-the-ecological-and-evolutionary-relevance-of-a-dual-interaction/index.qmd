@@ -23,7 +23,7 @@ José M. Gómez, Eugene W. Schupp, Pedro Jordano 2019. Synzoochory: the ecologic
 
 ## Publication Details
 
-**Published in:** Biological reviews/Biological reviews of the Cambridge Philosophical Society
+**Published in:** Biological reviews/Biological reviews of the Cambridge Philosophical Society&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

@@ -20,7 +20,7 @@ Roberth Fagundes, Wesley Dáttilo, Sérvio Pontes Ribeiro et al 2017. Difference
 
 ## Publication Details
 
-**Published in:** Biological Journal of the Linnean Society
+**Published in:** Biological Journal of the Linnean Society&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

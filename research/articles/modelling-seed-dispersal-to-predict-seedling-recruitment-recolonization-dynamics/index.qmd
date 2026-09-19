@@ -23,7 +23,7 @@ Fabrice Sagnard, Christian Pichot, Philippe Dreyfus et al 2007. Modelling seed d
 
 ## Publication Details
 
-**Published in:** Ecological Modelling
+**Published in:** Ecological Modelling&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

@@ -23,7 +23,7 @@ Pedro Jordano 1989. Pre-Dispersal Biology of Pistacia lentiscus (Anacardiaceae):
 
 ## Publication Details
 
-**Published in:** Oikos
+**Published in:** Oikos&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

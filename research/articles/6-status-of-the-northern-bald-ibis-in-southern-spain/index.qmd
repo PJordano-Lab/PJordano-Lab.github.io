@@ -20,7 +20,7 @@ Pedro Jordano 2013. 6. Status of the Northern Bald Ibis in southern Spain. *Orni
 
 ## Publication Details
 
-**Published in:** Ornithological Notes
+**Published in:** Ornithological Notes&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

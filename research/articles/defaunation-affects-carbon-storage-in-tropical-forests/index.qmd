@@ -23,7 +23,7 @@ Carolina Bello, Mauro Galetti, Marco Aurélio Pizo et al 2015. Defaunation affec
 
 ## Publication Details
 
-**Published in:** Science Advances
+**Published in:** Science Advances&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -35,8 +35,6 @@ Carolina Bello, Mauro Galetti, Marco Aurélio Pizo et al 2015. Defaunation affec
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

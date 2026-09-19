@@ -23,7 +23,7 @@ Tad Dallas, Pedro Jordano 2021. Species-area and network-area relationships in h
 
 ## Publication Details
 
-**Published in:** Proceedings of the Royal Society B Biological Sciences
+**Published in:** Proceedings of the Royal Society B Biological Sciences&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -35,8 +35,6 @@ Tad Dallas, Pedro Jordano 2021. Species-area and network-area relationships in h
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

@@ -23,7 +23,7 @@ Cristina Rigueiro, Juan Arroyo, Rocío Rodríguez‐Arcos et al 2009. Isolation 
 
 ## Publication Details
 
-**Published in:** Molecular Ecology Resources
+**Published in:** Molecular Ecology Resources&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -35,8 +35,6 @@ Cristina Rigueiro, Juan Arroyo, Rocío Rodríguez‐Arcos et al 2009. Isolation 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

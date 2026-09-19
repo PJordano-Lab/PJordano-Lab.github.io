@@ -23,7 +23,7 @@ Rafael Villar, Erik J. Veneklaas, Pedro Jordano et al 1998. Relative growth rate
 
 ## Publication Details
 
-**Published in:** New Phytologist
+**Published in:** New Phytologist&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -35,8 +35,6 @@ Rafael Villar, Erik J. Veneklaas, Pedro Jordano et al 1998. Relative growth rate
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

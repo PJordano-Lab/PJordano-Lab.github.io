@@ -23,7 +23,7 @@ D. Matthias Dehling, Till Töpfer, H. Martin Schaefer et al 2014. Functional rel
 
 ## Publication Details
 
-**Published in:** Global Ecology and Biogeography
+**Published in:** Global Ecology and Biogeography&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

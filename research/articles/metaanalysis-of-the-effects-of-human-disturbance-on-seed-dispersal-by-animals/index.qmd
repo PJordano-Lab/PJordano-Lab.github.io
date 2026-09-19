@@ -23,7 +23,7 @@ Julia S. Markl, Matthias Schleuning, Pierre‐Michel Forget et al 2012. Meta‐A
 
 ## Publication Details
 
-**Published in:** Conservation Biology
+**Published in:** Conservation Biology&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

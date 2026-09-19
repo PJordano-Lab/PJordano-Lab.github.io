@@ -23,7 +23,7 @@ Paulo R. Guimarães, Mathias M. Pires, Pedro Jordano et al 2017. Indirect effect
 
 ## Publication Details
 
-**Published in:** Nature
+**Published in:** Nature&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

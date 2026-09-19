@@ -23,7 +23,7 @@ Miguel E. Jácome‐Flores, Pedro Jordano, Miguel Delibes et al 2020. Interactio
 
 ## Publication Details
 
-**Published in:** Oikos
+**Published in:** Oikos&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

@@ -23,7 +23,7 @@ Julien P. Renoult, Alfredo Valido, Pedro Jordano et al 2013. Adaptation of flowe
 
 ## Publication Details
 
-**Published in:** New Phytologist
+**Published in:** New Phytologist&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

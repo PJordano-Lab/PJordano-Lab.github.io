@@ -22,7 +22,7 @@ Pedro Jordano, José A. Godoy 2002. Frugivore-generated seed shadows: a landscap
 
 ## Publication Details
 
-**Published in:** CABI Publishing eBooks
+**Published in:** CABI Publishing eBooks&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

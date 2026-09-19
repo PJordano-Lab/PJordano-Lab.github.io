@@ -22,7 +22,7 @@ Juan Arroyo, Marcial Escudero, Pedro Jordano 2016. Isolation of 91 polymorphic m
 
 ## Publication Details
 
-**Published in:** Applications in Plant Sciences
+**Published in:** Applications in Plant Sciences&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -34,8 +34,6 @@ Juan Arroyo, Marcial Escudero, Pedro Jordano 2016. Isolation of 91 polymorphic m
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

@@ -20,7 +20,7 @@ Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al 2024. Author res
 
 ## Publication Details
 
-**Published in:** 
+**Published in:**&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

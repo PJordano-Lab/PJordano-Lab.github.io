@@ -23,7 +23,7 @@ M. Florencia Miguel, Pedro Jordano, Laura A. Burkle et al 2026. Species loss alt
 
 ## Publication Details
 
-**Published in:** Journal of Animal Ecology
+**Published in:** Journal of Animal Ecology&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

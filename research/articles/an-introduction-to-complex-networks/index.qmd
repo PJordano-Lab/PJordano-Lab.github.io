@@ -20,7 +20,7 @@ Jordi Bascompte, Pedro Jordano 2013. An Introduction to Complex Networks. *Princ
 
 ## Publication Details
 
-**Published in:** Princeton University Press eBooks
+**Published in:** Princeton University Press eBooks&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

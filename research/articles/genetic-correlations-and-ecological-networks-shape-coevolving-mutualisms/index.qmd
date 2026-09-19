@@ -23,7 +23,7 @@ Ana Paula A. Assis, John N. Thompson, Pamela Cristina Santana et al 2020. Geneti
 
 ## Publication Details
 
-**Published in:** Ecology Letters
+**Published in:** Ecology Letters&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

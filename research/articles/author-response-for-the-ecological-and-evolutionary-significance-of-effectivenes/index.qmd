@@ -20,7 +20,7 @@ José M. Gómez, Eugene W. Schupp, Pedro Jordano 2021. Author response for "The 
 
 ## Publication Details
 
-**Published in:** 
+**Published in:**&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -32,8 +32,6 @@ José M. Gómez, Eugene W. Schupp, Pedro Jordano 2021. Author response for "The 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

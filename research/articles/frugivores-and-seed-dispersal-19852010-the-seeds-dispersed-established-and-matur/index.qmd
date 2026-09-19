@@ -23,7 +23,7 @@ Pierre‐Michel Forget, Pedro Jordano, Joanna E. Lambert et al 2011. Frugivores 
 
 ## Publication Details
 
-**Published in:** Acta Oecologica
+**Published in:** Acta Oecologica&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

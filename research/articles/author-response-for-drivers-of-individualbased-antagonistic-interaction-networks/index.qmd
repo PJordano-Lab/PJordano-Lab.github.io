@@ -20,7 +20,7 @@ Jorge Isla, Miguel E. Jácome‐Flores, Daniel Pareja et al 2022. Author respons
 
 ## Publication Details
 
-**Published in:** 
+**Published in:**&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

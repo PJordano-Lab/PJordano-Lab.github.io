@@ -23,7 +23,7 @@ Jofre Carnicer, Peter A. Abrams, Pedro Jordano 2008. Switching behavior, coexist
 
 ## Publication Details
 
-**Published in:** Ecology Letters
+**Published in:** Ecology Letters&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -35,8 +35,6 @@ Jofre Carnicer, Peter A. Abrams, Pedro Jordano 2008. Switching behavior, coexist
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

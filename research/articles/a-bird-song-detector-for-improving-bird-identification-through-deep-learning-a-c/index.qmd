@@ -23,7 +23,7 @@ Alba Márquez‐Rodríguez, Miguel A. Mohedano-Muñoz, Manuel J. Marín‐Jimén
 
 ## Publication Details
 
-**Published in:** Ecological Informatics
+**Published in:** Ecological Informatics&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -35,8 +35,6 @@ Alba Márquez‐Rodríguez, Miguel A. Mohedano-Muñoz, Manuel J. Marín‐Jimén
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

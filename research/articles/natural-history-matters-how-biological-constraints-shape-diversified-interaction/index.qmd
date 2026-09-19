@@ -23,7 +23,7 @@ Pedro Jordano 2016. Natural history matters: how biological constraints shape di
 
 ## Publication Details
 
-**Published in:** Journal of Animal Ecology
+**Published in:** Journal of Animal Ecology&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -35,8 +35,6 @@ Pedro Jordano 2016. Natural history matters: how biological constraints shape di
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

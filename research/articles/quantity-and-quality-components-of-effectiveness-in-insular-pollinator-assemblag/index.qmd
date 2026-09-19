@@ -23,7 +23,7 @@ María C. Rodríguez‐Rodríguez, Pedro Jordano, Alfredo Valido 2013. Quantity 
 
 ## Publication Details
 
-**Published in:** Oecologia
+**Published in:** Oecologia&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

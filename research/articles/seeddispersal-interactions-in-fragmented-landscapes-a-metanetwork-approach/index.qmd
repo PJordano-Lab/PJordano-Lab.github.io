@@ -23,7 +23,7 @@ Carine Emer, Mauro Galetti, Marco Aurélio Pizo et al 2018. Seed‐dispersal int
 
 ## Publication Details
 
-**Published in:** Ecology Letters
+**Published in:** Ecology Letters&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

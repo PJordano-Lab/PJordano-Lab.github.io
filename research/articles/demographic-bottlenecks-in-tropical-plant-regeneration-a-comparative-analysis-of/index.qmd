@@ -23,7 +23,7 @@ Débora Cristina Rother, Pedro Jordano, Ricardo Ribeiro Rodrigues et al 2013. De
 
 ## Publication Details
 
-**Published in:** Perspectives in Plant Ecology Evolution and Systematics
+**Published in:** Perspectives in Plant Ecology Evolution and Systematics&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

@@ -23,7 +23,7 @@ Cristina García, Pedro Jordano, Juan Arroyo et al 2009. Maternal genetic correl
 
 ## Publication Details
 
-**Published in:** Journal of Ecology
+**Published in:** Journal of Ecology&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

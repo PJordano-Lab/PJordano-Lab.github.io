@@ -20,7 +20,7 @@ Fernando González‐García, J. Roberto Sosa‐López, Juan Francisco Ornelas e
 
 ## Publication Details
 
-**Published in:** Bioacoustics
+**Published in:** Bioacoustics&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

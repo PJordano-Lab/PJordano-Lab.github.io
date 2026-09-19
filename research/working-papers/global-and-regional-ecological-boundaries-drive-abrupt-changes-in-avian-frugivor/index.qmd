@@ -13,6 +13,7 @@ format:
 ---
 
 <!-- full-citation:start -->
+
 ## Full citation
 
 Martins, L. P., Stouffer, D. B., Blendinger, P. G., Böhning-Gaese, K., Buitrón-Jurado, G., Correia, M., Costa, J. M., Dehling, D. M., Donatti, C. I., Emer, C., Galetti, M., Heleno, R., Jordano, P., Menezes, Í., Morante-Filho, J. C., Muñoz, M. C., Neuschulz, E. L., Pizo, M. A., Quitián, M., Ruggera, R. A., Saavedra, F., Santillán, V., Schleuning, M., Pascoal da Silva, L., Ribeiro da Silva, F., Timóteo, S., Traveset, A., Vollstädt, M. G. R. and Tylianakis, J. M. 2021. Global and regional ecological boundaries drive abrupt changes in avian frugivory interactions. – bioRxiv.
@@ -24,7 +25,7 @@ This is a preprint and has not undergone peer review. Interpret findings with ca
 
 ## Publication Details
 
-**Published in:** bioRxiv (Cold Spring Harbor Laboratory)
+**Published in:** bioRxiv (Cold Spring Harbor Laboratory)&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -36,8 +37,6 @@ This is a preprint and has not undergone peer review. Interpret findings with ca
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

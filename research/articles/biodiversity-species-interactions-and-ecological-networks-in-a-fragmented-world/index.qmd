@@ -28,7 +28,7 @@ ecological research/Advances in Ecological Research* 46: 89–120.
 
 ## Publication Details
 
-**Published in:** Advances in ecological research/Advances in Ecological
+**Published in:** Advances in ecological research/Advances in Ecological&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -42,9 +42,6 @@ ecological research/Advances in Ecological Research* 46: 89–120.
 <!-- badges:end -->
 
 Research
-
-
-**Open Access:** Yes
 
 ## Links
 

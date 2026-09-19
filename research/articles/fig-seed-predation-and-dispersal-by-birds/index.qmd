@@ -23,7 +23,7 @@ Pedro Jordano 1983. Fig-Seed Predation and Dispersal by Birds. *Biotropica* 15: 
 
 ## Publication Details
 
-**Published in:** Biotropica
+**Published in:** Biotropica&emsp;&emsp;**Open Access:** Yes
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -35,8 +35,6 @@ Pedro Jordano 1983. Fig-Seed Predation and Dispersal by Birds. *Biotropica* 15: 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <!-- badges:end -->
-
-**Open Access:** Yes
 
 ## Links
 

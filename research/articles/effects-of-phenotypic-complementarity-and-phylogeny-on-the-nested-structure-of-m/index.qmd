@@ -23,7 +23,7 @@ Enrico L. Rezende, Pedro Jordano, Jordi Bascompte 2007. Effects of phenotypic co
 
 ## Publication Details
 
-**Published in:** Oikos
+**Published in:** Oikos&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

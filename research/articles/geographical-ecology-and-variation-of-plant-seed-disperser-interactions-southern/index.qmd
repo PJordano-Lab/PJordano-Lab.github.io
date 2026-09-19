@@ -23,7 +23,7 @@ Pedro Jordano 1993. Geographical ecology and variation of plant-seed disperser i
 
 ## Publication Details
 
-**Published in:** Vegetatio
+**Published in:** Vegetatio&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

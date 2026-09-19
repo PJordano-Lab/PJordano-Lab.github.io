@@ -23,7 +23,7 @@ Eva Moracho, Pedro Jordano, Arndt Hampe 2018. Drivers of tree fecundity in pedun
 
 ## Publication Details
 
-**Published in:** Plant Biology
+**Published in:** Plant Biology&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

@@ -20,7 +20,7 @@ Miranda Sinnott‐Armstrong, Alexander E. Downie, Sarah Federman et al 2018. Glo
 
 ## Publication Details
 
-**Published in:** Global Ecology and Biogeography
+**Published in:** Global Ecology and Biogeography&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}

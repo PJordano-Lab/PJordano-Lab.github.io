@@ -23,7 +23,7 @@ Fernando González‐García, Eduardo Santana-C., Pedro Jordano et al 2017. Diet
 
 ## Publication Details
 
-**Published in:** The Wilson Journal of Ornithology
+**Published in:** The Wilson Journal of Ornithology&emsp;&emsp;**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}
